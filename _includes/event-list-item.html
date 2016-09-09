@@ -1,6 +1,6 @@
 <div class="callout">
-  <h4><a href="{{item.url | prefix site.url }}">{{item.title}}</a></h4>
+  <h4><a href="{{site.url}}/{{item.url}}">{{item.title}}</a></h4>
   <p>{{ item.date | date: '%B %d, %Y' }}{% if item.time %}, {{ item.time }}{% endif %}</p>
   <p>{{ teaser }}</p>
-  <a class="hollow button small" href="{{item.url | prefix: site.url}}">Read More</a>
+  <a class="hollow button small" href="{{site.url}}/{{item.url}}">Read More</a>
 </div>

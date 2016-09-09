@@ -1,0 +1,29 @@
+---
+layout: level-two
+title: Affiliated Organizations
+description:
+keywords: affiliated organizations
+---
+<!-- List of affiliated organizations -->
+{% assign organizations = site.pages | where: 'category', 'affiliated-organization' | sort: 'url' %}
+
+{% for page in organizations %}
+  <div class="row callout">
+    {% if page.logo %}
+    <div class="medium-3 columns">
+      <img src="{{page.logo}}">
+    </div>
+    <div class="small-9 columns">
+      <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+      <p>{{page.content | strip_html  | truncatewords:50 | markdownify }}</p>
+      <a class="hollow button small" href="{{site.url}}{{page.url}}">Read More</a>
+    </div>
+    {% else %}
+    <div class="small-12 columns">
+      <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+      <p>{{page.content | strip_html  | truncatewords:50 | markdownify }}</p>
+      <a class="hollow button small" href="{{page.url}}">Read More</a>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}

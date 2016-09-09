@@ -1,0 +1,31 @@
+---
+layout: level-two
+title: Board of Directors
+description:
+keywords: board of directors
+---
+<!-- List of board members -->
+{% assign board_members = site.pages | where: 'category', 'board-member' | sort: 'sort' %}
+
+{% for page in board_members %}
+  <div class="row callout">
+    {% if page.image %}
+      <div class="medium-3 columns">
+        <img class="round-image" src="{{site.url}}{{page.image}}">
+      </div>
+      <div class="medium-9 columns">
+        <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+        <p>{{page.job-title}}{% if page.job-title %}, {% endif %}{{page.institution}}</p>
+        <p>{{page.content | strip_html  | truncatewords:50 }}</p>
+        <a class="hollow button small" href="{{page.url}}">Read More</a>
+      </div>
+    {% else %}
+      <div class="medium-12 columns">
+        <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+        <p>{{page.job-title}}{% if page.job-title %}, {% endif %}{{page.institution}}</p>
+        <p>{{page.content | strip_html  | truncatewords:50 }}</p>
+        <a class="hollow button small" href="{{page.url}}">Read More</a>
+      </div>
+    {% endif %}
+  </div>
+{% endfor %}

@@ -1,0 +1,24 @@
+{% assign events = site.posts | where: 'category', 'events' %}
+
+{% for item in events %}
+  {% capture teaser %}{% if item.teaser %}{{item.teaser}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
+  {% assign break = forloop.index | modulo:5 %}
+  {% if break == 1 %}
+  {% capture style %}
+    {% if forloop.index > 1 %}
+      style="display:none;"
+    {% endif %}
+  {% endcapture %}
+  <div class="list-group" {{style}}>
+    {% include event-list-item.html %}
+  {% elsif forloop.last %}
+    {% include event-list-item.html %}
+  </div>
+  {% elsif break == 0 %}
+    {% include event-list-item.html %}
+    <button class="float-center show-more button">Show More</button>
+  </div>
+  {% else %}
+    {% include event-list-item.html %}
+  {% endif %}
+{% endfor %}

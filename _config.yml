@@ -1,13 +1,11 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Project
-description : This is the description of my project
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-6-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
+name : Center & Library for the Bible and Social Justice
+brand : CLBSJ
+description : Connecting scholars, students, clergy, activists, and community organizers.
+keyword : bible, justice, library, clbsj
+url :
+author : The Center & Library for the Bible and Social Justice
 year : 2016
+twitter : clbsj
 markdown : kramdown
 exclude :
   - node_modules

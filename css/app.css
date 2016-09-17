@@ -4079,10 +4079,9 @@ h1, h2, h3, h4, h5, h6 {
   clip-path: circle(60px at center);
   min-height: 120px;
   padding-top: 2em; }
-
-.level-two-link p {
-  vertical-align: middle;
-  max-width: 100px; }
+  .level-two-link p {
+    vertical-align: middle;
+    max-width: 100px; }
 
 .round-image {
   -webkit-clip-path: circle(50% at center);
@@ -4093,13 +4092,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .top-bar {
   margin-bottom: 1em;
-  border-bottom: 1px solid #fefefe; }
-
-.top-bar, .top-bar ul, .top-bar ul ul {
+  border-bottom: 1px solid #fefefe;
   background-color: #5b7488; }
-
-.top-bar a {
-  color: #fefefe; }
+  .top-bar ul, .top-bar ul ul {
+    background-color: #5b7488; }
+  .top-bar a {
+    color: #fefefe; }
 
 .menu-text {
   padding: 0; }
@@ -4114,13 +4112,14 @@ footer {
   border-top: 1px solid #fefefe;
   margin-top: 1rem;
   padding-top: 1rem;
-  background-color: #5b7488; }
-
-footer a, footer ul, footer h6 {
+  background-color: #5b7488;
   color: #fefefe; }
-
-footer h6 {
-  margin-bottom: 0; }
+  footer a {
+    color: #fefefe; }
+    footer a:hover {
+      color: #d8d8d8; }
+  footer h6 {
+    margin-bottom: 0; }
 
 .map {
   height: 20em;
@@ -4131,7 +4130,8 @@ footer h6 {
   padding-top: 18%; }
 
 .home-library {
-  background-color: #5b7488; }
+  background-color: #5b7488;
+  h3-color: #fefefe; }
 
 .button.hollow.orange {
   border-color: #FCB040;
@@ -4139,9 +4139,6 @@ footer h6 {
   .button.hollow.orange:hover {
     border-color: #fb9d11;
     color: #fb9d11; }
-
-.home-library h3 {
-  color: #fefefe; }
 
 .home-title hr {
   border-bottom-color: #FCB040; }

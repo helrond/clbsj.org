@@ -37,11 +37,10 @@ h1, h2, h3, h4, h5, h6 {
   clip-path: circle(60px at center);
   min-height: 120px;
   padding-top:2em;
-}
-
-.level-two-link p {
-  vertical-align: middle;
-  max-width: 100px;
+  p {
+    vertical-align: middle;
+    max-width: 100px;
+  }
 }
 
 .round-image {
@@ -55,14 +54,13 @@ h1, h2, h3, h4, h5, h6 {
 .top-bar {
     margin-bottom: 1em;
     border-bottom: 1px solid $white;
-}
-
-.top-bar, .top-bar ul, .top-bar ul ul {
-  background-color: $primary-color;
-}
-
-.top-bar a {
-  color: $white;
+    background-color: $primary-color;
+    ul, ul ul {
+      background-color: $primary-color;
+    }
+    a {
+      color: $white;
+    }
 }
 
 .menu-text {
@@ -81,14 +79,16 @@ footer {
   margin-top: 1rem;
   padding-top: 1rem;
   background-color: $primary-color;
-}
-
-footer a, footer ul, footer h6 {
   color: $white;
-}
-
-footer h6 {
-  margin-bottom: 0;
+  a {
+    color: $white;
+    &:hover {
+      color: scale-color($white, $lightness: -15%);
+    }
+  }
+  h6 {
+    margin-bottom: 0;
+  }
 }
 
 .map {
@@ -103,6 +103,9 @@ footer h6 {
 
 .home-library {
   background-color: $primary-color;
+  h3: {
+    color: $white;
+  }
 }
 
 .button.hollow.orange {
@@ -112,10 +115,6 @@ footer h6 {
     border-color: scale-color($orange, $lightness: -15%);
     color: scale-color($orange, $lightness: -15%);
   }
-}
-
-.home-library h3 {
-  color: $white;
 }
 
 .home-title hr {

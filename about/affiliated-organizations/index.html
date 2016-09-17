@@ -11,18 +11,18 @@ keywords: affiliated organizations
   <div class="row callout">
     {% if page.logo %}
     <div class="medium-3 columns">
-      <img src="{{page.logo}}">
+      <img src="{{site.url}}{{page.logo}}">
     </div>
     <div class="small-9 columns">
-      <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+      <h4><a href="{{site.url}}{{page.url}}">{{page.title}}</a></h4>
       <p>{{page.content | strip_html  | truncatewords:50 | markdownify }}</p>
       <a class="hollow button small" href="{{site.url}}{{page.url}}">Read More</a>
     </div>
     {% else %}
     <div class="small-12 columns">
-      <h4><a href="{{page.url}}">{{page.title}}</a></h4>
+      <h4><a href="{{site.url}}{{page.url}}">{{page.title}}</a></h4>
       <p>{{page.content | strip_html  | truncatewords:50 | markdownify }}</p>
-      <a class="hollow button small" href="{{page.url}}">Read More</a>
+      <a class="hollow button small" href="{{site.url}}{{page.url}}">Read More</a>
     </div>
     {% endif %}
   </div>

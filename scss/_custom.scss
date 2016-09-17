@@ -31,26 +31,45 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 1em;
 }
 
-.level-two-link {
+.outside.level-two-link {
+  position: relative;
+  min-height:8rem;
+	background-color: $primary-color;
   clip-path: circle(4rem at center);
-  min-height: 8rem;
-  padding-top:2rem;
-  font-weight: bold;
-  color: $white;
-  background-color: $primary-color;
   &:hover {
-    color: scale-color($white, $lightness: -15%);
-    background-color: scale-color($primary-color, $lightness: -15%);
-  }
-  p {
-    vertical-align: middle;
-    max-width: 6rem;
+    // background-color: scale-color($primary-color, $lightness: -15%);
+    background-color: $orange;
   }
   @media #{$large-up} {
     clip-path: circle(6rem at center);
     min-height: 12rem;
     padding-top: 4rem;
   }
+}
+
+.inside.level-two-link {
+  position: absolute;
+  top: .2rem;
+  left: .2rem;
+  right: .2rem;
+  bottom: .2rem;
+  background: $light-gray;
+  padding-top:2rem;
+  clip-path: circle(3.8rem at center);
+  p {
+    max-width: 6rem;
+  }
+  @media #{$large-up} {
+    clip-path: circle(5.8rem at center);
+    min-height: 12rem;
+    padding-top: 3.8rem;
+    top:0;
+    p {
+      max-width: 8rem;
+      font-size: 1.2rem;
+    }
+  }
+
 }
 
 .round-image {

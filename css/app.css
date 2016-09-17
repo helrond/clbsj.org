@@ -4073,26 +4073,43 @@ h1, h2, h3, h4, h5, h6 {
   height: 3.5em;
   padding-top: 1em; }
 
-.level-two-link {
-  -webkit-clip-path: circle(4rem at center);
-          clip-path: circle(4rem at center);
+.outside.level-two-link {
+  position: relative;
   min-height: 8rem;
-  padding-top: 2rem;
-  font-weight: bold;
-  color: #fefefe;
-  background-color: #5b7488; }
-  .level-two-link:hover {
-    color: #d8d8d8;
-    background-color: #4d6374; }
-  .level-two-link p {
-    vertical-align: middle;
-    max-width: 6rem; }
+  background-color: #5b7488;
+  -webkit-clip-path: circle(4rem at center);
+          clip-path: circle(4rem at center); }
+  .outside.level-two-link:hover {
+    background-color: #FCB040; }
   @media screen and (min-width: 64em) {
-    .level-two-link {
+    .outside.level-two-link {
       -webkit-clip-path: circle(6rem at center);
               clip-path: circle(6rem at center);
       min-height: 12rem;
       padding-top: 4rem; } }
+
+.inside.level-two-link {
+  position: absolute;
+  top: .2rem;
+  left: .2rem;
+  right: .2rem;
+  bottom: .2rem;
+  background: #f4f4f4;
+  padding-top: 2rem;
+  -webkit-clip-path: circle(3.8rem at center);
+          clip-path: circle(3.8rem at center); }
+  .inside.level-two-link p {
+    max-width: 6rem; }
+  @media screen and (min-width: 64em) {
+    .inside.level-two-link {
+      -webkit-clip-path: circle(5.8rem at center);
+              clip-path: circle(5.8rem at center);
+      min-height: 12rem;
+      padding-top: 3.8rem;
+      top: 0; }
+      .inside.level-two-link p {
+        max-width: 8rem;
+        font-size: 1.2rem; } }
 
 .round-image {
   -webkit-clip-path: circle(50% at center);

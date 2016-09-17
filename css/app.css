@@ -4123,7 +4123,6 @@ footer h6 {
   margin-bottom: 0; }
 
 .map {
-  background-color: #f4f4f4;
   height: 20em;
   width: 100%; }
 
@@ -4134,9 +4133,12 @@ footer h6 {
 .home-library {
   background-color: #5b7488; }
 
-.home-library .button.hollow {
+.button.hollow.orange {
   border-color: #FCB040;
   color: #FCB040; }
+  .button.hollow.orange:hover {
+    border-color: #fb9d11;
+    color: #fb9d11; }
 
 .home-library h3 {
   color: #fefefe; }

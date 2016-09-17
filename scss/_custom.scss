@@ -32,14 +32,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .level-two-link {
-  background-color: $light-gray;
-  -webkit-clip-path: circle(60px at center);
-  clip-path: circle(60px at center);
-  min-height: 120px;
-  padding-top:2em;
+  clip-path: circle(4rem at center);
+  min-height: 8rem;
+  padding-top:2rem;
+  font-weight: bold;
+  color: $white;
+  background-color: $primary-color;
+  &:hover {
+    color: scale-color($white, $lightness: -15%);
+    background-color: scale-color($primary-color, $lightness: -15%);
+  }
   p {
     vertical-align: middle;
-    max-width: 100px;
+    max-width: 6rem;
+  }
+  @media #{$large-up} {
+    clip-path: circle(6rem at center);
+    min-height: 12rem;
+    padding-top: 4rem;
   }
 }
 

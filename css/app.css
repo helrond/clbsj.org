@@ -4074,14 +4074,25 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 1em; }
 
 .level-two-link {
-  background-color: #f4f4f4;
-  -webkit-clip-path: circle(60px at center);
-  clip-path: circle(60px at center);
-  min-height: 120px;
-  padding-top: 2em; }
+  -webkit-clip-path: circle(4rem at center);
+          clip-path: circle(4rem at center);
+  min-height: 8rem;
+  padding-top: 2rem;
+  font-weight: bold;
+  color: #fefefe;
+  background-color: #5b7488; }
+  .level-two-link:hover {
+    color: #d8d8d8;
+    background-color: #4d6374; }
   .level-two-link p {
     vertical-align: middle;
-    max-width: 100px; }
+    max-width: 6rem; }
+  @media screen and (min-width: 64em) {
+    .level-two-link {
+      -webkit-clip-path: circle(6rem at center);
+              clip-path: circle(6rem at center);
+      min-height: 12rem;
+      padding-top: 4rem; } }
 
 .round-image {
   -webkit-clip-path: circle(50% at center);

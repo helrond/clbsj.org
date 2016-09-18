@@ -4104,7 +4104,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-clip-path: circle(2.8rem at center);
           clip-path: circle(2.8rem at center); }
   .inside.level-two-link p {
-    max-width: 6rem;
+    max-width: 5rem;
     font-size: .8rem; }
   @media screen and (min-width: 40em) {
     .inside.level-two-link {
@@ -4112,6 +4112,7 @@ h1, h2, h3, h4, h5, h6 {
               clip-path: circle(3.8rem at center);
       padding-top: 2rem; }
       .inside.level-two-link p {
+        max-width: 6rem;
         font-size: 1rem; } }
   @media screen and (min-width: 64em) {
     .inside.level-two-link {

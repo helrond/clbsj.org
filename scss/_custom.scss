@@ -26,9 +26,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .image-title {
-  background-color: $light-gray;
-  height: 3.5em;
-  padding-top: 1em;
+  color: $white;
+  height: 6em;
+  padding-top: 2em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-shadow: 0 0 1em $black;
 }
 
 .outside.level-two-link {
@@ -158,6 +161,13 @@ footer {
   }
 }
 
-.home-title hr {
-  border-bottom-color: $orange
+.home-title {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-shadow: 0 0 1em $black;
+  color: $white;
+  hr {
+    border-bottom-color: $orange
+  }
 }

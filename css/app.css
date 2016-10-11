@@ -4069,9 +4069,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 80%; }
 
 .image-title {
-  background-color: #f4f4f4;
-  height: 3.5em;
-  padding-top: 1em; }
+  color: #fefefe;
+  height: 6em;
+  padding-top: 2em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-shadow: 0 0 1em #0a0a0a; }
 
 .outside.level-two-link {
   position: relative;
@@ -4182,5 +4185,11 @@ footer {
     border-color: #fb9d11;
     color: #fb9d11; }
 
-.home-title hr {
-  border-bottom-color: #FCB040; }
+.home-title {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-shadow: 0 0 1em #0a0a0a;
+  color: #fefefe; }
+  .home-title hr {
+    border-bottom-color: #FCB040; }

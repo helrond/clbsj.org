@@ -21,7 +21,7 @@ Bible study is not just about the head and the hands. It’s also about the feet
 
 As a person connected to the Center and Library for the Bible and Social Justice (CLBSJ) and committed to work with grassroots organizations to develop liberating readings of the Bible, I was recently invited to participate in a Contextual Bible Study (CBS) workshop in Bogotá, Columbia. CBS is a methodology committed to reading the Bible in community for individual and structural transformation by privileging the perspectives, voices and experiences of the poor and marginalized.
 
-![casa de dona alicia]({{ site.url }}/img/CASA-DE-DOÑA-ALICIA-2.jpeg)
+![casa de dona alicia]({{ site.url }}/img/CASA-DE-DONA-ALICIA-2.jpeg)
 
 This workshop was organized by the Glocal Network on Contextual Bible Reading, a project sponsored by the [Ujamaa Center](http://ujamaa.ukzn.ac.za/) in South Africa, the [Centro de Estudos Bíblicos](http://www.cebi.org.br/) in Brazil, [Kirk in Actie](http://www.kerkinactie.nl/) in the Netherlands and the Intercultural Bible Project at the Pontificia Universidad de Javeriana in Columbia. Its purpose was to identify CBS resources globally, as well as to equip the participants to implement CBS and train others to use it resources locally.
 

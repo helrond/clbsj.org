@@ -17,4 +17,4 @@ Compiled and Annotated by Laurel Dykstra. This is not a definitive list but a li
 *   _Movement Building:_ We emphasize scholars who are connected to communities working for change.
 *   _Inspiration:_ We include books that Christians working for justice recommended because they changed how they thought and acted.
 
-[Download PDF](Top-100-Books-on-the-Bible-and-Social-Justice.pdf) (182 KB)
+[Download PDF]({{site.url}}/resources/Top-100-Books-on-the-Bible-and-Social-Justice.pdf) (182 KB)

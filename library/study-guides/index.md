@@ -20,4 +20,5 @@ This is not a definitive list but a live, working document compiled by the membe
 *   _Inspiration:_ We include books that Christians working for justice recommended because they changed how they thought and acted.
 
 [Download PDF]({{site.url}}/resources/Top-100-Books-on-the-Bible-and-Social-Justice.pdf) (182 KB)
+
 [View on Zotero](https://www.zotero.org/groups/center_and_library_for_the_bible_and_social_justice/items/collectionKey/EM72TKQU)

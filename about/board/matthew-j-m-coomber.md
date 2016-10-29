@@ -5,7 +5,7 @@ sort: coomber
 description: Matthew J. M. Coomber is an Assistant Professor of Theology in biblical studies at St. Ambrose University and an Episcopal priest.
 keywords: matthew j m coomber
 category: board-member
-job-title: Assistant Professor of Theology
+job-title: Associate Professor of Biblical Studies
 institution: St. Ambrose University
 image: "/img/board/coomber.jpg"
 publications:
@@ -41,4 +41,4 @@ websites:
     title: "Academia.edu Page, Access to some of Coomber’s articles"
     url: "http://www.sau.edu/Academic_Programs/Theology/Faculty/Coomber_Matthew_JM.html"
 ---
-Matthew J.M. Coomber is an Associate Professor of Biblical Studies at St. Ambrose University and an Episcopal priest. He has served as an activist in various roles, including faith leader, organizer, street medic, and as an organizer of international conferences on Bible and justice. His primary areas of research focus on how biblical texts on poverty and economic exploitation can serve as a lens through which to call out and confront injustice in our time.
+Matthew J.M. Coomber is a professor of biblical studies and an Episcopal priest. He has served as an activist in various roles, including faith leader, educator, street medic, and as an organizer/director of international conferences on Bible and social justice. His primary focus of research is on how biblical texts addressing poverty and economic exploitation can serve as a lens through which to call out and confront injustice in our time.

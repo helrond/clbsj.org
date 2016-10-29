@@ -7,5 +7,6 @@ author : The Center & Library for the Bible and Social Justice
 year : 2016
 twitter : clbsj
 markdown : kramdown
+permalink: pretty
 exclude :
   - node_modules

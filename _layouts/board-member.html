@@ -21,7 +21,11 @@ layout: default
       <ul class="resources no-bullet">
         {% for publication in page.publications %}
           {% assign p = publication[1] %}
-          <li><a href="{{p.url}}">{{p.title}}</a></li>
+          {% if p.url %}
+            <li><a href="{{p.url}}">{{p.title}}</a></li>
+          {% else %}
+            <li>{{p.title}}</li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>

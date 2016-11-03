@@ -1,5 +1,5 @@
 ---
-title: Rev. Osagyefo Sekou
+title: Birmingham and the Bible with Rev. Osagyefo Sekou
 date: 2013-10-30
 author:  Matthew Johnstone
 layout: news-item

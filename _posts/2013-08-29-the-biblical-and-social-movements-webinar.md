@@ -18,5 +18,3 @@ Bartimaeus Cooperative Ministries has made a webinar, recorded on July 20<sup>th
 *   This webinar is about one and a half hours long
 
 You can purchase other BCM webinar programs here: [http://www.chedmyers.org/webinars](http://www.chedmyers.org/webinars)
-
-Thank you for supporting the CLBSJ!

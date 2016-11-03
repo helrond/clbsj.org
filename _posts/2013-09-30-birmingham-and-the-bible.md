@@ -34,8 +34,6 @@ Dr. Jones-Nelson completed her Ph.D. in Divinity at the University of St. Andrew
 
 Dr. R. Douglas Bendall is the founder and president of <a href="http://www.newarkschooloftheology.org/">The Newark School of Theology</a>, Newark, New Jersey, which promotes social justice and the development of congregations by providing educational opportunities to students in low income communities.
 
-We hope that you will join us for this remarkable event! You can register for the seminar through the Stony Point Center website [here](http://stonypointcenter.org/birmingham-bible?eventId=23&controller=event&task=individualRegister).
-
 If you're interested in helping us publicize this event, feel free to download and print out our flyer here, as well! [CLBSJ Autumn Seminar](/resources/flyer-CLBSJ-Autumn-Seminar-Update.pdf)
 
 This event is co-sponsored by
@@ -44,3 +42,31 @@ This event is co-sponsored by
 *   Word and World
 *   Stony Point Center
 *   Newark School of Theology
+
+## Program
+
+WHITE PRIVILEGE, WHITE GUILT AND AUTHENTIC RELATIONSHIP IN 21st CENTURY ORGANIZING
+
+<a class="button tiny hollow" href="http://youtu.be/_NhGCRVzb2s">Video</a>
+
+PROPHETIC WITNESS, THE BIBLICAL NARRATIVE AND OPPRESSED IDENTITY
+
+<a class="button tiny hollow" href="http://youtu.be/o3IFhpEOV2g">Video</a>
+
+THE BLACK PROPHETIC TRADITION AND THE BIBLICAL NARRATIVE
+
+<a class="button tiny hollow" href="http://youtu.be/0VRqLeEBFAY">Video</a>
+
+LETTER FROM A BIRMINGHAM JAIL AND THE THEOLOGY OF VIRTUOUS (DIS)OBEDIENCE
+
+<a class="button tiny hollow" href="http://youtu.be/x3EuIEl9HCo">Video</a>
+
+THE FREEDOM HERMENEUTIC AND “DOING” THEOLOGY
+
+You Tube Link: <http://youtu.be/ICJ_9jNk8DA">Video</a>
+
+CORETTA’S LOVE LETTERS AND THE DEMOCRATIC SOCIALIST TRADITION
+
+<a class="button tiny hollow" href="a href="http://youtu.be/lO93wRPjhkw">Video</a>
+
+See also the [Communication Director's Report]({{site.url/posts/2013-11-06-birmingham-and-the-bible-at-the-stony-point-center-communications-directors-report}})

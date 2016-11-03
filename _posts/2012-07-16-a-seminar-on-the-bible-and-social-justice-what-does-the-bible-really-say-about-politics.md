@@ -10,6 +10,8 @@ location: 17 Cricketown Road, Stony Point, NY
 
 _The Old Testament and Politics_
 
+<a class="button tiny hollow"http://www.ustream.tv/user/clbsj">Video</a>
+
 10:00 AM – 12:00 noon
 
 ### Dr. Obery Hendricks
@@ -17,9 +19,3 @@ _The Old Testament and Politics_
 _The New Testament and Politics_
 
 1:30 PM – 3:30 PM
-
-Registration $ 25.00
-
-Lunch $ 10.00
-
-Some rooms available Friday evening for overnight stay. For information, reservations, and directions contact [programs@stonypointcenter.org](mailto:programs@stonypointcenter.org).

@@ -233,7 +233,7 @@ Mithika Mwenda, from Kenya, is Secretary General of the Pan African Climate Just
                 </td>
 
                 <td valign="top" width="424">
-                  Spelman CollegeInternational Studies Center
+                  Spelman College International Studies Center
                 </td>
               </tr>
             </tbody>

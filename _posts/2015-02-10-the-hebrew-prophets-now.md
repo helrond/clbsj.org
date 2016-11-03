@@ -13,10 +13,10 @@ _Plenary by Walter Brueggemann_
 
 We live in a world in which market forces and the socio-political structures they create present themselves as the only viable system, silencing all alternative conversations. Dr. Brueggemann analyzes how the prophets broke through the domineering structures of their day to bring a message of judgment and hope. Dr. Brueggemann applies the lessons of the prophets to the challenges of our day.
 
-View recording online at [https://www.youtube.com/watch?v=MxV6l12v8uQ](https://www.youtube.com/watch?v=MxV6l12v8uQ)
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=MxV6l12v8uQ">Video</a>
 
 ## The Hebrew Prophets Now!
 
 _Plenary by Rabbi Nahum Ward-Lev_
 
-View recording online at [https://www.youtube.com/watch?v=1Sxic3opgiY](https://www.youtube.com/watch?v=1Sxic3opgiY)
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=1Sxic3opgiY">Video</a>

@@ -7,19 +7,13 @@ category: events
 ---
 ![wwjd]({{ site.url }}/img/wwjd-e1429543946601.jpg)
 
-**A weekend workshop of the Network of Biblical Storytellers, Int’l & The Center and Library for the Bible and Social Justice @ SPC**
+**A weekend workshop of the Network of Biblical Storytellers, International & The Center and Library for the Bible and Social Justice**
 
-The purpose of this weekend workshop will be to explore the learning and telling of the stories of Jesus, the Messiah of peace, as a strategy for social justice and peacemaking in the global community of the 21<sup>st</sup> century. On the occasion of the publication of Tom Boomershine’s _The Messiah of Peace,_ this workshop will lay the foundations for a new paradigm of biblical interpretation based on the rediscovery of the Bible as performance literature shared in community and in social action. Building on the work of Walter Wink, this workshop will seek to rediscover the power of religious communities that “engage the powers” through non-violent resistance to the myth of warfare and dominance as the way to peace. A theory underlying this workshop is that we need to build a new framework for biblical interpretation and the communication of the Gospel of peace in the communication culture of the digital age.
+The purpose of this weekend workshop will be to explore the learning and telling of the stories of Jesus, the Messiah of peace, as a strategy for social justice and peacemaking in the global community of the 21st century. On the occasion of the publication of Tom Boomershine’s _The Messiah of Peace,_ this workshop will lay the foundations for a new paradigm of biblical interpretation based on the rediscovery of the Bible as performance literature shared in community and in social action. Building on the work of Walter Wink, this workshop will seek to rediscover the power of religious communities that “engage the powers” through non-violent resistance to the myth of warfare and dominance as the way to peace. A theory underlying this workshop is that we need to build a new framework for biblical interpretation and the communication of the Gospel of peace in the communication culture of the digital age.
 
-Conference begins at 4:00 p.m. Friday May 29th with Registration and Dinner, and ends after lunch on Sunday May 31<sup>st</sup>.
+Conference begins at 4:00 p.m. Friday May 29th with Registration and Dinner, and ends after lunch on Sunday May 31st.
 
-$240 Double Occupancy  $340 Single (2 nights, 6 meals)
-
-$165 (1 night, 4 meals)
-
-Register [on-line](http://stonypointcenter.org/events-retreats/upcoming-events#.VQhGA44w2ec)
-
-Featured Storyteller & Associates: Tom Boomershine: [http://tomboomershine.org/](http://tomboomershine.org/)
+Featured Storyteller & Associates: [Tom Boomershine](http://tomboomershine.org/) of [Go Tell](http://www.gotell.org)
 
 The weekend will begin with a biblical storytelling workshop on the story of Jesus’ "cleansing" of the Temple. We will learn and tell this story of Jesus’ climactic non-violent demonstration in defense of the Temple as a place of prayer for all the nations, Israel and her Gentile enemies. This story will be the entry into an in-depth exploration of Mark’s passion/resurrection narrative, the central story for the "peace" community of Israelites and Gentiles who followed Jesus as the Christ in the aftermath of the Judean-Roman war.
 
@@ -33,4 +27,30 @@ In our wider communities, the model of the composers of the Bible suggests that 
 
 This workshop is a new venture, and approach that has not been tried before. All persons who are interested in new research in the interaction between the Bible and movements for social justice and peace are invited to participate in this venture.
 
-Sign up for continuing announcements at [www.clbsj.org](http://www.clbsj.org)
+![Tom Boomershine, Laura and Norman Gottwald]({{ site.url }}/img/Tom-Boomershine-Laura-and-Norman-Gottwald.jpg)
+
+## Program
+
+Friday, May 29th Afternoon Invitation: 4 P.M. with Tom Boomershine and Norman Gottwald
+
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=A9wRImL4Hq8">Video</a>
+
+Friday Evening: Post-War Mark: Doing Good for Your Enemy (The Anointing in Bethany) 9:15 – 10:00 P.M. Presentation by Tom Boomershine CLBSJ/LTS-Studio
+
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=wweolUNqVcE">Video</a>
+
+Saturday Morning: The Rhetoric of Implication (Peter’s Denial) 10:15 A.M. – 12:00 P.M. Presentation by Tom Boomershine CLBSJ/LTS-Studio
+
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=mom5kwfUQ90">Video</a>
+
+Saturday Afternoon: The Myth of Redemptive Violence and the Gospel of Redemptive Nonviolence (The Pilate Trial) 3:15 P.M. – 5:00 P.M. Presentation by Tom Boomershine CLBSJ/LTS-Studio
+
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=gahXx5VZ_o8">Video</a>
+
+Saturday Evening: Storytelling – Techniques and Mental Processes 7:30 – 9:00 P.M.
+
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=GGAaZgbDMvY">Video</a>
+
+Sunday Morning: Biblical Performance Criticism: A New Paradigm for Biblical Interpretation (The Resurrection Story) 10:15 – 11:00 A.M. Presentation by Tom Boomershine CLBSJ/LTS-Studio
+
+<a class="button tiny hollow" href="https://www.youtube.com/watch?v=CZfrof5otEg">Video</a>

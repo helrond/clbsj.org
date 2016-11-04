@@ -40,7 +40,7 @@ Acknowledgement of Territory (Chief Dwaine Perry) (The Ramapough Lunaape Nation)
 
 Opening Plenary; The Work of Justice in Our Time (Jennifer Henry and Rick Ufford-Chase)  
 <a class="button tiny" href="https://www.youtube.com/watch?v=RUgp1aN07bA">Video</a>
-<a class="button tiny secondary" href="{{site.url}}/resources/henry-plenary.pdf">Text</a> 
+<a class="button tiny secondary" href="{{site.url}}/resources/henry-plenary.pdf">Text</a>
 <a class="button tiny" href="https://www.youtube.com/watch?v=0MXdmt0gtfo">Video</a>
 
 ### Friday, October 21
@@ -76,6 +76,8 @@ Celebration of the Life, Work and Legacy of Walter Wink (Bill Wylie-Kellermann a
 #### Workshops: Creative Powers for Justice
 
 Archives as Sites of Resistance, Liberation and Creativity (Hillel Arnold)
+<a class="button tiny secondary" href="http://hillelarnold.com/blog/2016/10/archives-as-sites-of-resistance-liberation-and-creativity/">Text</a>
+<a class="button tiny secondary" href="http://hillelarnold.com/clbsj-archives/">Slides</a>
 
 Engaging the Bible for Indigenous Justice (Jennifer Henry)  
 <a class="button tiny " href="https://www.youtube.com/watch?v=4GWLqzLUrDM">Video</a>

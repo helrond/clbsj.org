@@ -19,22 +19,27 @@ prose :
         field:
           element: "text"
           label: "title"
+        label: "Title"
       - name: "date"
         field:
           element: "text"
           value: CURRENT_DATETIME
+          label: "Date"
           help: "For news items, enter the current date, or for events, enter the event start date in the format YYYY-DD-MM"
       - name: "author"
         field:
           element: "text"
+          label: "Author"
           help: "Enter your name here"
       - name: "location"
         field:
           element: "text"
+          label: "Location"
           help: "For events, enter the name or street address of a location"
       - name: "teaser"
         field:
           element: "text"
+          label: "Teaser"
           help: "Enter a short description of the news item or event"
       - name: "category"
         field:
@@ -44,6 +49,8 @@ prose :
               value: "news"
             - name: "Event"
               value: "events"
+          label: "Category"
+          help: "For news items, choose News Item, for events, choose Event"
       - name: "layout"
         field:
           element: "select"
@@ -52,6 +59,7 @@ prose :
               value: "news-item"
             - name: "Event"
               value: "event"
+          label: "Layout"
           help: "For news items, choose News Item, for events, choose Event"
       - name: "tags"
         field:
@@ -64,4 +72,5 @@ prose :
               value: "justice"
             - name: "Library"
               value: "library"
+          label: "Tags"
           help: "Add relevant tags"

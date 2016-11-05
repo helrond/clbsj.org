@@ -10,3 +10,58 @@ markdown : kramdown
 permalink: pretty
 exclude :
   - node_modules
+prose :
+  siteurl: 'http://clbsj.org'
+  ignore: ['_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js', 'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'robots.txt']
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+          help: "For news items, enter the current date, or for events, enter the event start date in the format YYYY-DD-MM"
+      - name: "author"
+        field:
+          element: "text"
+          help: "Enter your name here"
+      - name: "location"
+        field:
+          element: "text"
+          help: "For events, enter the name or street address of a location"
+      - name: "teaser"
+        field:
+          element: "text"
+          help: "Enter a short description of the news item or event"
+      - name: "category"
+        field:
+          element: "select"
+          options:
+            - name: "News Item"
+              value: "news"
+            - name: "Event"
+              value: "events"
+      - name: "layout"
+        field:
+          element: "select"
+          options:
+            - name: "News Item"
+              value: "news-item"
+            - name: "Event"
+              value: "event"
+          help: "For news items, choose News Item, for events, choose Event"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          alterable: true
+          options:
+            - name: "Bible"
+              value: "bible"
+            - name: "Justice"
+              value: "justice"
+            - name: "Library"
+              value: "library"
+          help: "Add relevant tags"

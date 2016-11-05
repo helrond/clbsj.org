@@ -59,7 +59,10 @@ The Community of Living Traditions – The Model and the Practice (Panel of CLT 
 
 The Project of Nonviolence in Islam (Rabia Harris)
 
-Demonstration of “The Context Group”: Social Justice in Deuteronomy 15 (Jack Elliott and Norman Gottwald)
+The Evil Eye (Jack Elliott)  
+<a class="button tiny secondary" href="{{site.url}}/resources/elliott-evil-eye.pdf">Text</a>
+
+Abusing the Bible: The Case of Deuteronomy 15 (Norman Gottwald)
 
 Demonstration of Contextual Bible Study: Social Justice in Mark 12:38-44 (Matthew Coomber and Crystal Hall)  
 <a class="button tiny " href="https://www.youtube.com/watch?v=hc5gRED9LVY">Video</a>

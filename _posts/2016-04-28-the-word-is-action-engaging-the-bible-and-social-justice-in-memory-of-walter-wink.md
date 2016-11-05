@@ -78,7 +78,7 @@ Celebration of the Life, Work and Legacy of Walter Wink (Bill Wylie-Kellermann a
 
 #### Workshops: Creative Powers for Justice
 
-Archives as Sites of Resistance, Liberation and Creativity (Hillel Arnold)
+Archives as Sites of Resistance, Liberation and Creativity (Hillel Arnold)  
 <a class="button tiny secondary" href="http://hillelarnold.com/blog/2016/10/archives-as-sites-of-resistance-liberation-and-creativity/">Text</a>
 <a class="button tiny secondary" href="http://hillelarnold.com/clbsj-archives/">Slides</a>
 

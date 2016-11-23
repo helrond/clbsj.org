@@ -1,7 +1,7 @@
 ---
 title: "Standing Rock #NoDAPL.  It’s not so complicated.  But it is complex."
 date: 2016-11-23
-author: "Mark C. Johnson, Executive Director, The Center and Library for the Bible and Social Justice\nUN Representative, International Fellowship of Reconciliation, New York\nMember of The Community of Living Traditions, Stony Point Center, Stony Point, New York"
+author: "Mark C. Johnson, Executive Director, The Center and Library for the Bible and Social Justice\n\n\nUN Representative, International Fellowship of Reconciliation, New York\n\n\nMember of The Community of Living Traditions, Stony Point Center, Stony Point, New York"
 layout: news-item
 category: news
 teaser: Reflections on November 11-19, 2016 Destination Standing Rock North Dakota Oceti Sakowin.

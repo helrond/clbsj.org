@@ -1,6 +1,6 @@
 {% capture meta_description %}{% if page.description %}{{page.description}}{% else %}{{page.content | markdownify | strip_html  | truncatewords:50 }}{% endif %}{% endcapture %}
-{% capture first_image %}{% assign foundImage = 0 %}{% assign images = page.content | split:"![" %}{% for image in images %}{% if image contains '(' %}{% if foundImage == 0 %}{{ image | split:")" | first | split: "/" | last }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
-{% capture meta_image %}{% if page.image %}{{site.url}}/img/{{page.image}}{% elsif first_image %}{{site.url}}/img/{{first_image}}{% else %}{{site.url}}/img/clbsjlogo-lg.png{% endif %}{% endcapture %}
+{% capture first_image %}{% assign foundImage = 0 %}{% assign images = page.content | markdownify | split:'<img ' %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{{ image | split: "alt=" | first | split: '/' | last }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
+{% capture meta_image %}{% if page.image %}{{site.url}}/img/{{page.image}}{% elsif first_image != '' %}{{site.url}}/img/{{first_image}}{% else %}{{site.url}}/img/clbsjlogo-lg.png{% endif %}{% endcapture %}
 
 <head>
   <meta charset="utf-8">

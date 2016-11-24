@@ -1,7 +1,7 @@
 {% assign news = site.posts | where: 'category', 'news' %}
 
 {% for item in news %}
-  {% capture teaser %}{% if item.teaser %}{{item.teaser}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
+  {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
   {% assign break = forloop.index | modulo:5 %}
   {% capture style %}
     {% if forloop.index > 1 %}

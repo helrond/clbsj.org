@@ -1,7 +1,7 @@
 name : Center & Library for the Bible and Social Justice
 brand : CLBSJ
 description : Connecting scholars, students, clergy, activists, and community organizers.
-keyword : bible, justice, library, clbsj
+keywords : bible, justice, library, clbsj
 url : http://clbsj.org
 author : The Center & Library for the Bible and Social Justice
 year : 2016
@@ -36,10 +36,10 @@ prose :
           element: "text"
           label: "Location"
           help: "For events, enter the name or street address of a location"
-      - name: "teaser"
+      - name: "description"
         field:
           element: "text"
-          label: "Teaser"
+          label: "Description"
           help: "Enter a short description of the news item or event"
       - name: "category"
         field:

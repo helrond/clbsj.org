@@ -2,7 +2,7 @@
 date: '2017-10-25 12:00 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: 'Director, Center and Library for the Bible and Social Justice'
 description: >-
   The Board of the Center and Library for the Bible and Social Justice seeks a
@@ -23,17 +23,18 @@ The Board of the Center and Library for the Bible and Social Justice seeks a ¼ 
 Stony Point Center is a 90 Guestroom conference facility in the lower Hudson Valley (35 miles north of NYC) with growing ties to the broader, multifaith movement for justice, peace and earth care. It is the home of the Community of Living Traditions, a residential multifaith community of persons who represent the traditions of Judaism, Christianity, and Islam. During the years of Mark Johnson’s tenure as Executive Director (2014 – 2017), a collaborative partnership has developed between the two organizations that shows great promise for the development of the program of CLBSJ. 
 
 **Responsibilities**: The work of the Executive Director is to maintain and develop the library and programs of CLBSJ, emphasizing the following responsibilities:
--To recruit and support volunteers to maintain the library and welcome visiting scholars and activists, and sustain a modest office in the library itself to carry out the correspondence and business of the organization.
--To lead the board of directors in program development and fundraising efforts including:
-	-Grassroots appeal to individual donors
-	-Grant Proposals to sympathetic foundations and organizations
--To foster relationships with scholar/activists who will:
-	-use the library as theologians in residence, 
-	-lead conferences and workshops on the intersection between faith, theological scholarship and activism
-	-participate in collaborative writing projects
--To develop and implement an effective communications strategy, including website content management
--To represent the CLBSJ in public gatherings from grassroots actions to scholarly conferences
--Manage the development and implementation of Scholar/Activist in Residence program 
+
+- To recruit and support volunteers to maintain the library and welcome visiting scholars and activists, and sustain a modest office in the library itself to carry out the correspondence and business of the organization.
+- To lead the board of directors in program development and fundraising efforts including:
+	- Grassroots appeal to individual donors
+	- Grant Proposals to sympathetic foundations and organizations
+- To foster relationships with scholar/activists who will:
+	- use the library as theologians in residence, 
+	- lead conferences and workshops on the intersection between faith, theological scholarship and activism
+	- participate in collaborative writing projects
+- To develop and implement an effective communications strategy, including website content management
+- To represent the CLBSJ in public gatherings from grassroots actions to scholarly conferences
+- Manage the development and implementation of Scholar/Activist in Residence program 
 
 **The Opportunity**: This is a part-time position (currently 10-12 hours/week) and requires residence within commuting distance of the Center and Library. Depending on successful fundraising, the job could grow into a half time or full time position. 
 
@@ -46,10 +47,10 @@ This position offers a unique opportunity to organize a biblically grounded resi
 **Supervision**:  The Director will be responsible to CLBSJ board, with the expectation that he or she will provide short (but complete) reports each month with a description of all progress made on the various projects for which he or she is responsible. The Board is geographically dispersed and meets every two months by conference call.
 
 **Qualifications**: 
--Demonstrated facility with Christian theology and/or biblical studies
--Demonstrated history as an activist in social justice/peacemaking movements
--Strong organizational leadership ability and capability to set goals and accomplish tasks within an established timeline
--Strong written and verbal communication skills
+- Demonstrated facility with Christian theology and/or biblical studies
+- Demonstrated history as an activist in social justice/peacemaking movements
+- Strong organizational leadership ability and capability to set goals and accomplish tasks within an established timeline
+- Strong written and verbal communication skills
 
 CLBSJ welcomes all persons to apply, including persons of color, persons with disabilities, and those of any sexual orientation, gender, and age. We will give preference to those of non-dominant economic, gender and racial backgrounds
 

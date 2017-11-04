@@ -1,11 +1,15 @@
 ---
 layout: level-two
-title: Study Guides
-description:
-keywords: study guides
+title: Study Guides and Reviews
+description: null
+keywords: 'study guides, reviews'
+published: true
 ---
+## Study Guides
 
-## The  Top 100 Books on the Bible and Social Justice
+Study guides based on books in the collection of the Center and Library for the Bible and Social Justice.
+
+### The Top 100 Books on the Bible and Social Justice
 
 #### Recommended by the Center and Library for the Bible and Social Justice
 
@@ -25,3 +29,15 @@ This is not a definitive list but a live, working document compiled by the membe
     <li><a href="https://www.zotero.org/groups/center_and_library_for_the_bible_and_social_justice/items/collectionKey/EM72TKQU">View on Zotero</a></li>
   </ul>
 </div>
+
+## Reviews
+
+Reviews of individual volumes from the collection of the Center and Library for the Bible and Social Justice.
+
+### From the Stacks: Educating for Social Activism
+
+#### by Amy Dalton and Norman Gottwald
+
+It is amazing what this "little" book accomplishes in 67 pages! The author, a theological educator in New Zealand, sets forth the essential ingredients of justice as commonly understood (distribution, power, equity and rights), preparatory to a comprehensive account of justice as a central theme of the Bible.
+
+<a class="hollow button small" href="https://stonypointcenter.org/get-involved/latest-news/11-latest-news/292-from-the-stacks-educating-for-social-activism">Read More</a>

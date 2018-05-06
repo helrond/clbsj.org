@@ -2,7 +2,7 @@ name : Center & Library for the Bible and Social Justice
 brand : CLBSJ
 description : Connecting scholars, students, clergy, activists, and community organizers.
 keywords : bible, justice, library, clbsj
-url : http://clbsj.org
+url : https://clbsj.org
 author : The Center & Library for the Bible and Social Justice
 year : 2016
 twitter : clbsj
@@ -11,7 +11,7 @@ permalink: pretty
 exclude :
   - node_modules
 prose :
-  siteurl: 'http://clbsj.org'
+  siteurl: 'https://clbsj.org'
   ignore: ['_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js', 'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'resources', 'robots.txt']
   metadata:
     _posts:

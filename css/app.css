@@ -1619,14 +1619,6 @@ textarea {
   textarea[rows] {
     height: auto; }
 
-input::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder {
-  color: #cacaca; }
-
-input::-moz-placeholder,
-textarea::-moz-placeholder {
-  color: #cacaca; }
-
 input:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
   color: #cacaca; }
@@ -4183,6 +4175,10 @@ footer {
   .button.hollow.orange:hover {
     border-color: #fb9d11;
     color: #fb9d11; }
+
+.button.primary.donate {
+  background-color: #FCB040;
+  margin: .3rem 0 .3rem 0; }
 
 .home-title {
   background-size: cover;

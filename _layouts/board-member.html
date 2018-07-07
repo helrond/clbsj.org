@@ -24,7 +24,7 @@ layout: default
           {% if p.url %}
             <li><a href="{{p.url}}">{{p.title}}</a></li>
           {% else %}
-            <li>{{p.title}}</li>
+            <li>{{p.title | markdownify }}</li>
           {% endif %}
         {% endfor %}
       </ul>

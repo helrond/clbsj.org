@@ -1,5 +1,10 @@
 <div class="callout">
-  <h4><a href="{{site.url}}{{item.url}}">{{item.title}}</a></h4>
+  <h4>
+    <a href="{{site.url}}{{item.url}}">{{item.title}}</a>
+  </h4>
+  {% if item.layout == 'reading-the-bible-as-an-activist' %}
+    <span class="label label-orange"><a href="{{site.url}}/reading-the-bible-as-an-activist">Reading the Bible as an Activist</a></span>
+  {% endif %}
   <p>{{item.author}}</p>
   <p>{{description}}</p>
   <a class="hollow button small" href="{{site.url}}{{item.url}}">Read More</a>

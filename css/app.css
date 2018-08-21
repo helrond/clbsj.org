@@ -4178,6 +4178,7 @@ footer {
 
 .button.primary.donate {
   background-color: #FCB040;
+  color: #000;
   margin: .3rem 0 .3rem 0; }
 
 .home-title {
@@ -4188,3 +4189,23 @@ footer {
   color: #fefefe; }
   .home-title hr {
     border-bottom-color: #FCB040; }
+
+.label.label-series {
+  font-size: 1.2rem;
+  margin-top: 0.8rem;
+}
+
+.label.label-orange {
+  background: #FCB040;
+  color: #000;
+}
+
+.label.label-orange {
+  color: #000;
+  }
+  .label.label-orange a {
+    color: #000;
+  }
+  .label.label-orange a:hover {
+    color: #333;
+  }

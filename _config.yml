@@ -30,7 +30,12 @@ prose :
         field:
           element: "text"
           label: "Author"
-          help: "Enter your name here"
+          help: "Enter the author's name here"
+      - name: "author_bio"
+        field:
+          element: "text"
+          label: "Author Bio"
+          help: "Enter a brief biography of the author."
       - name: "location"
         field:
           element: "text"
@@ -59,8 +64,10 @@ prose :
               value: "news-item"
             - name: "Event"
               value: "event"
+            - name: "Reading the Bible as an Activist"
+              value: "reading-the-bible-as-an-activist"
           label: "Layout"
-          help: "For news items, choose News Item, for events, choose Event"
+          help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
       - name: "tags"
         field:
           element: "multiselect"

@@ -1,0 +1,24 @@
+{% assign news = site.posts | where: 'layout', include.layout %}
+
+{% for item in news %}
+  {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
+  {% assign break = forloop.index | modulo:5 %}
+  {% capture style %}
+    {% if forloop.index > 1 %}
+      style="display:none;"
+    {% endif %}
+  {% endcapture %}
+  {% if break == 1 %}
+    <div class="list-group" {{style}}>
+      {% include news-list-item.html %}
+    {% elsif forloop.last %}
+      {% include news-list-item.html %}
+    </div>
+    {% elsif break == 0 %}
+      {% include news-list-item.html %}
+      <button class="float-center show-more button hollow orange">Show More</button>
+    </div>
+  {% else %}
+    {% include news-list-item.html %}
+  {% endif %}
+{% endfor %}

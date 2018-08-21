@@ -69,4 +69,4 @@ CORETTA’S LOVE LETTERS AND THE DEMOCRATIC SOCIALIST TRADITION
 
 <a class="button tiny hollow" href="a href="http://youtu.be/lO93wRPjhkw">Video</a>
 
-See also the [Communication Director's Report]({{site.url/posts/2013-11-06-birmingham-and-the-bible-at-the-stony-point-center-communications-directors-report}})
+See also the [Communication Director's Report]({{site.url}}/news/2013/11/06/birmingham-and-the-bible-at-the-stony-point-center-communications-directors-report)

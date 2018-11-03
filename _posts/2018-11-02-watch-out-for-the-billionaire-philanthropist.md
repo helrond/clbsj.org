@@ -15,9 +15,12 @@ author_bio: >-
   without his wife’s permission. He is a pacifist and he still can’t grow a
   beard.
 author: Aric Clark
-location: ''
-description: ''
-tags: ''
+description: >-
+  The “story of the widow’s mite” as it’s often called, most commonly gets read
+  as a feel-good story about the generosity of the poor. It is frequently used
+  in congregational settings as an encouragement toward sacrificial giving on
+  the part of members toward the church. It is unfortunate, that the context of
+  the story makes this a most unlikely reading.
 ---
 Mark 12:38-44
 

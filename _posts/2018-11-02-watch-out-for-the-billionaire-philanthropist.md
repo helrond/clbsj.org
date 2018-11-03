@@ -2,7 +2,7 @@
 date: '2018-11-02 20:50 -0400'
 category: news
 layout: reading-the-bible-as-an-activist
-published: false
+published: true
 title: Watch Out For the Billionaire Philanthropist
 author_bio: >-
   Aric Clark is a writer, a speaker, co-moderator of the Presbyterian Peace

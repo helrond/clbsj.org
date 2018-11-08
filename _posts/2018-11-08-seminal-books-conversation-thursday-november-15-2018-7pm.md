@@ -1,5 +1,5 @@
 ---
-date: '2018-11-08 10:09 -0500'
+date: '2018-11-15 19:00 -0500'
 category: events
 layout: event
 published: true

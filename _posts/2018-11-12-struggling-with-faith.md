@@ -2,7 +2,7 @@
 date: '2018-11-12 18:14 -0500'
 category: news
 layout: reading-the-bible-as-an-activist
-published: false
+published: true
 title: Struggling with Faith
 author: Shannan Vance-Ocampo
 author_bio: >-
@@ -85,5 +85,4 @@ And we love his law.
 We need to get louder and bolder in that proclamation. 
 Even if it costs us everything.
 We need to stop our addiction in the Church to cheap grace.
-Because that addiction (that is all about our comfort and privilege) is killing everyone. 
-
+Because that addiction (that is all about our comfort and privilege) is killing everyone.

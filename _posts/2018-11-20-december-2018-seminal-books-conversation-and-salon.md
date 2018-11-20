@@ -1,6 +1,6 @@
 ---
 date: '2018-12-13'
-category: news
+category: events
 layout: event
 published: true
 title: December 2018 Seminal Books Conversation and Salon

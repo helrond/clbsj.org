@@ -25,7 +25,7 @@ prose :
           element: "text"
           value: CURRENT_DATETIME
           label: "Date"
-          help: "For news items, enter the current date, or for events, enter the event start date in the format YYYY-DD-MM"
+          help: "For news items, enter the current date, or for events, enter the event start date in the format YYYY-MM-DD"
       - name: "author"
         field:
           element: "text"

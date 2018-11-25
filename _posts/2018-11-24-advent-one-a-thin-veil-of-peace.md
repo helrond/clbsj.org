@@ -1,5 +1,5 @@
 ---
-date: '2018-24-11 22:14 -0500'
+date: '2018-11-24 22:14 -0500'
 category: news
 layout: reading-the-bible-as-an-activist
 published: true

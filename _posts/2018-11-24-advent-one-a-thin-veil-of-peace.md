@@ -2,7 +2,7 @@
 date: '2018-24-11 22:14 -0500'
 category: news
 layout: reading-the-bible-as-an-activist
-published: false
+published: true
 title: Advent One - A Thin Veil of Peace
 description: >-
   In these times, the veil seems very thin.  To anyone with even an ounce of the

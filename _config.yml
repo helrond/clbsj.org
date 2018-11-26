@@ -12,7 +12,7 @@ exclude :
   - node_modules
 prose :
   siteurl: 'https://clbsj.org'
-  ignore: ['_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js', 'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'resources', 'robots.txt']
+  ignore: ['_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js', 'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'resources', 'robots.txt', 'reading-the-bible-as-an-activist']
   metadata:
     _posts:
       - name: "title"

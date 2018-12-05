@@ -2,7 +2,7 @@
 date: '2018-12-03 16:47 -0500'
 category: news
 layout: reading-the-bible-as-an-activist
-published: false
+published: true
 title: The Messenger and Our Broken Covenants
 author: Brian Merritt
 author_bio: >-

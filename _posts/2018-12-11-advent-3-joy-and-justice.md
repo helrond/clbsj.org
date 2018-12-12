@@ -2,7 +2,7 @@
 date: '2018-12-11 19:59 -0500'
 category: news
 layout: reading-the-bible-as-an-activist
-published: false
+published: true
 title: 'Advent 3: Joy and Justice'
 description: >-
   Without justice- making there is no peace. This is what both John and Jesus
@@ -34,4 +34,4 @@ During the other Advent Sundays we focus on our need for self-reflection and rep
 
 The Lukan passage in the words of John the Baptist and in Luke 4:18-19 the words of Jesus we find the means to rejoicing. Without justice- making there is no peace. This is what both John and Jesus are calling us to do as we model Christ’s life in our own. Rejoicing comes from doing justice.  Our other readings call us to rejoice. Luke gives us the way to rejoicing.
 
-There is a slogan going around now that states: “No justice. No peace.” Our readings  tell us “No justice. No peace. No Joy.” 
+There is a slogan going around now that states: “No justice. No peace.” Our readings  tell us “No justice. No peace. No Joy.”

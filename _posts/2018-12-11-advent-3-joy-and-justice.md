@@ -10,10 +10,7 @@ description: >-
   from doing justice.  Our other readings call us to rejoice. Luke gives us the
   way to rejoicing.
 author: Laura Gottwald
-author_bio: >-
-  Laura Gottwald is part of the Community of Living Traditions at the Stony
-  Point Center and married to one of the founders of the Center and Library for
-  the Bible and Social Justice, Dr. Norman Gottwald.
+author_bio: "Laura Lagerquist-Gottwald, a minister of First Baptist church of Berkeley, M.Div., M.A., is a seasoned, counselor, preacher and writer. She co-authored a volume of Proclamation: Pentecost v. 3,\_ Aids for Interpreting the Lessons of the Church Year (Minneapolis: Augsburg Fortress, 1996)."
 ---
 Zephaniah 3:14-20		                                         Philippians 4:4-7
 Isaiah 12:2-6			                                         Luke 3:7-18

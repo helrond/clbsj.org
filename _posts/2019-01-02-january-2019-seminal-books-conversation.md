@@ -2,7 +2,7 @@
 date: '2019-01-10'
 category: events
 layout: event
-published: false
+published: true
 title: 'January 2019 Seminal Books Conversation '
 author: Shannan Vance-Ocampo
 location: '5 Crickettown Road Stony Point, NY 10980'

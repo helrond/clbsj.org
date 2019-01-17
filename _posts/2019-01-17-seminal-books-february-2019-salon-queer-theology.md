@@ -14,7 +14,7 @@ On February 14, we will continue our Seminal Books Salon Series in which we disc
 
 Each month we invite a roundtable of scholar/activists to share about books related to a particular theme that sparked their own personal spiritual/activist awakening, and then we reflect together. 
 
-The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of the [Stony Point Center](https://stonypointcenter.org), 5 Cricketown Road Stony Point, NY and live-streamed on our Facebook page. 
+The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of the [Stony Point Center](https://stonypointcenter.org), 5 Cricketown Road Stony Point, NY and live-streamed on our [Facebook page](www.facebook.com/clbsj). 
 
 The Seminal Books in Activist Theology Series is sponsored by the Center and Library for the Bible and Social Justice and the [Community of Living Traditions](https://stonypointcenter.org/multifaith-community) at Stony Point Center.
 

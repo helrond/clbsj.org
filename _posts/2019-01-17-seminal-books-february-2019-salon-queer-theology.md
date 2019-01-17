@@ -3,7 +3,7 @@ date: 2019/02/14
 category: events
 layout: event
 published: true
-title: 'Seminal Books February 2019 Salon - Queer Theology '
+title: Seminal Books February 2019 Salon - Queer Theology - Liberating Love
 author: Shannan Vance-Ocampo
 location: '5 Cricketown Road Stony Point, NY'
 description: February 2019 Seminal Books Salon

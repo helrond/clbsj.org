@@ -2,7 +2,7 @@
 date: '2019-03-07 08:41 -0500'
 category: events
 layout: event
-published: false
+published: true
 title: 'Seminal Books in Activist Theology: Perspectives on Earth Care'
 location: '17 Cricketown Road Stony Point, NY 10980'
 ---
@@ -27,4 +27,3 @@ Please mark your calendars for these upcoming 2019 Seminal Books Salons, all at 
 ● May 9, 2019 — Palestinian Liberation Theology
 
 ● June 13, 2019 — Poverty and Poor People’s Organizing
-

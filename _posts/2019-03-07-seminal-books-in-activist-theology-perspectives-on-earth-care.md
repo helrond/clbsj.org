@@ -6,8 +6,6 @@ published: true
 title: 'Seminal Books in Activist Theology: Perspectives on Earth Care'
 location: '17 Cricketown Road Stony Point, NY 10980'
 ---
-![braidingsweetgrass.jpg]({{site.baseurl}}/_posts/braidingsweetgrass.jpg)
-
 
 On March 14, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements. This month, we will be considering earth care through the lens of Christian and Muslim traditions. Each month we invite a roundtable of scholar/activists to share about books related to a particular theme that sparked their own personal spiritual/activist awakening, and then we reflect together.
 

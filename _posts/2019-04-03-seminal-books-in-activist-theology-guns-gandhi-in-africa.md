@@ -2,7 +2,7 @@
 date: '2019-04-11'
 category: events
 layout: event
-published: false
+published: true
 title: 'Seminal Books in Activist Theology: Guns & Gandhi in Africa'
 location: '5 Cricketown Road Stony Point, NY 10980'
 description: Seminal Books April 2019
@@ -26,4 +26,3 @@ Please mark your calendars for these upcoming 2019 Seminal Books Salons, all at 
 ● May 9, 2019 — Palestinian Liberation Theology
 
 ● June 13, 2019 — Poverty and Poor People’s Organizing
-

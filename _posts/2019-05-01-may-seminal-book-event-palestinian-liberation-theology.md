@@ -10,7 +10,7 @@ tags:
 ---
 On May 9, 2019, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements.
 
-This month, we will be considering the seminal book Faith and the Intifada: Palestinian Christian Voices by Naim Ateek. 
+This month, we will be considering the seminal book Faith and the Intifada: Palestinian Christian Voices by Naim Ateek. We will also be welcoming Ferguson artist-activist Suhad Khatib as a respondent, and other voices from the Community of Living Traditions.
 
 Our speaker will be Rani Allan, a 2018 graduate of Hunter College, co-founder of the Palestine Solidarity Alliance at Hunter College, as well as former President. He is a Palestinian-American activist, born in Fort Lee, New Jersey, and grew up in Egypt. He graduated with a major in Political Science alongside a certificate in Human Rights. His activism focuses on Palestine liberation, mental health, and cross-movement building. Rani is an aspiring civil rights lawyer. During his time at Hunter, he co-founded the Apartheid Divest CUNY campaign that targeted the largest urban university system in the country and made the University Chancellor make a phone call after midnight panicking about it.
 

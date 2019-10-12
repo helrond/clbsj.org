@@ -2,7 +2,7 @@
 date: '2019-10-12 17:52 -0400'
 category: events
 layout: event
-published: false
+published: true
 title: CLBSJ Roundtable Discussion at AAR/SBL
 location: 'Marriott Marquis Hotel, Presidio 2, San Diego, California'
 description: >-
@@ -10,9 +10,6 @@ description: >-
   and Society of Biblical Literature in San Diego, CA? Please join us on Sunday,
   24 November 24 2019, 6:00–7:30pm for a roundtable discussion on “Maintaining
   Dialogue Between the Seminary, the Sanctuary, and the Streets."
-author: ''
-author_bio: ''
-tags: ''
 ---
 
 Are you attending the 2019 Annual Meetings of the American Academy of

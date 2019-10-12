@@ -2,7 +2,7 @@
 date: '2019-10-12 17:43 -0400'
 category: events
 layout: event
-published: false
+published: true
 title: >-
   John Vincent, Elder Scholar-Activist of Radical Christianity, to Visit NY in
   November 2019
@@ -10,11 +10,7 @@ description: >-
   The Center and Library for the Bible and Social Justice, Jersey City Together,
   New York Theological Seminary and the Urban Theology Unit North America are
   pleased to welcome Rev. Dr. John Vincent for a series of seminars and
-  discussions on contextual urban ministry in the greater NYC region. 
-author: ''
-author_bio: ''
-location: ''
-tags: ''
+  discussions on contextual urban ministry in the greater NYC region.
 ---
 The Center and Library for the Bible and Social Justice, Jersey City
 Together, New York Theological Seminary and the Urban Theology Unit

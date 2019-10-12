@@ -10,7 +10,7 @@ description: >-
   in the greater NYC region.
 ---
 The Center and Library for the Bible and Social Justice is pleased to
-host John Vincent this November 5-8, 2019, for a [series of seminars anddiscussions](/events/2019/10/12/john-vincent-elder-scholar-activist-of-radical-christianity-to-visit-ny-in-november-2019/) in the greater NYC region. His visit is a unique opportunity
+host John Vincent this November 5-8, 2019, for a [series of seminars and discussions](/events/2019/10/12/john-vincent-elder-scholar-activist-of-radical-christianity-to-visit-ny-in-november-2019/) in the greater NYC region. His visit is a unique opportunity
 for Christians committed to grassroots social change organizing to learn
 from his methods and applied theology.
 

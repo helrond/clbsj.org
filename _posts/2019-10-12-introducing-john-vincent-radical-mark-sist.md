@@ -2,7 +2,7 @@
 date: '2019-10-12 17:57 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: 'Introducing John Vincent: Radical “Mark-sist”'
 description: >-
   The Center and Library for the Bible and Social Justice is pleased to host

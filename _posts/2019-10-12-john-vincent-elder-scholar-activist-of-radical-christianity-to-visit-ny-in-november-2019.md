@@ -11,10 +11,7 @@ description: >-
   New York Theological Seminary and the Urban Theology Unit North America are
   pleased to welcome Rev. Dr. John Vincent for a series of seminars and
   discussions on contextual urban ministry in the greater NYC region.
-author: ''
-author_bio: ''
-location: ''
-tags: ''
+location: 'Stony Point Center, Stony Point, NY'
 ---
 <div class="float-left" style="margin-right:1em">
   <img src="{{site.baseurl}}/img/vincent.jpg" alt="John Vincent">
@@ -29,8 +26,8 @@ whose Bible-based work has built enormous capacity for liberation
 theology in his home of Sheffield, England and beyond. During his visit
 he will engage different audiences that are doing forms of contextual
 urban ministry, and will particularly share about his emerging approach
-to Biblical interpretation, which he calls Practice Interpretation
-Methodology. Our hope is that his visit to the greater NYC region will
+to Biblical interpretation, which he calls _Practice Interpretation
+Methodology_. Our hope is that his visit to the greater NYC region will
 create a unique opportunity for transnational strategizing and knowledge
 exchange amongst Biblically-informed activists and justice-oriented
 scholars.

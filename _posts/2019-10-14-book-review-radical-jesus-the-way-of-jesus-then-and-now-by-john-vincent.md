@@ -12,7 +12,13 @@ description: >-
 tags:
   - From the Stacks
   - Book Review
+author_bio: ''
+location: ''
 ---
+<div class="float-left" style="margin-right:1em; width:25em">
+  <img src="{{site.baseurl}}/img/Radical-Jesus-cover.png" alt="cover of Radical Jesus">
+</div>
+
 There should be a warning at the beginning of the book Radical Jesus:
 Read only if you are willing to have your life and your idea of the
 “way” of Jesus shaken and challenged. John Vincent states in his poem _To

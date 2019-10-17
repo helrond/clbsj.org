@@ -11,7 +11,15 @@ description: >-
   New York Theological Seminary and the Urban Theology Unit North America are
   pleased to welcome Rev. Dr. John Vincent for a series of seminars and
   discussions on contextual urban ministry in the greater NYC region.
+author: ''
+author_bio: ''
+location: ''
+tags: ''
 ---
+<div class="float-left" style="margin-right:1em">
+  <img src="{{site.baseurl}}/img/vincent.jpg" alt="John Vincent">
+</div>
+
 The Center and Library for the Bible and Social Justice, Jersey City
 Together, New York Theological Seminary and the Urban Theology Unit
 North America are pleased to welcome Rev. Dr. John Vincent for a series
@@ -33,7 +41,13 @@ participation option -- please check back for updates!
 Questions and RSVPs can be directed to Amy Dalton at [clbsjorg@gmail.com](mailto:clbsjorg@gmail.com),
 347-760-3478 or Geoff Curtis at [geoffcurtiss@gmail.com](mailto:geoffcurtiss@gmail.com), 201-892-2960
 
-Rev. Vincent's Schedule:
+https://clbsj.org/news/2019/10/12/introducing-john-vincent-radical-mark-sist/
+
+
+<a class="hollow button small" href="{{site.baseurl}}/news/2019/10/12/introducing-john-vincent-radical-mark-sist/">John Vincent biography</a>
+<a class="hollow button small" href="{{site.baseurl}}/news/2019/10/15/book-review-radical-jesus-the-way-of-jesus-then-and-now-by-john-vincent/">Review of John Vincent's book <i>Radical Jesus: The Way of Jesus, Then and Now</i></a>
+
+## Rev. Vincent's Schedule:
 
 **Tuesday 11/5**
 - 7:15pm — Book Talk at Stony Point Center on Radical Jesus: The

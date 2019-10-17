@@ -44,8 +44,8 @@ Questions and RSVPs can be directed to Amy Dalton at [clbsjorg@gmail.com](mailto
 https://clbsj.org/news/2019/10/12/introducing-john-vincent-radical-mark-sist/
 
 
-<a class="hollow button small" href="{{site.baseurl}}/news/2019/10/12/introducing-john-vincent-radical-mark-sist/">John Vincent biography</a>
-<a class="hollow button small" href="{{site.baseurl}}/news/2019/10/15/book-review-radical-jesus-the-way-of-jesus-then-and-now-by-john-vincent/">Review of John Vincent's book <i>Radical Jesus: The Way of Jesus, Then and Now</i></a>
+<a class="button" href="{{site.baseurl}}/news/2019/10/12/introducing-john-vincent-radical-mark-sist/">John Vincent biography</a>
+<a class="button" href="{{site.baseurl}}/news/2019/10/15/book-review-radical-jesus-the-way-of-jesus-then-and-now-by-john-vincent/">Review of John Vincent's book <i>Radical Jesus: The Way of Jesus, Then and Now</i></a>
 
 ## Rev. Vincent's Schedule:
 

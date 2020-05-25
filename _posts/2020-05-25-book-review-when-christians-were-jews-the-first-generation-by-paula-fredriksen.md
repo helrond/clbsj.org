@@ -17,6 +17,10 @@ tags:
   - Book Review
   - From the Stacks
 ---
+<div class="float-left" style="margin-right:1em; width:25em">
+  <img src="{{site.baseurl}}/img/WhenChristiansWereJews.jpg" alt="cover of Radical Jesus">
+</div>
+
 This addition to our library will be of particular interest to the
 multifaith Community of Living Traditions at Stony Point Center, because
 it shows precisely how the Jesus followers remained thoroughly Jewish,

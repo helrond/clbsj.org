@@ -2,7 +2,7 @@
 date: '2020-05-25 12:57 -0500'
 category: news
 layout: news-item
-published: false
+published: true
 title: >-
   Book Review: When Christians Were Jews. The First Generation by Paula
   Fredriksen
@@ -16,6 +16,8 @@ description: >-
 tags:
   - Book Review
   - From the Stacks
+author_bio: ''
+location: ''
 ---
 <div class="float-left" style="margin-right:1em; width:25em">
   <img src="{{site.baseurl}}/img/WhenChristiansWereJews.jpg" alt="cover of Radical Jesus">

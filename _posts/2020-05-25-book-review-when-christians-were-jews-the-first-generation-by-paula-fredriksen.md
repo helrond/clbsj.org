@@ -1,10 +1,10 @@
 ---
 date: '2020-05-25 12:57 -0500'
 category: news
-layout: news-item
+layout: from-the-stacks
 published: true
 title: >-
-  Book Review: When Christians Were Jews. The First Generation by Paula
+  When Christians Were Jews. The First Generation by Paula
   Fredriksen
 author: Norman Gottwald
 description: >-

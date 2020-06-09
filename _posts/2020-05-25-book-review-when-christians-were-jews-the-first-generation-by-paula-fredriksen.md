@@ -16,7 +16,7 @@ tags:
   - From the Stacks
 ---
 <div class="float-left" style="margin-right:1em; width:25em">
-  <img src="{{site.baseurl}}/img/WhenChristiansWereJews.jpg" alt="cover of Radical Jesus">
+  <img src="{{site.baseurl}}/img/WhenChristiansWereJews.jpg" alt="cover of When Christians Were Jews">
 </div>
 
 This addition to our library will be of particular interest to the

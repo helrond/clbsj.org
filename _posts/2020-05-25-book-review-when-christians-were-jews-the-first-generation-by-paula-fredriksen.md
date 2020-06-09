@@ -3,7 +3,7 @@ date: '2020-05-25 12:57 -0500'
 category: news
 layout: from-the-stacks
 published: true
-title: '_When Christians Were Jews: the First Generation_ by Paula Fredriksen'
+title: '<em>When Christians Were Jews: the First Generation</em> by Paula Fredriksen'
 author: Norman Gottwald
 description: >-
   This addition to our library will be of particular interest to the multifaith

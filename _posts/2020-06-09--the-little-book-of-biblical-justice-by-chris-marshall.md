@@ -12,6 +12,10 @@ description: >-
   preparatory to a comprehensive account of justice as a central theme of the
   Bible.
 ---
+<div class="float-left" style="margin-right:1em; width:25em">
+  <img src="{{site.baseurl}}/img/marshall_biblical_justice.jpg" alt="cover of The Little Book of Biblical Justice">
+</div>
+
 It is amazing what this "little" book accomplishes in 67 pages! The author, a theological educator in New Zealand, sets forth the essential ingredients of justice as commonly understood (distribution, power, equity and rights), preparatory to a comprehensive account of justice as a central theme of the Bible.
 
 Marshall points out that The Hebrew & Greek words translated "justice" -- supplemented by synonyms for or aspects of justice (eg. righteousness, justification, peace and even mercy and salvation) -- occur more than 1,000 time in the two testaments.

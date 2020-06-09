@@ -3,7 +3,7 @@ date: '2019-10-14 19:06 -0500'
 category: news
 layout: from-the-stacks
 published: true
-title: 'Radical Jesus: The Way of Jesus, Then and Now by John Vincent'
+title: '<em>Radical Jesus: The Way of Jesus, Then and Now</em> by John Vincent'
 author: Laura Gottwald and Amy Dalton
 description: >-
   There should be a warning at the beginning of the book Radical Jesus: Read
@@ -12,8 +12,6 @@ description: >-
 tags:
   - From the Stacks
   - Book Review
-author_bio: ''
-location: ''
 ---
 <div class="float-left" style="margin-right:1em; width:25em">
   <img src="{{site.baseurl}}/img/Radical-Jesus-cover.png" alt="cover of Radical Jesus">

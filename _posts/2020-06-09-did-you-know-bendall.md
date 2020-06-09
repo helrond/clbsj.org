@@ -3,11 +3,15 @@ date: '2020-06-09 14:45 -0400'
 category: news
 layout: news-item
 published: true
-title: Did You Know...?
+title: Did You Know? Doug Bendall's Quantum Theology
 description: >-
   Did you know that one of our Board Members is writing a book on theology and
   quantum physics?
 ---
+<div class="float-left" style="margin-right:1em; width:25em">
+  <img src="{{site.baseurl}}/img/board/bendall.jpg" alt="photo of Douglass Bendall">
+</div>
+
 Did you know that one of our Board Members is writing a book on theology
 and quantum physics? Rev. Dr. R. Douglas Bendall, PhD's forthcoming
 book, _The Human Face of God_, develops a Field Concept of God that

@@ -66,6 +66,8 @@ prose :
               value: "event"
             - name: "Reading the Bible as an Activist"
               value: "reading-the-bible-as-an-activist"
+            - name: "From the Stacks"
+              value: from-the-stacks
           label: "Layout"
           help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
       - name: "tags"

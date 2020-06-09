@@ -2,7 +2,7 @@
 date: '2020-06-09 14:41 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: 'Building Connections: Urban Theology Unit, Sheffield, England'
 description: >-
   John Vincent’s visit to CLBSJ last November delivered a resounding jolt to us

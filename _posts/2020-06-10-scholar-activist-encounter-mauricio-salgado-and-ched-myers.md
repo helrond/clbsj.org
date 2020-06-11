@@ -1,9 +1,14 @@
 ---
-date: '2020-06-10 20:21 -0400'
-category: news
-layout: news-item
-published: true
+date: '2020-08-20'
+category: events
+layout: event
+published: false
 title: 'Scholar-Activist Encounter: Mauricio Salgado and Ched Myers'
+description: >-
+  In this session, Activist theologian Ched Myers and Drama Professor Mauricio
+  Tafur Salgado will discuss their work to create capacity for movement-building
+  through arts, documentation and scholarship, and the way this work has shaped
+  and been shaped by their faith.
 ---
 The Center and Library for the Bible and Social Justice invites you to
 join us online each third Thursday at 4:30pm Pacific Time / 7:30pm

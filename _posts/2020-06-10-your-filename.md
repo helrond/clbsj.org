@@ -2,7 +2,7 @@
 date: '2020-06-10 20:31 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: Untitled
 description: >-
   The Center and Library for the Bible and Social Justice invites you to join us

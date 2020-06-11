@@ -21,7 +21,7 @@ Ureña will discuss their work within the immigrant rights movement,
 their seminary studies, and how their faith has evolved through their
 activist journey.
 
-Advance registration required: Check back soon for registration link.
+**Advance registration required: Check back soon for registration link.**
 
 Rosario "Charo" Urena is the founder, lead organizer and Director of
 Proyecto Faro, an immigrant-led organizing project based in Stony Point,

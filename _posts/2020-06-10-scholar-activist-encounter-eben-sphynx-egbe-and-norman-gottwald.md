@@ -2,7 +2,7 @@
 date: '2020-09-17'
 category: events
 layout: event
-published: false
+published: true
 title: 'Scholar-Activist Encounter: Eben “Sphynx” Egbe and Norman Gottwald'
 description: >-
   In this session, Biblical scholar Norman Gottwald and anticolonial organizer

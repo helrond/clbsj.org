@@ -1,5 +1,5 @@
 ---
-date: '2020-06-10 20:16 -0400'
+date: '2020-07-16'
 category: events
 layout: event
 published: false

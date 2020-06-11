@@ -2,7 +2,7 @@
 date: '2020-07-16'
 category: events
 layout: event
-published: false
+published: true
 title: 'Scholar-Activist Encounter: Charo Ureña and Amy Dalton'
 description: >-
   In this session, faith-rooted organizers Amy Dalton and Rosarion "Charo" Ureña

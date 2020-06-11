@@ -2,7 +2,7 @@
 date: '2020-09-17'
 category: events
 layout: event
-published: false
+published: true
 title: 'Scholar-Activist Encounter: Eben “Sphynx” Egbe and Norman Gottwald'
 description: >-
   In this session, Biblical scholar Norman Gottwald and anticolonial organizer
@@ -22,7 +22,7 @@ organizer Eben “Sphynx” Egbe will discuss their strivings for a world
 free of structural racism, and how the Bible and their Baptist
 upbringings have shaped their work and commitment.
 
-**Advance registration required: Check back for registration link**
+**Advance registration required: Check back soon for registration link**
 
 Eben “Sphynx” Egbe is an anticolonial organizer and open source
 technologist. Raised primarily by his Baptist mother in the west African

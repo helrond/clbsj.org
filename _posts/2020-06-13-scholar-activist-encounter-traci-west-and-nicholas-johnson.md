@@ -2,17 +2,13 @@
 date: '2020-10-15'
 category: events
 layout: event
-published: false
+published: true
 title: 'Scholar-Activist Encounter: Traci West and Nicholas Johnson'
 description: >-
   In this session, pastor-scholar-activists Nicholas Johnson and Traci West will
   explore how they work to build bridges between the seminary, sanctuary and the
   streets, and the role that scripture and inter-generational conversation plays
   in this process.
-author: ''
-author_bio: ''
-location: ''
-tags: ''
 ---
 The Center and Library for the Bible and Social Justice invites you to
 join us online each third Thursday at 4:30pm Pacific Time / 7:30pm

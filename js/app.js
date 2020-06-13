@@ -7,7 +7,7 @@ $(document).ready(function(){
 
   $("div.callout").each(function() {
     if ($(this).data("date-filter")) {
-      var now = new Date($.now())
+      var now = new Date($.now()) - 2
       var post = new Date($(this).data("date-filter"))
       if (now > post) {
         $(this).hide()

@@ -5,9 +5,10 @@ $(document).ready(function(){
     $(this).parent().next(".list-group").fadeIn(400);
   });
 
+  var now = new Date($.now())
+  now.setDate(now.getDate() - 1);
   $("div.callout").each(function() {
     if ($(this).data("date-filter")) {
-      var now = new Date($.now()) - 2
       var post = new Date($(this).data("date-filter"))
       if (now > post) {
         $(this).hide()

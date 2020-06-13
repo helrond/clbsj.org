@@ -23,14 +23,18 @@ activist journey.
 
 **Advance registration required: Check back soon for registration link.**
 
-Rosario "Charo" Urena is the founder, lead organizer and Director of
-Proyecto Faro, an immigrant-led organizing project based in Stony Point,
-NY. She is a graduate of Kairos School of Ministry and a member of
-Iglesia Camino Verdad y Vida. Her passion for social justice was
-catalyzed by the experience of advocating for her community after it was
-flooded during Hurricane Sandy. She is originally from the Dominican
-Republic where she regularly visits family members. Stateside, she
-enjoys spending time with her two daughters and one precious granddaughter.
+Rosario "Charo" Urena is a minister, organizer and the founding director
+of Proyecto Faro, an immigrant-led organizing project based in Stony
+Point, NY. A Dominican immigrant who has experienced being undocumented
+in the United States, her passion for social justice was catalyzed by
+the experience of advocating for her mobile home community after it was
+flooded during Hurricane Sandy. She has extensive church leadership
+experience — including as a cell leader, transportation director, food
+pantry director, events and retreats coordinator, and missions trip
+coordinator — which she puts to use in her organizing work. She is a
+graduate of the Kairos Course, having been sponsored by Redemptive Word
+Ministry in Tulsa, Oklahoma. She enjoys spending time with her two
+daughters and one precious granddaughter.
 
 Amy Dalton is a faith-rooted scholar-activist who has been an
 “observer-participant” in many social justice movements, including Black
@@ -51,4 +55,4 @@ devotion to Mother Mary.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 
-Co-sponsored by the Community of Living Traditions and Stony Point Center.
+Co-sponsored by the Community of Living Traditions.

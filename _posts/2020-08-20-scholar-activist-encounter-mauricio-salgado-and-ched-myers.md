@@ -34,7 +34,7 @@ _Ambassadors of Reconciliation: A N.T. Theology and Diverse Christian
 Practices of Restorative Justice and Peacemaking_ (with Elaine Enns,
 Orbis, 2009), and most recently, _Watershed Discipleship: Reinhabiting
 Bioregional Discipleship_ (Cascade, 2016). You can find Ched’s
-publications at [www.ChedMyers.org](http://www.chedmyers.org). 
+publications at [www.ChedMyers.org](http://www.chedmyers.org).
 Ched is a co-founder of the Word and
 World School, the Sabbath Economics Collaborative, and the Center and
 Library for the Bible and Social Justice. He and his partner Elaine
@@ -65,4 +65,4 @@ Community College.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 
-Co-sponsored by the Community of Living Traditions and Stony Point Center.
+Co-sponsored by the Community of Living Traditions.

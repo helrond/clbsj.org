@@ -30,7 +30,7 @@ nation of Ambazonia (also known as English-speaking Cameroons), Eben has
 been an active participant in the movement against neocolonial control
 of his homeland since the 1990s when he was a leader in the student
 movement. Because of the crackdown against student leaders, he had to go
-into exile in 1998. Since then he has done human rights work with folks
+into exile in 1996. Since then he has done human rights work with folks
 from the Communist Party of Nepal (Maoist), the Iranian Socialist Party
 (Jonbesh), Zapatista solidarity networks, and the global indymedia
 movement. He served as the Spokesperson of the German No-Borders Network
@@ -41,13 +41,12 @@ He is currently co-founder and shaper of the Ambazonia Prisoners of
 Conscience Support Network and the Global Initiative to end the
 Cameroons Colonial Conflict, a member of the Community of Living
 Traditions, and a Board member of the Central Africa Human Rights
-Defenders Network (known by its French acronym REDHAC). He is a section
-representative with War Resisters International and a member of the
-organizing team for the emerging Racial Justice Has No Borders
+Defenders Network (known by its French acronym REDHAC). He is the REDHAC
+section representative at War Resisters International and a member of
+the organizing team for the emerging Racial Justice Has No Borders
 Coalition. Eben is is a PhD candidate at the University of Minnesota’s
 Department of Scientific Computation in the College of Science &
-Engineering and a member of the Empowerment Lab, where he focuses on
-research that builds the free & open-source and media democracy movements.
+Engineering and a member of the Empowerment Lab.
 
 Norman K. Gottwald is Professor Emeritus of Biblical Studies at New York
 Theological Seminary and taught previously at the Graduate Theological
@@ -66,4 +65,4 @@ advocate of popular biblical study committed to social change.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 
-Co-sponsored by the Community of Living Traditions and Stony Point Center.
+Co-sponsored by the Community of Living Traditions.

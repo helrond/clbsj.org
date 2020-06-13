@@ -56,7 +56,13 @@
 <script src="{{site.url}}/bower_components/what-input/what-input.js"></script>
 <script src="{{site.url}}/bower_components/foundation-sites/dist/foundation.js"></script>
 <script src="{{site.url}}/js/wufoo.js"></script>
-<script src="{{site.url}}/js/app.js?v3"></script>
+<script src="{{site.url}}/js/app.js?v4"></script>
+<script src="{{site.url}}/js/jquery.date-filter.min.js"></script>
+
+<!-- Hide events occurring in the past -->
+<script>
+  $(".events .callout").dateFilter({emptyText: "No upcoming events currently scheduled"});
+</script>
 
 <!-- Google Analytics -->
 <script>

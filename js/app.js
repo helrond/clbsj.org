@@ -4,19 +4,4 @@ $(document).ready(function(){
     $(this).fadeOut(200);
     $(this).parent().next(".list-group").fadeIn(400);
   });
-
-  var now = new Date($.now())
-  now.setDate(now.getDate() - 1);
-  $("div.callout").each(function() {
-    if ($(this).data("date-filter")) {
-      var post = new Date($(this).data("date-filter"))
-      if (now > post) {
-        $(this).hide()
-      }
-    }
-  })
-
-  if (!$("div.events").children("div.callout:visible").length) {
-    $("div.events").append("<p>No upcoming events currently scheduled.</p>")
-  }
 });

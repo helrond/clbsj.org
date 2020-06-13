@@ -44,7 +44,7 @@ Indicative of the mixed attitude toward the Jesus followers is the
 speech attributed to Gamaliel, a leading pharisee in the Jewish
 assembly, expresses the openness of some Jews to the Jesus followers.
 Speaking to the council regarding Peter and the apostles he declares,
-"Men of Israel! Take care of what you do too these men...keep away from
+"Men of Israel! Take care of what you do to these men...keep away from
 them and leave them alone, for if this undertaking is of men, it will
 fail, but if it is of God you will not be able to overthrow them. You
 might even be found opposing God! (Acts 5:35, 38-39)."

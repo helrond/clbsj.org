@@ -1,24 +1,8 @@
-{% assign events = site.posts | where: 'category', 'events' %}
+{% assign events = site.posts reversed | where: 'category', 'events' %}
 
-{% for item in events %}
-  {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
-  {% assign break = forloop.index | modulo:5 %}
-  {% if break == 1 %}
-  {% capture style %}
-    {% if forloop.index > 1 %}
-      style="display:none;"
-    {% endif %}
-  {% endcapture %}
-  <div class="list-group" {{style}}>
+<div class="events list-group">
+  {% for item in events %}
+    {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
     {% include event-list-item.html %}
-  {% elsif forloop.last %}
-    {% include event-list-item.html %}
-  </div>
-  {% elsif break == 0 %}
-    {% include event-list-item.html %}
-    <button class="float-center show-more button hollow orange">Show More</button>
-  </div>
-  {% else %}
-    {% include event-list-item.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+</div>

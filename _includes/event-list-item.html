@@ -1,4 +1,4 @@
-<div class="callout">
+<div class="callout" data-date-filter="{{item.date}}">
   <h4><a href="{{site.url}}{{item.url}}">{{item.title}}</a></h4>
   <p>{{ item.date | date: '%B %d, %Y' }}{% if item.time %}, {{ item.time }}{% endif %}</p>
   <p>{{ description }}</p>

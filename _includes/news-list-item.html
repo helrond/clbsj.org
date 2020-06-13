@@ -8,6 +8,9 @@
   {% if item.layout == 'from-the-stacks' %}
     <span class="label label-orange"><a href="{{site.url}}/from-the-stacks">From the Stacks</a></span>
   {% endif %}
+  {% if item.layout == 'did-you-know' %}
+    <span class="label label-orange"><a href="{{site.url}}/did-you-know">Did You Know?</a></span>
+  {% endif %}
   <p>{{item.author}}</p>
   <p>{{description}}</p>
   <a class="hollow button small" href="{{site.url}}{{item.url}}">Read More</a>

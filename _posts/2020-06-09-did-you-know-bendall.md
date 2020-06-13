@@ -1,9 +1,9 @@
 ---
 date: '2020-06-09 14:45 -0400'
 category: news
-layout: news-item
+layout: did-you-know
 published: true
-title: Did You Know? Doug Bendall's Quantum Theology
+title: Doug Bendall's Quantum Theology
 description: >-
   Did you know that one of our Board Members is writing a book on theology and
   quantum physics?

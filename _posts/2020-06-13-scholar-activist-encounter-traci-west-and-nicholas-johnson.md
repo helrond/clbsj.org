@@ -9,6 +9,10 @@ description: >-
   explore how they work to build bridges between the seminary, sanctuary and the
   streets, and the role that scripture and inter-generational conversation plays
   in this process.
+author: ''
+author_bio: ''
+location: ''
+tags: ''
 ---
 The Center and Library for the Bible and Social Justice invites you to
 join us online each third Thursday at 4:30pm Pacific Time / 7:30pm
@@ -30,7 +34,7 @@ author of _Solidarity and Defiant Spirituality: Africana Lessons on
 Religion, Racism, and Ending Gender Violence_ (2019), _Disruptive
 Christian Ethics: When Racism and Women's Lives Matter_ (2006), _Wounds of
 the Spirit: Black Women, Violence, and Resistance Ethics_ (1999), editor
-of _Our Family Values: Same-sex Marriage and Religion_, and author of many
+of _Our Family Values\: Same\-sex Marriage and Religion_, and author of many
 articles and book chapters on gender, racial, and sexual justice in
 religion and society.
 

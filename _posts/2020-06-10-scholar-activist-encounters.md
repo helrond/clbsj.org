@@ -24,6 +24,7 @@ on the links below.
 - July 16: [Amy Dalton and Charo Ureña](https://clbsj.org/events/2020/07/16/scholar-activist-encounter-charo-ure-a-and-amy-dalton/)
 - August 20: [Ched Myers and Mauricio Salgado](https://clbsj.org/events/2020/08/20/scholar-activist-encounter-mauricio-salgado-and-ched-myers/)
 - September 17: [Norman Gottwald and Eben “Sphynx” Egbe](https://clbsj.org/events/2020/09/17/scholar-activist-encounter-eben-sphynx-egbe-and-norman-gottwald/)
+- October 15: [Traci West and Nicholas Johnson](https://clbsj.org/events/2020/10/15/scholar-activist-encounter-traci-west-and-nicholas-johnson/)
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 

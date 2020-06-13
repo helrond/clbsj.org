@@ -34,7 +34,7 @@ author of _Solidarity and Defiant Spirituality: Africana Lessons on
 Religion, Racism, and Ending Gender Violence_ (2019), _Disruptive
 Christian Ethics: When Racism and Women's Lives Matter_ (2006), _Wounds of
 the Spirit: Black Women, Violence, and Resistance Ethics_ (1999), editor
-of _Our Family Values: Same sex Marriage and Religion_, and author of many
+of _Our Family Values: Same-sex Marriage and Religion_, and author of many
 articles and book chapters on gender, racial, and sexual justice in
 religion and society.
 

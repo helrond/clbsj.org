@@ -22,7 +22,8 @@ their seminary studies, and how their faith has evolved through their
 activist journey.
 
 **Advance registration required**
-<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1">Register</a>
+
+<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1">Register</a>
 
 Rosario "Charo" Urena is a minister, organizer and the founding director
 of Proyecto Faro, an immigrant-led organizing project based in Stony

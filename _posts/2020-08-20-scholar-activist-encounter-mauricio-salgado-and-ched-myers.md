@@ -23,7 +23,8 @@ movement-building through arts, documentation and scholarship, and the
 way this work has shaped and been shaped by their faith.
 
 **Advance registration required**
-<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZ0vf-CqqDgiE9NlF_62aFhkZv3h0OMprwYn">Register</a>
+
+<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZ0vf-CqqDgiE9NlF_62aFhkZv3h0OMprwYn">Register</a>
 
 Ched Myers is an activist theologian who has worked in social change
 movements for 40 years. With a degree in New Testament Studies, he is a

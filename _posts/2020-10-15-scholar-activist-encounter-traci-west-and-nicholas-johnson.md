@@ -23,7 +23,8 @@ sanctuary and the streets, and the role that scripture and
 inter-generational conversation plays in this process.
 
 **Advance registration required**
-<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d">Register</a>
+
+<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d">Register</a>
 
 Rev. Dr. Traci C. West is professor of Christian ethics and African
 American studies at Drew University Theological School. She is the

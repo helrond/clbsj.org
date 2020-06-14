@@ -23,7 +23,8 @@ free of structural racism, and how the Bible and their Baptist
 upbringings have shaped their work and commitment.
 
 **Advance registration required**
-<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZwucuiurz8iH9ehReExrtWShKzutaQPD0Nz">Register</a>
+
+<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZwucuiurz8iH9ehReExrtWShKzutaQPD0Nz">Register</a>
 
 Eben “Sphynx” Egbe is an anticolonial organizer and open source
 technologist. Raised primarily by his Baptist mother in the west African

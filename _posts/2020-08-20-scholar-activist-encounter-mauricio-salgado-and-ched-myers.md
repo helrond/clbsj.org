@@ -17,12 +17,13 @@ between scholarship and activism. How do these ways of being contribute
 to our understanding of Scripture in the world today? Let’s come
 together to learn from each other.
 
-In this session, Activist theologian Ched Myers and Drama Professor
+In this session, Activist theologian Ched Myers and Theater Studies Professor
 Mauricio Tafur Salgado will discuss their work to create capacity for
 movement-building through arts, documentation and scholarship, and the
 way this work has shaped and been shaped by their faith.
 
-**Advance registration required: Check back for registration link.**
+**Advance registration required**
+<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZ0vf-CqqDgiE9NlF_62aFhkZv3h0OMprwYn">Register</a>
 
 Ched Myers is an activist theologian who has worked in social change
 movements for 40 years. With a degree in New Testament Studies, he is a
@@ -62,6 +63,9 @@ India, Belgium, Germany, Scotland, and across Turtle Island (the United
 States). He has taught at the Boston Conservatory, Brown University,
 Santa Clara University, La Guardia Community College, and Kingsborough
 Community College.
+
+See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
+of the Scholar-Activist Encounter series.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 

@@ -22,7 +22,8 @@ West will explore how they work to build bridges between the seminary,
 sanctuary and the streets, and the role that scripture and
 inter-generational conversation plays in this process.
 
-**Advance registration required: Registration link coming soon**
+**Advance registration required**
+<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d">Register</a>
 
 Rev. Dr. Traci C. West is professor of Christian ethics and African
 American studies at Drew University Theological School. She is the
@@ -44,6 +45,9 @@ Christianity at Drew University in Madison, NJ. A native of Newark, NJ,
 Nicholas developed an interest in the intersections of faith, academia,
 and activism as a teenager. His work as a pastor-scholar-activist
 focuses on racial/ethnic justice and inter-generational community building.
+
+See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
+of the Scholar-Activist Encounter series.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 

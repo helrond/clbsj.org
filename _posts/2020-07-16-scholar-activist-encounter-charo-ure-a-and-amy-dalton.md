@@ -21,7 +21,8 @@ Ureña will discuss their work within the immigrant rights movement,
 their seminary studies, and how their faith has evolved through their
 activist journey.
 
-**Advance registration required: Check back soon for registration link.**
+**Advance registration required**
+<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1">Register</a>
 
 Rosario "Charo" Urena is a minister, organizer and the founding director
 of Proyecto Faro, an immigrant-led organizing project based in Stony
@@ -52,6 +53,9 @@ Swarthmore College with research focuses in prison history, anthropology
 of religion and Marxist social theory. She was raised primarily as a
 United Methodist, and has also been influenced by the tradition of
 devotion to Mother Mary.
+
+See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
+of the Scholar-Activist Encounter series.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 

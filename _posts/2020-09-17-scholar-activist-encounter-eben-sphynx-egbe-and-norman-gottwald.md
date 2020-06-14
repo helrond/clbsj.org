@@ -22,7 +22,8 @@ organizer Eben “Sphynx” Egbe will discuss their strivings for a world
 free of structural racism, and how the Bible and their Baptist
 upbringings have shaped their work and commitment.
 
-**Advance registration required: Check back soon for registration link**
+**Advance registration required**
+<a class="hollow button small" href="https://us02web.zoom.us/meeting/register/tZwucuiurz8iH9ehReExrtWShKzutaQPD0Nz">Register</a>
 
 Eben “Sphynx” Egbe is an anticolonial organizer and open source
 technologist. Raised primarily by his Baptist mother in the west African
@@ -62,6 +63,9 @@ contemporary social struggles, and a citizen activist in numerous civil
 rights, anti-war, and pro-labor movements and organizations. As an
 ordained minister of American Baptist Churches USA, he is a strong
 advocate of popular biblical study committed to social change.
+
+See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
+of the Scholar-Activist Encounter series.
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)
 

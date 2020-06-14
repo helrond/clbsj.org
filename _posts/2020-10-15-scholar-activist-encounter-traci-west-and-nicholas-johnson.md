@@ -1,7 +1,7 @@
 ---
 date: '2020-10-15'
 category: events
-layout: event
+layout: scholar-activist-encounter
 published: true
 title: 'Scholar-Activist Encounter: Traci West and Nicholas Johnson'
 description: >-
@@ -10,21 +10,14 @@ description: >-
   streets, and the role that scripture and inter-generational conversation plays
   in this process.
 ---
-The Center and Library for the Bible and Social Justice invites you to
-join us online each third Thursday at 4:30pm Pacific Time / 7:30pm
-Eastern Time for an interactive dialogue exploring the interfaces
-between scholarship and activism. How do these ways of being contribute
-to our understanding of Scripture in the world today? Let’s come
-together to learn from each other.
-
 In this session, pastor-scholar-activists Nicholas Johnson and Traci
 West will explore how they work to build bridges between the seminary,
 sanctuary and the streets, and the role that scripture and
-inter-generational conversation plays in this process.
+inter-generational conversation plays in this process.Advance registration is required.
 
-**Advance registration required, via the link below**
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d" %}
 
-<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d">Register</a>
+## About the participants
 
 **Rev. Dr. Traci C. West** is professor of Christian ethics and African
 American studies at Drew University Theological School. She is the
@@ -46,10 +39,3 @@ Christianity at Drew University in Madison, NJ. A native of Newark, NJ,
 Nicholas developed an interest in the intersections of faith, academia,
 and activism as a teenager. His work as a pastor-scholar-activist
 focuses on racial/ethnic justice and inter-generational community building.
-
-See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
-of the Scholar-Activist Encounter series.
-
-Questions: email [info@clbsj.org](mailto:info@clbsj.org)
-
-Co-sponsored by the Community of Living Traditions.

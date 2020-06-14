@@ -1,7 +1,7 @@
 ---
-date: '2020-07-16'
+date: '2020-07-16 00:00 -0400'
 category: events
-layout: event
+layout: scholar-activist-encounter
 published: true
 title: 'Scholar-Activist Encounter: Charo Ureña and Amy Dalton'
 description: >-
@@ -9,21 +9,14 @@ description: >-
   will discuss their work within the immigrant rights movement, their seminary
   studies, and how their faith has evolved through their activist journey.
 ---
-The Center and Library for the Bible and Social Justice invites you to
-join us online each third Thursday at 4:30pm Pacific Time / 7:30pm
-Eastern Time for an interactive dialogue exploring the interfaces
-between scholarship and activism. How do these ways of being contribute
-to our understanding of Scripture in the world today? Let’s come
-together to learn from each other.
-
 In this session, faith-rooted organizers Amy Dalton and Rosarion "Charo"
 Ureña will discuss their work within the immigrant rights movement,
 their seminary studies, and how their faith has evolved through their
-activist journey.
+activist journey.Advance registration is required.
 
-**Advance registration required, via the link below**
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1" %}
 
-<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1">Register</a>
+## About the participants
 
 **Rosario "Charo" Urena** is a minister, organizer and the founding director
 of Proyecto Faro, an immigrant-led organizing project based in Stony
@@ -54,10 +47,3 @@ Swarthmore College with research focuses in prison history, anthropology
 of religion and Marxist social theory. She was raised primarily as a
 United Methodist, and has also been influenced by the tradition of
 devotion to Mother Mary.
-
-See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
-of the Scholar-Activist Encounter series.
-
-Questions: email [info@clbsj.org](mailto:info@clbsj.org)
-
-Co-sponsored by the Community of Living Traditions.

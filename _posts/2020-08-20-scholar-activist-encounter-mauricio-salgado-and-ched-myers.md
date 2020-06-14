@@ -1,7 +1,7 @@
 ---
 date: '2020-08-20'
 category: events
-layout: event
+layout: scholar-activist-encounter
 published: true
 title: 'Scholar-Activist Encounter: Mauricio Salgado and Ched Myers'
 description: >-
@@ -10,39 +10,28 @@ description: >-
   through arts, documentation and scholarship, and the way this work has shaped
   and been shaped by their faith.
 ---
-The Center and Library for the Bible and Social Justice invites you to
-join us online each third Thursday at 4:30pm Pacific Time / 7:30pm
-Eastern Time for an interactive dialogue exploring the interfaces
-between scholarship and activism. How do these ways of being contribute
-to our understanding of Scripture in the world today? Let’s come
-together to learn from each other.
-
 In this session, Activist theologian Ched Myers and Theatre Studies Professor
 Mauricio Tafur Salgado will discuss their work to create capacity for
 movement-building through arts, documentation and scholarship, and the
-way this work has shaped and been shaped by their faith.
+way this work has shaped and been shaped by their faith. Advance registration is required.
 
-**Advance registration required, via the link below**
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0vf-CqqDgiE9NlF_62aFhkZv3h0OMprwYn" %}
 
-<a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZ0vf-CqqDgiE9NlF_62aFhkZv3h0OMprwYn">Register</a>
+## About the participants
 
 **Ched Myers** is an activist theologian who has worked in social change
-movements for 40 years. With a degree in New Testament Studies, he is a
-popular educator who animates scripture and issues of faith-based peace
-and justice. He has authored over 100 articles and a half-dozen books,
-including _Binding the Strong Man: A Political Reading of Mark’s Story of
-Jesus_ (1988), _The Biblical Vision of Sabbath Economics_ (2001),
-_Ambassadors of Reconciliation: A N.T. Theology and Diverse Christian
-Practices of Restorative Justice and Peacemaking_ (with Elaine Enns,
-Orbis, 2009), and most recently, _Watershed Discipleship: Reinhabiting
-Bioregional Discipleship_ (Cascade, 2016). You can find Ched’s
-publications at [www.ChedMyers.org](http://www.chedmyers.org).
-Ched is a co-founder of the Word and
-World School, the Sabbath Economics Collaborative, and the Center and
-Library for the Bible and Social Justice. He and his partner Elaine
-Enns, a restorative justice practitioner, live in the Ventura River
-watershed in southern California on traditional Chumash territory, and
-work with Bartimaeus Cooperative Ministries.
+movements for 40 years. He holds a degree in New Testament Studies, and
+has authored over 100 articles and a half-dozen books, including _Binding
+the Strong Man: A Political Reading of Mark’s Story of Jesus_ (1988), _The
+Biblical Vision of Sabbath Economics_ (2001), and _Watershed Discipleship:
+Reinhabiting Bioregional Discipleship_ (Cascade, 2016). Ched's new book
+(forthcoming from Cascade) is _Healing Haunted Histories: A Settler
+Discipleship of Decolonization_ (with Elaine Enns). Ched is a co-founder
+of the Word and World School, the Sabbath Economics Collaborative, and
+the Center and Library for the Bible and Social Justice. He and his
+partner Elaine Enns, a restorative justice practitioner, live in the
+Ventura River watershed in southern California on traditional Chumash
+territory, and work with Bartimaeus Cooperative Ministries.
 
 **Mauricio Tafur Salgado** is an Assistant Arts Professor of Theatre Studies
 in the Department of Drama at NYU Tisch School of the Arts. Salgado is
@@ -64,10 +53,3 @@ India, Belgium, Germany, Scotland, and across Turtle Island (the United
 States). He has taught at the Boston Conservatory, Brown University,
 Santa Clara University, La Guardia Community College, and Kingsborough
 Community College.
-
-See the [full schedule](https://clbsj.org/news/2020/06/11/scholar-activist-encounters/)
-of the Scholar-Activist Encounter series.
-
-Questions: email [info@clbsj.org](mailto:info@clbsj.org)
-
-Co-sponsored by the Community of Living Traditions.

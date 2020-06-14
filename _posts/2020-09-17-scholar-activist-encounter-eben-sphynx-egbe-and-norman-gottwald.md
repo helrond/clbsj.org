@@ -22,11 +22,11 @@ organizer Eben “Sphynx” Egbe will discuss their strivings for a world
 free of structural racism, and how the Bible and their Baptist
 upbringings have shaped their work and commitment.
 
-**Advance registration required**
+**Advance registration required, via the link below**
 
 <a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZwucuiurz8iH9ehReExrtWShKzutaQPD0Nz">Register</a>
 
-Eben “Sphynx” Egbe is an anticolonial organizer and open source
+**Eben “Sphynx” Egbe** is an anticolonial organizer and open source
 technologist. Raised primarily by his Baptist mother in the west African
 nation of Ambazonia (also known as English-speaking Cameroons), Eben has
 been an active participant in the movement against neocolonial control
@@ -50,7 +50,7 @@ Coalition. Eben is is a PhD candidate at the University of Minnesota’s
 Department of Scientific Computation in the College of Science &
 Engineering and a member of the Empowerment Lab.
 
-Norman K. Gottwald is Professor Emeritus of Biblical Studies at New York
+**Norman K. Gottwald** is Professor Emeritus of Biblical Studies at New York
 Theological Seminary and taught previously at the Graduate Theological
 Union and Andover Newton Theological School. He is author of The Tribes
 of Yahweh, a celebrated study of the origins of ancient Israel as an

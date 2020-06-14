@@ -22,11 +22,11 @@ West will explore how they work to build bridges between the seminary,
 sanctuary and the streets, and the role that scripture and
 inter-generational conversation plays in this process.
 
-**Advance registration required**
+**Advance registration required, via the link below**
 
 <a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d">Register</a>
 
-Rev. Dr. Traci C. West is professor of Christian ethics and African
+**Rev. Dr. Traci C. West** is professor of Christian ethics and African
 American studies at Drew University Theological School. She is the
 author of _Solidarity and Defiant Spirituality: Africana Lessons on
 Religion, Racism, and Ending Gender Violence_ (2019), _Disruptive
@@ -36,7 +36,7 @@ of _Our Family Values: Same-sex Marriage and Religion_, and author of many
 articles and book chapters on gender, racial, and sexual justice in
 religion and society.
 
-The Reverend Nicholas A. Johnson is pastor of Raritan Valley Baptist
+**The Reverend Nicholas A. Johnson** is pastor of Raritan Valley Baptist
 Church in Edison, NJ. He also teaches in the Philosophy and Religion
 department at New Jersey City University in Jersey City, NJ. Nicholas
 holds undergraduate degrees in History and Religious Studies from the

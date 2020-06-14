@@ -17,16 +17,16 @@ between scholarship and activism. How do these ways of being contribute
 to our understanding of Scripture in the world today? Let’s come
 together to learn from each other.
 
-In this session, Activist theologian Ched Myers and Theater Studies Professor
+In this session, Activist theologian Ched Myers and Theatre Studies Professor
 Mauricio Tafur Salgado will discuss their work to create capacity for
 movement-building through arts, documentation and scholarship, and the
 way this work has shaped and been shaped by their faith.
 
-**Advance registration required**
+**Advance registration required, via the link below**
 
 <a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZ0vf-CqqDgiE9NlF_62aFhkZv3h0OMprwYn">Register</a>
 
-Ched Myers is an activist theologian who has worked in social change
+**Ched Myers** is an activist theologian who has worked in social change
 movements for 40 years. With a degree in New Testament Studies, he is a
 popular educator who animates scripture and issues of faith-based peace
 and justice. He has authored over 100 articles and a half-dozen books,
@@ -44,7 +44,7 @@ Enns, a restorative justice practitioner, live in the Ventura River
 watershed in southern California on traditional Chumash territory, and
 work with Bartimaeus Cooperative Ministries.
 
-Mauricio Tafur Salgado is an Assistant Arts Professor of Theatre Studies
+**Mauricio Tafur Salgado** is an Assistant Arts Professor of Theatre Studies
 in the Department of Drama at NYU Tisch School of the Arts. Salgado is
 mestizo + first gen + born to proudly subversive Colombians + brown
 skinned + amateur bio-regionalist + aspiring theologian + cis-hetero +

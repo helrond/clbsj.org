@@ -21,11 +21,11 @@ Ureña will discuss their work within the immigrant rights movement,
 their seminary studies, and how their faith has evolved through their
 activist journey.
 
-**Advance registration required**
+**Advance registration required, via the link below**
 
 <a class="primary donate button small" href="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1">Register</a>
 
-Rosario "Charo" Urena is a minister, organizer and the founding director
+**Rosario "Charo" Urena** is a minister, organizer and the founding director
 of Proyecto Faro, an immigrant-led organizing project based in Stony
 Point, NY. A Dominican immigrant who has experienced being undocumented
 in the United States, her passion for social justice was catalyzed by
@@ -38,7 +38,7 @@ graduate of the Kairos Course, having been sponsored by Redemptive Word
 Ministry in Tulsa, Oklahoma. She enjoys spending time with her two
 daughters and one precious granddaughter.
 
-Amy Dalton is a faith-rooted scholar-activist who has been an
+**Amy Dalton** is a faith-rooted scholar-activist who has been an
 “observer-participant” in many social justice movements, including Black
 Lives Matter and African solidarity organizing, the sanctuary movement
 and immigrant advocacy, the global indymedia network, death penalty and

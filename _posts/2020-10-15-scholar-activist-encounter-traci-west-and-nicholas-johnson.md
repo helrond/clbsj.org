@@ -13,7 +13,7 @@ description: >-
 In this session, pastor-scholar-activists Nicholas Johnson and Traci
 West will explore how they work to build bridges between the seminary,
 sanctuary and the streets, and the role that scripture and
-inter-generational conversation plays in this process.Advance registration is required.
+inter-generational conversation plays in this process. Advance registration is required.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d" %}
 

@@ -12,7 +12,7 @@ description: >-
 In this session, faith-rooted organizers Amy Dalton and Rosarion "Charo"
 Ureña will discuss their work within the immigrant rights movement,
 their seminary studies, and how their faith has evolved through their
-activist journey.Advance registration is required.
+activist journey. Advance registration is required.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZIsdu2gpzsiH9eqIbSgCokxhFlkCrTVJZW1" %}
 

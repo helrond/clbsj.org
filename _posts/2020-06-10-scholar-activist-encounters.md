@@ -11,7 +11,7 @@ description: >-
   activism. How do these ways of being contribute to our understanding of
   Scripture in the world today? Let’s come together to learn from each other.
 ---
-<div class="float-right" style="margin-right:1em; width:25em">
+<div class="float-right" style="margin-right:1em; width:20em">
   <img src="{{site.baseurl}}/img/Scholar-ActivistEncounters-IMAGE.png" alt="fist holding pen">
 </div>
 

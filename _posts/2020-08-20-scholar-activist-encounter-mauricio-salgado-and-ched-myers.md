@@ -10,7 +10,7 @@ description: >-
   through arts, documentation and scholarship, and the way this work has shaped
   and been shaped by their faith.
 ---
-In this session, Activist theologian Ched Myers and Theatre Studies Professor
+In this session, Activist theologian Ched Myers and Applied Theatre Professor
 Mauricio Tafur Salgado will discuss their work to create capacity for
 movement-building through arts, documentation and scholarship, and the
 way this work has shaped and been shaped by their faith. Advance registration is required.

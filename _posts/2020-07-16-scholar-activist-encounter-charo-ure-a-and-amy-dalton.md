@@ -28,8 +28,8 @@ experience — including as a cell leader, transportation director, food
 pantry director, events and retreats coordinator, and missions trip
 coordinator — which she puts to use in her organizing work. She is a
 graduate of the Kairos Course, having been sponsored by Redemptive Word
-Ministry in Tulsa, Oklahoma. She enjoys spending time with her two
-daughters and one precious granddaughter.
+Ministry in Tulsa, Oklahoma. She enjoys spending time with her soul mate,
+two daughters and one precious granddaughter; and in crafts painting.
 
 **Amy Dalton** is a faith-rooted scholar-activist who has been an
 “observer-participant” in many social justice movements, including Black

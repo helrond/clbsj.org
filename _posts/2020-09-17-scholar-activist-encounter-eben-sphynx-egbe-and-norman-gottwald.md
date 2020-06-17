@@ -3,15 +3,15 @@ date: '2020-09-17'
 category: events
 layout: scholar-activist-encounter
 published: true
-title: 'Scholar-Activist Encounter: Eben “Sphynx” Egbe and Norman Gottwald'
+title: 'Scholar-Activist Encounter: Sphynx Eben and Norman Gottwald'
 description: >-
   In this session, Biblical scholar Norman Gottwald and anticolonial organizer
-  Eben “Sphynx” Egbe will discuss their strivings for a world free of structural
+  Sphynx Eben will discuss their strivings for a world free of structural
   racism, and how the Bible and their Baptist upbringings have shaped their work
   and commitment.
 ---
 In this session, Biblical scholar Norman Gottwald and anticolonial
-organizer Eben “Sphynx” Egbe will discuss their strivings for a world
+organizer Sphynx Eben will discuss their strivings for a world
 free of structural racism, and how the Bible and their Baptist
 upbringings have shaped their work and commitment. Advance registration is required.
 
@@ -19,7 +19,7 @@ upbringings have shaped their work and commitment. Advance registration is requi
 
 ## About the participants
 
-**Eben “Sphynx” Egbe** is an anticolonial organizer and open source
+**Sphynx Eben** is an anticolonial organizer and open source
 technologist. Raised primarily by his Baptist mother in the west African
 nation of Ambazonia (also known as English-speaking Cameroons), Eben has
 been an active participant in the movement against neocolonial control
@@ -39,7 +39,7 @@ Traditions, and a Board member of the Central Africa Human Rights
 Defenders Network (known by its French acronym REDHAC). He is the REDHAC
 section representative at War Resisters International and a member of
 the organizing team for the emerging Racial Justice Has No Borders
-Coalition. Eben is is a PhD candidate at the University of Minnesota’s
+Coalition. Sphynx Eben is is a PhD candidate at the University of Minnesota’s
 Department of Scientific Computation in the College of Science &
 Engineering and a member of the Empowerment Lab.
 

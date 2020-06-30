@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} - {{ site.name }}</title>
+  <title>{{ page.title | strip_html }} - {{ site.name }}</title>
   <meta name="description" content="{{ meta_description }}" />
   <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
 

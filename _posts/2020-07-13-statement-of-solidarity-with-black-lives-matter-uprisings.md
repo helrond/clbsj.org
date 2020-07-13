@@ -2,14 +2,10 @@
 date: '2020-07-13 18:02 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: Statement of Solidarity with Black Lives Matter Uprisings
 tags:
   - black lives matter
-author: ''
-author_bio: ''
-location: ''
-description: ''
 ---
 Recent events in our nation have tested our collective heart and soul and exposed the lingering wounds of racism and economic injustice in this country. The growing number of unarmed Black people killed by police has again drawn attention to law enforcement’s practices of hypermilitarization, racial profiling, and over policing in Communities of Color. The Coronavirus pandemic that still takes its toll on our nation has exposed the inequities in our healthcare system particularly toward Black, Indigenous, People of Color and economically disadvantaged communities. The increase of racist and anti-immigrant rhetoric coupled with violent acts is forcing us to grapple with this nation’s enduring legacy of racism and white supremacy. Protests and demonstrations led by Black Lives Matter, the Poor People’s Campaign, and other justice organizations happening across the country are speaking out against these injustices, and we, board members of the Center and Library for the Bible and Social Justice (CLBSJ), stand in support and solidarity with these movements.
 

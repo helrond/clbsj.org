@@ -2,7 +2,8 @@
 layout: level-two
 ---
 
-<p>{{ page.author }}</p>
+<p>{{ page.author }}<br />
+   {{ page.date | date_to_long_string }}</p>
 <p>{{ content }}</p>
 
 {% if page.tags %}{% assign tags = page.tags %}{% include tags.html %}{% endif %}

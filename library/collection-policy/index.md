@@ -1,8 +1,9 @@
 ---
 layout: level-two
 title: Collection Policy
-description:
+description: null
 keywords: collection policy
+published: true
 ---
 
 ## 1. Audience
@@ -11,7 +12,7 @@ The Center and Library for the Bible and Social Justice serves biblically inform
 
 ## 2. Collecting scope
 
-The CLBSJ collects books and periodicals (and may consider accepting materials in other formats) which relate to its mission of providing resources related to the Bible, issues of social justice, or the intersection of the two. In select cases, works that represent the antithesis of our mission will be considered on an individual basis, since they may aid in understanding mindsets that lead to injustice.
+The CLBSJ collects books and periodicals (and may consider accepting materials in other formats) which relate to its mission of providing resources related to the Bible, issues of social justice, or the intersection of the two. We prioritize the collection of volumes by authors who are members of marginalized or underrepresented communities.
 
 ### 2.1 Subjects
 

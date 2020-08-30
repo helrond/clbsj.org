@@ -3,6 +3,7 @@ date: '2020-08-20'
 category: events
 layout: scholar-activist-encounter
 published: true
+time: '7:30pm Eastern Time'
 title: 'Scholar-Activist Encounter: Mauricio Salgado and Ched Myers'
 description: >-
   In this session, Activist theologian Ched Myers and Drama Professor Mauricio

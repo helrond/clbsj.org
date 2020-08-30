@@ -5,17 +5,21 @@ layout: scholar-activist-encounter
 published: true
 title: 'Scholar-Activist Encounter: Sphynx Eben and Norman Gottwald'
 description: >-
-  In this session, Biblical scholar Norman Gottwald and anticolonial organizer
-  Sphynx Eben will discuss their strivings for a world free of structural
-  racism, and how the Bible and their Baptist upbringings have shaped their work
-  and commitment.
+  In this session, Biblical scholar Norman Gottwald and anti-colonial
+  organizer Sphynx Eben will discuss their strivings for a world free of
+  structural racism — in the United States, Ambazonia (West Africa) and
+  worldwide — and how the Bible and their Baptist upbringings have shaped
+  their work and commitment.
 ---
-In this session, Biblical scholar Norman Gottwald and anticolonial
-organizer Sphynx Eben will discuss their strivings for a world
-free of structural racism, and how the Bible and their Baptist
-upbringings have shaped their work and commitment. Advance registration is required.
+In this session, Biblical scholar Norman Gottwald and anti-colonial
+organizer Sphynx Eben will discuss their strivings for a world free of
+structural racism — in the United States, Ambazonia (West Africa) and
+worldwide — and how the Bible and their Baptist upbringings have shaped
+their work and commitment. Advance registration is required.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwucuiurz8iH9ehReExrtWShKzutaQPD0Nz" %}
+
+Help us spread the word [on Facebook](https://www.facebook.com/events/751272119051685/)!
 
 ## About the participants
 

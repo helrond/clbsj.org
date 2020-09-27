@@ -31,8 +31,8 @@ on the links below.
   - December 17: [Weldon Nisly and Tom Boomershine]({{site.baseurl}}/events/2020/12/17/scholar-activist-encounter-weldon-nisley-and-tom-boomershine/)
 
 ## Past Engagements
-- July 16: [Amy Dalton and Charo Ureña]({{site.baseurl}}/events/2020/07/16/scholar-activist-encounter-charo-ure-a-and-amy-dalton/)
-- August 20: [Ched Myers and Mauricio Salgado]({{site.baseurl}}/events/2020/08/20/scholar-activist-encounter-mauricio-salgado-and-ched-myers/)
+  - July 16: [Amy Dalton and Charo Ureña]({{site.baseurl}}/events/2020/07/16/scholar-activist-encounter-charo-ure-a-and-amy-dalton/)
+  - August 20: [Ched Myers and Mauricio Salgado]({{site.baseurl}}/events/2020/08/20/scholar-activist-encounter-mauricio-salgado-and-ched-myers/)
   - September 17: [Norman Gottwald and Sphynx Eben]({{site.baseurl}}/events/2020/09/17/scholar-activist-encounter-eben-sphynx-egbe-and-norman-gottwald/)
 
 

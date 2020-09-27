@@ -22,12 +22,11 @@ Advance registration is required.
 
 ## About the participants
 
-**Weldon Nisly** served four decades in Mennonite pastoral and peace
-ministry in Philadelphia, Cincinnati, and Seattle until retiring in late
-2013. He now engages in prayerful listening active nonviolent presence
-for peace locally and globally. He participated on peace delegations in
-Nicaragua (1984, 1990) and Russia (1988). He served with [Christian
-Peacemaker Teams](http://www.cpt.org) delegations in Iraq (2003, 2010, 2014)
+**Weldon Nisly** served four decades in Mennonite pastoral and peace ministry
+in Philadelphia, Cincinnati, and Seattle until retiring in late 2013. He now
+engages in prayerful listening active nonviolent presence for peace locally and
+globally. He participated on peace delegations in Nicaragua (1984, 1990) and Russia (1988).
+He served with [Christian Peacemaker Teams](http://www.cpt.org) delegations in Iraq (2003, 2010, 2014)
 and half-time on the Iraqi Kurdistan and Palestine teams from 2017 to
 the present. Prior to ministry, he was a political organizer in Iowa
 (1968-73) where he grew up on a farm. Weldon earned a BBA in economics

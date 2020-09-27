@@ -11,9 +11,6 @@ description: >-
   respond to the Gospel's call to peacemaking within the academy, within
   Christian community, and in conflict zones around the world.
 ---
-How do activism and scholarship contribute to our understanding of
-Scripture in the world today?
-
 In this session, lifelong peace activist Weldon Nisly and Biblical
 scholar Tom Boomershine will discuss their work to understand and
 respond to the Gospel's call to peacemaking within the academy, within

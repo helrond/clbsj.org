@@ -10,9 +10,6 @@ description: >-
   Rev. Abby Mohaupt will share about their work for environmental and
   racial justice within the Presbyterian Church USA and beyond.
 ---
-How do activism and scholarship contribute to our understanding of
-Scripture in the world today?
-
 In this session, faith-rooted scholar-activists Rick Ufford-Chase and
 Rev. Abby Mohaupt will share about their work for environmental and
 racial justice within the Presbyterian Church USA and beyond.

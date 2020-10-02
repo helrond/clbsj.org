@@ -5,33 +5,36 @@ description:
 keywords: board of directors
 ---
 <!-- List of board members -->
+{% assign president = site.pages | where: 'officer', 'President' %}
+{% assign treasurer = site.pages | where: 'officer', 'Treasurer' %}
+{% assign secretary = site.pages | where: 'officer', 'Secretary' %}
 {% assign board_members = site.pages | where: 'category', 'board-member' | sort: 'sort' %}
+{% assign staff_members = site.pages | where: 'category', 'staff' | sort: 'sort' %}
+{% assign advisory_committee_members = site.pages | where: 'category', 'advisory-committee-member' | sort: 'sort' %}
 
-{% for page in board_members %}
-  <div class="row callout">
-    {% if page.image %}
-      <div class="medium-3 columns">
-        <img class="round-image" src="{{site.url}}{{page.image}}">
-      </div>
-      <div class="medium-9 columns">
-        <h4><a href="{{site.url}}{{page.url}}">{{page.title}}</a></h4>
-        <p>{{page.job-title}}{% if page.job-title %}, {% endif %}{{page.institution}}</p>
-        <p>{{page.content | strip_html  | truncatewords:50 }}</p>
-        <a class="hollow button small" href="{{site.url}}{{page.url}}">Read More</a>
-      </div>
-    {% else %}
-      <div class="medium-12 columns">
-        <h4><a href="{{site.url}}{{page.url}}">{{page.title}}</a></h4>
-        <p>{{page.job-title}}{% if page.job-title %}, {% endif %}{{page.institution}}</p>
-        <p>{{page.content | strip_html  | truncatewords:50 }}</p>
-        <a class="hollow button small" href="{{site.url}}{{page.url}}">Read More</a>
-      </div>
-    {% endif %}
-  </div>
+<h2>Board</h2>
+{% for page in president %}
+  {% include officer.html %}
+{% endfor %}
+{% for page in treasurer %}
+  {% include officer.html %}
+{% endfor %}
+{% for page in secretary %}
+  {% include officer.html %}
 {% endfor %}
 
-<h2>Advisory Board</h2>
-<ul class="no-bullet">
-  <li>John H. Elliot</li>
-  <li>Ched Myers</li>
-</ul>
+{% for page in board_members %}
+  {% unless page.officer %}
+    {% include board_member.html %}
+  {% endunless %}
+{% endfor %}
+
+<h2>Staff</h2>
+{% for page in staff_members %}
+  {% include staff.html %}
+{% endfor %}
+
+<h2>Advisory Committee</h2>
+{% for page in advisory_committee_members %}
+  {% include board_member.html %}
+{% endfor %}

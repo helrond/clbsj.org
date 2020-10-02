@@ -5,6 +5,7 @@ sort: ufford-chase
 description: Rick Ufford-Chase and his wife Kitty are the Co-Directors of Stony Point Conference Center, which houses the primary collections of the CLBSJ.
 keywords: rick ufford-chase
 category: board-member
+officer: Treasurer
 job-title: Co-Director
 institution: Stony Point Center
 image: "/img/board/ufford-chase.jpg"

@@ -11,12 +11,16 @@ description: >-
   streets, and the role that scripture and inter-generational conversation plays
   in this process.
 ---
-In this session, pastor-scholar-activists Nicholas Johnson and Traci
-West will explore how they work to build bridges between the seminary,
-sanctuary and the streets, and the role that scripture and
-inter-generational conversation plays in this process. Advance registration is required.
+In this session, CLBSJ Board Chair Nicholas Johnson and groundbreaking
+Christian Ethicist Traci West, author of _Solidarity and Defiant
+Spirituality_ (NYU Press, 2019). Both pastors-scholar-activists, Rev.
+Johnson and Dr. West will discuss their work to build bridges between
+the seminary, sanctuary and the streets, and the role of scripture and
+Christian ethics in discerning our way forward at this moment in time.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0scumqpjopHNddgVfEzLbVKJxurwiVzo_d" %}
+
+Help us spread the word [on Facebook](https://www.facebook.com/events/800368827395556)!
 
 ## About the participants
 

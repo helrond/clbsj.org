@@ -17,9 +17,10 @@ respond to the Gospel’s call to peacemaking — within the academy, within
 Christian community, and in conflict zones around the world. They will
 focus on the struggle of the Kurds in Northern Iraq targeted by Turkey's
 military in the context of the Iraq war, as well as the Palestinian
-struggle in the Israeli-occupied West Bank. This event is co-sponsored
-by the Christian Peacemaker Teams, who have teams in Iraqi Kurdistan and
-Palestine.
+struggle in the Israeli-occupied West Bank. This event is co-sponsored by the
+[Christian Peacemaker Teams](https://www.cpt.org/), who have teams in Iraqi
+Kurdistan and Palestine, and the
+[Network of Biblical Storytellers International](https://www.nbsint.org/).
 
 Advance registration is required.
 

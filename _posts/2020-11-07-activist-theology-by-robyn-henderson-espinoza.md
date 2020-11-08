@@ -12,6 +12,10 @@ description: >-
     translating theory to action and theology to practice.
 ---
 
+<div class="float-left" style="margin-right:1em; width:25em">
+  <img src="{{site.baseurl}}/img/espinoza_activist-theology.jpg" alt="cover of Activist Theology">
+</div>
+
 For Dr. Robyn Henderson-Espinoza, "activist theology" is an “invitation
 to enter into a movement of becoming that spirals toward justice.” The
 author the uses term activist theology “to describe my work of
@@ -47,6 +51,8 @@ To attempt to delineate all of Henderson-Espinoza’s theory of activist
 theology would take more space than allotted here. In finishing I would
 ultimately say that this is a book well worth reading and having in your
 personal library.
+
+Minneapolis: Fortress Press, 2019
 
 \* _DapperQ is one of the world's most widely read digital queer style
 magazines and is a preeminent voice in queer fashion and beauty._

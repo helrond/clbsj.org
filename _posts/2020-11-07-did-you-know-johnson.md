@@ -9,6 +9,10 @@ description: >-
     activist, the new President of CLBSJ's Board was once a park ranger?
 ---
 
+<div class="float-left" style="margin-right:1em; width:25em">
+  <img src="{{site.baseurl}}/img/johnson_did-you-know.jpg" alt="Nicholas Johnson">
+</div>
+
 Did you know that, in addition to being a pastor, a scholar, and an
 activist, the new President of CLBSJ's Board was once a park ranger?
 Rev. Nicholas Johnson worked at Thomas Edison National Historical Park
@@ -22,7 +26,8 @@ Today Pastor Nick is still focused on helping people understand and
 harness power. We asked him to fill us in on several other aspects of
 his work and career.
 
-**Your bio says that your PhD work at Drew University is focused
+**[Your bio]({{site.baseurl}}/about/leadership/nicholas-a-johnson/) says
+that your PhD work at Drew University is focused
 on Paul’s epistles, Revelation and the intersections of Africana
 postcolonial and new testament studies. What can you tell us about what
 questions you are trying to answer?**

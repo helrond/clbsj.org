@@ -56,8 +56,8 @@ personal library.
 
 Minneapolis: Fortress Press, 2019
 
-\1. _DapperQ is one of the world's most widely read digital queer style
+1. _DapperQ is one of the world's most widely read digital queer style
 magazines and is a preeminent voice in queer fashion and beauty._
-\2. The pronouns "they, them and theirs" are used to indicate that a
+2. The pronouns "they, them and theirs" are used to indicate that a
 person does not identify with either the male or female gender. This is
 also known as "non-binary gender identity."

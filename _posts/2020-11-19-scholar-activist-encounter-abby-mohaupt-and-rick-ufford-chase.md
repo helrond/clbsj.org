@@ -4,14 +4,14 @@ category: events
 layout: scholar-activist-encounter
 published: true
 time: '7:30pm Eastern Time'
-title: 'Scholar-Activist Encounter: Abby Mohaupt and Rick Ufford-Chase'
+title: 'Scholar-Activist Encounter: abby mohaupt and Rick Ufford-Chase'
 description: >-
   In this session, faith-rooted scholar-activists Rick Ufford-Chase and
   Rev. Abby Mohaupt will share about their work for environmental and
   racial justice within the Presbyterian Church USA and beyond.
 ---
 In this session, faith-rooted scholar-activists Rick Ufford-Chase and
-Rev. Abby Mohaupt will share about their work for environmental and
+rev. abby mohaupt will share about their work for environmental and
 racial justice within the Presbyterian Church USA and beyond.
 
 Advance registration is required.

@@ -26,7 +26,7 @@ Advance registration required. For more details and to register for a session, c
 on the links below.
 
 ## Upcoming Engagements
-  - November 19: [Abby Mohaupt and Rick Ufford-Chase]({{site.baseurl}}/events/2020/11/19/scholar-activist-encounter-abby-mohaupt-and-rick-ufford-chase)
+  - November 19: [abby mohaupt and Rick Ufford-Chase]({{site.baseurl}}/events/2020/11/19/scholar-activist-encounter-abby-mohaupt-and-rick-ufford-chase)
   - December 17: [Weldon Nisly and Tom Boomershine]({{site.baseurl}}/events/2020/12/17/scholar-activist-encounter-weldon-nisley-and-tom-boomershine/)
 
 ## Past Engagements

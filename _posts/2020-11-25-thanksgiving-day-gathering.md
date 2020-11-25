@@ -22,6 +22,7 @@ Treasurer Rick Ufford-Chase played a central role in inspiring and
 facilitating this process. Below is his invitation for all to join in
 this "Celebration With an Attitude of Gratitude":
 
+<blockquote>
 I am writing to share with you about a wonderful opportunity tomorrow
 (Thanksgiving Day). Many of you know that for many years Kitty and I
 have been hosting a potluck Thanksgiving for those who don't have
@@ -45,7 +46,7 @@ through the woods, and then to join all of you for this moment to
 reflect together on all that we have to be grateful for even in the
 midst of a year in which so many have experienced such tremendous loss.
 
-There is [a flyer attached]({{site.baseurl}}/img/Indigenous-Elders-Wisdom-Sharing-2020.pdf) that you are welcome to share with others. I
+There is <a href="{{site.baseurl}}/img/Indigenous-Elders-Wisdom-Sharing-2020.pdf">a flyer attached</a> that you are welcome to share with others. I
 have also provided the zoom invite directly below in this email to make
 it easier for you to join us. The event will start at 2 pm eastern time
 and end sometime around 4 pm. You are welcome to come and go around your
@@ -61,3 +62,4 @@ https://us02web.zoom.us/j/88450614038?pwd=TFNTWjZOUjNHcmx2aVIrWVNnVHJqZz09
 
 Meeting ID: 884 5061 4038
 Passcode: 389577
+</blockquote>

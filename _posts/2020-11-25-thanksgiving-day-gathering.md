@@ -45,7 +45,7 @@ through the woods, and then to join all of you for this moment to
 reflect together on all that we have to be grateful for even in the
 midst of a year in which so many have experienced such tremendous loss.
 
-There is [a flyer attached]({{site.baseurl}}/posts/Indigenous-Elders-Wisdom-Sharing-2020.pdf) that you are welcome to share with others. I
+There is [a flyer attached]({{site.baseurl}}/img/Indigenous-Elders-Wisdom-Sharing-2020.pdf) that you are welcome to share with others. I
 have also provided the zoom invite directly below in this email to make
 it easier for you to join us. The event will start at 2 pm eastern time
 and end sometime around 4 pm. You are welcome to come and go around your

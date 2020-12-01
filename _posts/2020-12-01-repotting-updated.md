@@ -57,7 +57,7 @@ see the shoots that are emerging.
 Could you join with us today to help us cultivate this new growth?
 Please consider making a regular pledge, which will help us to start
 2021 on a firm foundation. You can make contributions by mail or via paypal -- go to
- [clbsj.org/donate](https://clbsj.org/donate) for links and instructions..
+ [clbsj.org/donate](https://clbsj.org/donate) for links and instructions.
 
 Do you have other ideas for how to support CLBSJ? If you are a pastor or
 church leader, could your church designate a gift from your pastor’s

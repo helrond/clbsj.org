@@ -24,7 +24,7 @@ Kurdistan and Palestine, and the
 
 Advance registration is required.
 
-{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZAlfuirrjMvEtNpeukXAAsBqO-hqGUNf0up" %}
+{% include registration-button.html link="https://zoom.us/webinar/register/WN_vOP-1EbfQJukuWZI8SoIyQ" %}
 
 ## About the participants
 

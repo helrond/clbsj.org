@@ -64,13 +64,6 @@ church leader, could your church designate a gift from your pastor’s
 continuing education fund, or another fund? Please email us at
 [info@clbsj.org](mailto:info@clbsj.org) with your ideas or questions.
 
-As we move forward, one of the most important forms of fertilizing that
-our new growth requires is guidance and encouragement from our elders.
-In that spirit, we are planning a tribute to the leadership of Dr. John
-H. “Jack” Elliot, founding Board President and pioneer in the social
-scientific study of Scripture. This event will take place in early 2021
-— stay tuned for more details!
-
 Thank you so much for reading this update, and for considering a pledge
 or end-of the year gift. Any level of support or feedback will help to
 nurture our new growth. We are so glad to count you as a fellow traveler

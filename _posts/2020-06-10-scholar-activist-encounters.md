@@ -26,9 +26,10 @@ Advance registration required. For more details and to register for a session, c
 on the links below.
 
 ## Upcoming Engagements
-  - December 17: [Weldon Nisly and Tom Boomershine]({{site.baseurl}}/events/2020/12/17/scholar-activist-encounter-weldon-nisley-and-tom-boomershine/)
+  - December 17, 2020: [Weldon Nisly and Tom Boomershine]({{site.baseurl}}/events/2020/12/17/scholar-activist-encounter-weldon-nisley-and-tom-boomershine/)
+  - January 21, 2021: [Dong Hyeon Jeong and Nicholas Johnson]({{site.baseurl}}/events/2021/01/21/scholar-activist-encounter-dong-hyeon-jeong-and-nicholas-johnson/)
 
-_Check back soon for 2021 event information!_
+_Additional Encounters coming in 2021. Check back soon for  event information!_
 
 ## Past Engagements
   - July 16: [Amy Dalton and Charo Ureña]({{site.baseurl}}/events/2020/07/16/scholar-activist-encounter-charo-ure-a-and-amy-dalton/)

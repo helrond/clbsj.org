@@ -18,6 +18,8 @@ liberating, critical, and de/re-constructive.
 
 Advance registration is required.
 
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZMkcOyvqT4uHNz7bgzZJKv2lmLnoo70BB0U" %}
+
 ## About the participants:
 
 **Rev. Dr. Dong Hyeon Jeong** is a United Methodist Pastor and an Assistant

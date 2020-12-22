@@ -2,6 +2,7 @@
 date: '2020-12-22'
 category: news
 layout: news-item
+author: Norman Gottwald
 published: true
 title: 'A Tribute to John "Jack" Elliott'
 description: >-

@@ -17,9 +17,9 @@ to health complications from a fall. We were anticipating his recovery
 and looking forward to featuring his work in an upcoming
 Scholar-Activist Encounter. We still hope to present an event honoring
 Jack’s unique body of work. If you have a testimony of how his
-scholarship has impacted your path, please send it to [info@clbsj.org](mailto:info@clbsj.org).
+scholarship has impacted your path, please send it to [info@clbsj.org](mailto:info@clbsj.org)._
 
-Here, CLBSJ cofounder Norman Gottwald offers a personal tribute to
+_Here, CLBSJ cofounder Norman Gottwald offers a personal tribute to
 Jack’s contributions as a biblical scholar and an activist._
 
 John H. Elliott better, known as "Jack," is solidly established in the

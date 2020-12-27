@@ -10,6 +10,18 @@ description: >-
   scholarly world as a master interpreter of 1st Peter and an ardent
   advocate of social-scientific criticism in biblical studies.
 ---
+_We are heartbroken at the sudden passing of CLBSJ cofounder and former
+Board President John H. "Jack" Elliot on December 13, 2020. Jack had
+recently retired from his position as President of the CLBSJ Board due
+to health complications from a fall. We were anticipating his recovery
+and looking forward to featuring his work in an upcoming
+Scholar-Activist Encounter. We still hope to present an event honoring
+Jack’s unique body of work. If you have a testimony of how his
+scholarship has impacted your path, please send it to [info@clbsj.org](mailto:info@clbsj.org).
+
+Here, CLBSJ cofounder Norman Gottwald offers a personal tribute to
+Jack’s contributions as a biblical scholar and an activist._
+
 John H. Elliott better, known as "Jack," is solidly established in the
 scholarly world as a master interpreter of 1st Peter and an ardent
 advocate of social-scientific criticism in biblical studies. Precisely

@@ -8,7 +8,7 @@ $(document).ready(function(){
   // Hide events occuring in the past
   var now = new Date($.now())
   now.setDate(now.getDate() - 1);
-  $("div.callout").each(function() {
+  $("div.callout, .filter-before-date").each(function() {
     if ($(this).data("date-filter")) {
       var post = new Date($(this).data("date-filter").split(" ")[0])
       if (now > post) {
@@ -16,8 +16,21 @@ $(document).ready(function(){
       }
     }
   })
+  $(".filter-after-date").each(function() {
+    if ($(this).data("date-filter")) {
+      var post = new Date($(this).data("date-filter").split(" ")[0])
+      if (now < post) {
+        $(this).hide()
+      }
+    }
+  })
   if (!$("div.events").children("div.callout:visible").length) {
     $("div.events").append("<p>No upcoming events currently scheduled.</p>")
   }
-
+  $(".series-events").each(function() {
+    console.log(this);
+    if (!$(this).children("ul").children("li:visible").length) {
+      $(this).hide()
+    }
+  })
 });

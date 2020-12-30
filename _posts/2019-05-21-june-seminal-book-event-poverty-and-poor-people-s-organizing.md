@@ -2,8 +2,9 @@
 date: '2019-06-13'
 category: events
 layout: event
+series: seminal-books
 published: true
-title: 'June Seminal Book Event: Poverty and Poor People’s Organizing '
+title: 'Poverty and Poor People’s Organizing'
 location: '5 Cricketown Road Stony Point, NY 10980'
 ---
 On June 13, 2019, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements.
@@ -14,6 +15,6 @@ Joe is a lifelong New Yorker, growing up in the Mid-Hudson Valley, near New Palt
 
 Joe lives in Albany with his wife Lesley and their dogs, Artax and Nym. He plays tenor and baritone saxophone in two Capital Region bands: Kimono Dragons and Victory Soul Orchestra. In his free time he enjoys finding vegetarian restaurants and exploring the Adirondacks via foot, bike or canoe.
 
-The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of Stony Point Center, 5 Cricketown Road Stony Point, NY and offered over video-conference. If you would like to join the video conference, please visit https://zoom.us/j/7328959083 at that time. 
+The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of Stony Point Center, 5 Cricketown Road Stony Point, NY and offered over video-conference. If you would like to join the video conference, please visit https://zoom.us/j/7328959083 at that time.
 
 The Seminal Books in Activist Theology Series is sponsored by the Center and Library for the Bible and Social Justice and the Community of Living Traditions at Stony Point Center. This is our last event in the 2018-2019 academic calendar, and we will be resuming our series in September 2019, stay tuned!

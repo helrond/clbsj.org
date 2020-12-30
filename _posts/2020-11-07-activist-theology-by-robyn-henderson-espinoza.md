@@ -2,6 +2,7 @@
 date: '2020-11-07 15:12 -0400'
 category: news
 layout: from-the-stacks
+series: from-the-stacks
 published: true
 title: <em>Activist Theology</em> by Robyn Henderson-Espinoza
 author: Laura Gottwald

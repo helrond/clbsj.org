@@ -1,10 +1,11 @@
 ---
 date: '2020-10-15'
 category: events
-layout: scholar-activist-encounter
+layout: event
+series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
-title: 'Scholar-Activist Encounter: Traci West and Nicholas Johnson'
+title: 'Traci West and Nicholas Johnson'
 description: >-
   In this session, pastor-scholar-activists Nicholas Johnson and Traci West will
   explore how they work to build bridges between the seminary, sanctuary and the

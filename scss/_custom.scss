@@ -104,7 +104,13 @@ h1, h2, h3, h4, h5, h6 {
     }
     a {
       color: $white;
+      text-decoration: none;
     }
+}
+
+.top-bar-left {
+  min-width: 85%;
+  margin-top: .3em;
 }
 
 .menu-text {
@@ -112,9 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .brand-logo {
-  height: 2rem;
-  width: 2rem;
-  margin-top: .5rem;
+  height: 38px;
   float: left;
 }
 
@@ -152,6 +156,10 @@ footer {
   }
 }
 
+.button {
+  text-decoration: none;
+}
+
 .button.hollow.orange {
   border-color: $orange;
   color: $orange;
@@ -164,6 +172,7 @@ footer {
 .button.primary.donate {
     background-color: #FCB040;
     margin: .3rem 0 .3rem 0;
+    color: $black;
 }
 
 .home-title {
@@ -175,4 +184,19 @@ footer {
   hr {
     border-bottom-color: $orange
   }
+}
+
+.label > a {
+  text-decoration: none;
+}
+
+.label-orange {
+  background-color: $orange;
+  & > a {
+    color: $black;
+  }
+}
+
+.event-tagline {
+  font-weight: bold;
 }

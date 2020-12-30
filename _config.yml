@@ -5,6 +5,16 @@ keywords : bible, justice, library, clbsj
 url : https://clbsj.org
 author : The Center & Library for the Bible and Social Justice
 year : 2016
+collections:
+  event_series:
+    output: true
+    permalink: /events/:name/
+  news_categories:
+    output: true
+    permalink: /news/:name/
+  newsletters:
+    output: true
+    permalink: /newsletters/:name/
 twitter : clbsj
 markdown : kramdown
 permalink: pretty

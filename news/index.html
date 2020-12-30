@@ -1,0 +1,20 @@
+---
+layout: level-one
+title: News
+description:
+keywords: news
+image: /img/news.jpg
+---
+
+<div class="medium-10 medium-offset-1">
+  <div class="medium-7 columns">
+    <h2>Recent News</h2>
+    {% include news-list.html %}
+  </div>
+  <div class="medium-5 columns">
+    <h2>News Categories</h2>
+    {% for series in site.news_series %}
+      {% include news-series-item.html series=series %}
+    {% endfor %}
+  </div>
+</div>

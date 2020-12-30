@@ -2,12 +2,25 @@
 layout: level-two
 ---
 
-<p>{{page.date | date: '%B %d, %Y' }}</p>
-<p>{{page.time}}</p>
+{%- include series-by-name.html name=page.series -%}
+
+{%- if series -%}
+<span class="label label-orange label-series"><a href="{{series.url}}">{{series.title}}</a></span>
+{%- endif -%}
+
+<p>{{page.date | date: '%B %d, %Y' }}{% if page.time %}, {{page.time}}{% endif %}</p>
+
+{%- if series.tagline -%}<p class="event-tagline">{{series.tagline}}</p>{%- endif -%}
 
 {{ content }}
 
-{% if page.location %}<iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{page.location}}&key=AIzaSyDhohzY1SCbmQNhdmJJivBvTczWEfhZPgg" allowfullscreen></iframe>
-{% endif %}
+{%- if page.location -%}
+<iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{page.location}}&key=AIzaSyDhohzY1SCbmQNhdmJJivBvTczWEfhZPgg" allowfullscreen></iframe>
+{%- endif %}
 
-{% if page.tags %}{% assign tags = page.tags %}{% include tags.html %}{% endif %}
+{%- if page.tags %}{% assign tags = page.tags -%}{%- include tags.html -%}{%- endif -%}
+
+{%- if series.footer %}
+<hr/>
+{% include {{series.footer}} %}
+{% endif -%}

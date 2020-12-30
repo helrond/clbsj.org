@@ -9,12 +9,9 @@ collections:
   event_series:
     output: true
     permalink: /events/:name/
-  news_categories:
+  news_series:
     output: true
     permalink: /news/:name/
-  newsletters:
-    output: true
-    permalink: /newsletters/:name/
 twitter : clbsj
 markdown : kramdown
 permalink: pretty

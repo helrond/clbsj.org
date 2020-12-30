@@ -1,7 +1,8 @@
 ---
 date: '2018-11-02 20:50 -0400'
 category: news
-layout: reading-the-bible-as-an-activist
+layout: news-item
+series: reading-the-bible-as-an-activist
 published: true
 title: Watch Out For the Billionaire Philanthropist
 author_bio: >-

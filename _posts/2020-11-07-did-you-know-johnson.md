@@ -1,9 +1,10 @@
 ---
 date: '2020-11-07 14:45 -0400'
 category: news
-layout: did-you-know
+layout: news-item
+series: did-you-know
 published: true
-title: Did You Know?
+title: Nicholas Johnson's previous careers
 description: >-
     Did you know that, in addition to being a pastor, a scholar, and an
     activist, the new President of CLBSJ's Board was once a park ranger?

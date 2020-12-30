@@ -1,7 +1,8 @@
 ---
 date: '2018-12-11 19:59 -0500'
 category: news
-layout: reading-the-bible-as-an-activist
+layout: news-item
+series: reading-the-bible-as-an-activist
 published: true
 title: 'Advent 3: Joy and Justice'
 description: >-
@@ -27,7 +28,7 @@ The connection between doing justice and the cause for rejoicing is inseparable.
 
 Paul gives us further clues in finding a reason to rejoice. Be glad, be gentle, don’t worry, pray and practice thankfulness in these one finds the peace that passes all understanding and lasting joy in the love God has for us - manifested by God’s repeated attempts throughout the Bible to save God’s wayward people. Joy is found in one’s relationship with God. Paul tells us joy is found in communion with God through prayer, supplication and thanksgiving. Living a life of thankfulness is a powerful means of living a joyful life in all situations. Paul tells us the Lord is at hand. Our deliverance is nigh. Rejoice in the anticipation of Christ’s second coming.
 
-During the other Advent Sundays we focus on our need for self-reflection and repentance as preparation for the coming of Jesus. We recall the messages of the prophets, of John the Baptist and Jesus to “get right with God”, to do justice, love kindness and walk humbly with your God (Micah 6:8). Joy and rejoicing, justice and thanksgiving, prayer and service form  the matrix of a life lived as modeled by Jesus. On this third Sunday in Advent, we are called to rejoice in expectation, to experience the joy of God’s gift to us, the infant Christ. 
+During the other Advent Sundays we focus on our need for self-reflection and repentance as preparation for the coming of Jesus. We recall the messages of the prophets, of John the Baptist and Jesus to “get right with God”, to do justice, love kindness and walk humbly with your God (Micah 6:8). Joy and rejoicing, justice and thanksgiving, prayer and service form  the matrix of a life lived as modeled by Jesus. On this third Sunday in Advent, we are called to rejoice in expectation, to experience the joy of God’s gift to us, the infant Christ.
 
 The Lukan passage in the words of John the Baptist and in Luke 4:18-19 the words of Jesus we find the means to rejoicing. Without justice- making there is no peace. This is what both John and Jesus are calling us to do as we model Christ’s life in our own. Rejoicing comes from doing justice.  Our other readings call us to rejoice. Luke gives us the way to rejoicing.
 

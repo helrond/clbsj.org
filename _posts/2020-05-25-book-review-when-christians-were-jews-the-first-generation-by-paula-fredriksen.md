@@ -1,7 +1,8 @@
 ---
 date: '2020-05-25 12:57 -0500'
 category: news
-layout: from-the-stacks
+layout: news-item
+series: from-the-stacks
 published: true
 title: '<em>When Christians Were Jews: the First Generation</em> by Paula Fredriksen'
 author: Norman Gottwald

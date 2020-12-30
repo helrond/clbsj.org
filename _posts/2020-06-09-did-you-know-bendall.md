@@ -1,7 +1,8 @@
 ---
 date: '2020-06-09 14:45 -0400'
 category: news
-layout: did-you-know
+layout: news-item
+series: did-you-know
 published: true
 title: Doug Bendall's Quantum Theology
 description: >-

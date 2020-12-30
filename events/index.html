@@ -1,0 +1,22 @@
+---
+layout: level-one
+title: Events
+description:
+keywords: events
+image: /img/events.jpg
+---
+
+<div class="medium-10 medium-offset-1">
+  <div class="medium-12 columns">
+    <h2>Upcoming Events</h2>
+    {% include event-list.html %}
+  </div>
+</div>
+
+<hr/>
+
+<div class="medium-10 medium-offset-1">
+  {% for series in site.event_series %}
+    {% include event-series-item.html series=series %}
+  {% endfor %}
+</div>

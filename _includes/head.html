@@ -1,4 +1,3 @@
-{% capture meta_description %}{% if page.description %}{{page.description}}{% else %}{{page.content | markdownify | strip_html  | truncatewords:50 }}{% endif %}{% endcapture %}
 {% capture first_image %}{% assign foundImage = 0 %}{% assign images = page.content | markdownify | split:'<img ' %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{{ image | split: "alt=" | first | split: '/' | last }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
 {% capture meta_image %}{% if page.image %}{{site.url}}/img/{{page.image}}{% elsif first_image != '' %}{{site.url}}/img/{{first_image}}{% else %}{{site.url}}/img/clbsjlogo-lg.png{% endif %}{% endcapture %}
 
@@ -7,7 +6,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | strip_html }} - {{ site.name }}</title>
-  <meta name="description" content="{{ meta_description }}" />
+  <meta name="description" content="{{ page.description }}" />
   <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
 
   <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,800|Muli:400,200,700" rel="stylesheet" type="text/css">
@@ -24,11 +23,11 @@
   <meta property="og:title" content="{{ page.title }}"/>
   <meta property="og:site_name" content="{{ site.name }}"/>
   <meta property="og:url" content="{{ site.url }}{{page.url}}"/>
-  <meta property="og:description" content="{{ meta_description }}"/>
+  <meta property="og:description" content="{{ page.description }}"/>
   <meta property="og:image" content="{{ meta_image }}"/>
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@{{ site.twitter }}">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ meta_description }}">
+  <meta name="twitter:description" content="{{ page.description }}">
   <meta name="twitter:image" content="{{ meta_image }}">
 </head>

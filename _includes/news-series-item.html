@@ -1,0 +1,14 @@
+{%- assign news = site.posts | where: 'category', 'news' | where: 'series', include.series.slug -%}
+
+<div class="callout">
+  <h3><a href="{{include.series.url}}">{{include.series.title}}</a></h3>
+  <p>{{include.series.tagline}}</p>
+  <ul>
+  {%- for item in news | limit: 5 -%}
+    <li class="filter-after-date" data-date-filter="{{item.date}}">
+      <a href="{{item.url}}">{{item.title}}</a>
+    </li>
+  {%- endfor -%}
+  </ul>
+  <a class="hollow button small" href="{{include.series.url}}">See all posts in this category</a>
+</div>

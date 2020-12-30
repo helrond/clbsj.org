@@ -1,4 +1,8 @@
+{% if include.items %}
+{% assign news = include.items %}
+{% else %}
 {% assign news = site.posts | where: 'category', 'news' %}
+{% endif %}
 
 {% for item in news %}
   {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}

@@ -1,17 +1,12 @@
+{% include news-series-by-name.html name=item.series %}
 <div class="callout">
   <h4>
     <a href="{{site.url}}{{item.url}}">{{item.title}}</a>
   </h4>
-  {% if item.layout == 'reading-the-bible-as-an-activist' %}
-    <span class="label label-orange"><a href="{{site.url}}/reading-the-bible-as-an-activist">Reading the Bible as an Activist</a></span>
+  {% if series %}
+  <span class="label label-orange"><a href="{{series.url}}">{{series.title}}</a></span>
   {% endif %}
-  {% if item.layout == 'from-the-stacks' %}
-    <span class="label label-orange"><a href="{{site.url}}/from-the-stacks">From the Stacks</a></span>
-  {% endif %}
-  {% if item.layout == 'did-you-know' %}
-    <span class="label label-orange"><a href="{{site.url}}/did-you-know">Did You Know?</a></span>
-  {% endif %}
-  <p>{{item.author}}</p>
+  <p>{%- if item.series == 'from-the-stacks' -%}Reviewed by {% endif %}{{item.author}}</p>
   <p>{{description}}</p>
   <a class="hollow button small" href="{{site.url}}{{item.url}}">Read More</a>
 </div>

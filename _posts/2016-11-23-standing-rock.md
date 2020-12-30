@@ -76,7 +76,7 @@ Among the ways to follow this situation include the following websites:
 *   [https://www.facebook.com/standingrocksolidaritytraining/](https://www.facebook.com/standingrocksolidaritytraining/)
 *   [http://www.standingrocksolidaritynetwork.org/](http://www.standingrocksolidaritynetwork.org/)
 
-A [photomontage as a PowerPoint page]({{site.url}}/resources/standing-rock-photomontage.pptx) accompanies this report. Many outstanding photographs are already available on the websites above.
+A [photomontage as a PowerPoint page](/resources/standing-rock-photomontage.pptx) accompanies this report. Many outstanding photographs are already available on the websites above.
 
 ## Water Is Life – Mni Waconi
 

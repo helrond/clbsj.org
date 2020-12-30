@@ -25,7 +25,7 @@ This is not a definitive list but a live, working document compiled by the membe
 
 <div class="callout">
   <ul class="no-bullet">
-    <li><a href="{{site.url}}/resources/Top-100-Books-on-the-Bible-and-Social-Justice.pdf">Download PDF</a> (182 KB)</li>
+    <li><a href="/resources/Top-100-Books-on-the-Bible-and-Social-Justice.pdf">Download PDF</a> (182 KB)</li>
     <li><a href="https://www.zotero.org/groups/center_and_library_for_the_bible_and_social_justice/items/collectionKey/EM72TKQU">View on Zotero</a></li>
   </ul>
 </div>

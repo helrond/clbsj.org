@@ -19,7 +19,7 @@ Advance registration is required.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZMkdO2opjMiHdSJo7KyrEp2msgfpS_dwBs3" %}
 
-![abby mohaupt with Rick Ufford Chase]({{site.url}}/img/mohaupt_ufford-chase.jpg)
+![abby mohaupt with Rick Ufford Chase](/img/mohaupt_ufford-chase.jpg)
 
 ## About the participants
 

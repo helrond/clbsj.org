@@ -7,7 +7,7 @@ category: news
 ---
 We at the Center and Library for the Bible and Social Justice are delighted to announce the arrival on our staff of our new Interim Director of Communications, Rev. Matthew Johnstone.
 
-![Rev. Matthew Marcus Luke Johnstone]({{site.url}}/img/412694_259942504069290_84756864_o.jpg)
+![Rev. Matthew Marcus Luke Johnstone](/img/412694_259942504069290_84756864_o.jpg)
 
 Rev. Johnstone received a Bachelor of Arts Degree in Classics from Middlebury College, and completed his Master of Divinity at Princeton Theological Seminary. He is an ordained Teaching Elder in the Presbyterian Church (USA), and currently serves also as the Pastor of Scotchtown Presbyterian Church in Middletown, NY.
 

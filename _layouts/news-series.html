@@ -1,0 +1,20 @@
+---
+layout: level-two
+---
+
+{%- assign news = site.posts | where: 'category', 'news' | where: 'series', page.slug -%}
+
+{%- if page.tagline -%}
+<p class="event-tagline">{{page.tagline}}</p>
+{%- endif -%}
+
+{% include news-list.html items=news %}
+
+{%- if page.tags -%}
+{%- assign tags = page.tags -%}
+{%- include tags.html -%}
+{%- endif -%}
+
+{%- if page.image_caption -%}
+{%- include event-series-image-caption.html text=page.image_caption -%}
+{%- endif -%}

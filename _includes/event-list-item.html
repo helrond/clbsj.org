@@ -1,4 +1,8 @@
+{% include series-by-name.html name=item.series %}
 <div class="callout" data-date-filter="{{item.date}}">
+  {%- if series -%}
+    <span class="label label-orange label-series float-right"><a href="{{series.url}}">{{series.title}}</a></span>
+  {%- endif -%}
   <h4><a href="{{site.url}}{{item.url}}">{{item.title}}</a></h4>
   <p>{{ item.date | date: '%B %d, %Y' }}{% if item.time %}, {{ item.time }}{% endif %}</p>
   <p>{{ description }}</p>

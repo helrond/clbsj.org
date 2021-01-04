@@ -4,7 +4,7 @@ category: news
 layout: news-item
 series: did-you-know
 published: true
-title: Nicholas Johnson's previous careers
+title: More about our new Board President, Nicholas Johnson
 description: >-
     Did you know that, in addition to being a pastor, a scholar, and an
     activist, the new President of CLBSJ's Board was once a park ranger?

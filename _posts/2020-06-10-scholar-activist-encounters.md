@@ -26,7 +26,6 @@ Advance registration required. For more details and to register for a session, c
 on the links below.
 
 ## Upcoming Engagements
-  - December 17, 2020: [Weldon Nisly and Tom Boomershine]({{site.baseurl}}/events/2020/12/17/scholar-activist-encounter-weldon-nisley-and-tom-boomershine/)
   - January 21, 2021: [Dong Hyeon Jeong and Nicholas Johnson]({{site.baseurl}}/events/2021/01/21/scholar-activist-encounter-dong-hyeon-jeong-and-nicholas-johnson/)
 
 _Additional Encounters coming in 2021. Check back soon for  event information!_
@@ -37,6 +36,7 @@ _Additional Encounters coming in 2021. Check back soon for  event information!_
   - September 17: [Norman Gottwald and Sphynx Eben]({{site.baseurl}}/events/2020/09/17/scholar-activist-encounter-eben-sphynx-egbe-and-norman-gottwald/)
   - October 15: [Traci West and Nicholas Johnson]({{site.baseurl}}/events/2020/10/15/scholar-activist-encounter-traci-west-and-nicholas-johnson/)
   - November 19: [abby mohaupt and Rick Ufford-Chase]({{site.baseurl}}/events/2020/11/19/scholar-activist-encounter-abby-mohaupt-and-rick-ufford-chase)
+  - December 17, 2020: [Weldon Nisly and Tom Boomershine]({{site.baseurl}}/events/2020/12/17/scholar-activist-encounter-weldon-nisley-and-tom-boomershine/)
 
 
 Questions: email [info@clbsj.org](mailto:info@clbsj.org)

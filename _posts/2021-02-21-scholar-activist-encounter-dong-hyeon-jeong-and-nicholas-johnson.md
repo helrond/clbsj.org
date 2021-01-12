@@ -12,9 +12,12 @@ description: >-
   liberating, critical, and de/re-constructive.
 ---
 In this session, CLBSJ Board Chair Nicholas Johnson will be joined by
-Korean-Filipino New Testament scholar Dong Hyeon Jeong to discuss their
-commitment to a pedagogy and an evangelism that is intersectional,
-liberating, critical, and de/re-constructive.
+Korean-Filipino New Testament scholar Dong Hyeon Jeong for an
+exploration into the ways that scripture can be misused to further hate
+and polarization, and what we can do about it. Attendees are invited to
+review Dong Hyeon's article, [When the KKK Exegetes: Circulating Hate
+with 2 Peter](https://www.associationforjewishstudies.org/publications-research/ajs-perspectives/the-hate-issue/when-the-kkk-exegetes-circulating-hate-with-2-peter), published in Spring 2020 by the Association of Jewish
+Studies.
 
 Advance registration is required.
 

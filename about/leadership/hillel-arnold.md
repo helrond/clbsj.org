@@ -2,11 +2,11 @@
 layout: board-member
 title: Hillel Arnold
 sort: arnold
-description: Hillel Arnold is the Head of Digital Programs at Rockefeller Archive Center.
+description: Hillel Arnold is the Head of Digital Strategies at Rockefeller Archive Center.
 keywords: hillel arnold
 category: board-member
 officer: Secretary
-job-title: Head of Digital Programs
+job-title: Head of Digital Strategies
 institution: Rockefeller Archive Center
 image: "/img/board/arnold.jpg"
 publications:

@@ -1,7 +1,7 @@
 ---
 layout: board-member
 title: Mark C. Johnson
-sort: elliott
+sort: johnson
 description:
 keywords: mark c johnson
 category: in-memoriam

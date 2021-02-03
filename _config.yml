@@ -12,6 +12,10 @@ collections:
   news_series:
     output: true
     permalink: /news/:name/
+    order:
+      - from-the-stacks.md
+      - did-you-know.md
+      - reading-the-bible-as-an-activist.md
 twitter : clbsj
 markdown : kramdown
 permalink: pretty

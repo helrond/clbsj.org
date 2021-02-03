@@ -18,11 +18,11 @@ image: /img/news.jpg
   resources for your journey.</p>
 
   <div class="medium-7 columns">
-    <h2>Recent News</h2>
+    <h2>Recent Posts</h2>
     {% include news-list.html %}
   </div>
   <div class="medium-5 columns">
-    <h2>News Categories</h2>
+    <h2>Columns</h2>
     {% for series in site.news_series %}
       {% include news-series-item.html series=series %}
     {% endfor %}

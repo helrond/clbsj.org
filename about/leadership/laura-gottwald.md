@@ -1,7 +1,7 @@
 ---
 layout: board-member
 title: Laura Gottwald
-sort: Gottwald
+sort: gottwald
 description: "Laura Gottwald is an artist, activist and Baptist minister."
 keywords: laura gottwald
 category: board-member

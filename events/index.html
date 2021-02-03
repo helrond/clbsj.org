@@ -24,7 +24,10 @@ image: /img/events.jpg
 <hr/>
 
 <div class="medium-10 medium-offset-1">
-  {% for series in site.event_series %}
-    {% include event-series-item.html series=series %}
-  {% endfor %}
+  <div class="medium-12 columns">
+    <h2>Events Series</h2>
+    {% for series in site.event_series %}
+      {% include event-series-item.html series=series %}
+    {% endfor %}
+  </div>
 </div>

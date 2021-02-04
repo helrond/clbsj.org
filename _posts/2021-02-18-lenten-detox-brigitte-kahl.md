@@ -36,4 +36,4 @@ taught at Humboldt University in Berlin between 1970 and 1997, earning
 two doctorates in New Testament and Ecumenics (1983/86). Her first major
 publication in German (1986) dealt with the theological and political
 dialectics of the Gospel for the Poor and the Gospel for the Gentiles in
-Luke-Acts. Read her full bio here: https://utsnyc.edu/faculty/brigitte-kahl/
+Luke-Acts. Read her full bio here: [https://utsnyc.edu/faculty/brigitte-kahl/](https://utsnyc.edu/faculty/brigitte-kahl/)

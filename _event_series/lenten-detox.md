@@ -2,7 +2,7 @@
 layout: event-series
 title: 'Reclaiming the Bible: A Lenten "Detox"'
 slug: lenten-detox
-tagline: "Join us as we purify our awareness of the neglected spaces of scripture so that we are better able help build a just and peaceful world."
+tagline: "All are welcome on this journey to reclaim some neglected spaces in the Christian scripture."
 keywords: bible, activist, lent, bible study
 ---
 Each Thursday during Lent at at 4:30 PST / 7:30 EST via Zoom

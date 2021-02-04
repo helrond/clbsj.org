@@ -5,7 +5,7 @@ layout: level-two
 {%- assign events = site.posts | where: 'category', 'events' | where: 'series', page.slug -%}
 
 {%- if page.tagline -%}
-<p class="event-tagline">{{page.tagline}}</p>
+<p class="event-tagline lead">{{page.tagline}}</p>
 {%- endif -%}
 
 {{ content }}

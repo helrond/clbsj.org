@@ -1,0 +1,28 @@
+{%- assign events = site.posts | where: 'category', 'events' | where: 'series', include.series.slug -%}
+
+<div class="medium-6 columns">
+  <div class="callout">
+    <h3><a href="{{include.series.url}}">{{include.series.title}}</a></h3>
+    <p>{{include.series.tagline}}</p>
+    <div class="series-events">
+      <h4 class="event-list-heading">Upcoming events in this series</h4>
+      <ul>
+      {%- for item in events reversed -%}
+        <li class="filter-before-date" data-date-filter="{{item.date}}">
+          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a>
+        </li>
+      {%- endfor -%}
+      </ul>
+    </div>
+    <div class="series-events">
+      <h4 class="event-list-heading">Past events in this series</h4>
+      <ul>
+      {%- for item in events -%}
+        <li class="filter-after-date" data-date-filter="{{item.date}}">
+          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a>
+        </li>
+      {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</div>

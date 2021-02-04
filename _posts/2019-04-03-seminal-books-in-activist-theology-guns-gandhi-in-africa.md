@@ -2,8 +2,9 @@
 date: '2019-04-11'
 category: events
 layout: event
+series: seminal-books
 published: true
-title: 'Seminal Books in Activist Theology: Guns & Gandhi in Africa'
+title: 'Guns & Gandhi in Africa'
 location: '5 Cricketown Road Stony Point, NY 10980'
 description: Seminal Books April 2019
 ---
@@ -18,7 +19,7 @@ In the Foreword of Guns and Gandhi, Archbishop Desmond Tutu wrote that Sutherlan
 
 We are especially honored to host this event during the year which would have been [“Baba Bill’s”](https://www.warresisters.org/bill-sutherland-1918-2010) 100th birthday.
 
-The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of Stony Point Center, 5 Cricketown Road Stony Point, NY and offered over video-conference. If you would like to join the video conference, please visit [https://zoom.us/j/7328959083](https://zoom.us/j/7328959083) at that time. 
+The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of Stony Point Center, 5 Cricketown Road Stony Point, NY and offered over video-conference. If you would like to join the video conference, please visit [https://zoom.us/j/7328959083](https://zoom.us/j/7328959083) at that time.
 
 The Seminal Books in Activist Theology Series is sponsored by the Center and Library for the Bible and Social Justice and the Community of Living Traditions at Stony Point Center.
 Please mark your calendars for these upcoming 2019 Seminal Books Salons, all at 7PM at the Library and online:

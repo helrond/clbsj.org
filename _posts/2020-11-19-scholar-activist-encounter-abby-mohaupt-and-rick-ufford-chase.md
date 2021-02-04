@@ -1,10 +1,11 @@
 ---
 date: '2020-11-19'
 category: events
-layout: scholar-activist-encounter
+layout: event
+series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
-title: 'Scholar-Activist Encounter: abby mohaupt and Rick Ufford-Chase'
+title: 'abby mohaupt and Rick Ufford-Chase'
 description: >-
   In this session, faith-rooted scholar-activists Rick Ufford-Chase and
   Rev. Abby Mohaupt will share about their work for environmental and
@@ -18,7 +19,7 @@ Advance registration is required.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZMkdO2opjMiHdSJo7KyrEp2msgfpS_dwBs3" %}
 
-![abby mohaupt with Rick Ufford Chase]({{site.url}}/img/mohaupt_ufford-chase.jpg)
+![abby mohaupt with Rick Ufford Chase](/img/mohaupt_ufford-chase.jpg)
 
 ## About the participants
 

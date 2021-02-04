@@ -5,7 +5,7 @@ author: Mark Johnson
 layout: news-item
 category: news
 ---
-![Gordon Oyer]({{site.url}}/img/photo.jpg)
+![Gordon Oyer](/img/photo.jpg)
 
 Gordon Oyer’s book is an almost magical bridging of a half dozen genre in a single work. It starts out as a detective story, reconstructing, through sheer leg-work in archives and interviewing surviving participants, the explanation of how and why this retreat was held in 1964 at Thomas Merton’s residence, the Gethsemani Abbey in Kentucky. It then becomes a day by day account of the proceedings, almost dramaturgical in its structure; one could almost see it restaged. But it also works as meta-theory and meta-praxis, describing the way it which the event opened new ecumenical conversations and offering a powerful rationale for the continuing practice of retreats. It serves as a theological study of the roots of some strains of thinking later deepened by Merton and Yoder in particular. Historical biographies flesh out the incredibly significant small collection of agents of peacemaking in the room including, like a documentary film rolling credits, what they went on to do (or in the case of A.J. Muste what was brought to the table) with their witness. Finally the entire story is reexamined through the lens of contemporary voices, people who if the retreat were scheduled today would likely be in the room.
 

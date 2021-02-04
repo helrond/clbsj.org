@@ -2,8 +2,9 @@
 date: '2019-05-09 '
 category: events
 layout: event
+series: seminal-books
 published: true
-title: 'May Seminal Book Event: Palestinian Liberation Theology'
+title: 'Palestinian Liberation Theology'
 location: '5 Cricketown Road Stony Point, NY 10980'
 tags:
   - bible

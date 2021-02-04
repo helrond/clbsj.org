@@ -34,6 +34,18 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 0 0 1em $black;
 }
 
+.image-right {
+  margin-left: 2em;
+  margin-bottom: 2em;
+  max-width: 25em
+}
+
+.image-left {
+  margin-right: 2em;
+  margin-bottom: 2em;
+  max-width: 25em
+}
+
 .outside.level-two-link {
   position: relative;
   min-height:6rem;
@@ -104,7 +116,13 @@ h1, h2, h3, h4, h5, h6 {
     }
     a {
       color: $white;
+      text-decoration: none;
     }
+}
+
+.top-bar-left {
+  min-width: 85%;
+  margin-top: .3em;
 }
 
 .menu-text {
@@ -112,9 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .brand-logo {
-  height: 2rem;
-  width: 2rem;
-  margin-top: .5rem;
+  height: 38px;
   float: left;
 }
 
@@ -125,6 +141,7 @@ footer {
   background-color: $primary-color;
   color: $white;
   a {
+    text-decoration: none;
     color: $white;
     &:hover {
       color: scale-color($white, $lightness: -15%);
@@ -141,8 +158,8 @@ footer {
 }
 
 .home-section {
-  padding-bottom: 18%;
-  padding-top: 18%;
+  padding-bottom: 10%;
+  padding-top: 10%;
 }
 
 .home-library {
@@ -150,6 +167,10 @@ footer {
   h3: {
     color: $white;
   }
+}
+
+.button {
+  text-decoration: none;
 }
 
 .button.hollow.orange {
@@ -164,6 +185,7 @@ footer {
 .button.primary.donate {
     background-color: #FCB040;
     margin: .3rem 0 .3rem 0;
+    color: $black;
 }
 
 .home-title {
@@ -175,4 +197,19 @@ footer {
   hr {
     border-bottom-color: $orange
   }
+}
+
+.label > a {
+  text-decoration: none;
+}
+
+.label-orange {
+  background-color: $orange;
+  & > a {
+    color: $black;
+  }
+}
+
+.event-tagline {
+  font-weight: bold;
 }

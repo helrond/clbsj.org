@@ -1,10 +1,11 @@
 ---
 date: '2020-09-17'
 category: events
-layout: scholar-activist-encounter
+layout: event
+series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
-title: 'Scholar-Activist Encounter: Sphynx Eben and Norman Gottwald'
+title: 'Sphynx Eben and Norman Gottwald'
 description: >-
   In this session, Biblical scholar Norman Gottwald and anti-colonial
   organizer Sphynx Eben will discuss their strivings for a world free of

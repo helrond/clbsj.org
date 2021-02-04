@@ -1,7 +1,10 @@
 ---
 date: '2020-11-07 15:12 -0400'
 category: news
-layout: from-the-stacks
+layout: news-item
+series: from-the-stacks
+image_filename: espinoza_activist-theology.jpg
+image_alt_text: cover of Activist Theology
 published: true
 title: <em>Activist Theology</em> by Robyn Henderson-Espinoza
 author: Laura Gottwald
@@ -11,11 +14,6 @@ description: >-
     author the uses term activist theology “to describe my work of
     translating theory to action and theology to practice.
 ---
-
-<div class="float-left" style="margin-right:1em; width:25em">
-  <img src="{{site.baseurl}}/img/espinoza_activist-theology.jpg" alt="cover of Activist Theology">
-</div>
-
 For Dr. Robyn Henderson-Espinoza, "activist theology" is an “invitation
 to enter into a movement of becoming that spirals toward justice.” The author
 (who uses the pronouns they, them and theirs<sup>1</sup>), employs the

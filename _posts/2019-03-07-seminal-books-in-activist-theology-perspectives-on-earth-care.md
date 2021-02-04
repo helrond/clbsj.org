@@ -2,8 +2,9 @@
 date: '2019-03-07 08:41 -0500'
 category: events
 layout: event
+series: seminal-books
 published: true
-title: 'Seminal Books in Activist Theology: Perspectives on Earth Care'
+title: 'Perspectives on Earth Care'
 location: '5 Cricketown Road Stony Point, NY 10980'
 ---
 
@@ -15,7 +16,7 @@ This month, Will Summers and Amirah AbuLughod who are members of the Community o
 
 **Will Summers** joined the Community of Living Traditions in 2015 and has been on Stony Point Center's staff as a farmer since 2013. He enjoys growing food that's shared in the dining room throughout the year, especially lettuce, kale, and tomatoes. Will has over a decade of experience as a farmer, including several years of farming in his home state of Texas.  He particularly enjoys the NY growing season, especially winter's gift of maple syrup production. Will is involved in CLT's solidarity work with indigenous and immigrant communities including farmworkers. He is a practicing Christian who has been blessed to worship with Mennonite, Quaker, and Presbyterian congregations over the years.
 
-The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of Stony Point Center, 5 Cricketown Road Stony Point, NY and offered over video-conference. If you would like to join the video conference, please visit [https://zoom.us/j/7328959083](https://zoom.us/j/7328959083) at that time. 
+The conversation will be held on at 7PM at the Center and Library for the Bible and Social Justice on the campus of Stony Point Center, 5 Cricketown Road Stony Point, NY and offered over video-conference. If you would like to join the video conference, please visit [https://zoom.us/j/7328959083](https://zoom.us/j/7328959083) at that time.
 
 The Seminal Books in Activist Theology Series is sponsored by the Center and Library for the Bible and Social Justice and the Community of Living Traditions at Stony Point Center.
 Please mark your calendars for these upcoming 2019 Seminal Books Salons, all at 7PM at the Library and online:

@@ -9,4 +9,11 @@ title: 'Text TBA, led by Crystal Hall'
 description:
 ---
 
-Event details and registration link will be posted soon.
+Our final session will be led by Dr. Crystal L. Hall, Assistant
+Professor of Biblical Studies at United Lutheran Seminary. Text
+selection and details to be announced soon!
+
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUlcO2rrj8uGty090ZSEXw087N-_bmjYhWr" %}
+
+After registering, you will receive a confirmation email containing
+information about joining the meeting.

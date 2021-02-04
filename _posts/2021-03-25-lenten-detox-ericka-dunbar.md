@@ -9,4 +9,10 @@ title: 'Text TBA, led by Ericka Dunbar'
 description:
 ---
 
-Event details and registration link will be posted soon.
+This Session will be led Ericka Shawndricka Dunbar, Ph.D. student at
+Drew Theological School. Text selection will be announced soon!
+
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0ofu6vpjIvGdwVAHf66Y8tRTWNAlLAKYrp" %}
+
+After registering, you will receive a confirmation email containing
+information about joining the meeting.

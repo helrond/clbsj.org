@@ -9,8 +9,9 @@ title: 'Text TBA, led by Ericka Dunbar'
 description:
 ---
 
-This Session will be led Ericka Shawndricka Dunbar, Ph.D. student at
-Drew Theological School. Text selection will be announced soon!
+This Session will be led Ericka Shawndricka Dunbar. Ericka recently
+earned her Ph.D. in Bible & Cultures from Drew Theological School. Text
+selection will be announced soon!
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0ofu6vpjIvGdwVAHf66Y8tRTWNAlLAKYrp" %}
 

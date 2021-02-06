@@ -2,16 +2,31 @@
 layout: board-member
 title: Rick Ufford-Chase
 sort: ufford-chase
-description: Rick Ufford-Chase and his wife Kitty are the Co-Directors of Stony Point Conference Center, which houses the primary collections of the CLBSJ.
+description: Rick Ufford-Chase is a faith-rooted activist and author with a long
+history of developing popular education tools.
 keywords: rick ufford-chase
 category: board-member
 officer: Treasurer
-job-title: Co-Director
-institution: Stony Point Center
+job-title: Institutional Advancement Officer
+institution: Johnson C Smith Theological Seminary
 image: "/img/board/ufford-chase.jpg"
-websites:
-  personal:
-    title: "Stony Point Center"
-    url: "http://stonypointcenter.com"
 ---
-Rick Ufford-Chase and his wife Kitty are the Co-Directors of Stony Point Conference Center, which houses the primary collections of the CLBSJ. He worked as an organizer and popular educator on the U.S./Mexico border for twenty years. Since 2008, Rick and Kitty have been working with others to create the Community of Living Traditions, a multifaith, residential community committed to the study and practice of Nonviolence and located at Stony Point Center in the Lower Hudson River Valley. Rick served as Moderator of the General Assembly of the Presbyterian Church (USA) from 2004 to 2006. He also serves as the Executive Director of the Presbyterian Peace Fellowship. Rick has been deeply interested in the intersection between our faith, the challenge of responding to violence in our time, and the work of partnering with those from other religious traditions to protect and extend basic human rights to all people.
+Rick Ufford-Chase is a faith-rooted activist and author with a long
+history of developing popular education tools. He currently serves as
+the Institutional Advancement Officer for Johnson C Smith Theological
+Seminary based on Atlanta, GA, and volunteers with the Grassroots
+Reparations Campaign and Proyecto Faro (an immigrant led advocacy
+organization in Rockland County, NY), and he is on the Board of the
+Sweetwater Cultural Center (an indigenous cultural organization that was
+launched through gift of property of a former Presbyterian Church). He
+and his wife Kitty served for 12 years as Co-Directors of Stony Point
+Center, which houses CLBSJ's primary collection. In this role, they
+founded the Community of Living Traditions, a multifaith intentional
+community committed to the pursuit of justice and peace. Rick also
+served as Moderator of the General Assembly of the Presbyterian Church
+(USA) from 2004 to 2006, as Executive Director of the Presbyterian Peace
+Fellowship, and as an organizer and popular educator on the U.S./Mexico
+border for twenty years. Rick is the author of _Faithful Resistance:
+Gospel Visions for the Church in a Time of Empire_. He lives with his
+wife Kitty in a cabin in Northern VT, where nowadays he can often be
+found snowshoeing in the woods with their dog Riley.

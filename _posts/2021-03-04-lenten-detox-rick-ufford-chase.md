@@ -24,3 +24,12 @@ seen as deviant from the norm.
 
 After registering, you will receive a confirmation email containing
 information about joining the meeting.
+
+**Rick Ufford-Chase** is a board member for the CLBSJ. He serves as the
+Institutional Advancement Officer for Johnson C Smith Theological
+Seminary based on Atlanta, GA. Rick volunteers with the Grassroots
+Reparations Campaign and Proyecto Faro, and he is on the Board of
+Directors for the Sweetwater Cultural Center. Rick is the author of
+_Faithful Resistance: Gospel Visions for the Church in a Time of
+Empire_. See his full bio here:
+<https://clbsj.org/about/leadership/rick-ufford-chase/>

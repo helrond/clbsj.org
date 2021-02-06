@@ -17,3 +17,15 @@ selection and details to be announced soon!
 
 After registering, you will receive a confirmation email containing
 information about joining the meeting.
+
+**Dr. Crystal L. Hall** is a community organizer, political educator and an
+assistant professor of Biblical Studies at United Lutheran Seminary in
+Pennsylvania. Her research interests include the Pauline corpus,
+apocalyptic literature, poverty and wealth, and ecological and
+liberationist hermeneutics. Her methodological commitments include
+empire criticism and feminist theory. She works to epistemologically
+privilege voices that have historically been excluded from the classroom
+and the Church. Through the Contextual Bible Study methodology, Crystal
+teaches reading the Bible with the organized poor alongside communities
+of faith. Read her full bio here:
+<https://www.unitedlutheranseminary.edu/faculty-staff/crystal-l-hall>

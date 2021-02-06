@@ -17,3 +17,11 @@ selection will be announced soon!
 
 After registering, you will receive a confirmation email containing
 information about joining the meeting.
+
+**Dr. Ericka Shawndricka Dunbar** (she/her/hers) lives in Atlanta, GA, and
+teaches at Payne Theological Seminary. She received her Ph.D. in
+Biblical Studies (Old Testament) in May 2020 from Drew University. Her
+dissertation, entitled _Trafficking Hadassah: An Africana Reading of
+Collective Trauma, Memory, and Identity in the Book of Esther and the
+African Diaspora_, is a dialogical cultural study of sexual trafficking
+in the book of Esther and during the Transatlantic Slave Trade.

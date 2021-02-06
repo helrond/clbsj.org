@@ -26,3 +26,13 @@ acceptance of authority.
 
 After registering, you will receive a confirmation email containing
 information about joining the meeting.
+
+**Rev. Dr. Dong Hyeon Jeong** is an Assistant Professor of New Testament
+Interpretation at Garrett-Evangelical Theological Seminary, and serves
+on the Board of CLBSJ. His book _With the Wild Beasts, Learning from
+Trees_ is forthcoming and will be published by the Society of Biblical
+Literature Press, Semeia Series. The son of Korean missionaries in the
+Philippines, Dong Hyeon is an ordained elder in the Philippine Central
+Conference, Manila Episcopal Area, Southwest Philippines Annual
+Conference of The United Methodist Church. Read his full bio here:
+<https://clbsj.org/about/leadership/dong-hyeon-jong/>

@@ -26,7 +26,7 @@ information about joining the meeting.
 
 **Sister Sharifa Vernice Meytung**, OLC (Our Lady of Czestochowa) is an
 artist, haijin (a writer of haiku poetry), teacher and lay religious
-leader in the Catholic and Buddhist faiths. She has studied in many
+practitioner in the Catholic and Buddhist traditions. She has studied in many
 community and academic settings, including the University of Erfurt,
 Germany. Her media books and CDs include _Oil For The Lamp: 7 Virtues of
 Human Character Development_, _Hiphop H.A.I.K.U. Vol 1 and 2_, _Rough

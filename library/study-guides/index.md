@@ -8,11 +8,9 @@ published: true
 
 Study guides based on books in the collection of the Center and Library for the Bible and Social Justice.
 
-### The Top 100 Books on the Bible and Social Justice
+## The Top 100 Books on the Bible and Social Justice
 
-#### Recommended by the Center and Library for the Bible and Social Justice
-
-#### Compiled and Annotated by Laurel Dykstra.
+**Compiled and Annotated by Laurel Dykstra. Published in _Liberating Biblical Study_ (Wipf & Stock, 2011)**
 
 This is not a definitive list but a live, working document compiled by the members of the Center and Library team. It is the product of negotiation and conversation and reflects both the biases and perspectives of the producers as well as the reality that biblical studies has long been a discipline that is white and male dominated. Titles were chosen according to several guiding principles.
 
@@ -25,6 +23,6 @@ This is not a definitive list but a live, working document compiled by the membe
 <div class="callout">
   <ul class="no-bullet">
     <li><a href="/resources/Top-100-Books-on-the-Bible-and-Social-Justice.pdf">Download PDF</a> (182 KB)</li>
-    <li><a href="https://www.zotero.org/groups/center_and_library_for_the_bible_and_social_justice/items/collectionKey/EM72TKQU">View on Zotero</a></li>
+    <li><a href="https://www.zotero.org/groups/center_and_library_for_the_bible_and_social_justice/items/collectionKey/EM72TKQU">View Citations on Zotero</a></li>
   </ul>
 </div>

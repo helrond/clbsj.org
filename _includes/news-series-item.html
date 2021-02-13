@@ -1,7 +1,7 @@
 {%- assign news = site.posts | where: 'category', 'news' | where: 'series', include.series.slug -%}
 
-<div class="callout">
-  <h3><a href="{{include.series.url}}">{{include.series.title}}</a></h3>
+<div class="callout news">
+  <h3>{{include.series.title}}</h3>
   <p>{{include.series.tagline}}</p>
   <ul>
   {%- for item in news | limit: 5 -%}
@@ -10,5 +10,5 @@
     </li>
   {%- endfor -%}
   </ul>
-  <a class="hollow button small" href="{{include.series.url}}">See all posts in this category</a>
+  <a class="hollow button small" href="{{include.series.url}}">See all posts in this column</a>
 </div>

@@ -213,3 +213,14 @@ footer {
 .event-tagline {
   font-weight: bold;
 }
+
+.callout.news {
+  & h3 {
+    margin-top: -1rem;
+    margin-right: -1rem;
+    margin-left: -1rem;
+    padding: 1rem;
+    background: $primary-color;
+    color: $white;
+  }
+}

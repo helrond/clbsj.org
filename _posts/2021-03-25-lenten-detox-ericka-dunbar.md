@@ -9,9 +9,9 @@ title: 'Text TBA, led by Ericka Dunbar'
 description:
 ---
 
-This Session will be led Ericka Shawndricka Dunbar. Ericka recently
-earned her Ph.D. in Bible & Cultures from Drew Theological School. Text
-selection will be announced soon!
+This session will be led Ericka Shawndricka Dunbar. Ericka will explore
+the layered theme of "chosenness" in Esther chapters 1 and 2, both in
+its traditional understanding and from an Africana-womanist perspective.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZ0ofu6vpjIvGdwVAHf66Y8tRTWNAlLAKYrp" %}
 

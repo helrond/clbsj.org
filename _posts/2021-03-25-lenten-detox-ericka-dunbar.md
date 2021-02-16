@@ -5,7 +5,7 @@ layout: event
 series: lenten-detox
 published: true
 time: '7:30pm Eastern Time'
-title: 'Study of Esther 1-2, led by Ericka Dunbar'
+title: 'Study of Esther 1-2, led by Ericka Shawndricka Dunbar'
 description:
 ---
 

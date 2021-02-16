@@ -17,6 +17,6 @@ Dong Hyeon Jeong, Rick Ufford-Chase, Ericka Dunbar, Norman Gottwald and
 Crystal Hall in a weekly discipline of hearing, considering,
 detoxifying, liberating and reclaiming these stories.
 
-We will meet each Thursday at 4:30 PST / 7:30 EST via zoom. See below
-for the schedule, which is still under development. Additional text
-selections, bios and registration links will be added shortly!
+We will meet each Thursday at 4:30 PST / 7:30 EST via zoom. See below for the
+full schedule. Click on the links to access additional details and registration
+links.

@@ -5,7 +5,7 @@ layout: event
 series: lenten-detox
 published: true
 time: '7:30pm Eastern Time'
-title: 'Text TBA, led by Ericka Dunbar'
+title: 'Esther chapters 1 and 2, led by Ericka Dunbar'
 description:
 ---
 

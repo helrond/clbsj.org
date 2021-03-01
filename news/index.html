@@ -25,9 +25,10 @@ image: /img/news.jpg
   </div>
   <div class="medium-5 columns">
     <h2>Columns</h2>
-    {% for series in site.news_series %}
-      {% include news-series-item.html series=series %}
-    {% endfor %}
+    {%- assign sorted_series = site.news_series | sort: 'sort_order' -%}
+    {%- for series in sorted_series -%}
+      {%- include news-series-item.html series=series -%}
+    {%- endfor -%}
 
     <div class="callout updates">
       <h3>Get Updates</h3>

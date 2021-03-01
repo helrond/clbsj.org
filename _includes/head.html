@@ -1,5 +1,5 @@
 {% capture first_image %}{% assign foundImage = 0 %}{% assign images = page.content | markdownify | split:'<img ' %}{% for image in images %}{% if image contains 'src' %}{% if foundImage == 0 %}{{ image | split: "alt=" | first | split: '/' | last }}{% assign foundImage = 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
-{% capture meta_image %}{% if page.image %}/img/{{page.image}}{% elsif first_image != '' %}/img/{{first_image}}{% else %}/img/clbsjlogo-lg.png{% endif %}{% endcapture %}
+{% capture meta_image %}{% if page.image %}{{page.image}}{% elsif first_image != '' %}/img/{{first_image}}{% else %}/img/clbsjlogo-lg.png{% endif %}{% endcapture %}
 
 <head>
   <meta charset="utf-8">

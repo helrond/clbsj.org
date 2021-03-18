@@ -4,10 +4,13 @@ category: events
 layout: event
 series: seminal-books
 published: true
+has_video: true
 title: 'Guns & Gandhi in Africa'
 location: '5 Cricketown Road Stony Point, NY 10980'
 description: Seminal Books April 2019
 ---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/330909796" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 On April 11, 2019, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements.
 

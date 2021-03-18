@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+has_video: true
 time: '7:30pm Eastern Time'
 title: 'Study of Mark 14:1-11 led by Brigitte Kahl'
 description: >-
@@ -13,6 +14,8 @@ description: >-
   section contains the often misused verse "For you will always have the
   poor with you," in verse 7.
 ---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/515533429" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 In this session, Dr. Brigitte Kahl of the Union Theological Seminary New
 Testament Department will lead us in an exploration of Mark 14:1-11,

@@ -4,11 +4,15 @@ category: events
 layout: event
 series: seminal-books
 published: true
+has_video: true
 title: 'Palestinian Liberation Theology'
 location: '5 Cricketown Road Stony Point, NY 10980'
 tags:
   - bible
 ---
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/337498344" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 On May 9, 2019, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements.
 
 This month, we will be considering the seminal book Faith and the Intifada: Palestinian Christian Voices by Naim Ateek. We will also be welcoming Ferguson artist-activist Suhad Khatib as a respondent, and other voices from the Community of Living Traditions.

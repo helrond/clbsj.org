@@ -9,7 +9,7 @@
       <ul>
       {%- for item in events reversed -%}
         <li class="filter-before-date" data-date-filter="{{item.date}}">
-          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a>
+          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a> {% if item.has_video %} <span class="label">Recording</span>{% endif %}
         </li>
       {%- endfor -%}
       </ul>
@@ -19,7 +19,7 @@
       <ul>
       {%- for item in events -%}
         <li class="filter-after-date" data-date-filter="{{item.date}}">
-          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a>
+          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a> {% if item.has_video %} <span class="label">Recording</span>{% endif %}
         </li>
       {%- endfor -%}
       </ul>

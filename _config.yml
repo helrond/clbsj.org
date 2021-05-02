@@ -19,7 +19,11 @@ exclude :
   - node_modules
 prose :
   siteurl: 'https://clbsj.org'
-  ignore: ['_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js', 'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'resources', 'robots.txt', 'reading-the-bible-as-an-activist']
+  ignore: [
+    '_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js',
+    'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile',
+    'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json',
+    'gulpfile.js', 'package.json', 'package-lock.json', 'resources', 'robots.txt']
   metadata:
     _posts:
       - name: "title"
@@ -57,9 +61,9 @@ prose :
         field:
           element: "select"
           options:
-            - name: "News Item"
+            - name: "News"
               value: "news"
-            - name: "Event"
+            - name: "Events"
               value: "events"
           label: "Category"
           help: "For news items, choose News Item, for events, choose Event"
@@ -69,14 +73,30 @@ prose :
           options:
             - name: "News Item"
               value: "news-item"
+            - name: "News Series"
+              value: "news-series"
             - name: "Event"
               value: "event"
+            - name: "Event Series"
+              value: "event-series"
+          label: "Layout"
+          help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
+      - name: "series"
+        field:
+          element: "select"
+          options:
+            - name: "Did You Know?"
+              value: "did-you-know"
+            - name: "From the Stacks"
+              value: "from-the-stacks"
+            - name: "Lenten Detox"
+              value: "lenten-detox"
             - name: "Reading the Bible as an Activist"
               value: "reading-the-bible-as-an-activist"
-            - name: "From the Stacks"
-              value: from-the-stacks
-            - name: "Did You Know?"
-              value: did-you-know
+            - name: "Scholar-Activist Encounters"
+              value: "scholar-activist-encounters"
+            - name: "Seminal Books"
+              value: "seminal-boox"
           label: "Layout"
           help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
       - name: "tags"

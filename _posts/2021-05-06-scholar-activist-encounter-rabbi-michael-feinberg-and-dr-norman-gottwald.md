@@ -20,6 +20,10 @@ description: >-
   publication, and how these ideas are relevant for multifaith movement-building
   today.
 ---
+<div style="float: left; margin-right: 1em; margin-bottom: 1em;">
+<img alt="Tribes of Yawheh cover" src="/img/Tribes.png" />
+</div>
+
 The Center and Library for the Bible and Social Justice and the [Religion and Socialism Working Group of the Democratic Socialists of America](https://www.religioussocialism.org/post_conference_follow_up_event_and_reading) invite you to a special Scholar-Activist Encounter featuring Rabbi Michael Feinberg and Dr. Norman Gottwald.
 
 The focus of the discussion will be the continuing relevance of Dr. Gottwald’s 1979 book _Tribes of Yahweh: A Sociology of the Religion of Liberated Israel, 1250-1050 BCE_. They will present an overview of its central thesis regarding political and sociological dynamics surrounding the emergence of the Jewish people, including his nontraditional reading of the slaughter of the Canaanites. They will then discuss how Dr. Gottwald’s thesis influenced activists like Rabbi Feinberg, how his thinking has evolved since it’s publication, and how these ideas are relevant for multifaith movement-building today.

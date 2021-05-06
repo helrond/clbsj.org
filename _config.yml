@@ -40,8 +40,8 @@ prose :
       - name: "time"
         field:
           element: "text"
-          label: "Date"
-          help: "For news items, enter the current time, for example, 7:30pm Eastern Time."
+          label: "Time"
+          help: "For events, enter the event start time, for example, 7:30pm Eastern Time."
       - name: "author"
         field:
           element: "text"

@@ -1,9 +1,10 @@
 ---
-date: '2021-05-20 19:30'
+date: '2021-05-20'
 category: events
 layout: event-series
 series: scholar-activist-encounters
 published: true
+time: '7:30pm Eastern Time'
 title: 'Scholar-Activist Encounter: Rabbi Michael Feinberg and Dr. Norman Gottwald'
 description: >-
   The Center and Library for the Bible and Social Justice and the Religion and

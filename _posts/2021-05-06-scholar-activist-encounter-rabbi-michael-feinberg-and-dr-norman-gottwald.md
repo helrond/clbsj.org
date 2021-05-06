@@ -19,8 +19,6 @@ description: >-
   activists like Rabbi Feinberg, how his thinking has evolved since it’s
   publication, and how these ideas are relevant for multifaith movement-building
   today.
-tags:
-  - Hebrew Testament
 ---
 The Center and Library for the Bible and Social Justice and the [Religion and Socialism Working Group of the Democratic Socialists of America](https://www.religioussocialism.org/post_conference_follow_up_event_and_reading) invite you to a special Scholar-Activist Encounter featuring Rabbi Michael Feinberg and Dr. Norman Gottwald.
 

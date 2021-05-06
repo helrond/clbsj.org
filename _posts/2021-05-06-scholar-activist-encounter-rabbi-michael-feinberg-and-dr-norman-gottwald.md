@@ -1,7 +1,7 @@
 ---
 date: '2021-05-20'
 category: events
-layout: event-series
+layout: event
 series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'

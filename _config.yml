@@ -24,6 +24,7 @@ prose :
     'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile',
     'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json',
     'gulpfile.js', 'package.json', 'package-lock.json', 'resources', 'robots.txt']
+  media: img
   metadata:
     _posts:
       - name: "title"
@@ -57,6 +58,16 @@ prose :
           element: "text"
           label: "Location"
           help: "For events, enter the name or street address of a location"
+      - name: "image_filename"
+        field:
+            element: "text"
+            label: "Image filename"
+            help: "The filename of an image associated with this page, without the leading /img/ directory"
+      - name: "image_alt_text"
+        field:
+            element: "text"
+            label: "Image Alt Text"
+            help: "A human-readable description of the image"
       - name: "description"
         field:
           element: "text"

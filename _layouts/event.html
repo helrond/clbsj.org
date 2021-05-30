@@ -12,6 +12,10 @@ layout: level-two
 
 {%- if series.tagline -%}<p class="event-tagline">{{series.tagline}}</p>{%- endif -%}
 
+{%- if page.image_filename -%}
+{%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
+{%- endif -%}
+
 {{ content }}
 
 {%- if page.location -%}

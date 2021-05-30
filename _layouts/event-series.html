@@ -11,7 +11,7 @@ layout: level-two
 {{ content }}
 
 {%- if page.image_filename -%}
-{%- include image-right.html filename=page.image_filename alt_text=image.alt_text -%}
+{%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
 {%- endif -%}
 
 <div class="series-events">

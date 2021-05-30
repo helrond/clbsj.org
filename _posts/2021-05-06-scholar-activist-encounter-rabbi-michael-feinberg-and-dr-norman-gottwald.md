@@ -1,6 +1,8 @@
 ---
 date: '2021-05-20'
 category: events
+image_filename: Tribes.png
+image_alt_text: Cover of Tribes of Yahweh
 layout: event
 series: scholar-activist-encounters
 published: true
@@ -20,9 +22,6 @@ description: >-
   publication, and how these ideas are relevant for multifaith movement-building
   today.
 ---
-<div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-<img alt="Tribes of Yawheh cover" src="/img/Tribes.png" />
-</div>
 
 The Center and Library for the Bible and Social Justice and the [Religion and Socialism Working Group of the Democratic Socialists of America](https://www.religioussocialism.org/post_conference_follow_up_event_and_reading) invite you to a special Scholar-Activist Encounter featuring Rabbi Michael Feinberg and Dr. Norman Gottwald.
 

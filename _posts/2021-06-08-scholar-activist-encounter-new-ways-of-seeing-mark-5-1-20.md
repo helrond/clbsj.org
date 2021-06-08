@@ -3,7 +3,7 @@ date: '2021-06-17'
 category: events
 layout: event-series
 series: scholar-activist-encounters
-published: false
+published: true
 title: 'Scholar-Activist Encounter: New Ways of Seeing Mark 5:1-20'
 time: 7pm Eastern Time
 description: >-

@@ -22,11 +22,11 @@ CLBSJ is pleased to collaborate with the Alternative Seminary to host a roundtab
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwscOmvqT8sHd2n8M5CeX3-kWYqFHgcgfuR" %}
 
-The evening will be hosted by [Dong Hyeon Jeong](https://clbsj.org/about/leadership/dong-hyeon-jong/) and [Nicholas Johnson](https://clbsj.org/about/leadership/nicholas-a-johnson/), members of the CLBSJ Board. This event is a part of the Alternative Seminary's course ["The Radical Way of Jesus: An eight-week online study of the Gospel of Mark"](https://mailchi.mp/9557cc074792/alternative-seminary-course-on-the-gospel-of-mark?e=7bde532e58) and is co-sponsored by the Open Door Community and Bartimaeus Cooperative Ministries.
+![Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from commons.wikimedia.org]({{site.baseurl}}Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg)The evening will be hosted by [Dong Hyeon Jeong](https://clbsj.org/about/leadership/dong-hyeon-jong/) and [Nicholas Johnson](https://clbsj.org/about/leadership/nicholas-a-johnson/), members of the CLBSJ Board. This event is a part of the Alternative Seminary's course ["The Radical Way of Jesus: An eight-week online study of the Gospel of Mark"](https://mailchi.mp/9557cc074792/alternative-seminary-course-on-the-gospel-of-mark?e=7bde532e58) and is co-sponsored by the Open Door Community and Bartimaeus Cooperative Ministries.
 
 Scroll down for more information on the speakers.
 
-![Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from commons.wikimedia.org]({{site.baseurl}}Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg)
+Image Credit: Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Illustration_of_Jesus_exorcizing_the_Gerasene_demoniac.jpg). Used with permission under the Creative Commons Attribution-Share Alike 4.0 International license. 
 
 --------------
 

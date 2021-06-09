@@ -1,10 +1,18 @@
 ---
-date: '2021-06-09 09:19 -0400'
-category: news
-layout: news-item
-series: did-you-know
+date: '2021-06-17'
+category: events
+layout: event
+series: scholar-activist-encounters
 published: true
 title: 'Scholar-Activist Encounter: New Ways of Seeing Mark 5:1-20'
+time: '7:00pm Eastern Time'
+description: >-
+  CLBSJ is pleased to collaborate with the Alternative Seminary to host a
+  roundtable discussion on new understandings of Mark 5:1-20, the healing of the
+  Gerasene Demoniac, that prioritize marginalized and invisibilized
+  perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter
+  McLellan will share about their research followed by an open dialogue about
+  the implications of these ideas for movements for justice and peace.
 ---
 CLBSJ is pleased to collaborate with the Alternative Seminary to host a roundtable discussion on new understandings of [Mark 5:1-20](http://bible.oremus.org/?ql=490073453), the healing of the Gerasene Demoniac, that prioritize marginalized and invisibilized perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter McLellan will share about their research followed by an open dialogue about the implications of these ideas for movements for justice and peace.
 

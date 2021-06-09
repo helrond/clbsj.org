@@ -1,7 +1,9 @@
 ---
 date: '2021-06-17'
 category: events
-layout: event-series
+image_filename: Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg
+image_alt_text: "Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from commons.wikimedia.org"
+layout: event
 series: scholar-activist-encounters
 published: true
 title: 'Scholar-Activist Encounter: New Ways of Seeing Mark 5:1-20'
@@ -18,7 +20,7 @@ image_alt_text: >-
   Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from
   commons.wikimedia.org
 ---
-![Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from commons.wikimedia.org]({{site.baseurl}}Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg)CLBSJ is pleased to collaborate with the Alternative Seminary to host a roundtable discussion on new understandings of [Mark 5:1-20](http://bible.oremus.org/?ql=490073453), the healing of the Gerasene Demoniac, that prioritize marginalized and invisibilized perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter McLellan will share about their research followed by an open dialogue about the implications of these ideas for movements for justice and peace.
+CLBSJ is pleased to collaborate with the Alternative Seminary to host a roundtable discussion on new understandings of [Mark 5:1-20](http://bible.oremus.org/?ql=490073453), the healing of the Gerasene Demoniac, that prioritize marginalized and invisibilized perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter McLellan will share about their research followed by an open dialogue about the implications of these ideas for movements for justice and peace.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwscOmvqT8sHd2n8M5CeX3-kWYqFHgcgfuR" %}
 
@@ -26,7 +28,7 @@ The evening will be hosted by [Dong Hyeon Jeong](https://clbsj.org/about/leaders
 
 Scroll down for more information on the speakers.
 
-Image Credit: Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Illustration_of_Jesus_exorcizing_the_Gerasene_demoniac.jpg). Used with permission under the Creative Commons Attribution-Share Alike 4.0 International license. 
+Image Credit: Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Illustration_of_Jesus_exorcizing_the_Gerasene_demoniac.jpg). Used with permission under the Creative Commons Attribution-Share Alike 4.0 International license.
 
 --------------
 

@@ -1,24 +1,10 @@
 ---
-date: '2021-06-17'
-category: events
-image_filename: Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg
-image_alt_text: "Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from commons.wikimedia.org"
-layout: event
-series: scholar-activist-encounters
-published: true
-title: 'Scholar-Activist Encounter: New Ways of Seeing Mark 5:1-20'
-time: 7pm Eastern Time
-description: >-
-  CLBSJ is pleased to collaborate with the Alternative Seminary to host a
-  roundtable discussion on new understandings of Mark 5:1-20, the healing of the
-  Gerasene Demoniac, that prioritize marginalized and invisibilized
-  perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter
-  McLellan will share about their research followed by an open dialogue about
-  the implications of these ideas for movements for justice and peace.
-image_filename: Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg
-image_alt_text: >-
-  Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from
-  commons.wikimedia.org
+date: '2021-06-09 09:19 -0400'
+category: news
+layout: news-item
+series: did-you-know
+published: false
+title: Untitled
 ---
 CLBSJ is pleased to collaborate with the Alternative Seminary to host a roundtable discussion on new understandings of [Mark 5:1-20](http://bible.oremus.org/?ql=490073453), the healing of the Gerasene Demoniac, that prioritize marginalized and invisibilized perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter McLellan will share about their research followed by an open dialogue about the implications of these ideas for movements for justice and peace.
 
@@ -32,7 +18,7 @@ Image Credit: Illustration of Jesus Exorcising the Gerasene Demoniac by Katoloph
 
 --------------
 
-**Brian James Tipton** is a PhD candidate in the Bible and Cultures program within the Graduate Division of Religion at the Drew Theological School in Madison, New Jersey.  Brian is a certified candidate for diaconate ordination in the United Methodist Church and his work focuses on the intersections of the New Testament, ecology, and how animalizing metaphors are used to marginalize oppressed populations. Brian is currently writing his dissertation which focuses on how animals are used to think with in the Gospel of Mark, especially in relation to gender, race, ethnicity, class, and incarceration.
+**Brian James Tipton** is a PhD candidate in the Bible and Cultures program within the Graduate Division of Religion at the Drew Theological School in Madison, New Jersey.  Brian is a certified candidate for diaconate ordination in the United Methodist Church and his work focuses on the intersections of the New Testament, ecology, and how animalizing metaphors are used to marginalize oppressed populations. Brian is currently writing his dissertation which focuses on how animals are used to think with in the Gospel of Mark, especially in relation to gender, race, ethnicity, class, and incarceration. When not writing his dissertation Brian enjoys spending time with his spouse, Christine, chasing around his 2 daughters, Elia (5) and Alex (2), swimming, hanging out at the beach, and causing good theological trouble in the United Methodist Church. 
 
 **Eric A. Thomas** a PhD candidate in New Testament and Early Christianity at Drew University. His research focuses on Minoritized Biblical Criticism informed by Queer Theory. Eric is a graduate of the Interdenominational Theological Center (ITC) in Atlanta, GA, and is currently the Interim Pastor of Siloam Presbyterian Church in Bedford Stuyvesant, Brooklyn. His essays “Tales from the Crypt: A Same Gender Loving (SGL) Reading of Mark 5:1-20 – Backwards” and “The Futures Outside (Rev 22:8-21): Apocalyptic Epilogue Unveiled as Africana Queer Prologue” are published in the Journal of the ITC and in Sexual Disorientations: Queer Temporalities, Affects, Theologies (Fordham University Press) respectively. When not working on his dissertation, he enjoys spending time with his husband Carlos Barnett, and being the proud uncle of Jayden, Nia and Devin.
 

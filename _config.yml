@@ -82,7 +82,7 @@ prose :
             - name: "Events"
               value: "events"
           label: "Category"
-          help: "For news items, choose News Item, for events, choose Event"
+          help: "For news items, choose News, for events, choose Events"
       - name: "layout"
         field:
           element: "select"
@@ -112,9 +112,9 @@ prose :
             - name: "Scholar-Activist Encounters"
               value: "scholar-activist-encounters"
             - name: "Seminal Books"
-              value: "seminal-boox"
-          label: "Layout"
-          help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
+              value: "seminal-books"
+          label: "Series"
+          help: "If this content belongs to a series, choose that series name."
       - name: "tags"
         field:
           element: "multiselect"

@@ -4,7 +4,7 @@ category: events
 layout: event
 series: scholar-activist-encounters
 published: true
-title: 'Scholar-Activist Encounter: Discussion of Healing Haunted Histories with Sweetwater Cultural Center'
+title: 'Scholar-Activist Encounter: Discussion of <em>Healing Haunted Histories</em> with Sweetwater Cultural Center'
 time: '7:00pm Eastern Time'
 description: >-
   On July 15, 2021, CLBSJ will welcome Elaine Enns and Ched Myers for a
@@ -18,8 +18,8 @@ image_alt_text: >-
 image_filename: healing-haunted-histories.jpg
 ---
 On July 15, 2021, CLBSJ will welcome Elaine Enns and Ched Myers for a
-discussion of their newest book, Healing Haunted Histories: A Settler
-Discipleship of Decolonization. They will be joined by Maria De Freece
+discussion of their newest book, _Healing Haunted Histories: A Settler
+Discipleship of Decolonization_. They will be joined by Maria De Freece
 Lawrence (Lenape), founding Board Member of the Sweetwater Cultural
 Center, an indigenous-led organization that is featured in Ched and
 Elaine’s book as an example of indigenous-settler solidarity.
@@ -32,7 +32,7 @@ the Community of Living Traditions.
 
 ## About the Book
 Part memoir; part social, historical, and theological analysis; and part
-practical workbook, Healing Haunted Histories invites settler Christians
+practical workbook, _Healing Haunted Histories_ invites settler Christians
 (and other people of faith) into a discipleship of decolonization. How
 are our histories, landscapes, and communities haunted by continuing
 Indigenous dispossession? How do we transform our colonizing

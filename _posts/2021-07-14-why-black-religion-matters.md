@@ -2,7 +2,7 @@
 category: events
 layout: event-series
 series: did-you-know
-published: false
+published: true
 title: Why Black Religion Matters
 description: >-
   In honor of "Black August," CLBSJ is embarking on a deep dive into the
@@ -10,6 +10,7 @@ description: >-
   each Tuesday during August at at 4:30 Pacific Time / 7:30 Eastern Time via
   Zoom to explore the theme: "Why Black Religion Matters: remembering and
   centering Black/Africana contributions to our scriptural traditions."
+date: '2021-07-14 14:38 -0400'
 ---
 In honor of "Black August," CLBSJ is embarking on a deep dive into the transformative and revolutionary aspects of Black religion.  We will convene each Tuesday during August at at 4:30 Pacific Time / 7:30 Eastern Time via Zoom to explore the theme: "Why Black Religion Matters: remembering and centering Black/Africana contributions to our scriptural traditions."
 

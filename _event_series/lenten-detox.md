@@ -7,6 +7,7 @@ tagline: >-
   Christian scripture.
 keywords: 'bible, activist, lent, bible study'
 published: true
+sort_order: 2
 ---
 Each Thursday during Lent at at 4:30 Pacific Time / 7:30 Eastern Time via Zoom
 

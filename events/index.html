@@ -28,7 +28,8 @@ image: /img/events.jpg
 <div class="medium-10 medium-offset-1">
   <div class="medium-12 columns">
     <h2>Events Series</h2>
-    {% for series in site.event_series %}
+    {%- assign sorted_series = site.event_series | sort: 'sort_order' -%}
+    {% for series in sorted_series %}
       {% include event-series-item.html series=series %}
     {% endfor %}
   </div>

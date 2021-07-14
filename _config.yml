@@ -113,6 +113,8 @@ prose :
               value: "scholar-activist-encounters"
             - name: "Seminal Books"
               value: "seminal-books"
+            - name: "Why Black Religion Matters"
+              value: "why-black-religion-matters"
           label: "Series"
           help: "If this content belongs to a series, choose that series name."
       - name: "tags"

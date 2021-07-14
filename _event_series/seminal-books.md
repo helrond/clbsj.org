@@ -4,6 +4,7 @@ title: "Seminal Books in Activist Theology"
 slug: seminal-books
 tagline: "Reading and discussing books that help to galvanize faith-based consciousness in movement."
 keywords: bible, activist
+sort_order: 4
 ---
 For one Thursday a month, bibliophiles, activists, theologians
 and scholars of all stripes are invited to gather at the Library and

@@ -9,7 +9,7 @@ image_alt_text: fist holding pen
 image_caption: '"<a href="https://commons.wikimedia.org/wiki/File:Raised_fist_with_pencil.png">Raised Fist with Pencil</a>" by YeshaiMishal is used under the Creative
 Commons Attribution-Share Alike 4.0 International license.'
 keywords: bible, activist
-sort_order: 3
+sort_order: 2
 ---
 The Center and Library for the Bible and Social Justice invites you to join
 us online each third Thursday at 4:30pm Pacific Time / 7:30pm Eastern Time

@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: Sister Sharifa Vernice Meytung
+title: 'Why Black Religion Matters: Sister Sharifa Vernice Meytung'
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Sister Sharifa Vernice Meytung will explore the parallels

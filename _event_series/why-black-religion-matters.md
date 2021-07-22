@@ -29,7 +29,7 @@ the deaths of Emmett Till, W.E.B du Bois and Michael Brown — August
 bursts at the seams with histories of Black resistance. Because of this,
 organizers have claimed it as a month to deepen understanding of and
 commitment to the practices that lead us to liberation. CLBSJ is honored
-to join this tradition.
+to unite with this tradition.
 
 The speaker lineup for this event is under development. Please check this page
 for additional schedule details as they emerge.

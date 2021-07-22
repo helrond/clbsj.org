@@ -1,10 +1,13 @@
 ---
 layout: event-series
-title: "Why Black Religion Matters"
+title: Why Black Religion Matters
 slug: why-black-religion-matters
-tagline: "A deep dive into the transformative and revolutionary aspects of Black religion."
-keywords: bible, activist, black
+tagline: >-
+  A deep dive into the transformative and revolutionary aspects of Black
+  religion.
+keywords: 'bible, activist, black'
 sort_order: 1
+published: true
 ---
 
 In honor of "Black August," CLBSJ is embarking on a deep dive into the
@@ -20,7 +23,7 @@ commitment to transformation and liberation within Black communities
 around the world. From the beginning of the Haitian Revolution to the
 Nat Turner Rebellion; from the Fugitive Slave Law Convention and the
 foundation of the Underground Railroad to the March on Washington; from
-the uprising in Watts (1965) to the Uprising in Ferguson (2013); from
+the uprising in Watts (1965) to the Uprising in Ferguson (2014); from
 the births of Marcus Garvey, Russell Maroon Shoatz, and Fred Hampton to
 the deaths of Emmett Till, W.E.B du Bois and Michael Brown — August
 bursts at the seams with histories of Black resistance. Because of this,

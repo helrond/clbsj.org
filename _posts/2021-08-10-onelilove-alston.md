@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Why Black Religion Matters: Onelilove Alston'
+title: 'Why Black Religion Matters: Onleilove Alston'
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Minister Onleilove Chika Alston will speak about African Jews

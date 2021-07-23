@@ -8,11 +8,11 @@ layout: level-two
 <p class="event-tagline">{{page.tagline}}</p>
 {%- endif -%}
 
-{{ content }}
-
 {%- if page.image_filename -%}
 {%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
 {%- endif -%}
+
+{{ content }}
 
 <div class="series-events">
   <h2 class="event-list-heading">Upcoming Events</h2>

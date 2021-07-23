@@ -11,6 +11,8 @@ description: >-
   & The Black Freedom Movement. Minister Alston is the Interfaith Center of New
   York's Racial Justice Organizing Fellow and author of _Prophetic Whirlwind:
   Uncovering the Black Biblical Destiny._
+image_alt_text: Minister Onleilove Chika Alston
+image_filename: onleilove-alston.jpg
 ---
 In this session, Minister Onleilove Chika Alston will speak about African Jews & The Black Freedom Movement. Minister Alston is the Interfaith Center of New York's Racial Justice Organizing Fellow and author of _Prophetic Whirlwind: Uncovering the Black Biblical Destiny._
 

@@ -12,6 +12,8 @@ description: >-
   tradition, and the parables of Jesus. Sister Sharifa is an artist, haijin (a
   writer of haiku poetry), teacher and lay religious practitioner in the
   Catholic and Buddhist traditions.
+image_alt_text: Sister Sharifa Vernice Meytung
+image_filename: sister-sharifa.jpg
 ---
 In this session, Sister Sharifa Vernice Meytung will explore parallels between the continental and diasporan African tales, the Jataka tales of early Buddhism, and the parables of the Judeo-Christian traditions. Sister Sharifa is an artist, haijin (a writer of haiku poetry), teacher and lay religious practitioner in the Catholic and Buddhist traditions.
 

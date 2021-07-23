@@ -12,6 +12,8 @@ description: >-
   protest and resist slavery and oppression. Dr. Bowens is associate professor
   of New Testament at Princeton Theological Seminary, and author of _African
   American Readings of Paul: Reception, Resistance, and Transformation._
+image_alt_text: Lisa M. Bowens
+image_filename: lisa-bowens.png
 ---
 In this session, Lisa M. Bowens, will discuss her research on the variety of ways that African American communities have utilized Paul in their efforts to protest and resist slavery and oppression. Dr. Bowens is associate professor of New Testament at Princeton Theological Seminary, and author of _African American Readings of Paul: Reception, Resistance, and Transformation._
 

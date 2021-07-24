@@ -9,7 +9,7 @@ keywords: 'bible, activist, black'
 sort_order: 1
 published: true
 image_filename: black-august.jpg
-image_alt_text: "Black August: Why Black Religion Matters"
+image_alt_text: 'Black August: Why Black Religion Matters'
 ---
 
 In honor of "Black August," CLBSJ is embarking on a deep dive into the
@@ -17,7 +17,7 @@ transformative and revolutionary aspects of Black religion.  We will
 convene each Tuesday during August at at 4:30 Pacific Time / 7:30
 Eastern Time via Zoom to explore the theme: "Why Black Religion Matters:
 remembering and centering Black/Africana contributions to our scriptural
-traditions."
+traditions." This series is co-sponsored by the Community of Living Traditions.
 
 “Black August” is a pan-African and internationalist tradition that
 recognizes the month of August as a living testament of the depth of

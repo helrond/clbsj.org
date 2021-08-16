@@ -7,7 +7,8 @@ $(document).ready(function(){
 
   // Hide events occuring in the past
   var now = new Date($.now())
-  now.setDate(now.getDate() - 1).setHours(now.getHours() - 2);
+  now.setDate(now.getDate() - 1)
+  now.setHours(now.getHours() - 2)
   $("div.callout, .filter-before-date").each(function() {
     if ($(this).data("date-filter")) {
       var post = new Date($(this).data("date-filter").split(" ")[0])

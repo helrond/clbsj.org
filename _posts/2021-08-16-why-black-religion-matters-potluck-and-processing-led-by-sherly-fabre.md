@@ -3,7 +3,7 @@ date: '2021-08-31'
 category: events
 layout: event
 series: why-black-religion-matters
-published: false
+published: true
 title: 'Why Black Religion Matters: "Potluck and Processing" led by Sherly Fabre'
 time: '7:30pm Eastern Time'
 description: >-
@@ -22,3 +22,5 @@ Series host Sherly Fabre will offer reflections on Black August that come from h
 As has been our tradition, we will open with a libation ceremony honoring inviting the living memory of our ancestors into the room. All are invited to bring names to contribute to this ceremony.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZAod-iqrjwuG9RX5C6cnxNq3UXmqhbmeblD" %}
+
+**Sherly Fabre:** A Haitian-American immigrant who grew up Catholic and converted to Islam, Sherly is a seasoned grassroots activist who builds capacity at local, national and international levels. She is the co-chair of the boards of Proyecto Faro and the Truth Telling Project, a member of the Fellowship of Reconciliation National Committee, UN Representative for the International Fellowship of Reconciliation, and a member of the Community of Living Traditions and the Muslim Peace Fellowship. She has volunteered with CLBSJ’s library team and the Muslim Peace Collection, and is now serving as the Black August Series Host.

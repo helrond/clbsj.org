@@ -34,6 +34,16 @@ layout: level-two
   {%- endfor -%}
   </ul>
 </div>
+
+{% if page.leadership %}
+<div class="series-leadership">
+  <h2 class="series-leadership-heading">Leadership</h2>
+  {% for leader in page.leadership %}
+    <h3>{{leader.name}}</h3>
+    <p>{{leader.description | markdownify }}</p>
+  {% endfor %}
+</div>
+{% endif %}
 {%- if page.location -%}
 <iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{page.location}}&key=AIzaSyDhohzY1SCbmQNhdmJJivBvTczWEfhZPgg" allowfullscreen></iframe>
 {%- endif -%}

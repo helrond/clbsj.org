@@ -12,6 +12,8 @@ description: >-
   insights, and to discuss how to build on it going forward. Series host Sherly
   Fabre will offer reflections on Black August that come from her Haitian
   heritage and her Muslim faith practice.
+image_filename: Sherly.jpeg
+image_alt_text: Sherly Fabre
 ---
 All are invited to come together to "digest" the perspectives that have been shared during CLBSJ's inaugural Black August series, to share additional insights, and to discuss how to build on it going forward. 
 

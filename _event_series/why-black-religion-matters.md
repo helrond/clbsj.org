@@ -33,5 +33,13 @@ organizers have claimed it as a month to deepen understanding of and
 commitment to the practices that lead us to liberation. CLBSJ is honored
 to unite with this tradition.
 
-The speaker lineup for this event is under development. Please check this page
-for additional schedule details as they emerge.
+See links below for the speaker lineup!
+
+**Sherly Fabre, Series Host**
+A Haitian-American immigrant who grew up Catholic and converted to Islam, Sherly is a seasoned grassroots activist who builds capacity at local, national and international levels. She is the co-chair of the boards of Proyecto Faro and the Truth Telling Project, a member of the Fellowship of Reconciliation National Committee, UN Representative for the International Fellowship of Reconciliation, and a member of the Community of Living Traditions and the Muslim Peace Fellowship. She has volunteered with CLBSJ’s library team and the Muslim Peace Collection.
+
+**Sister Sharifa Vernice Meytung, Artistic Consultant** 
+An African-American artist and haijin (a writer of haiku poetry), Sister Sharifa is a teacher and lay religious practitioner in the Catholic and Buddhist traditions. Her practice is also steeped in and informed by West African, Native and HipHop traditions. Her media books and CDs include _Oil For The Lamp: 7 Virtues of Human Character Development_, _Hiphop H.A.I.K.U. Vol 1 and 2_, _Rough Ground_, and she is currently producing an online video series focused on the study of the Jataka Tales of early Buddhism. Sister Sharifa serves on the Board of the Philadelphia Buddhist Association.
+
+**Warren Cooper, Media Guru**
+A jazz musician and artistic entrepreneur from Philadelphia, Warren is the Executive Producer of Music Media Ministry, a multi-media production company focused on the manufacturing and trafficking of positive art that nurtures the movement for justice and peace. He is a member of the Community of Living Traditions and served for many years as the volunteer curator of Stony Point Center Productions. Warren has a life-long history of service in the Presbyterian Church USA, and is an Ordained Ruling Elder and Minister of Music.

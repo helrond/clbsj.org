@@ -3,7 +3,7 @@ date: '2021-09-23'
 category: events
 layout: event
 series: scholar-activist-encounters
-published: false
+published: true
 title: Rabia Harris & Sarah Henkel
 time: '7:30pm Eastern Time'
 description: >-

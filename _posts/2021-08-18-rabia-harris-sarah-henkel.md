@@ -4,7 +4,7 @@ category: events
 layout: event
 series: scholar-activist-encounters
 published: true
-title: Rabia Harris & Sarah Henkel
+title: 'Scholar-Activist Encounter: Rabia Harris & Sarah Henkel'
 time: '7:30pm Eastern Time'
 description: >-
   Muslim scholar and writer Rabia Terri Harris will dialogue with Christian
@@ -16,3 +16,5 @@ In this session, Muslim scholar and writer Rabia Terri Harris will dialogue with
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZIlfu6qrDoqH9Yy2I4kjbsZvyjJ5M4o4_8v" %}
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
+
+**Please note:** This event takes place on the fourth Thursday instead of our normal Third Thursday gathering time out of respect for Yom Kippur.

@@ -42,6 +42,10 @@ leadership:
       volunteer curator of Stony Point Center Productions. Warren has a
       life-long history of service in the Presbyterian Church USA, and is an
       Ordained Ruling Elder and Minister of Music.
+  - name: Nicholas Johnson, CLBSJ Board President
+    description: See bio at <https://clbsj.org/about/leadership/nicholas-a-johnson/>
+  - name: Amy Dalton, CLBSJ Executive Director
+    description: See bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
 
 In honor of "Black August," CLBSJ is embarking on a deep dive into the

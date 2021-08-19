@@ -21,7 +21,7 @@ In this session, Sister Sharifa Vernice Meytung will explore parallels between t
 
 **Sister Sharifa writes:**
 
-_Forces of popular education, industrial and urban growth, and mass communications have changed the way in which many communities record, remember and pass along their stories. To experience the oral narratives of a community, within their cultural and spiritual context, is to benefit from the movement of the Spirit as She guides and shapes and teaches.
+_Forces of popular education, industrial and urban growth, and mass communications have changed the way in which many communities record, remember and pass along their stories. To experience the oral narratives of a community, within their cultural and spiritual context, is to benefit from the movement of the Spirit as She guides and shapes and teaches._
 
 _Tales expand the horizons of our minds, all the while challenging us to remain firmly rooted like the baobab tree...or the olive tree...or the bodhi tree. Rooted in a noble, shared truth. Namely, that all our stories matter and are worth remembering and retelling. To remember our roots in this way, is to remember why all creatures (even Br’er Rabbit) cherish freedom._
 

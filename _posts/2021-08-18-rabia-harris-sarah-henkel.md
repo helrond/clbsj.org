@@ -11,7 +11,7 @@ description: >-
   pastor and activist Sarah Henkel about the parallels between the Qu'ran and
   the Bible.
 ---
-In this session, Muslim scholar and writer Rabia Terri Harris will dialogue with Christian pastor and activist Sarah Henkel about the parallels between the Qu'ran and the Bible. Rabia and Sarah both are members of the multifaith Community of Living Traditions, and their discussion will draw from and mine the wisdom that has been generated through the day-to-day discussions held in community for over a decade. 
+In this session, Muslim scholar and writer Rabia Terri Harris will dialogue with Christian pastor and activist Sarah Henkel about the parallels between the Qu'ran and the Bible, and what these overlapping and divering stories have to teach those who strive to cultivate justice and peace. Rabia and Sarah both are members of the multifaith Community of Living Traditions, and their discussion will draw from and mine the wisdom that has been generated through the day-to-day discussions held in community for over a decade. 
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZIlfu6qrDoqH9Yy2I4kjbsZvyjJ5M4o4_8v" %}
 

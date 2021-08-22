@@ -5,7 +5,7 @@ layout: event
 series: lenten-detox
 published: true
 time: '7:30pm Eastern Time'
-title: 'After the DeTox: Invitation to Debrief and Vision'
+title: 'Invitation to Debrief and Vision'
 ---
 
 Calling all Bible-o-Philes! Please join us on Thursday April 15, 7:30pm Eastern Time, to help shape CLBSJ’s emerging approach to biblical engagement.
@@ -16,6 +16,6 @@ If you connected in any way with the Lenten Bible "Detox" Series, either live or
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
-If you'd like to get a head-start on your thinking, please consider filling out [this feedback survey](https://forms.gle/os6A2jpF6YrUL1SG8). 
+If you'd like to get a head-start on your thinking, please consider filling out [this feedback survey](https://forms.gle/os6A2jpF6YrUL1SG8).
 
 If you missed any of the Detox sessions, you can watch the recordings on [vimeo.com/clbsj](https://vimeo.com/clbsj)

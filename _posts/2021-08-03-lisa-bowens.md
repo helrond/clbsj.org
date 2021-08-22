@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Why Black Religion Matters: Lisa Bowens'
+title: 'Lisa Bowens'
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Lisa M. Bowens, will discuss her research on the variety of

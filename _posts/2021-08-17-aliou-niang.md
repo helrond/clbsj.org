@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Why Black Religion Matters: Aliou Niang'
+title: 'Aliou Niang'
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Aliou Niang will speak on the role of Christianity and

@@ -5,7 +5,7 @@ layout: event
 series: scholar-activist-encounters
 published: true
 title: >-
-  Scholar-Activist Encounter: Discussion of <em>Healing Haunted Histories</em>
+  Discussion of <em>Healing Haunted Histories</em>
   with Sweetwater Cultural Center
 time: '7:30pm Eastern Time'
 description: >-

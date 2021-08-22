@@ -7,7 +7,7 @@ layout: event
 series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
-title: 'Scholar-Activist Encounter: Rabbi Michael Feinberg and Dr. Norman Gottwald'
+title: 'Rabbi Michael Feinberg and Dr. Norman Gottwald'
 description: >-
   The Center and Library for the Bible and Social Justice and the Religion and
   Socialism Working Group of the Democratic Socialists of America invite you to

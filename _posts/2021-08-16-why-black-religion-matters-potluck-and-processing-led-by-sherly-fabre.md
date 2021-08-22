@@ -17,7 +17,7 @@ image_alt_text: Sherly Fabre
 ---
 All are invited to come together to "digest" the perspectives that have been shared during CLBSJ's inaugural Black August series, to share additional insights, and to discuss how to build on it going forward.
 
-What is the relevance of our religious practices to carrying forward the tradition of Black August? What have we learned; what questions have been raised? Please bring whatever thoughts and insights you have been cooking up!
+What is the relevance of our religious practices in carrying forward the tradition of Black August? What have we learned; what questions have been raised? Please bring whatever thoughts and insights you have been cooking up!
 
 Series host Sherly Fabre will offer reflections on Black August that come from her Haitian heritage and her Muslim faith practice.
 

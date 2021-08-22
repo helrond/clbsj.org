@@ -1,8 +1,8 @@
 {% assign events = site.posts | where: 'category', 'events' %}
 
 <div class="events list-group">
-  {% for item in events reversed %}
+  {% for item in events %}
     {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
-    {% include event-list-item.html filter='before' %}
+    {% include event-list-item.html filter='after' %}
   {% endfor %}
 </div>

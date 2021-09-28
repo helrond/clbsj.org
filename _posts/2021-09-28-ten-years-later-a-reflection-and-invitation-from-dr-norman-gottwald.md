@@ -1,10 +1,11 @@
 ---
-date: '2021-09-28 11:29 -0400'
+date: '2021-09-28'
 category: news
 layout: news-item
 series: did-you-know
 published: false
 title: 'Ten Years Later: A Reflection and Invitation from Dr. Norman Gottwald'
+author: Norman Gottwald
 ---
 Dear Friends,
 

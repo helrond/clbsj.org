@@ -17,15 +17,15 @@ Looking back on that gathering, I still share that hope, and rejoice that there 
 
 This past year, under the leadership of our Board President Nicholas Johnson and our Executive Director Amy Dalton, CLBSJ has been exploring the question of how we might most effectively and uniquely contribute to this beautiful tapestry. As it turned out, the pandemic has helped us with this process by forcing us to experiment with developing online content that furthers the type of conversions we want to cultivate. From that process has emerged our monthly [Scholar-Activist Encoutner series](https://clbsj.org/events/scholar-activist-encounters/) as well as mini-series programs including the [Lenten Bible Detox](https://clbsj.org/events/lenten-detox/) study and last month's [“Black August” series](https://clbsj.org/events/why-black-religion-matters/). I am grateful to Amy, Nick, and the whole CLBSJ Board for their ability to generate such momentum in the midst of the pandemic.
 
-As we vision for what the next ten years could look like, I invite you to join with us to build the capacity we need to enter our next phase of growth.
+As we imagine what the next ten years could look like, one thing is clear: we need to strengthen our foundation in order to be able to achieve our goals. I invite you to join with us to build the capacity we need to enter our next phase.
 
-Would you be willing to make a donation today to support CLBSJ's growth? We are a small organization with big dreams, so any size gift will truly make a difference. 
+Laura and I have committed to make a monthly gift to help CLBSJ build its capacity. We need to increase our Executive Director to full time, and fund several key support roles. Would you join with us to commit to a regular monthly gift?
 
-Laura and I have committed to make a monthly gift to help CLBSJ build its capacity. We need to bring our director position to full time, and fund several key support roles. Would you join with us to commit to a regular monthly gift? 
+One-time gifts also help a great deal. We are a small organization with big dreams, so any size gift will truly make a difference. 
 
-I know there are many who share my conviction that we must work to reclaim the Bible from the religious right — both those who gathered with me ten years ago to launch this project, and those who have become involved since. If each of you who feels this way chipped in, we could pull it off!
+I know there are many who share my conviction that we must dream big and work hard to reclaim the Bible from the religious right — both those who gathered with me ten years ago to launch this project, and those who have become involved since. If each of you who feels this way chipped in, we could pull it off!
 
-Any amount you can give will help. Please consider a generous gift today. You can make your gift online or see instructions on how to mail it at [clbsj.org/donate](https://clbsj.org/donate/)
+Please consider a generous gift today. You can make your gift online or see instructions on how to mail it at [clbsj.org/donate](https://clbsj.org/donate/)
 
 Amy recently asked me what scriptures we worked with in our opening gathering ten years ago. The one that stands out is the parable of the workers in the vineyard (Matthew 20:1-16) I remember in particular the spirited discussion among different perspectives on how to see this text. Some saw it as a testimony to the generosity of God; others (including myself) followed William Herzog's reading to see it as a veiled critique of the power dynamics that were (and are) prevalent in imperial contexts. Despite our differing interpretations, we all agreed with the notion that it is not an endorsement of capitalism, and that we want our deployment of the text to support the efforts of workers every where to achieve a living wage and decent working conditions. 
 

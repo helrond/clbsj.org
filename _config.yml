@@ -101,6 +101,8 @@ prose :
         field:
           element: "select"
           options:
+            - name: "Do not assign this post to a series"
+              value: null
             - name: "Did You Know?"
               value: "did-you-know"
             - name: "From the Stacks"

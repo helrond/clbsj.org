@@ -5,7 +5,6 @@ layout: news-item
 published: true
 title: 'Ten Years Later: A Reflection and Invitation from Dr. Norman Gottwald'
 author: Norman Gottwald
-series: did-you-know
 ---
 Dear Friends,
 

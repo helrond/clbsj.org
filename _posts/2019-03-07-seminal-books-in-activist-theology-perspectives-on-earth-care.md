@@ -4,12 +4,10 @@ category: events
 layout: event
 series: seminal-books
 published: true
-has_video: true
+vimeo_id: "330910239"
 title: 'Perspectives on Earth Care'
 location: '5 Cricketown Road Stony Point, NY 10980'
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/330910239" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 On March 14, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements. This month, we will be considering earth care through the lens of Christian and Muslim traditions. Each month we invite a roundtable of scholar/activists to share about books related to a particular theme that sparked their own personal spiritual/activist awakening, and then we reflect together.
 

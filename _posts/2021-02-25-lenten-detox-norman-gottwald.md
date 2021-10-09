@@ -4,7 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
-has_video: true
+vimeo_id: "518370385"
 time: '7:30pm Eastern Time'
 title: 'Study of Deuteronomy 15 led by Norman Gottwald'
 description: >-
@@ -12,8 +12,6 @@ description: >-
   exploration of "the poor will always be with you" by looking at Hebrew
   Testament parallels in Deuteronomy 15:11 and related texts.
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/518370385" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 In this session, CLBSJ co-founder Dr. Norman Gottwald will continue the
 exploration of "the poor will always be with you" by looking at Hebrew

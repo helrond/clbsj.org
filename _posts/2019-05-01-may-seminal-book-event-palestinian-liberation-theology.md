@@ -4,14 +4,12 @@ category: events
 layout: event
 series: seminal-books
 published: true
-has_video: true
+vimeo_id: "337498344"
 title: 'Palestinian Liberation Theology'
 location: '5 Cricketown Road Stony Point, NY 10980'
 tags:
   - bible
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/337498344" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 On May 9, 2019, we will continue our Seminal Books Salon Series in which we discuss books that have influenced movements.
 

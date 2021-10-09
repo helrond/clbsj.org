@@ -4,7 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
-has_video: true
+vimeo_id: 524000103
 time: '7:30pm Eastern Time'
 title: 'Study of John 3:14-21 led by Sharifa Vernice Meytung'
 description: >-
@@ -12,8 +12,6 @@ description: >-
   experience-based exploration of John 3:14-21, which appears in the
   lectionary this week.
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/524000103" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 In this session, Sr. Sharifa Vernice Meytung, OLC, will lead us in an
 experience-based exploration of John 3:14-21, which appears in the

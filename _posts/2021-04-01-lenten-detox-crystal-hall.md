@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: "533524540"
 time: '7:30pm Eastern Time'
 title: 'Study of Philippians 2:5-11, led by Crystal Hall'
 ---

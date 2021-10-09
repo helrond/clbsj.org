@@ -4,7 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
-has_video: true
+vimeo_id: 521398471
 time: '7:30pm Eastern Time'
 title: 'Study of Exodus 20:1-17 led by Rick Ufford-Chase'
 description: >-
@@ -14,8 +14,6 @@ description: >-
   have been used to target and persecute those whose speech or behavior is
   seen as deviant from the norm.
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/521398471" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 In this session, Rick Ufford-Chase will explore a collective reading of
 the Ten Commandments, which appears in this week's lectionary. These

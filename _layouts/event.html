@@ -19,6 +19,10 @@ layout: default
   {%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
   {%- endif -%}
 
+  {%- if page.vimeo_id -%}
+  {%- include vimeo_player.html vimeo_id=page.vimeo_id -%}
+  {%- endif -%}
+
   {{ content }}
 
   {%- if page.location -%}

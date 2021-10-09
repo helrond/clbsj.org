@@ -29,7 +29,7 @@ layout: level-two
   <ul>
   {%- for item in events -%}
     <li class="filter-after-date" data-date-filter="{{item.date}}">
-      {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a>
+      {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a> {% if item.vimeo_id %} <span class="label">Recording</span>{% endif %}
     </li>
   {%- endfor -%}
   </ul>

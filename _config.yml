@@ -73,6 +73,11 @@ prose :
           element: "text"
           label: "Description"
           help: "Enter a short description of the news item or event"
+      - name: "vimeo_id"
+        field:
+          element: "text"
+          label: "Vimeo ID"
+          help: "This is a numeric identifier which can be seen by clicking the Vimeo Share button."
       - name: "category"
         field:
           element: "select"

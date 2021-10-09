@@ -19,7 +19,12 @@ exclude :
   - node_modules
 prose :
   siteurl: 'https://clbsj.org'
-  ignore: ['_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js', 'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'resources', 'robots.txt', 'reading-the-bible-as-an-activist']
+  ignore: [
+    '_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js',
+    'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile',
+    'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json',
+    'gulpfile.js', 'package.json', 'package-lock.json', 'resources', 'robots.txt']
+  media: img
   metadata:
     _posts:
       - name: "title"
@@ -33,6 +38,11 @@ prose :
           value: CURRENT_DATETIME
           label: "Date"
           help: "For news items, enter the current date, or for events, enter the event start date in the format YYYY-MM-DD"
+      - name: "time"
+        field:
+          element: "text"
+          label: "Time"
+          help: "For events, enter the event start time, for example, 7:30pm Eastern Time."
       - name: "author"
         field:
           element: "text"
@@ -48,6 +58,16 @@ prose :
           element: "text"
           label: "Location"
           help: "For events, enter the name or street address of a location"
+      - name: "image_filename"
+        field:
+            element: "text"
+            label: "Image filename"
+            help: "The filename of an image associated with this page, without the leading /img/ directory"
+      - name: "image_alt_text"
+        field:
+            element: "text"
+            label: "Image Alt Text"
+            help: "A human-readable description of the image"
       - name: "description"
         field:
           element: "text"
@@ -57,28 +77,48 @@ prose :
         field:
           element: "select"
           options:
-            - name: "News Item"
+            - name: "News"
               value: "news"
-            - name: "Event"
+            - name: "Events"
               value: "events"
           label: "Category"
-          help: "For news items, choose News Item, for events, choose Event"
+          help: "For news items, choose News, for events, choose Events"
       - name: "layout"
         field:
           element: "select"
           options:
             - name: "News Item"
               value: "news-item"
+            - name: "News Series"
+              value: "news-series"
             - name: "Event"
               value: "event"
-            - name: "Reading the Bible as an Activist"
-              value: "reading-the-bible-as-an-activist"
-            - name: "From the Stacks"
-              value: from-the-stacks
-            - name: "Did You Know?"
-              value: did-you-know
+            - name: "Event Series"
+              value: "event-series"
           label: "Layout"
           help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
+      - name: "series"
+        field:
+          element: "select"
+          options:
+            - name: "Do not assign this post to a series"
+              value: null
+            - name: "Did You Know?"
+              value: "did-you-know"
+            - name: "From the Stacks"
+              value: "from-the-stacks"
+            - name: "Lenten Detox"
+              value: "lenten-detox"
+            - name: "Reading the Bible as an Activist"
+              value: "reading-the-bible-as-an-activist"
+            - name: "Scholar-Activist Encounters"
+              value: "scholar-activist-encounters"
+            - name: "Seminal Books"
+              value: "seminal-books"
+            - name: "Why Black Religion Matters"
+              value: "why-black-religion-matters"
+          label: "Series"
+          help: "If this content belongs to a series, choose that series name."
       - name: "tags"
         field:
           element: "multiselect"

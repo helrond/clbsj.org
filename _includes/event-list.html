@@ -3,6 +3,6 @@
 <div class="events list-group">
   {% for item in events reversed %}
     {% capture description %}{% if item.description %}{{item.description}}{% else %}{{item.content | strip_html  | truncatewords:20 }}{% endif %}{% endcapture %}
-    {% include event-list-item.html %}
+    {% include event-list-item.html filter='before' %}
   {% endfor %}
 </div>

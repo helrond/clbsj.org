@@ -1,3 +1,4 @@
+{% assign series = null %}
 {% for item in site.news_series %}
     {% assign name = item.path | split:"/" | last | split:"." | first %}
     {% if name == include.name %}

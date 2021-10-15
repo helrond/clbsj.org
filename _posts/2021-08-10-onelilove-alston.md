@@ -4,7 +4,6 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-vimeo_id: "627557359"
 title: 'Onleilove Alston'
 time: '7:30pm Eastern Time'
 description: >-

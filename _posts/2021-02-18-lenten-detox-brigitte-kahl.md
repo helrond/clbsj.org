@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: "515533429"
 time: '7:30pm Eastern Time'
 title: 'Study of Mark 14:1-11 led by Brigitte Kahl'
 description: >-

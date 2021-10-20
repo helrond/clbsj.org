@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: "530550161"
 time: '7:30pm Eastern Time'
 title: 'Study of Esther 1-2, led by Ericka Shawndricka Dunbar'
 description:

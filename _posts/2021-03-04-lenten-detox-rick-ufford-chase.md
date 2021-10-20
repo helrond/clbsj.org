@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: 521398471
 time: '7:30pm Eastern Time'
 title: 'Study of Exodus 20:1-17 led by Rick Ufford-Chase'
 description: >-

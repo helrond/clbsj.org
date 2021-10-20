@@ -4,6 +4,7 @@ category: events
 layout: event
 series: seminal-books
 published: true
+vimeo_id: "330909796"
 title: 'Guns & Gandhi in Africa'
 location: '5 Cricketown Road Stony Point, NY 10980'
 description: Seminal Books April 2019

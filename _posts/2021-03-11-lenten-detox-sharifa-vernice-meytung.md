@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: 524000103
 time: '7:30pm Eastern Time'
 title: 'Study of John 3:14-21 led by Sharifa Vernice Meytung'
 description: >-

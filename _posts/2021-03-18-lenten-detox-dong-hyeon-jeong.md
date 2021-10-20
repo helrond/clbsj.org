@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: "527525388"
 time: '7:30pm Eastern Time'
 title: 'Study of Mark 12:13-17 led by Dong Hyeon Jeong'
 description: >-

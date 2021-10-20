@@ -4,6 +4,7 @@ category: events
 layout: event
 series: lenten-detox
 published: true
+vimeo_id: "518370385"
 time: '7:30pm Eastern Time'
 title: 'Study of Deuteronomy 15 led by Norman Gottwald'
 description: >-

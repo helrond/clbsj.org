@@ -10,7 +10,7 @@ time: 7pm Eastern Time ~ 6pm Central Time ~ 4pm Pacific Time
 ---
 Rev. Dr. John H. “Jack” Elliott (Dr. Theol., Westfälische Wilhelms-Universität, Münster, Germany) was known internationally for his research on 1 Peter (A Home for the Homeless, Wipf and Stock, 2005) and as a leading proponent of the social-scientific study of the Bible. Less well known is that he was a co-founder and longtime Board President of the Center and Library for the Bible and Social Justice, and a social justice activist in his own right. He passed away suddenly on December 13, 2020.
 
-On November 21 6pm Central Time (7pm Eastern Time), please join us to reflect on Jack's legacy —  his contribution to social scientific biblical interpretation and its relevance to social justice organizing — and to dialogue about how we can best carry it forward.
+On Sunday, November 21, at 6pm Central Time (7pm Eastern Time), please join us to reflect on Jack's legacy —  his contribution to social scientific biblical interpretation and its relevance to social justice organizing — and to dialogue about how we can best carry it forward.
 
 This facilitated conversation will be both online and in person. It is organized in concert with the 2021 Annual Meetings of the American Academy of Religion and Society of Biblical Literature (AAR/SBL). We will be joined by members of the Context Group, and there will be space for open sharing. 
 

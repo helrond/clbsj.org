@@ -2,7 +2,7 @@
 date: 'Sunday, November 21 — 7pm Eastern Time, 6pm Central Time, 4pm Pacific Time'
 category: events
 layout: event
-published: false
+published: true
 title: >-
   Remembering John H. Elliot at SBL: his contribution to social scientific
   biblical interpretation and its relevance to social justice organizing

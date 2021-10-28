@@ -14,6 +14,7 @@ description: >-
   heritage and her Muslim faith practice.
 image_filename: Sherly.jpeg
 image_alt_text: Sherly Fabre
+vimeo_id: '600946914'
 ---
 All are invited to come together to "digest" the perspectives that have been shared during CLBSJ's inaugural Black August series, to share additional insights, and to discuss how to build on it going forward.
 

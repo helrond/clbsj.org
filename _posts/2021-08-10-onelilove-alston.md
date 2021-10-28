@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Onleilove Alston'
+title: Onleilove Alston
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Minister Onleilove Chika Alston will speak about African Jews
@@ -13,6 +13,7 @@ description: >-
   Uncovering the Black Biblical Destiny._
 image_alt_text: Minister Onleilove Chika Alston
 image_filename: onleilove-alston.jpg
+vimeo_id: '627557359'
 ---
 In this session, Minister Onleilove Chika Alston will speak about African Jews & The Black Freedom Movement. Minister Alston is the Interfaith Center of New York's Racial Justice Organizing Fellow and author of _Prophetic Whirlwind: Uncovering the Black Biblical Destiny._
 

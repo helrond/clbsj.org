@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Sister Sharifa Vernice Meytung'
+title: Sister Sharifa Vernice Meytung
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Sister Sharifa Vernice Meytung will explore the parallels
@@ -14,6 +14,7 @@ description: >-
   Catholic and Buddhist traditions.
 image_alt_text: Sister Sharifa Vernice Meytung
 image_filename: sister-sharifa.jpg
+vimeo_id: '631484124'
 ---
 In this session, Sister Sharifa Vernice Meytung will explore parallels between the continental and diasporan African tales, the Jataka tales of early Buddhism, and the parables of the Judeo-Christian traditions. Sister Sharifa is an artist, haijin (a writer of haiku poetry), teacher and lay religious practitioner in the Catholic and Buddhist traditions.
 

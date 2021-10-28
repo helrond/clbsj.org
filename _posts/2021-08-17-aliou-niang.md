@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Aliou Niang'
+title: Aliou Niang
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Aliou Niang will speak on the role of Christianity and
@@ -14,6 +14,7 @@ description: >-
   Senegal: The Apostle Paul, Colonists and Sending Gods._
 image_alt_text: Aliou Niang
 image_filename: aliou-niang.jpg
+vimeo_id: '632490746'
 ---
 In this session, Aliou Niang will speak on the concept of "Lived Experience" in Christianity and African Traditional Religion (ATR) as practiced by the Diola people of Senegal, and the role it plays in bolstering the resistance to French colonialism in West Africa. Dr. Niang is Associate Professor of New Testament at Union Theological Seminary and author of _Faith and Freedom in Galatia and Senegal: The Apostle Paul, Colonists and Sending Gods._
 

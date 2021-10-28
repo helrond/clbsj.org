@@ -4,7 +4,7 @@ category: events
 layout: event
 series: why-black-religion-matters
 published: true
-title: 'Lisa Bowens'
+title: Lisa Bowens
 time: '7:30pm Eastern Time'
 description: >-
   In this session, Lisa M. Bowens, will discuss her research on the variety of
@@ -14,6 +14,7 @@ description: >-
   American Readings of Paul: Reception, Resistance, and Transformation._
 image_alt_text: Lisa M. Bowens
 image_filename: lisa-bowens.png
+vimeo_id: '628441309'
 ---
 In this session, Lisa M. Bowens, will discuss her research on the variety of ways that African American communities have utilized Paul to bolster resistance to slavery and oppression. Dr. Bowens is associate professor of New Testament at Princeton Theological Seminary, and author of _African American Readings of Paul: Reception, Resistance, and Transformation_ (2020).
 

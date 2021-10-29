@@ -23,7 +23,7 @@ prose :
     '_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js',
     'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile',
     'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json',
-    'gulpfile.js', 'package.json', 'package-lock.json', 'resources', 'robots.txt']
+    'gulpfile.js', 'package.json', 'package-lock.json', 'robots.txt']
   media: img
   metadata:
     _posts:

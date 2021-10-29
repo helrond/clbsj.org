@@ -20,7 +20,7 @@ exclude :
 prose :
   siteurl: 'https://clbsj.org'
   ignore: [
-    '_includes', '_layouts', 'bower_components', 'css', 'fonts', 'img', 'js',
+    '_includes', '_layouts', 'bower_components', 'css', 'fonts', 'js',
     'scss', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile',
     'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json',
     'gulpfile.js', 'package.json', 'package-lock.json', 'robots.txt']

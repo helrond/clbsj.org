@@ -1,5 +1,5 @@
 {% include event-series-by-name.html name=item.series %}
-<div class="callout{% if include.filter == 'before' %} filter-before-date{% elsif include.filter == 'after' %} filter-after-date{% endif%}" data-date-filter="{{item.date}}">
+<div class="callout {% if include.filter == 'before' %}filter-before-date{% elsif include.filter == 'after' %}filter-after-date{% endif%}" data-date-filter="{{item.date}}">
   {%- if series -%}
     <span class="label label-orange label-series float-right"><a href="{{series.url}}">{{series.title}}</a></span>
   {%- endif -%}

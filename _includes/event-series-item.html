@@ -6,21 +6,17 @@
     <p>{{include.series.tagline}}</p>
     <div class="series-events">
       <h4 class="event-list-heading">Upcoming events in this series</h4>
-      <ul>
+      <ul class="no-bullet">
       {%- for item in events reversed -%}
-        <li class="filter-before-date" data-date-filter="{{item.date}}">
-          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a> {% if item.vimeo_id %} <span class="label">Recording</span>{% endif %}
-        </li>
+        {{{% include event-series-list-item.html class='filter-before-date' %}}}
       {%- endfor -%}
       </ul>
     </div>
     <div class="series-events">
       <h4 class="event-list-heading">Past events in this series</h4>
-      <ul>
+      <ul class="no-bullet">
       {%- for item in events -%}
-        <li class="filter-after-date" data-date-filter="{{item.date}}">
-          {{item.date | date: '%B %d, %Y' }}: <a href="{{item.url}}">{{item.title}}</a> {% if item.vimeo_id %} <span class="label">Recording</span>{% endif %}
-        </li>
+        {% include event-series-list-item.html class='filter-after-date' %}
       {%- endfor -%}
       </ul>
     </div>

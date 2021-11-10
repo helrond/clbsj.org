@@ -22,3 +22,5 @@ To register online, please click here:
 If you will be attending AAR/SBL in person in San Antonio, we will gather at the Marriott Rivercenter, Conference Room 20-21. A group will also be gathering at CLBSJ's main collection in Stony Point, NY. To RSVP to an in person gathering, please email clbsjorg@gmail.com
 
 [Click here to read more about Jack.](https://clbsj.org/about/leadership/john-h-elliott/ )
+
+Photo: [Jack speaks at CLBSJ's inaugural gathering](https://clbsj.org/events/2011/10/22/opening-weekend/). © Tim Nafziger, used with permission.

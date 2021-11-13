@@ -16,19 +16,19 @@ layout: level-two
 
 <div class="series-events">
   <h2 class="event-list-heading">Upcoming Events</h2>
-  <ul class="no-bullet">
+  <div class="flex-wrap">
   {%- for item in events reversed -%}
-    {% include event-series-list-item.html class='filter-before-date' %}
+    {% include event-series-list-card.html class='filter-before-date' %}
   {%- endfor -%}
-  </ul>
+  </div>
 </div>
 <div class="series-events">
   <h2 class="event-list-heading">Past Events</h2>
-  <ul class="no-bullet">
-  {%- for item in events -%}
-    {% include event-series-list-item.html class='filter-after-date' %}
+  <div class="flex-wrap">
+  {%- for item in events reversed -%}
+    {% include event-series-list-card.html class='filter-after-date' %}
   {%- endfor -%}
-  </ul>
+  </div>
 </div>
 
 {% if page.leadership %}

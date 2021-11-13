@@ -33,7 +33,7 @@ $(document).ready(function () {
 
   $('.series-events').each(function () {
     console.log(this);
-    if (!$(this).children('ul').children('li:visible').length) {
+    if (!$(this).children().children(':visible').length) {
       $(this).hide()
     }
   })

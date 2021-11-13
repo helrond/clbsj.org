@@ -1,0 +1,9 @@
+<div class="{{include.class}} margin-bottom-1 card flex-wrap" data-date-filter="{{item.date}}">
+  {% if item.vimeo_id %}
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/{{item.vimeo_id}}" width="100%" frameborder="0" allowfullscreen></iframe>
+  {% else %}
+    <div class="no-recording">No recording currently available.</div>
+  {% endif %}
+  <h5 class="event-item-heading margin-bottom-0"><a href="{{item.url}}">{{item.title}}</a></h5>
+  <p class="margin-bottom-0">{{item.date | date: '%B %d, %Y' }}</p>
+</div>

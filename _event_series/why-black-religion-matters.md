@@ -8,8 +8,6 @@ tagline: >-
 keywords: 'bible, activist, black'
 sort_order: 1
 published: true
-image_filename: black-august.jpg
-image_alt_text: 'Black August: Why Black Religion Matters'
 leadership:
   - name: Sherly Fabre, Series Host
     description: >-

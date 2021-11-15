@@ -2,7 +2,7 @@
 date: '2021-12-14'
 category: events
 layout: event
-published: false
+published: true
 title: >-
   Advent for Activists: Expanding our Understanding of the Divine through
   Parallel Study
@@ -14,7 +14,7 @@ Director of Digital Ministry at Middle Collegiate Church and Co-Founder of the T
 
 Please check back for updates on specific scriptures and readings!
 
-To register for this online event, click here:
-
+To register for this online event, click here: 
+{% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwsce2sqTwtEt2zyHA0Kk-CZmhaCBSggBe6" %}
 
 Rev. Natalie Renee Perkins received her Masters of Divinity from Union Theological Seminary in 2015 and was awarded the Karen Ziegler Feminist Preaching Prize. She became an ordained minister in the United Church of Christ denomination in 2020, and currently serves as Director of Digital Ministry at Middle Collegiate Church. She also serves as a chaplain/spiritual life advisor for NYU Global Spiritual Life and was recently awarded Chaplain of the Year. As a theologian, she is the co-founder of the Tanho Center where she lectures and works with extracanonical texts. She also works with the Westar Institute to bridge the gap between religious scholarship and the general public. Additionally, Natalie is a professional writer, musical theatre performer, and composer. Her album, Songs of Your Truth is available on any major music streaming and/or purchasing platform.

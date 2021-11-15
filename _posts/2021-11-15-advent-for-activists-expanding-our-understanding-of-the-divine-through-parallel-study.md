@@ -8,7 +8,7 @@ title: >-
   Parallel Study
 time: '7:30pm Eastern Standard Time'
 ---
-Whatever our faith identity, and whether we are believers, skeptics or spiritual-but-not-religious, we are all affected by the Advent season in which Christians prepare for the birth of Jesus. For all of us it is often hard to see the Transcendent through the mirage of tinsel and consumerism. And yet this is the invitation contained in this season, to do precisely this. In this session, Rev. Natalie Perkins will open the doors to another layer of the Advent season that is accessible to us through the study of extracanonical scripture.
+Whatever our faith identity, and whether we are believers, skeptics or spiritual-but-not-religious, we are all affected by the Advent season in which Christians prepare for the birth of Jesus. For all of us it is often hard to see the Transcendent through the mirage of tinsel and consumerism. And yet the invitation contained in this season is to do precisely this. In this session, Rev. Natalie Perkins will open the doors to another layer of the Advent season that is accessible to us through the study of extracanonical scripture.
 
 Director of Digital Ministry at Middle Collegiate Church and Co-Founder of the Tanho Center, Rev. Perkins is passionate about building connections between our contemporary journeys and the wisdom and inventiveness that these ancient texts contain. For those who are new to extracanonical study, the evening will include an overview. This event is open to those of all faiths and paths.
 

@@ -23,6 +23,11 @@ Visit clbsj.org/donate to make your gift electronically or view other ways to gi
 Any size give will help. We urge you to help us meet our year end challenge and empower CLBSJ to carry forward this vital work.
 
 With hope,
-                                            
-Rev. Cass L. Shaw                            Rev. Nicholas Johnson
-CLBSJ Board Member                           CLBSJ Board President
+
+
+Rev. Nicholas Johnson              
+CLBSJ Board President 
+
+
+Rev. Cass L. Shaw
+CLBSJ Board Member

@@ -2,7 +2,7 @@
 date: '2021-11-23'
 category: news
 layout: news-item
-published: false
+published: true
 title: 'Challenge: help launch CLBSJ into our second decade on strong footing!'
 author: Cass Shaw and Nick Johnson
 ---

@@ -18,7 +18,7 @@ As we enter our second decade, CLBSJ needs to grow and expand our reach in order
 
 Thankfully, we have an amazing opportunity: Board members and friends of CLBSJ have assembled a $33,000 challenge gift, and would like to see it matched dollar for dollar to launch CLBSJ into our second decade on strong footing. Can you make an end-of-the-year donation to help unlock this gift?
 
-Visit clbsj.org/donate to make your gift electronically or view other ways to give.
+Visit [clbsj.org/donate](https://clbsj.org/donate/) to make your gift electronically or view other ways to give.
 
 Any size give will help. We urge you to help us meet our year end challenge and empower CLBSJ to carry forward this vital work.
 

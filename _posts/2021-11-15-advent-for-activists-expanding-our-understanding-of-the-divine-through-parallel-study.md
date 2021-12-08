@@ -12,9 +12,9 @@ image_alt_text: Rev. Natalie Perkins
 ---
 Whatever our faith identity, and whether we are believers, skeptics or spiritual-but-not-religious, we are all affected by the Advent season in which Christians prepare for the birth of Jesus. For all of us it is often hard to see the Transcendent through the mirage of tinsel and consumerism. And yet the invitation contained in this season is to do precisely this. In this session, Rev. Natalie Perkins will open the doors to another layer of the Advent season that is accessible to us through the study of extracanonical scripture.
 
-Director of Digital Ministry at Middle Collegiate Church and Co-Founder of the [Tanho Center](https://www.tanhocenter.org/Advent-2021), Rev. Perkins is passionate about building connections between our contemporary journeys and the wisdom and inventiveness that these ancient texts contain. For those who are new to extracanonical study, the evening will include an overview. This event is open to those of all faiths and paths.
+Director of Digital Ministry at Middle Collegiate Church and Co-Founder of the [Tanho Center](https://www.tanhocenter.org/Advent-2021), Rev. Perkins is passionate about building connections between our contemporary journeys and the wisdom and inventiveness that these ancient texts contain. 
 
-_Please check back for updates on specific scriptures and readings!_
+The focus of our study on December 14th will be on a text called _The Thunder: Perfect Mind,_ with discussion around the idea of Sankofa and the utility of our origin stories in our social justice work. For those who are new to extracanonical study, the evening will include an overview. This event is open to those of all faiths and paths.
 
 To register for this online event, click here: 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwsce2sqTwtEt2zyHA0Kk-CZmhaCBSggBe6" %}

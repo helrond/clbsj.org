@@ -2,7 +2,7 @@
 date: '2021-12-08 12:24 -0500'
 category: news
 layout: news-item
-published: false
+published: true
 title: 'TESTIMONIALS: Why I Support CLBSJ'
 ---
 The Scholar Activist programs and the Black August series, offered by CLBSJ, were and are immensely educational and unique. People researching Biblical and Social Justice activism will find wonderful, scholarly resources both in the library and through conversations with those who become involved with CLBSJ. I have found a whole new appreciation for the work that has been done, laying a foundation both for ministry and activism in working toward a more just and peaceful world. ~ Elizabeth Simpson

@@ -15,9 +15,6 @@
   {% if break == 1 %}
     <div class="list-group" {{style}}>
       {% include news-list-item.html %}
-    {% elsif forloop.last %}
-      {% include news-list-item.html %}
-    </div>
     {% elsif break == 0 %}
       {% include news-list-item.html %}
       <button class="float-center show-more button hollow orange">Show More</button>
@@ -25,4 +22,5 @@
   {% else %}
     {% include news-list-item.html %}
   {% endif %}
+  {% if forloop.last %}</div>{% endif %}
 {% endfor %}

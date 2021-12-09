@@ -1,7 +1,6 @@
 ---
 date: '2021-05-20'
 category: events
-image_filename: Tribes.png
 image_alt_text: Cover of Tribes of Yahweh
 layout: event
 series: scholar-activist-encounters

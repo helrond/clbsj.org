@@ -10,7 +10,7 @@ description: >-
   Muslim scholar and writer Rabia Terri Harris will dialogue with Christian
   pastor and activist Sarah Henkel about the parallels between the Qu'ran and
   the Bible.
-vimeo_id: 652105557/9bbb5ae190
+vimeo_id: '652105557'
 ---
 In this session, Muslim scholar and writer Rabia Terri Harris will dialogue with Christian pastor and activist Sarah Henkel about the parallels between the Quran and the Bible, and what these overlapping and diverging stories have to teach those who strive to cultivate justice and peace. Rabia and Sarah both are members of the multifaith Community of Living Traditions (a co-sponsor of this series), and their discussion will draw from and mine the wisdom that has been generated through the day-to-day discussions held in community for over a decade.
 

@@ -3,11 +3,8 @@ date: '2021-11-21'
 category: events
 layout: event
 published: true
-title: >-
-  Remembering John H. Elliott at SBL: his contribution to social scientific
-  biblical interpretation and its relevance to social justice organizing
+title: Remembering John H. "Jack" Elliott at SBL
 time: 7pm Eastern Time ~ 6pm Central Time ~ 4pm Pacific Time
-image_filename: Jack-CLBSJ-FoundingGathering.jpeg
 image_alt_text: Jack Elliott at CLBSJ's Founding Conference in 2011
 series: scholar-activist-encounters
 vimeo_id: '652671820'

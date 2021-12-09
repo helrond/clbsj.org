@@ -5,8 +5,8 @@ layout: event
 series: scholar-activist-encounters
 published: true
 title: >-
-  Discussion of <em>Healing Haunted Histories</em>
-  with Sweetwater Cultural Center
+  Discussion of <em>Healing Haunted Histories</em> with Sweetwater Cultural
+  Center
 time: '7:30pm Eastern Time'
 description: >-
   On July 15, 2021, CLBSJ will welcome Elaine Enns and Ched Myers for a
@@ -17,6 +17,7 @@ description: >-
   an example of indigenous-settler solidarity.
 image_alt_text: Cover of "Healing Haunted Histories"
 image_filename: healing-haunted-histories.jpg
+vimeo_id: '580475866'
 ---
 On July 15, 2021, CLBSJ will welcome Elaine Enns and Ched Myers for a
 discussion of their newest book, _Healing Haunted Histories: A Settler

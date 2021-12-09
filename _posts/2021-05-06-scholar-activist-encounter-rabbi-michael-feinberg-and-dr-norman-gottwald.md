@@ -7,7 +7,7 @@ layout: event
 series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
-title: 'Rabbi Michael Feinberg and Dr. Norman Gottwald'
+title: Rabbi Michael Feinberg and Dr. Norman Gottwald
 description: >-
   The Center and Library for the Bible and Social Justice and the Religion and
   Socialism Working Group of the Democratic Socialists of America invite you to
@@ -21,6 +21,7 @@ description: >-
   activists like Rabbi Feinberg, how his thinking has evolved since it’s
   publication, and how these ideas are relevant for multifaith movement-building
   today.
+vimeo_id: 575457248/274a29260a
 ---
 
 The Center and Library for the Bible and Social Justice and the [Religion and Socialism Working Group of the Democratic Socialists of America](https://www.religioussocialism.org/post_conference_follow_up_event_and_reading) invite you to a special Scholar-Activist Encounter featuring Rabbi Michael Feinberg and Dr. Norman Gottwald.

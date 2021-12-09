@@ -9,6 +9,8 @@ title: >-
 time: 7pm Eastern Time ~ 6pm Central Time ~ 4pm Pacific Time
 image_filename: Jack-CLBSJ-FoundingGathering.jpeg
 image_alt_text: Jack Elliott at CLBSJ's Founding Conference in 2011
+series: scholar-activist-encounters
+vimeo_id: 652671820/f4c9aa5997
 ---
 Rev. Dr. John H. “Jack” Elliott (1935–2020) was known internationally for his research on 1 Peter (especially [_A Home for the Homeless_, Wipf and Stock, 2005](https://wipfandstock.com/9781597524094/a-home-for-the-homeless/)) and as a leading proponent of the social-scientific study of the Bible. Less well known is his 4-volume work on the "Evil Eye" tradition as it informs our understanding of the bible, that he was a co-founder and longtime Board President of CLBSJ, and the many activist efforts he participated in—including labor organizing and immigrant solidarity work.
 

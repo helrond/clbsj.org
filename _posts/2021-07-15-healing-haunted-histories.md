@@ -16,7 +16,6 @@ description: >-
   an indigenous-led organization that is featured in Ched and Elaine’s book as
   an example of indigenous-settler solidarity.
 image_alt_text: Cover of "Healing Haunted Histories"
-image_filename: healing-haunted-histories.jpg
 vimeo_id: '580475866'
 ---
 On July 15, 2021, CLBSJ will welcome Elaine Enns and Ched Myers for a

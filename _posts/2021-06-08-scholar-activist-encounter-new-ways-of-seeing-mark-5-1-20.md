@@ -17,6 +17,7 @@ image_alt_text: >-
   Illustration of Jesus Exorcising the Gerasene Demoniac by Katolophyromai from
   commons.wikimedia.org
 image_filename: Katolophyromai_GeraseneDemoniac_WikimediaCommons.jpg
+vimeo_id: 575457248/274a29260a
 ---
 CLBSJ is pleased to collaborate with the Alternative Seminary to host a roundtable discussion on new understandings of [Mark 5:1-20](http://bible.oremus.org/?ql=490073453), the healing of the Gerasene Demoniac, that prioritize marginalized and invisibilized perspectives. New Testament scholars Brian James Tipton, Eric Thomas and Peter McLellan will share about their research followed by an open dialogue about the implications of these ideas for movements for justice and peace.
 

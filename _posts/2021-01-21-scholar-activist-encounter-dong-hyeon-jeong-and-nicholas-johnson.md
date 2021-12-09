@@ -11,7 +11,7 @@ description: >-
   Korean-Filipino New Testament scholar Dong Hyeon Jeong to discuss their
   commitment to a pedagogy and an evangelism that is intersectional, liberating,
   critical, and de/re-constructive.
-vimeo_id: 581193315/0f19dbd10d
+vimeo_id: '581193315'
 ---
 In this session, CLBSJ Board Chair Nicholas Johnson will be joined by
 Korean-Filipino New Testament scholar Dong Hyeon Jeong for an

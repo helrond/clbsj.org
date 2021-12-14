@@ -14,7 +14,7 @@ Whatever our faith identity, and whether we are believers, skeptics or spiritual
 
 Director of Digital Ministry at Middle Collegiate Church and Co-Founder of the [Tanho Center](https://www.tanhocenter.org/Advent-2021), Rev. Perkins is passionate about building connections between our contemporary journeys and the wisdom and inventiveness that these ancient texts contain. 
 
-The focus of our study on December 14th will be on a text called _Thunder: Perfect Mind,_ with discussion around the idea of Sankofa and the utility of our origin stories in our social justice work. For those who are new to extracanonical study, the evening will include an overview. This event is open to those of all faiths and paths.
+The focus of our study on December 14th will be on a text called _The Thunder: Perfect Mind,_ with discussion around the idea of Sankofa and the utility of our origin stories in our social justice work. For those who are new to extracanonical study, the evening will include an overview. This event is open to those of all faiths and paths.
 
 To register for this online event, click here: 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwsce2sqTwtEt2zyHA0Kk-CZmhaCBSggBe6" %}

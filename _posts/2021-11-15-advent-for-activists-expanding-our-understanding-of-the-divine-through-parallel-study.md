@@ -9,7 +9,6 @@ title: >-
 time: '7:30pm Eastern Standard Time'
 image_filename: NatalieReneePerkins.jpeg
 image_alt_text: Rev. Natalie Perkins
-series: scholar-activist-encounters
 ---
 Whatever our faith identity, and whether we are believers, skeptics or spiritual-but-not-religious, we are all affected by the Advent season in which Christians prepare for the birth of Jesus. For all of us it is often hard to see the Transcendent through the mirage of tinsel and consumerism. And yet the invitation contained in this season is to do precisely this. In this session, Rev. Natalie Perkins will open the doors to another layer of the Advent season that is accessible to us through the study of extracanonical scripture.
 

@@ -2,11 +2,10 @@
 layout: board-member
 title: Hillel Arnold
 sort: arnold
-description: Hillel Arnold is the Head of Digital Strategies at Rockefeller Archive Center.
+description: Hillel Arnold is the Assistant Director for Digital Strategies at Rockefeller Archive Center.
 keywords: hillel arnold
-category: board-member
-officer: Secretary
-job-title: Head of Digital Strategies
+category: advisory-committee-member
+job-title: Assistant Director for Digital Strategies
 institution: Rockefeller Archive Center
 image: "/img/board/arnold.jpg"
 publications:

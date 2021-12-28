@@ -1,9 +1,10 @@
 ---
-date: '2021-12-28 18:31 -0500'
-category: news
-layout: news-item
+date: 'March 8, 2022, 7:30pm Eastern Time'
+category: events
+layout: event
 published: false
 title: Lenten Detox 2022 - Session 1
+series: lenten-detox
 ---
 Lenten Bible Detox will return in 2022! In conversation with scholars and activists, we will delve into Scriptures that have become polluted with the confusions of human systems and weaponized against justice, healing and peace. Join us _**each Tuesday at 7:30pm Eastern Time**_ for a discipline of hearing, considering, detoxifying and liberating these texts.
 

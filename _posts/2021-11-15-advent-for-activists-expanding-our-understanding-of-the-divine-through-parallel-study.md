@@ -7,7 +7,6 @@ title: >-
   Advent for Activists: Expanding our Understanding of the Divine through
   Parallel Study
 time: '7:30pm Eastern Standard Time'
-image_filename: NatalieReneePerkins.jpeg
 image_alt_text: Rev. Natalie Perkins
 vimeo_id: '660510446'
 ---

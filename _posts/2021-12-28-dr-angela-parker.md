@@ -5,6 +5,10 @@ layout: event
 published: true
 title: Dr. Angela Parker
 series: scholar-activist-encounters
+image_filename: IfGodStillBreaths.jpg
+image_alt_text: >-
+  If God Still Breathes, Why Can't I?: Black Lives Matter and Biblical Authority
+  by Angela N. Parker
 ---
 CLBSJ is honored to welcome Dr. Angela N. Parker to discuss her recently-published book, [If God Still Breathes, Why Can't I? Black Lives Matter and Biblical Authority](https://www.amazon.com/God-Still-Breathes-Why-Cant/dp/0802879268). In this book, Dr. Parker uses womanist biblical interpretation to take on the conflation of biblical authority with the doctrines of inerrancy and infallibility. Our discussion will focus on how the Black Lives Matter movement has inspired the ideas in this book, and inpacted the realm of Biblical Studies generally.
 

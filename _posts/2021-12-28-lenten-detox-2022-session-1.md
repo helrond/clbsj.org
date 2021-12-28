@@ -2,7 +2,7 @@
 date: 'March 8, 2022, 7:30pm Eastern Time'
 category: events
 layout: event
-published: false
+published: true
 title: Lenten Detox 2022 - Session 1
 series: lenten-detox
 ---

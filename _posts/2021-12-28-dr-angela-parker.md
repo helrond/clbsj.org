@@ -3,7 +3,7 @@ date: 'February 17, 2022, 7:30pm Eastern Time'
 category: events
 layout: event
 published: true
-title: Dr. Angela Parker and Dr. Darri L. Whipple
+title: Dr. Angela Parker and Dr. Karri L. Whipple
 series: scholar-activist-encounters
 image_filename: IfGodStillBreaths.jpg
 image_alt_text: >-

@@ -17,9 +17,11 @@ layout: level-two
 <div class="series-events">
   <h2 class="event-list-heading">Upcoming Events</h2>
   <div class="flex-wrap">
-  {%- for item in events reversed -%}
-    {% include event-series-list-card.html class='filter-before-date' %}
-  {%- endfor -%}
+    <ul>
+    {%- for item in events reversed -%}
+      {% include event-series-list-item.html class='filter-before-date' %}
+    {%- endfor -%}
+    </ul>
   </div>
 </div>
 <div class="series-events">

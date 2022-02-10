@@ -1,5 +1,5 @@
 ---
-date: 'March 08, 2022'
+date: '2022-03-15'
 category: events
 layout: event
 published: true

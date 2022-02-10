@@ -2,7 +2,7 @@
 date: '2022-04-05'
 category: events
 layout: event
-published: false
+published: true
 title: 'Study of Mark 15:1-15 led by Tom Boomershine '
 time: '7:30 PM Eastern Time'
 series: lenten-detox

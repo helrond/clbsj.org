@@ -2,7 +2,7 @@
 date: '2022-02-22'
 category: events
 layout: event
-published: false
+published: true
 title: 'Study of Matthew 28:16-20 led by Chris Hoklotubbe and Kimberlee Medicine Horn'
 time: '7:30 PM Eastern Time'
 series: lenten-detox
@@ -14,4 +14,3 @@ Dr. Hoklotubbe will further consider how other stories of Scripture represent mi
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUucuiuqT8jGtQW-R0PV-iCldPty3sTA5QQ" %}
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
-

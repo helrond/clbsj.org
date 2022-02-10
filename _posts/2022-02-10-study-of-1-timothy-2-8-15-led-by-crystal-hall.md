@@ -2,7 +2,7 @@
 date: '2022-03-08'
 category: events
 layout: event
-published: false
+published: true
 title: 'Study of 1 Timothy 2:8-15 led by Crystal Hall'
 time: '7:30 PM Eastern Time'
 series: lenten-detox

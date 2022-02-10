@@ -2,7 +2,7 @@
 date: '2022-04-12'
 category: events
 layout: event-series
-published: false
+published: true
 title: 'Study of Mark 7:24-30 led by Mitzi Smith'
 time: '7:30 PM Eastern Time'
 series: lenten-detox

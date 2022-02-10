@@ -1,9 +1,11 @@
 ---
-date: '2022-02-10 11:21 -0500'
-category: news
-layout: news-item
-published: false
+date: '2022-02-29'
+category: events
+layout: event
+published: true
 title: led by Toddie Peters and Kenyetta Chinwe
+time: '7:30 PM Eastern Time'
+series: lenten-detox
 ---
 
 In this session, Dr. Toddie Peters and Kenyetta Chinwe will analyze and challenge the Anti-Abortion Movement's use of scripture. Texts to be announced.

@@ -4,7 +4,7 @@ description : Connecting scholars, students, clergy, activists, and community or
 keywords : bible, justice, library, clbsj
 url : https://clbsj.org
 author : The Center & Library for the Bible and Social Justice
-year : 2016
+year : 2022s
 collections:
   event_series:
     output: true
@@ -12,6 +12,7 @@ collections:
   news_series:
     output: true
     permalink: /news/:name/
+future: true
 twitter : clbsj
 markdown : kramdown
 permalink: pretty

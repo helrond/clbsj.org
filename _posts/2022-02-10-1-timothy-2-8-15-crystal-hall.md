@@ -12,3 +12,5 @@ In this session, Dr. Crystal Hall will reread [1 Timothy 2:8-15](https://bible.o
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUrf-6vpzkrE9YAzbuhnjv2nzQBZng54qpR" %}
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
+
+**Dr. Crystal L. Hall** is a community organizer, political educator and the Kraft Assistant Professor of Biblical Studies at United Lutheran Seminary in Pennsylvania. Her research interests include the Pauline corpus, apocalyptic literature, poverty and wealth, and ecological and liberationist hermeneutics. Her methodological commitments include empire criticism and feminist theory. She works to epistemologically privilege voices that have historically been excluded from the classroom and the Church. Through the Contextual Bible Study methodology, Crystal teaches reading the Bible with the organized poor alongside communities of faith. Read her full bio here: https://www.unitedlutheranseminary.edu/faculty-staff/crystal-l-hall

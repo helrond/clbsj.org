@@ -5,12 +5,13 @@ layout: event
 series: scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
-title: 'Weldon Nisly and Tom Boomershine'
+title: Weldon Nisly and Tom Boomershine
 description: >-
-  In this session, lifelong peace activist Weldon Nisly and Biblical
-  scholar Tom Boomershine will discuss their work to understand and
-  respond to the Gospel's call to peacemaking within the academy, within
-  Christian community, and in conflict zones around the world.
+  In this session, lifelong peace activist Weldon Nisly and Biblical scholar Tom
+  Boomershine will discuss their work to understand and respond to the Gospel's
+  call to peacemaking within the academy, within Christian community, and in
+  conflict zones around the world.
+vimeo_id: '676629345'
 ---
 In this session, lifelong peace activist Weldon Nisly and biblical
 scholar Tom Boomershine will discuss their commitment to understand and

@@ -7,7 +7,7 @@ title: Study of Galatians 4 led by Luis Menéndez-Antuña and Woullard Lett
 time: '7:30 PM Eastern Time'
 series: lenten-detox
 ---
-In this session, Dr. Luis Menéndez-Antuña will explore [Galatians chapter 4](https://bible.oremus.org/?ql=512457589), with a focus on the allegory of Hagar and Sarah, and unpack its use in the justification and perpetuation of slavery and racism.
+In this session, Dr. Luis Menéndez-Antuña will explore [Galatians chapter 4](https://bible.oremus.org/?ql=512457589), with a focus on the allegory of Hagar and Sarah, and unpack its use in the justification and perpetuation of slavery and racism. Mr. Woullard Lett will provide perspective based on his leadership in the reparations movement.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZwvc-6sqTgjG9Qj47eu_PqTISNBdNIfDJZV" %}
 

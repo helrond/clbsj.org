@@ -5,10 +5,7 @@ layout: event
 published: true
 title: Dr. Angela Parker and Dr. Karri L. Whipple
 series: scholar-activist-encounters
-image_filename: IfGodStillBreaths.jpg
-image_alt_text: >-
-  If God Still Breathes, Why Can't I?: Black Lives Matter and Biblical Authority
-  by Angela N. Parker
+vimeo_id: '680164492'
 ---
 CLBSJ is honored to welcome Dr. Angela N. Parker and Dr. Karri L. Whipple to discuss Dr. Parker's recently-published book, _[If God Still Breathes, Why Can't I? Black Lives Matter and Biblical Authority](https://www.amazon.com/God-Still-Breathes-Why-Cant/dp/0802879268)_. In this book, Dr. Parker uses womanist biblical interpretation to take on the conflation of biblical authority with the doctrines of inerrancy and infallibility. Our discussion will focus on how the Black Lives Matter movement has inspired the ideas in this book, and impacted the realm of Biblical Studies generally.
 

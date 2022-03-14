@@ -5,6 +5,7 @@ sort: jeong
 description: "Rev. Dr. Dong Hyeon Jeong is a United Methodist Pastor and an Assistant Professor of New Testament Interpretation at Garrett-Evangelical Theological Seminary."
 job-title: Assistant Professor of New Testament Interpretation
 institution: Garrett-Evangelical Theological Seminary
+officer: Co-Secretary
 keywords: dong hyeon jeong
 category: board-member
 image: "/img/board/jeong.jpg"

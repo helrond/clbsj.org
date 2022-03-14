@@ -8,7 +8,7 @@ description: >-
   at Claremont United Methodist Church.
 keywords: amy dalton
 category: staff
-officer: Director
+officer: Executive Director
 image: /img/board/dalton.jpg
 published: true
 ---

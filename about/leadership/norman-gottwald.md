@@ -4,7 +4,7 @@ title: Norman Gottwald
 sort: gottwald
 description: Norman K. Gottwald is Professor Emeritus of Biblical Studies at New York Theological Seminary and taught previously at the Graduate Theological Union and Andover Newton Theological School.
 keywords: norman gottwald
-category: advisory-committee-member
+category: in-memoriam
 job-title: Professor Emeritus of Biblical Studies
 institution: New York Theological Seminary
 image: "/img/board/gottwald.jpg"

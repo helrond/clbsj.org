@@ -11,7 +11,7 @@ keywords: 'bible, activist, lent, bible study'
 published: true
 sort_order: 3
 ---
-Lenten Bible Detox will return in 2022! We will meet **each Tuesday** during Lent at at 4:30 Pacific Time / 7:30 Eastern Time via Zoom.
+The Lenten Bible Detox Series continues in 2022 for the second year. We meet **each Tuesday** during Lent at at 4:30 Pacific Time / 7:30 Eastern Time via Zoom.
 
 Do you have unresolved pain, anger, shame or even just plain confusion with regards to some parts of the Bible? For those who are deeply committed to building up the beloved community of justice and peace, it is often especially hard to reconcile the way that some parts of the scripture have been used to propagate human systems of oppression, war and cruelty. Often we just turn our minds away from these scriptures, creating a little compartment in which the discomfort can be tucked away. This Lent, CLBSJ invites you to turn back to these troublesome texts. In conversation with scholars and activists, we will delve into a series of Scriptures that have been weaponized against justice, healing and peace.
 

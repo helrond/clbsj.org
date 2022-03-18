@@ -18,7 +18,7 @@ and social justice organizing since the 1960s. His persistent, proactive efforts
 to make biblical scholarship relevant in the struggle, and vice versa, forms the
 visionary substrate for CLBSJ.
 
-Image: Norman Gottwald reads from the Song of Deborah during his [scholar-activist encounter with Rabbi Michael Feinberg, May 2021](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/). 
+_**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-activist encounter with Rabbi Michael Feinberg, May 2021](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/). _
 
 Our deepest condolences go out to Laura and his whole family. We expect that
 information on a remotely accessible memorial service will be made available soon.

@@ -2,7 +2,7 @@
 date: '2022-03-18'
 category: news
 layout: news-item
-published: false
+published: true
 title: Annual Report for 2021
 ---
 2021 was an amazing year for CLBSJ, in which old friends and new comrades came together to help galvanize a process of growth and reimagining. We have produced the attached Annual Report to summarize our efforts.

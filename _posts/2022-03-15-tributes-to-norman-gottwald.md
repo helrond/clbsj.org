@@ -7,6 +7,8 @@ title: Tributes to Norman K. Gottwald
 description: >-
   We are so very sorry to share that pioneering Hebrew Bible scholar and CLBSJ
   co-founder Norman Gottwald passed away on Friday, March 11, 2022.
+image_filename: Norman-May2021.jpg
+image_alt_text: 'Norman Gottwald reads from the Song of Deborah, May 2021'
 ---
 Dear friends, we are so very sorry to share that pioneering Hebrew Bible scholar
 and CLBSJ co-founder Norman Gottwald passed away on Friday, March 11, 2022.

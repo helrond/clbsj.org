@@ -10,7 +10,8 @@ description: >-
 image_filename: Norman-May2021.jpg
 image_alt_text: 'Norman Gottwald reads from the Song of Deborah, May 2021'
 ---
-Dear friends, we are so very sorry to share that pioneering Hebrew Bible scholar and CLBSJ co-founder Norman Gottwald passed away on Friday, March 11, 2022. Norman is best known for applying socio-historical methods to unpack the class context of the emergence of ancient Israel. He has been deeply involved in anti-war and social justice organizing since the 1960s. His persistent, proactive efforts to make biblical scholarship relevant for social justice organizing, and vice versa, forms the visionary substrate for CLBSJ.
+Dear friends, 
+CLBSJ is so very sorry to share that pioneering Hebrew Bible scholar and CLBSJ co-founder Norman Gottwald passed away on Friday, March 11, 2022. A Baptist minister, husband and father, Norman is best known for applying socio-historical methods to unpack the class context of the emergence of ancient Israel. He has been deeply involved in anti-war and social justice organizing since the 1960s. His persistent, proactive efforts to make biblical scholarship relevant for social justice organizing, and vice versa, forms the visionary substrate for CLBSJ.
 
 _**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-activist encounter with Rabbi Michael Feinberg, May 2021](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/)._
 

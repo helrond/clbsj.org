@@ -5,14 +5,14 @@ layout: event
 series: seminal-books
 published: true
 time: '7:00pm Eastern Time'
-title: "Norman Gottwald's <em>Tribes of Yahweh</em>"
+title: Norman Gottwald's <em>Tribes of Yahweh</em>
 location: '17 Crickettown Road Stony Point, NY 10980'
 tags:
   - bible
 description: >-
   Join resident scholar Norman Gottwald to discuss his seminal book and its
-  continuing relevance for today's movements against poverty and for poor people's
-  liberation.
+  continuing relevance for today's movements against poverty and for poor
+  people's liberation.
 author: Shannan Vance-Ocampo
 ---
 
@@ -29,3 +29,5 @@ Laura Gottwald, Rabbi Michael Feinberg, Dr. Douglass Bendall, and others on
 reading the book in various applied contexts, followed by an open discussion
 about the book's relevance for today's movements against poverty and for poor
 people's liberation.
+
+Video Archive: https://www.facebook.com/clbsj/videos/1171126379694962/

@@ -27,8 +27,9 @@ Norman Gottwald was a brilliant man with a powerful love of justice who lived a 
 ## Archives:
 
 ### CLBSJ Events:
--May 20, 2021 — Scholar-Activist Encounters: Rabbi Michael Feinberg and Dr. Norman Gottwald https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/ 
--February 25, 2021 — Lenten Bible "Detox": Study of Deuteronomy 15 led by Norman Gottwald https://clbsj.org/events/2021/02/25/lenten-detox-norman-gottwald/
--September 13, 2018 — Seminal Books in Activist Theology: Norman Gottwald's Tribes of Yahweh https://clbsj.org/events/2018/09/13/norman-gottwalds-tribes-of-yahweh/
+- May 20, 2021 — Scholar-Activist Encounters: Rabbi Michael Feinberg and Dr. Norman Gottwald https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/ 
+- February 25, 2021 — Lenten Bible "Detox": Study of Deuteronomy 15 led by Norman Gottwald https://clbsj.org/events/2021/02/25/lenten-detox-norman-gottwald/
+- September 13, 2018 — Seminal Books in Activist Theology: Norman Gottwald's Tribes of Yahweh https://clbsj.org/events/2018/09/13/norman-gottwalds-tribes-of-yahweh/
+
 
 ### Other Audio-Video Archives:

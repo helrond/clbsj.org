@@ -33,3 +33,4 @@ Norman Gottwald was a brilliant man with a powerful love of justice who lived a 
 
 
 ### Other Audio-Video Archives:
+- July 11, 2011 — The Mid-Coast Forum on Foreign Relations: Ancient Israel's Anti-Imperialist Origins: Analogies for Today? https://www.midcoastforum.org/speakers/norman-k-gottwald

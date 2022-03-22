@@ -17,7 +17,7 @@ _**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-a
 
 Our deepest condolences go out to Laura and his whole family. We expect that information on a remotely accessible memorial service will be made available soon.
 
-Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching. If you have any to share, please send these as well!
+Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here as we receive them. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching. If you have any to share, please send these as well!
 
 ## Tributes:
 

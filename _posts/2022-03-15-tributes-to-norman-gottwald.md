@@ -54,8 +54,7 @@ Norman has been my model for intellectual and scholarly integrity for my whole c
 
 Above all, Norman was a good friend. But he was also my leading example of a person of courage and integrity. I shall always remember him and honor his memory. The world is the better for his life, his work, and his example of a life well-lived.
 
-Amy said in her announcement that she visited Norman and Laura in Berkeley shortly before Norman's passing. She mentioned that Norman was planning to write a book on the prophets. It seems to me--and I believe--Norman has by his life, courage, and love entered into Eternal Life with Christ. I imagine him conversing with the Hebrew prophets
-whom he studied and wrote about in his lifetime in this world.
+Amy said in her announcement that she visited Norman and Laura in Berkeley shortly before Norman's passing. She mentioned that Norman was planning to write a book on the prophets. It seems to me--and I believe--Norman has by his life, courage, and love entered into Eternal Life with Christ. I imagine him conversing with the Hebrew prophets whom he studied and wrote about in his lifetime in this world.
 
 ## Archives:
 

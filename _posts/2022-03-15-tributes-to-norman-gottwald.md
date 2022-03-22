@@ -19,6 +19,8 @@ Our deepest condolences go out to Laura and his whole family. We expect that inf
 
 Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here as we receive them. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching. If you have any to share, please send these as well!
 
+We also invite you to help us carry forward the vision that Norman sparked by donating to the **Norman Gottwald Memorial Fund**. For details visit [clbsj.org/donate](https://clbsj.org/donate/).
+
 ## Tributes:
 
 ### From Rev. Laurel Dykstra:

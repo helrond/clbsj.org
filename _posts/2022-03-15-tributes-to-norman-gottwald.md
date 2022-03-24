@@ -33,6 +33,28 @@ Since December, I have collaborated with Prof. Matthew Coomber in planning a pan
 
 The panel, however, will certainly be different without Prof. Gottwald’s presence. But I believe his ethos, courage, and a strong commitment to social justice will surely present. May his memory be a blessing.  
 
+### From Marian Ronan
+I enrolled at New York Theological Seminary in 1984. The co-author of one of my books, Hal Taussig, told me explicitly to go there to study with Norman. I did four or five four-credit courses with him and it deeply influenced my thinking. When I began my doctoral studies in Religion at Temple in 1992, my future dissertation advisor, Laura Levitt, after reading several of my papers, came up to me and said, “Where did you learn all this stuff?!” I responded, “From Norman, of course.” Thank you, Norman, from me and from all who were shaped by your amazing scholarship.
+Marian Ronan
+Research Professor of Catholic Studies
+New York Theological Seminary
+
+### From Van Kalbach:
+I wanted to write as one who knew Norman during the year he taught at Bryn Mawr College outside Philadelphia. I was touched by Norman's friendship and genuineness. A couple years ago I exchanged a letter with Norman and, unsurprisingly, even after such a long time,  he was interested and kind. I remember him and value my having known him.
+Van Kalbach
+Malvern, PA
+
+### From Gale Yee:
+I was very saddened when I heard the news that Norman Gottwald passed away on March 11th. Norm's outstanding and provocative work in the social sciences and the Hebrew Bible was very informative and influential for my own research. I remember fondly when he, Roland Boer, Erin Runions, Dick Horsley, and I made a road trip from Cambridge, MA to a college in Eastern Mass for a conference on Marxist interpretation of the bible. He graciously wrote a nice blurb for my book Poor Banished Children of Eve: Woman as Evil in the Hebrew Bible. I invited me to contribute my library to the Library for Bible and Social Justice, when I am ready to part with it. Norm's work will continue to be a lasting influence on my own writing. May he rest in peace with the ancestors.
+Gale A. Yee, Ph.D., D.D. (hon)
+Nancy W. King Professor of Biblical Studies emerita
+Episcopal Divinity School
+余蓮秀
+勇 勇 
+
+### From Wes Howard-Brook:
+Without the groundbreaking work of Norman Gottwald,the Bible might well have remained imprisoned much longer within imperial modes of interpretation. But Norman's bold, courageous, intelligent and passionate foray into the connections between biblical texts and real social, political and economic struggles of the marginalized for dignity and justice opened up a path for many of us to journey upon. I can certainly testify that without his work, I might still be a government attorney, rather than what I am today. Thanks be to God for the life and work of St. Norman!
+
 ### From R. Douglas Bendall:
 My first acquaintance with Norman was when I took the O.T. class at E.T.S.S.W. Seminary in Austin. We used Norman's text  A Light to the Nations as the main textbook. There was another well-known text suggested as well. However, class members recognized Norman's text to be far better than the alternative and asked that Norman's be the only one used. The request was accepted.
 

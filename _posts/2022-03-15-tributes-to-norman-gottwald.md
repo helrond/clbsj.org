@@ -45,7 +45,7 @@ Van Kalbach
 Malvern, PA
 
 ### From Gale Yee:
-I was very saddened when I heard the news that Norman Gottwald passed away on March 11th. Norm's outstanding and provocative work in the social sciences and the Hebrew Bible was very informative and influential for my own research. I remember fondly when he, Roland Boer, Erin Runions, Dick Horsley, and I made a road trip from Cambridge, MA to a college in Eastern Mass for a conference on Marxist interpretation of the bible. He graciously wrote a nice blurb for my book Poor Banished Children of Eve: Woman as Evil in the Hebrew Bible. I invited me to contribute my library to the Library for Bible and Social Justice, when I am ready to part with it. Norm's work will continue to be a lasting influence on my own writing. May he rest in peace with the ancestors.
+I was very saddened when I heard the news that Norman Gottwald passed away on March 11th. Norm's outstanding and provocative work in the social sciences and the Hebrew Bible was very informative and influential for my own research. I remember fondly when he, Roland Boer, Erin Runions, Dick Horsley, and I made a road trip from Cambridge, MA to a college in Eastern Mass for a conference on Marxist interpretation of the bible. He graciously wrote a nice blurb for my book _Poor Banished Children of Eve: Woman as Evil in the Hebrew Bible_. I invited me to contribute my library to the Library for Bible and Social Justice, when I am ready to part with it. Norm's work will continue to be a lasting influence on my own writing. May he rest in peace with the ancestors.
 Gale A. Yee, Ph.D., D.D. (hon)
 Nancy W. King Professor of Biblical Studies emerita
 Episcopal Divinity School

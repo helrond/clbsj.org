@@ -33,7 +33,7 @@ Since December, I have collaborated with Prof. Matthew Coomber in planning a pan
 
 The panel, however, will certainly be different without Prof. Gottwald’s presence. But I believe his ethos, courage, and a strong commitment to social justice will surely present. May his memory be a blessing.  
 
-### From Marian Ronan
+### From Marian Ronan:
 I enrolled at New York Theological Seminary in 1984. The co-author of one of my books, Hal Taussig, told me explicitly to go there to study with Norman. I did four or five four-credit courses with him and it deeply influenced my thinking. When I began my doctoral studies in Religion at Temple in 1992, my future dissertation advisor, Laura Levitt, after reading several of my papers, came up to me and said, “Where did you learn all this stuff?!” I responded, “From Norman, of course.” Thank you, Norman, from me and from all who were shaped by your amazing scholarship.
 Marian Ronan
 Research Professor of Catholic Studies

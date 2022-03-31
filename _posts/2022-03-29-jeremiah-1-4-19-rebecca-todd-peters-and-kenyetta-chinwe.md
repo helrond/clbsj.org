@@ -8,7 +8,7 @@ time: '7:30 PM Eastern Time'
 series: lenten-detox
 ---
 
-In this session, Dr. Rebecca Todd Peters and Rev. Kenyetta Chinwe will analyze and challenge the Anti-Abortion Movement's use of scripture, with a focus on [Jeremiah 1:4-19](https://bible.oremus.org/?ql=512375581). Peters and Chinwe will examine and discuss how scripture has been used as the central tactic and support for shaming and judging women for their abortion decisions. Their discussion will emphasize the transformative power of rereading scripture from the perspective of pregnant people.
+In this session, Dr. Rebecca Todd Peters and Rev. Kenyetta Chinwe analyze and challenge the Anti-Abortion Movement's use of scripture, with a focus on [Jeremiah 1:4-19](https://bible.oremus.org/?ql=512375581). Peters and Chinwe examine and discuss how scripture has been used as the central tactic and support for shaming and judging women for their abortion decisions, and emphasize the transformative power of rereading scripture from the perspective of pregnant people.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZItd-2hqz4rHNPyqQf7NqP19-XEZXlOslvA" %}
 

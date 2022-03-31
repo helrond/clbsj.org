@@ -3,7 +3,7 @@ date: '2022-04-05'
 category: events
 layout: event
 published: true
-title: 'Study of Mark 15:1-15 led by Tom Boomershine and Joyce Bressler'
+title: 'Study of Mark 15:1-15 led by Tom Boomershine with Joyce Bressler, respondent'
 time: '7:30 PM Eastern Time'
 series: lenten-detox
 ---

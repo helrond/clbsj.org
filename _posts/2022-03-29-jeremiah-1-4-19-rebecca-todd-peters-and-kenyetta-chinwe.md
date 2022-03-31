@@ -6,6 +6,7 @@ published: true
 title: 'Study of Jeremiah 1:4-19 led by Rebecca Todd Peters and Kenyetta Chinwe'
 time: '7:30 PM Eastern Time'
 series: lenten-detox
+vimeo_id: '694100305'
 ---
 
 In this session, Dr. Rebecca Todd Peters and Rev. Kenyetta Chinwe analyze and challenge the Anti-Abortion Movement's use of scripture, with a focus on [Jeremiah 1:4-19](https://bible.oremus.org/?ql=512375581). Peters and Chinwe examine and discuss how scripture has been used as the central tactic and support for shaming and judging women for their abortion decisions, and emphasize the transformative power of rereading scripture from the perspective of pregnant people.

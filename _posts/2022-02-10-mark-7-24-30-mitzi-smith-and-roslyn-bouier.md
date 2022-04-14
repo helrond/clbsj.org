@@ -6,8 +6,9 @@ published: true
 title: 'Study of Mark 7:24-30 led by Mitzi J. Smith and Roslyn Bouier'
 time: '7:30 PM Eastern Time'
 series: lenten-detox
+vimeo_id: '699193574'
 ---
-In this session, Dr. Mitzi J. Smith will explore Jesus' encounter with the Syrophoenician Woman as it is rendered in the gospel of [Mark 7:24-30](https://bible.oremus.org/?ql=512381860). In this controversial story, Jesus appears to deliver an ethnic insult. In conversation with community activist Rev. Roslyn Murray Bouier, Dr. Smith will unpack the socio-political context in which this conversation took place, and suggest a re-reading of the text that centers the agency of the woman.
+In this session, Dr. Mitzi J. Smith explores Jesus' encounter with the Syrophoenician Woman as it is rendered in the gospel of [Mark 7:24-30](https://bible.oremus.org/?ql=512381860). In this controversial story, Jesus appears to deliver an ethnic insult. In conversation with community activist Rev. Roslyn Murray Bouier, Dr. Smith unpacks the socio-political context in which this conversation took place, and suggests a re-reading of the text that centers the agency of the woman.
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZcodOmppz0pEtShGhRsNrc4Qn7smQmdh3Ed" %}
 

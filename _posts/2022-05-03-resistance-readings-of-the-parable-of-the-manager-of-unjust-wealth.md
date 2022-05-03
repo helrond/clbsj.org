@@ -10,7 +10,7 @@ CLBSJ is pleased to again join forces with the Alternative Seminary to host a te
 
 This event is a part of the Alternative Seminary’s course, "Challenging Power and Privilege: A ten-week online study of the Gospel of Luke." Members of the class cohort will provide responses to Dr. Jeong's teaching.
 
-To register for this session, click here: 
+To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZEpduqrrz8rHdwrDXd9rTzSrGQGUHPBKZSY" %}
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
 

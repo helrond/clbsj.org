@@ -1,8 +1,8 @@
 ---
-date: '2022-05-03 16:17 -0400'
+date: '2022-06-16'
 category: events
 layout: event
-published: false
+published: true
 title: Resistance Readings of the Parable of the Manager of Unjust Wealth
 series: scholar-activist-encounters
 ---

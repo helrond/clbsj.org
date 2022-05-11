@@ -16,9 +16,35 @@ _**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-a
 
 Our deepest condolences go out to Laura and his whole family. A remotely accessible memorial service will be held on August 6, 2022 — details will be made available soon.
 
-Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here as we receive them. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching. If you have any to share, please send these as well!
+Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here as we receive them. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching (scroll down). If you have any to share, please send these as well!
 
 We also invite you to help us carry forward the vision that Norman sparked by donating to the **Norman Gottwald Memorial Fund**. For details visit [clbsj.org/donate](https://clbsj.org/donate/).
+
+## Obituary
+
+Rev. Dr. Norman Karol Gottwald, renowned pioneer in the use of the social-scientific method in biblical studies, passed away peacefully at his home surrounded by his family on March 11, 2022. He was 95.
+
+Dr. Gottwald was an original thinker and pioneer in applying cutting edge socio-historical and anthropological tools to better understand the Hebrew Bible. He taught, traveled, lectured and wrote prolifically over six decades, producing multiple scholarly works that were groundbreaking in their approach to biblical interpretation. His most significant work, The Tribes of Yahweh: A Sociology of the Religion of Liberated Israel, 1250-1050 B.C.E. (1979), explores the class dynamics at the root of ancient Israel’s emergence.
+
+Dr. Gottwald was born in 1926 to Norman and Carol Gottwald in Chicago, Illinois. He spent his childhood in Chicago, then moved to Ontario, California, where he graduated high school. He then attended Eastern Baptist Seminary in Philadelphia where he met and married a fellow student, Barbara Wright. He went on to receive an A.B. from Eastern Baptist Theological Seminary in 1949, an M.Div. from Union Theological Seminary in 1951, and a Ph.D. in biblical literature from Columbia University in 1953. 
+
+Dr. Gottwald served in ministry at the First Baptist Church in Englewood, New Jersey, from 1952–53, then began his teaching career at Columbia University from 1953–1955. He then moved to Newton Center, Massachusetts, where he taught at Andover Newton Theological School for a decade. During this time he and Barbara had two daughters, Sharon and Lise. In 1966 they moved to Berkeley, California, for a joint appointment with Berkeley Baptist Divinity School (now Berkeley School of Theology) and Graduate Theological Union, where he taught until 1973 and 1982, respectively. He then returned to New York City to teach at New York Theological Seminary from 1980 to 1994, where he met and married his second wife, Laura Lagerquist.
+
+Dr. Gottwald served as President of the Society of Biblical Literature in 1992. In 1996 he was awarded an honorary Doctor of Letters degree by the University of Sheffield in England. He served on the editorial boards of Biblical Interpretation and Library of Hebrew Bible/Old Testament Studies and Radical Religion. He lectured widely in England, Switzerland, Israel, South Africa, New Zealand, Korea, Colombia, Chile, and Brazil as well as throughout Canada and the United States, on the relevance of biblical society, economics, and ethics for contemporary life. As South Africa was emerging from apartheid, he was visiting professor at the University of Cape Town.
+
+“Gottwald almost single-handedly established social-scientific research on the Bible as a viable and promising enterprise,” [Roland Boer wrote in 2011](https://mronline.org/2011/04/29/norman-gottwald-a-pioneering-marxist-biblical-scholar/), and (re)discovered ways that “prophetic and Marxist critiques overlapped with one another.” “The various phases of his scholarship are inseparable from his experiences of activism of more than half a century,” he added; “his political commitments and activism informed his scholarship and vice versa.”
+
+An epoch-changing thinker, Norman was also a democratic scholar and populist who made his material, both published and unpublished, available to students and non-academics. A movement-builder and a mentor, he sought out conversation with colleagues around the world, collaborated on numerous projects, lent support to aspiring scholars, and generously helped many younger writers get published. He often taught continuing education classes for clergy and laity, as well as at non-traditional spaces such as the [Word & World Peoples’ School](http://www.wordandworld.org/schools.html).
+
+In 2008, Gottwald began meeting in the San Francisco Bay area with two former colleagues in biblical studies—the late [John H. Elliott](https://en.wikipedia.org/wiki/John_H._Elliott_(biblical_scholar)) (University of San Francisco), [Herman Waetjen](https://www.religion-online.org/author/herman-c-waetjen/) (San Francisco Theological Seminary)—and other supporters to investigate donating their respective libraries to establish a popular library for faith-based people in social movements. He was proud to help establish in 2011 the Center and Library for the Bible and Social Justice (clbsj.org) in Stony Point, NY. Gottwald promoted CLBSJ’s vision to connect biblical scholars and social justice activists through a research library and educational programs, and to develop an empowering use of the Bible for enacting social justice today. He and Laura volunteered and resided at Stony Point Center for several years as members of a multifaith experiment called the Community of Living Traditions.
+
+Dr. Gottwald was known for his intellectual curiosity and sharp mind. His heart for justice led him to encourage, embrace, and support people from all segments of society with a special interest in the marginalized, and he was in his later years a member of the Democratic Socialists of America. He considered his greatest accomplishments to be raising his daughters and his contributions to the understanding and study of the Bible as a tool for social justice.
+
+Dr. Gottwald is survived by his wife of thirty three years, Laura, his daughters Lise Teilmann (Gary), Sharon Pillsbury (Roger), seven grandchildren and six great grandchildren.
+
+A memorial service will be held on August 6, 2022 in Berkeley, CA. In lieu of flowers, the family requests that donations be made to the Norman Gottwald Memorial Fund at the Center and Library for the Bible and Social Justice; see details at clbsj.org/donate.
+
+_Sharon Pillsbury, Laura Gottwald, Amy Dalton, Ched Myers and Nicholas Johnson contributed to this obituary._
 
 ## Tributes:
 

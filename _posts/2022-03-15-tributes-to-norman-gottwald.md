@@ -54,6 +54,9 @@ Episcopal Divinity School
 ### From Wes Howard-Brook:
 Without the groundbreaking work of Norman Gottwald,the Bible might well have remained imprisoned much longer within imperial modes of interpretation. But Norman's bold, courageous, intelligent and passionate foray into the connections between biblical texts and real social, political and economic struggles of the marginalized for dignity and justice opened up a path for many of us to journey upon. I can certainly testify that without his work, I might still be a government attorney, rather than what I am today. Thanks be to God for the life and work of St. Norman!
 
+### From Dick Hasbany:
+I knew Norman to be a kind and encouraging friend who supported the work of establishing the CLBSJ in the most concrete, hands-on ways. His respect and encouragement were expressions of how he worked in the world. His passing is a great loss. My love to Laura, and thanks to Amy for her devotion to CLBSJ and the mission that was so important to Norm.
+
 ### From R. Douglas Bendall:
 My first acquaintance with Norman was when I took the O.T. class at E.T.S.S.W. Seminary in Austin. We used Norman's text  A Light to the Nations as the main textbook. There was another well-known text suggested as well. However, class members recognized Norman's text to be far better than the alternative and asked that Norman's be the only one used. The request was accepted.
 

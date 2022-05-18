@@ -46,9 +46,13 @@ A memorial service will be held on August 6, 2022 in Berkeley, CA. In lieu of fl
 
 _Sharon Pillsbury, Laura Gottwald, Amy Dalton, Ched Myers and Nicholas Johnson contributed to this obituary._
 
+## Published Remembrances:
+
+Walter Bruggeman writes a concise and inspired overview of Gottwald's seminal book, Tribes of Yahweh, published in _The Christian Century_ on May 17, 2022: [The most important American Old Testament scholar of the last century is Norman Gottwald](https://www.christiancentury.org/article/critical-essay/most-important-american-old-testament-scholar-last-century-norman-gottwald)
+
 ## Tributes:
 
-### From Rev. Laurel Dykstra:
+### From Laurel Dykstra:
 Norman Gottwald was a brilliant man with a powerful love of justice who lived a long life. I am incredibly grateful for the way that his biblical scholarship changed the way that I and many of us read Hebrew Scriptures, but I am equally grateful for the glimpses of the real person that I got to experience through Word and World Schools and the Center and Library for the Bible and Social Justice: Norm and colleagues learning to navigate reply all on emails. Norm walking students through the book-packed guest room that was his home library, gesturing to a wall of shelves and shrugging, “these shelves are my publications.” Norm showing off Laura’s quilts. Feminist colleagues (of various ideologies) challenging my selections our Top 100 Books on the Bible and Justice list, when they were in fact Norm’s. An earnest and unasked-for explanation of how the tall masked man caught on film flipping a (police?) car during the Berkeley Free Speech Movement actions could not have been him. Norm’s giraffe-like pirouette from the chorus of a liturgical dance interpretation of the woman who anointed Jesus. Norm compiling a list of prophets who resist modern empires. Safe home Norm, may you rest in peace and rise in power. 
 
 ### From Ludwig Beethoven J. Noya:

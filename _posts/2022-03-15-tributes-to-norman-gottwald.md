@@ -47,8 +47,8 @@ A memorial service will be held on August 6, 2022 in Berkeley, CA. In lieu of fl
 _Sharon Pillsbury, Laura Gottwald, Amy Dalton, Ched Myers and Nicholas Johnson contributed to this obituary._
 
 ## Published Remembrances:
-
-Walter Bruggeman writes a concise and inspired overview of Gottwald's seminal book, Tribes of Yahweh, in which he asserts that Norman was the most important American Old Testament scholar of the last century. Versions of this article have been published in [_Church Anew_ on April 18, 2022](https://churchanew.org/brueggemann/remembering-old-testament-scholar-norman-gottwald) and [_The Christian Century_ on May 17, 2022](https://www.christiancentury.org/article/critical-essay/most-important-american-old-testament-scholar-last-century-norman-gottwald).
+- ["Remembering Dr. Norman K. Gottwald" from the Graduate School of Theology](https://www.gtu.edu/news/remembering-dr-norman-k-gottwald)
+- Walter Bruggeman writes a concise and inspired overview of Gottwald's seminal book, Tribes of Yahweh, in which he asserts that Norman was the most important American Old Testament scholar of the last century. Versions of this article have been published in [_Church Anew_ on April 18, 2022](https://churchanew.org/brueggemann/remembering-old-testament-scholar-norman-gottwald) and [_The Christian Century_ on May 17, 2022](https://www.christiancentury.org/article/critical-essay/most-important-american-old-testament-scholar-last-century-norman-gottwald).
 
 ## Tributes:
 

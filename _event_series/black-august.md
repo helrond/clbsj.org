@@ -46,9 +46,9 @@ leadership:
     description: 'See bio at <https://clbsj.org/about/leadership/amy-dalton/>'
 ---
 
-In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the transformative and revolutionary aspects of Black religion, asking "Why Black Religion Matters." This innautural series was co-sponsored by the Community of Living Traditions.
+In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the connections between our religious traditions and revolutionary movements for racial justice. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions.
 
-This August, we will again convene weekly during August via Zoom to explore the resonance between our scriptural traditions and the call of Black August. This year's series will focus in on the roots of Black August in the political prisoner solidarity movement, the movement to abolish the prison-industrial complex. 
+This August, we will again convene weekly during August via Zoom to explore the resonance between our scriptural traditions and the call of Black August. This year's series will focus in on the roots of Black August in the political prisoner solidarity movement, and by extension the movement to abolish the prison-industrial complex. 
 
 See below for the archives from last year, and check back on this page for updates on the 2022 series!
 

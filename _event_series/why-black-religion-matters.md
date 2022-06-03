@@ -1,6 +1,6 @@
 ---
 layout: event-series
-title: Why Black Religion Matters
+title: Black August
 slug: why-black-religion-matters
 tagline: >-
   A deep dive into the transformative and revolutionary aspects of Black
@@ -9,41 +9,41 @@ keywords: 'bible, activist, black'
 sort_order: 1
 published: true
 leadership:
-  - name: Sherly Fabre, Series Host
+  - name: 'Sherly Fabre, Series Host'
     description: >-
-      A Haitian-American immigrant who grew up Catholic and converted to
-      Islam, Sherly is a seasoned grassroots activist who builds capacity at
-      local, national and international levels. She is the co-chair of the
-      boards of Proyecto Faro and the Truth Telling Project, a member of the
-      Fellowship of Reconciliation National Committee, UN Representative for
-      the International Fellowship of Reconciliation, and a member of the
-      Community of Living Traditions and the Muslim Peace Fellowship. She has
-      volunteered with CLBSJ’s library team and the Muslim Peace Collection.
-  - name: Sister Sharifa Vernice Meytung, Artistic Consultant
+      A Haitian-American immigrant who grew up Catholic and converted to Islam,
+      Sherly is a seasoned grassroots activist who builds capacity at local,
+      national and international levels. She is the co-chair of the boards of
+      Proyecto Faro and the Truth Telling Project, a member of the Fellowship of
+      Reconciliation National Committee, UN Representative for the International
+      Fellowship of Reconciliation, and a member of the Community of Living
+      Traditions and the Muslim Peace Fellowship. She has volunteered with
+      CLBSJ’s library team and the Muslim Peace Collection.
+  - name: 'Sister Sharifa Vernice Meytung, Artistic Consultant'
     description: >-
       An African-American artist and haijin (a writer of haiku poetry), Sister
       Sharifa is a teacher and lay religious practitioner in the Catholic and
-      Buddhist traditions. Her practice is also steeped in and informed by
-      West African, Native and HipHop traditions. Her media books and CDs
-      include _Oil For The Lamp: 7 Virtues of Human Character Development_,
-      _Hiphop H.A.I.K.U. Vol 1 and 2_, _Rough Ground_, and she is currently
-      producing an online video series focused on the study of the Jataka
-      Tales of early Buddhism. Sister Sharifa serves on the Board of the
-      Philadelphia Buddhist Association.
-  - name: Warren Cooper, Media Guru
+      Buddhist traditions. Her practice is also steeped in and informed by West
+      African, Native and HipHop traditions. Her media books and CDs include
+      _Oil For The Lamp: 7 Virtues of Human Character Development_, _Hiphop
+      H.A.I.K.U. Vol 1 and 2_, _Rough Ground_, and she is currently producing an
+      online video series focused on the study of the Jataka Tales of early
+      Buddhism. Sister Sharifa serves on the Board of the Philadelphia Buddhist
+      Association.
+  - name: 'Warren Cooper, Media Guru'
     description: >-
-      A jazz musician and artistic entrepreneur from Philadelphia, Warren is
-      the Executive Producer of Music Media Ministry, a multi-media production
-      company focused on the manufacturing and trafficking of positive art
-      that nurtures the movement for justice and peace. He is a member of the
-      Community of Living Traditions and served for many years as the
-      volunteer curator of Stony Point Center Productions. Warren has a
-      life-long history of service in the Presbyterian Church USA, and is an
-      Ordained Ruling Elder and Minister of Music.
-  - name: Nicholas Johnson, CLBSJ Board President
-    description: See bio at <https://clbsj.org/about/leadership/nicholas-a-johnson/>
-  - name: Amy Dalton, CLBSJ Executive Director
-    description: See bio at <https://clbsj.org/about/leadership/amy-dalton/>
+      A jazz musician and artistic entrepreneur from Philadelphia, Warren is the
+      Executive Producer of Music Media Ministry, a multi-media production
+      company focused on the manufacturing and trafficking of positive art that
+      nurtures the movement for justice and peace. He is a member of the
+      Community of Living Traditions and served for many years as the volunteer
+      curator of Stony Point Center Productions. Warren has a life-long history
+      of service in the Presbyterian Church USA, and is an Ordained Ruling Elder
+      and Minister of Music.
+  - name: 'Nicholas Johnson, CLBSJ Board President'
+    description: 'See bio at <https://clbsj.org/about/leadership/nicholas-a-johnson/>'
+  - name: 'Amy Dalton, CLBSJ Executive Director'
+    description: 'See bio at <https://clbsj.org/about/leadership/amy-dalton/>'
 ---
 
 In honor of "Black August," CLBSJ is embarking on a deep dive into the

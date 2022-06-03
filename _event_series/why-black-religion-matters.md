@@ -46,25 +46,12 @@ leadership:
     description: 'See bio at <https://clbsj.org/about/leadership/amy-dalton/>'
 ---
 
-In honor of "Black August," CLBSJ is embarking on a deep dive into the
-transformative and revolutionary aspects of Black religion.  We will
-convene each Tuesday during August at at 4:30 Pacific Time / 7:30
-Eastern Time via Zoom to explore the theme: "Why Black Religion Matters:
-remembering and centering Black/Africana contributions to our scriptural
-traditions." This series is co-sponsored by the Community of Living Traditions.
+In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the transformative and revolutionary aspects of Black religion, asking "Why Black Religion Matters." This innautural series was co-sponsored by the Community of Living Traditions.
 
-“Black August” is a pan-African and internationalist tradition that
-recognizes the month of August as a living testament of the depth of
-commitment to transformation and liberation within Black communities
-around the world. From the beginning of the Haitian Revolution to the
-Nat Turner Rebellion; from the Fugitive Slave Law Convention and the
-foundation of the Underground Railroad to the March on Washington; from
-the uprising in Watts (1965) to the Uprising in Ferguson (2014); from
-the births of Marcus Garvey, Russell Maroon Shoatz, and Fred Hampton to
-the deaths of Emmett Till, W.E.B du Bois and Michael Brown — August
-bursts at the seams with histories of Black resistance. Because of this,
-organizers have claimed it as a month to deepen understanding of and
-commitment to the practices that lead us to liberation. CLBSJ is honored
-to unite with this tradition.
+This August, we will again convene weekly during August via Zoom to explore the resonance between our scriptural traditions and the call of Black August. This year's series will focus in on the roots of Black August in the political prisoner solidarity movement, the movement to abolish the prison-industrial complex. 
 
-See links below for the speaker lineup!
+See below for the archives from last year, and check back on this page for updates on the 2022 series!
+
+## What is Black August?
+
+“Black August” is a pan-African and internationalist tradition that recognizes the month of August as a living testament of the depth of commitment to transformation and liberation within Black communities around the world. From the beginning of the Haitian Revolution to the Nat Turner Rebellion; from the Fugitive Slave Law Convention and the foundation of the Underground Railroad to the March on Washington; from the uprising in Watts (1965) to the Uprising in Ferguson (2014); from the births of Marcus Garvey, Russell Maroon Shoatz, and Fred Hampton to the deaths of Emmett Till, W.E.B du Bois and Michael Brown — August bursts at the seams with histories of Black resistance. Because of this, organizers have claimed it as a month to deepen understanding of and commitment to the practices that lead us to liberation. CLBSJ is honored to unite with this tradition.

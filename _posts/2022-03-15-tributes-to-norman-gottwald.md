@@ -14,7 +14,7 @@ CLBSJ is so very sorry to share that pioneering Hebrew Bible scholar and CLBSJ c
 
 _**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-activist encounter with Rabbi Michael Feinberg, May 2021](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/)._
 
-Our deepest condolences go out to Laura and his whole family. A remotely accessible memorial service will be held on August 6, 2022 — details will be made available soon.
+Our deepest condolences go out to Laura and his whole family. A remotely accessible memorial service will be held on August 6, 2022 at the Berkeley School of Theology. Click here for details and to RSVP.
 
 Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here as we receive them. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching (scroll down). If you have any to share, please send these as well!
 
@@ -24,7 +24,7 @@ We also invite you to help us carry forward the vision that Norman sparked by do
 
 Rev. Dr. Norman Karol Gottwald, renowned pioneer in the use of the social-scientific method in biblical studies, passed away peacefully at his home surrounded by his family on March 11, 2022. He was 95.
 
-Dr. Gottwald was an original thinker and pioneer in applying cutting edge socio-historical and anthropological tools to better understand the Hebrew Bible. He taught, traveled, lectured and wrote prolifically over six decades, producing multiple scholarly works that were groundbreaking in their approach to biblical interpretation. His most significant work, The Tribes of Yahweh: A Sociology of the Religion of Liberated Israel, 1250-1050 B.C.E. (1979), explores the class dynamics at the root of ancient Israel’s emergence.
+Dr. Gottwald was an original thinker and pioneer in applying cutting edge socio-historical and anthropological tools to better understand the Hebrew Bible. He taught, traveled, lectured and wrote prolifically over six decades, producing multiple scholarly works that were groundbreaking in their approach to biblical interpretation. His most significant work, _The Tribes of Yahweh: A Sociology of the Religion of Liberated Israel, 1250-1050 B.C.E._ (1979), explores the class dynamics at the root of ancient Israel’s emergence.
 
 Dr. Gottwald was born in 1926 to Norman and Carol Gottwald in Chicago, Illinois. He spent his childhood in Chicago, then moved to Ontario, California, where he graduated high school. He then attended Eastern Baptist Seminary in Philadelphia where he met and married a fellow student, Barbara Wright. He went on to receive an A.B. from Eastern Baptist Theological Seminary in 1949, an M.Div. from Union Theological Seminary in 1951, and a Ph.D. in biblical literature from Columbia University in 1953. 
 

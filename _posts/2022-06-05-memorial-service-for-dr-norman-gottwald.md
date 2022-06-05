@@ -16,7 +16,7 @@ at Berkeley School of Theology
 
 Zoom will be available for those who want to attend from a distance.
 
-**An RSVP is necessary,** please, both for those who want to attend in person (seating is limited to 50 people) and for those who want to receive Zoom information. Direct RSVPs to
+**An RSVP is necessary,** both for those who want to attend in person (seating is limited to 50 people) and for those who want to receive Zoom information. Direct RSVPs to:
 
 Rev. Dr. Nancy Hall
 neh@amural.com

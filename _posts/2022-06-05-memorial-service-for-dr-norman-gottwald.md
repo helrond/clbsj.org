@@ -10,8 +10,7 @@ image_filename: Norman.jpg
 We continue to mourn [the loss of our co-founder and vision-holder, Norman Gottwald](https://clbsj.org/news/2022/03/15/tributes-to-norman-gottwald/). The First Baptist Church of Berkeley will hold a memorial service on
 
 Saturday, August 6, 2022 at 2:00pm Pacific Time
-in Crouch Classroom
-at Berkeley School of Theology
+Crouch Classroom, Berkeley School of Theology
 2606 Dwight Way, Berkeley 94704
 
 Zoom will be available for those who want to attend from a distance.

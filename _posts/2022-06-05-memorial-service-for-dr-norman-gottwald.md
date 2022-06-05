@@ -8,7 +8,7 @@ time: 2pm Pacific Time
 ---
 We continue to mourn the loss of our co-founder and vision-holder, Norman Gottwald. The First Baptist Church of Berkeley will hold a memorial service on
 
-Saturday, August 6, 2022 at 2:00 pm Pacific Daylight Time
+Saturday, August 6, 2022 at 2:00pm Pacific Time
 in Crouch Classroom
 at Berkeley School of Theology
 2606 Dwight Way, Berkeley 94704

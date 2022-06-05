@@ -2,7 +2,7 @@
 date: '2022-08-06'
 category: events
 layout: event
-published: false
+published: true
 title: Memorial Service for Dr. Norman Gottwald
 time: '2:00pm Pacific Time'
 image_filename: Norman.jpg

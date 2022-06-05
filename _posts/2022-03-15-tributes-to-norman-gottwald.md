@@ -14,7 +14,7 @@ CLBSJ is so very sorry to share that pioneering Hebrew Bible scholar and CLBSJ c
 
 _**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-activist encounter with Rabbi Michael Feinberg, May 2021](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/)._
 
-Our deepest condolences go out to Laura and his whole family. A remotely accessible memorial service will be held on August 6, 2022 at the Berkeley School of Theology. Click here for details and to RSVP.
+Our deepest condolences go out to Laura and his whole family. A remotely accessible memorial service will be held on August 6, 2022 at the Berkeley School of Theology. [Click here for details and to RSVP.](https://clbsj.org/events/2022/08/06/memorial-service-for-dr-norman-gottwald/)
 
 Norman was a friend, mentor and inspiration to so many. If Norman touched your life, we invite you to send a tribute to [clbsjorg@gmail.com](mail to:clbsjorg@gmail.com). We will compile and publish these tributes here as we receive them. We will also use this page to gather audio-visual archives of Norman's scholarship and teaching (scroll down). If you have any to share, please send these as well!
 

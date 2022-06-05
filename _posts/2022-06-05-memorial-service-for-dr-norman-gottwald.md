@@ -5,6 +5,7 @@ layout: event
 published: false
 title: Memorial Service for Dr. Norman Gottwald
 time: 2pm Pacific Time
+image_filename: Norman.jpg
 ---
 We continue to mourn [the loss of our co-founder and vision-holder, Norman Gottwald](https://clbsj.org/news/2022/03/15/tributes-to-norman-gottwald/). The First Baptist Church of Berkeley will hold a memorial service on
 

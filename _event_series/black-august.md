@@ -1,7 +1,7 @@
 ---
 layout: event-series
 title: Black August
-slug: why-black-religion-matters
+slug: black-august
 tagline: >-
   A deep dive into the transformative and revolutionary aspects of Black
   religion.

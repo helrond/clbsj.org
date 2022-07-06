@@ -2,7 +2,7 @@
 date: '2021-08-24'
 category: events
 layout: event
-series: why-black-religion-matters
+series: black-august
 published: true
 title: Sister Sharifa Vernice Meytung
 time: '7:30pm Eastern Time'

@@ -9,6 +9,8 @@ keywords: 'bible, activist, black'
 sort_order: 1
 published: true
 leadership:
+  - name: 'Nicholas Johnson, CLBSJ Board President'
+    description: 'See bio at <https://clbsj.org/about/leadership/nicholas-a-johnson/>'
   - name: 'Sherly Fabre, Series Host'
     description: >-
       A Haitian-American immigrant who grew up Catholic and converted to Islam,
@@ -40,8 +42,6 @@ leadership:
       curator of Stony Point Center Productions. Warren has a life-long history
       of service in the Presbyterian Church USA, and is an Ordained Ruling Elder
       and Minister of Music.
-  - name: 'Nicholas Johnson, CLBSJ Board President'
-    description: 'See bio at <https://clbsj.org/about/leadership/nicholas-a-johnson/>'
   - name: 'Amy Dalton, CLBSJ Executive Director'
     description: 'See bio at <https://clbsj.org/about/leadership/amy-dalton/>'
 ---

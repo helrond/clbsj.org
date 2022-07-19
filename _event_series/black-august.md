@@ -30,15 +30,16 @@ leadership:
       CLBSJ’s library team and the Muslim Peace Collection.
   - name: 'Sister Sharifa Vernice Meytung, Artistic Consultant'
     description: >-
-      An African-American artist and haijin (a writer of haiku poetry), Sister
+      An African-American artist and haijin (a writer of haiku poetry), Sr.
       Sharifa is a teacher and lay religious practitioner in the Catholic and
       Buddhist traditions. Her practice is also steeped in and informed by West
       African, Native and HipHop traditions. Her media books and CDs include
       _Oil For The Lamp: 7 Virtues of Human Character Development_, _Hiphop
       H.A.I.K.U. Vol 1 and 2_, _Rough Ground_, and she is currently producing an
       online video series focused on the study of the Jataka Tales of early
-      Buddhism. Sister Sharifa serves on the Board of the Philadelphia Buddhist
-      Association.
+      Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia
+      Buddhist Association. See full bio at
+      <https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/>
   - name: 'Warren Cooper, Media Guru'
     description: >-
       A jazz musician and artistic entrepreneur from Philadelphia, Warren is the

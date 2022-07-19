@@ -10,7 +10,14 @@ sort_order: 1
 published: true
 leadership:
   - name: 'Nicholas Johnson, CLBSJ Board President'
-    description: 'See bio at <https://clbsj.org/about/leadership/nicholas-a-johnson/>'
+    description: >-
+      Nick is a pastor at Raritan Valley Baptist Church, teacher of philosophy
+      and religion at New Jersey City University, and a PhD candidate in New
+      Testament and Early Christianity at Drew University in Madison, NJ. His
+      research focuses on Paul’s epistles, Revelation, and the intersections of
+      Africana, postcolonial, and New Testament studies. Nick serves as the
+      president of the CLBSJ Board. See full bio at        
+      <https://clbsj.org/about/leadership/nicholas-a-johnson/>
   - name: 'Sherly Fabre, Series Host'
     description: >-
       A Haitian-American immigrant who grew up Catholic and converted to Islam,

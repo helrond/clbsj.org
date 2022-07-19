@@ -43,13 +43,13 @@ leadership:
   - name: 'Warren Cooper, Media Guru'
     description: >-
       A jazz musician and artistic entrepreneur from Philadelphia, Warren is the
-      Executive Producer of Music Media Ministry, a multi-media production
+      founding host and producer of WRTI's gospel music program, Ovations, and
+      the Executive Producer of Music Media Ministry, a multi-media production
       company focused on the manufacturing and trafficking of positive art that
       nurtures the movement for justice and peace. He is a member of the
-      Community of Living Traditions and served for many years as the volunteer
-      curator of Stony Point Center Productions. Warren has a life-long history
-      of service in the Presbyterian Church USA, and is an Ordained Ruling Elder
-      and Minister of Music.
+      Community of Living Traditions and an Ordained Ruling Elder and Minister
+      of Music in the Presbyterian Church USA. He works with CLBSJ as a media
+      consultant.
   - name: 'Amy Dalton, CLBSJ Executive Director'
     description: 'See bio at <https://clbsj.org/about/leadership/amy-dalton/>'
 ---

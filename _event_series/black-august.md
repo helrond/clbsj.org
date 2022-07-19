@@ -9,7 +9,7 @@ keywords: 'bible, activist, black'
 sort_order: 1
 published: true
 leadership:
-  - name: 'Nicholas Johnson, CLBSJ Board President'
+  - name: 'Nicholas Johnson, Series Co-Host'
     description: >-
       Nick is a pastor at Raritan Valley Baptist Church, teacher of philosophy
       and religion at New Jersey City University, and a PhD candidate in New
@@ -18,7 +18,7 @@ leadership:
       Africana, postcolonial, and New Testament studies. Nick serves as the
       president of the CLBSJ Board. See full bio at        
       <https://clbsj.org/about/leadership/nicholas-a-johnson/>
-  - name: 'Sherly Fabre, Series Host'
+  - name: 'Sherly Fabre, Series Co-Host'
     description: >-
       A Haitian-American immigrant who grew up Catholic and converted to Islam,
       Sherly is a seasoned grassroots activist who builds capacity at local,
@@ -28,7 +28,7 @@ leadership:
       Fellowship of Reconciliation, and a member of the Community of Living
       Traditions and the Muslim Peace Fellowship. She has volunteered with
       CLBSJ’s library team and the Muslim Peace Collection.
-  - name: 'Sister Sharifa Vernice Meytung, Artistic Consultant'
+  - name: Sister Sharifa Vernice Meytung
     description: >-
       An African-American artist and haijin (a writer of haiku poetry), Sr.
       Sharifa is a teacher and lay religious practitioner in the Catholic and
@@ -40,7 +40,7 @@ leadership:
       Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia
       Buddhist Association. See full bio at
       <https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/>
-  - name: 'Warren Cooper, Media Guru'
+  - name: Warren Cooper
     description: >-
       A jazz musician and artistic entrepreneur from Philadelphia, Warren is the
       founding host and producer of WRTI's gospel music program, Ovations, and
@@ -50,7 +50,7 @@ leadership:
       Community of Living Traditions and an Ordained Ruling Elder and Minister
       of Music in the Presbyterian Church USA. He works with CLBSJ as a media
       consultant.
-  - name: 'Amy Dalton, CLBSJ Executive Director'
+  - name: Amy Dalton
     description: >-
       Amy has been active in peace and justice organizing since age 13. She
       holds a Master of Divinity from Union Theological Seminary with a research

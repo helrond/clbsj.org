@@ -51,7 +51,13 @@ leadership:
       of Music in the Presbyterian Church USA. He works with CLBSJ as a media
       consultant.
   - name: 'Amy Dalton, CLBSJ Executive Director'
-    description: 'See bio at <https://clbsj.org/about/leadership/amy-dalton/>'
+    description: >-
+      Amy has been active in peace and justice organizing since age 13. She
+      holds a Master of Divinity from Union Theological Seminary with a research
+      focus in faith-based community organizing. She serves on the Board of
+      Proyecto Faro, and on the Research Team of the Ambazonia Prisoners of
+      Conscience Support Network. Amy is the Executive Director of CLBSJ. See
+      full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
 
 In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. See below for the archives.

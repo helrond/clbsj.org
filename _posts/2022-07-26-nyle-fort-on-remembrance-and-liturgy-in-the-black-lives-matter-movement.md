@@ -7,7 +7,7 @@ title: Nyle Fort on Remembrance and Liturgy in the Black Lives Matter movement
 series: black-august
 time: '7:30pm Eastern Time'
 ---
-Rev. Dr. Nyle Fort of Columbia University will lead us in an exploration of the grassroots liturgies of remembrance that have developed through the Black Lives Matter movement. In honor of the anniversary of Mike Brown's death, we will particularly remember the role of radical respect for the dead that galvanized the Black Lives Matter movement. Dr. Fort will share from Strange Fruit Speaks: an innovative church liturgy he developed to commemorate the last words of black Americans killed at the hands of law enforcement. He will also lead us in a reflection of John 13:35.
+Rev. Dr. Nyle Fort of Columbia University will lead us in an exploration of the grassroots liturgies of remembrance that have developed through the Black Lives Matter movement. In honor of the anniversary of Mike Brown's death, we will particularly remember the role that radical respect for those killed by the system of racialized overpolicing and mass incarceration has played in galvanizing the Black Lives Matter movement. Dr. Fort will share from Strange Fruit Speaks: an innovative church liturgy he developed to commemorate the last words of Black Americans killed at the hands of law enforcement. He will also lead us in a reflection of John 13:35: "By this everyone will know that you are my disciples, if you have love for one another." 
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZYrdu-ppzsvE9HIBl6hOrMPPbqNAAVke82H" %}
 

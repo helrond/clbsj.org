@@ -7,7 +7,7 @@ title: 'Jeremy Williams on Acts 16:16-40'
 series: black-august
 time: '7:30pm Eastern Time'
 ---
-Rev. Dr. Jeremy Williams of Brite Divinity School will launch our second annual Black August Series. Dr. Williams, whose research focuses on biblical passages where imperial and local officials criminalized the Jesus-following movement, will lead us in a deep dive into [Acts 16:16-40](https://bible.oremus.org/?ql=524042065), the story of Paul and Silas in prison. Sharon Chestnut, a faith-based community organizer and popular education strategist, will offer a response to Dr. Williams' teaching.
+Rev. Dr. Jeremy Williams of Brite Divinity School will launch our second annual Black August Series. Dr. Williams, whose research focuses on biblical passages where imperial and local officials criminalized the Jesus-following movement, will lead us in a deep dive into [Acts 16:16-40](https://bible.oremus.org/?ql=524042065), the story of Paul and Silas in prison. Sharon Chestnut, a faith-based community organizer and strategist, will offer a response to Dr. Williams' teaching.
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZMkd-mvpjspGtN12ZnSoYRFaDNx0xJSHC7d" %}
 

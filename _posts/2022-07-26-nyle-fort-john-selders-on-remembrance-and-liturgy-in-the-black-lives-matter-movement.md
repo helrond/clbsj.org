@@ -4,8 +4,8 @@ category: events
 layout: event
 published: true
 title: >-
-  Nyl Fort and John Selders on Remembrance and Liturgy in the Black Lives Matter
-  movement
+  Nyle Fort and John Selders on Remembrance and Liturgy in the Black Lives
+  Matter movement
 series: black-august
 time: '7:30pm Eastern Time'
 ---

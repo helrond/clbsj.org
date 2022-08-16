@@ -13,4 +13,6 @@ To register for this session, click here: {% include registration-button.html li
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
+**Optional Reading:** ["Jesus Christ in Texas" by W.E.B. DuBois](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Jesus_Christ_in_Texas)
+
 **Dr. Charlene Sinclair** is an organizer, thinker, and writer whose work centers on the intersection of race, economic justice and democracy. Charlene serves as a consultant, trainer, and adviser to leading social change organizations and individual prophetic leaders. Strongly influenced by the pathbreaking thought of the late James Cone, Dr. Sinclair helps to fashion strategies that embrace a liberationist approach to faith and spirituality in the context of popular struggles for racial and economic justice.

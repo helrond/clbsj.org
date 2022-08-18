@@ -6,6 +6,7 @@ published: true
 title: Nikia Smith Robert and Traci West on Scripture Study as Freedom Practice
 series: black-august
 time: '7:30pm Eastern Time'
+vimeo_id: '740584650'
 ---
 Rev. Dr. Nikia Smith Robert and Rev. Dr. Traci West will share about how engagement with scripture and other faith practices can aid in efforts to dismantle and heal from the far-reaching effects of racialized overpolicing and mass incarceration. Dr. Robert will share about the work she has done to train Black churches to become "Abolition Sanctuaries" that embody emancipatory theology and enact abolitionist principles. She will reflect on how religion has been used to cause carceral harms, as well as how churches may apply their faith beliefs and practices to abolitionist principles that  repair, restore, and rebuild more just and equitable communities prioritizing the flourishing of poor Black mothers and their families. Dr. West will share about her experience teaching toward deep healing and restoration within prisons, and particularly the teaching of [Musa Dube's "Fifty Years of Bleeding"](https://sacred.omeka.net/items/show/54) in a men's prison.
 

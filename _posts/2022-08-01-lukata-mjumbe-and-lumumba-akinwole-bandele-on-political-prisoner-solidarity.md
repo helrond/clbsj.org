@@ -6,6 +6,7 @@ published: true
 title: Lukata Mjumbe and Lumumba Akinwole-Bandele on Political Prisoner Solidarity
 time: '7:30pm Eastern Time'
 series: black-august
+vimeo_id: '742696311'
 ---
 Rev. Lukata Mjumbe and Lumumba Akinwole-Bandele will lead us into a deep dive into the tap-root of the Black August tradition, the intentional support of political prisoners. Both Lukata and Lumumba have been deeply involved in Black August for many years, and they will share about the history of the tradition and how it relates to the evolution of our movements' understanding of prisons and systemic violence. They will reflect on scriptures that refer directly to the call to free political prisoners, including Colossians 4:18, Hebrews 13:3, Luke 4:18 / Isaiah 61:1 as well as texts and practices in the Yoruba Lukumi tradition. They will share about contemporary political prisoner support campaigns, including the recently successful campaign to free Sundiata Acoli, and they will give suggestions of how people of faith can get involved.
 

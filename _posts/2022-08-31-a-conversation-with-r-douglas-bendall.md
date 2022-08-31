@@ -3,7 +3,9 @@ date: '2022-09-15'
 category: events
 layout: event
 published: true
-title: A Conversation with R. Douglas Bendall
+title: >-
+  A Conversation with R. Douglas Bendall on Modern Cosmology, Process Theology
+  and Social Justice
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
 ---

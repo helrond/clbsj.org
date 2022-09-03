@@ -6,6 +6,7 @@ published: true
 title: Charlene Sinclair on “Jesus Christ in Texas” by W.E.B. DuBois
 time: '7:30pm Eastern Time'
 series: black-august
+vimeo_id: '745197522'
 ---
 To close our series, Dr. Charlene Sinclair will take us on a deep dive into an essay by W.E.B. DuBois which is addressed in the final chapter of James Cone’s _The Cross and the Lynching Tree_. DuBois, whose historical and sociological work has been deeply formative in the Abolition Democracy organizing tradition, wrote “Jesus Christ in Texas” as part of a collection of autobiographical essays, poems and short stories published in 1920 under the title _Darkwater: Voices from within the Veil._ Dr. Sinclair will draw from her doctoral dissertation in which she examined the work of James Cone, including the often overlooked relationship between his analysis and W.E.B. DuBois’ work.
 

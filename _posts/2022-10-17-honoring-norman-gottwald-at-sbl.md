@@ -16,4 +16,4 @@ Both of these events will be held on Sunday, November 20, in the same room: Conv
 
 In order to attend these events, it is necessary to register for the SBL Conference. For more information and registration links, visit: [sbl-site.org/meetings/annualmeeting.aspx](https://www.sbl-site.org/meetings/annualmeeting.aspx ) 
 
-We would be grateful if you could let us know that you plan to attend! RSVP to clbsjorg@gmail.com
+We would also be grateful if you could let us know that you plan to attend! RSVP to clbsjorg@gmail.com -- and please do let us know if you would like to share at the Memorial Session.

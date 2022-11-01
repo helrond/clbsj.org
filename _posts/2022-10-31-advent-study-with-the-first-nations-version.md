@@ -5,6 +5,8 @@ layout: event
 published: true
 title: Advent Study with the First Nations Version
 time: '7:30pm Eastern Time'
+image_filename: FirstNationsVersion.jpeg
+image_alt_text: First Nations Version
 ---
 Join us to expand our understanding of the Divine through new biblical translations!
 

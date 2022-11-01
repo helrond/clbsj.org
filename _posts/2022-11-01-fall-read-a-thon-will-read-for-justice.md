@@ -17,7 +17,7 @@ Please also take this opportunity to share this campaign with folks in your netw
 Want to help by becoming a reader? [Click here to learn more.](https://go.rallyup.com/c/clbsj-read4justice-reader)
 
 ## What We are Reading:
-Here are a few books our Readers have chosen.
+Here are a few books our Readers have chosen to start with...
 - _Black Scholars Matter: Visions, Struggles, and Hopes in Africana Biblical Studies_ edited by Gay L Byron and Hugh R Page (2022) 
 - _Passion Plays: How Religion Shaped Sports in North America_ by Randall Balmer (2022)
 - _This Here Flesh: Spirituality, Liberation, and the Stories That Make Us_ by Cole Arthur Riley (2022)

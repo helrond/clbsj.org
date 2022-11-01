@@ -12,7 +12,7 @@ _**Calling all Friends of CLBSJ!**_ We have amazingly been challenged by a donor
 
 Please also take this opportunity to share this campaign with folks in your networks who might not yet be connected to CLBSJ, but share our passion for linking the Bible and social justice! Our readers will be posting "mini-reviews" of what we read — and given the impressive minds on our Board and the books we are reading, this alone should make a pledge worth anyone's while. Check out some of the books we are reading below...
 
-Are you interested in becoming a reader? [Click here to learn more.](https://go.rallyup.com/c/clbsj-read4justice-reader)
+Want to help by becoming a reader? [Click here to learn more.](https://go.rallyup.com/c/clbsj-read4justice-reader)
 
 ## What We are Reading:
 Here are a few books our Readers have chosen.

@@ -10,7 +10,7 @@ image_alt_text: First Nations Version
 ---
 Join us to expand our understanding of the Divine through new biblical translations!
 
-CLBSJ is pleased to welcome Terry Wildman (Ojibwe and Yaqui), lead translator, general editor, and project manager of the [_First Nations Version: An Indigenous Translation of the New Testament_](https://firstnationsversion.com/), for a conversation about this project and an exploration into the rendering of some of our beloved advent texts.
+CLBSJ is pleased to welcome Terry Wildman (Ojibwe and Yaqui), lead translator, general editor, and project manager of the [_First Nations Version: An Indigenous Translation of the New Testament_](https://firstnationsversion.com/), for a conversation about this project and an exploration into its rendering of some of our beloved advent texts.
 
 Please check back for more information and a registration link.
 

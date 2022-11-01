@@ -8,7 +8,7 @@ image_filename: ChurchPeopleInTheStruggle.jpeg
 ---
 _**Calling all Friends of CLBSJ!**_ We have amazingly been challenged by a donor to raise $25,000 before the end of the year. To help us meet this goal and have fun doing it, we are "coming out" as hopeless bibliophiles and embarking on a Fall Read-a-Thon! Together, Board members and friends of CLBSJ have committed to read at least 5,000 pages during the month of November.
 
-**Can you help us reach our goal by donating to support the read-a-thon?** You can make a per-page pledge for your favorite reader, or you can make a flat donation to the entire campaign. Check out details and make your gift at go.rallyup.com/clbsj-read4justice
+**Can you help us reach our goal by donating to support the read-a-thon?** You can make a per-page pledge for your favorite reader, or you can make a flat donation to the entire campaign. Check out details and make your gift at **go.rallyup.com/clbsj-read4justice**
 
 Please also take this opportunity to share this campaign with folks in your networks who might not yet be connected to CLBSJ, but share our passion for linking the Bible and social justice! Our readers will be posting "mini-reviews" of what we read — and given the impressive minds on our Board and the books we are reading, this alone should make a pledge worth anyone's while. Check out some of the books we are reading below...
 
@@ -33,4 +33,3 @@ Here are a few books our Readers have chosen.
 - _Reading Minjung Theology in the Twenty-First Century: Selected Writings_ by Ahn Byung-Mu and Modern Critical Responses edited by Yung Suk Kim and Jin-Ho Kim (2013)
 - _Christians at the Border: Immigration, the Church, and the Bible_ by M. Daniel Carroll R. (2008)
 - _Tribes of Yahweh: A Sociology of the Religion of Liberated Israel, 1250-1050 BCE_ by Norman K. Gottwald (1979, reprinted 1999)
-

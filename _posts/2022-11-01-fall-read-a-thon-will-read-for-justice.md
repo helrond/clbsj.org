@@ -4,6 +4,7 @@ category: news
 layout: news-item
 published: true
 title: 'Fall Read-a-Thon: Will Read for Justice!'
+image_filename: ChurchPeopleInTheStruggle.jpeg
 ---
 _**Calling all Friends of CLBSJ!**_ We have amazingly been challenged by a donor to raise $25,000 before the end of the year. To help us meet this goal and have fun doing it, we are "coming out" as hopeless bibliophiles and embarking on a Fall Read-a-Thon! Together, Board members and friends of CLBSJ have committed to read at least 5,000 pages during the month of November.
 

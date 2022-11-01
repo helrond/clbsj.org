@@ -8,7 +8,7 @@ title: >-
   and Social Justice
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
-image_filename: /DrBendall.jpg
+vimeo_id: '750525687'
 ---
 Please join us for a sharing and dialogue with CLBSJ co-founder Rev. Dr. R. Douglas Bendall on Modern Cosmology, Process Theology and Social Justice. Dr. Bendall will share about the book he is working on, tentatively entitled _The Human Face of God_, the goal of which is the establishment of an empirical foundation for a Christian theology oriented toward social justice. Drawing from the biblical scholarship of Norman Gottwald, the philosophy of Ludwig Feuerbach and Alfred N. Whitehead, and the fields of neuropsychology and physics, Doug will unpack how any event can be literally understood as God acting with God's creatures to bend the arc of the universe toward Justice. This event is co-sponsored by the Newark School of Theology.
 

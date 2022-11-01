@@ -1,9 +1,10 @@
 ---
-date: '2022-10-31 22:02 -0400'
-category: news
-layout: news-item
-published: false
+date: '2022-12-15'
+category: events
+layout: event
+published: true
 title: Advent Study with the First Nations Version
+time: '7:30pm Eastern Time'
 ---
 Join us to expand our understanding of the Divine through new biblical translations!
 

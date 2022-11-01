@@ -10,7 +10,7 @@ _**Calling all Friends of CLBSJ!**_ We have amazingly been challenged by a donor
 
 **Can you help us reach our goal by donating to support the read-a-thon?** You can make a per-page pledge for your favorite reader, or you can make a flat donation to the entire campaign. Check out details and make your gift at **[go.rallyup.com/clbsj-read4justice](https://go.rallyup.com/clbsj-read4justice/)**
 
-Please also take this opportunity to share this campaign with folks in your networks who might not yet be connected to CLBSJ, but share our passion for linking the Bible and social justice! Our readers will be posting "mini-reviews" of what we read — and given the impressive minds on our Board and the books we are reading, this alone should make a pledge worth anyone's while. Check out some of the books we are reading below...
+Please also take this opportunity to share this campaign with folks in your networks who might not yet be connected to CLBSJ, but share our passion for linking the Bible and social justice! Our readers will be posting "mini-reviews" of what we read, making this project a great opportunity to get to know CLBSJ and our commitments. Check out some of the books we are reading below...
 
 Want to help by becoming a reader? [Click here to learn more.](https://go.rallyup.com/c/clbsj-read4justice-reader)
 

@@ -128,6 +128,15 @@ I had the privilege of knowing Norman and Laura when they began spending time at
 
 As Norman faced health challenges, he appreciated the support that came from being in an intentional community and he was there for others as we faced the challenges that the pandemic brought to our community. He was a staunch supporter for a dignified and safe move for our members as we needed to relocate.  He shared with us the story of Laura’s valiant drive across the country as they returned to California in 2021. Norman was a fighter and never lost his spirit and concern for others. I recall a phone conversation we had a short time before he passed. His spirits were high and he made a point to enthusiastically support my writing and work. I can feel the love over the phone.  Rest in Peace dear friend.
 
+### From Paul Schneider:
+I grew up in the First Baptist Church of Berkeley, where Dr. Norm Gottwald was a member for about three decades. On one level even as a teenager I knew that Norm was justifiably acknowledged as a premier scholar in the academic community. There was never any doubting his scholarly gifts, or his belief that education was a lifelong journey which everyone could participate in. He was certainly one of my earliest teachers in what it means to look at scripture critically, and to live a faithful life.
+
+Norm was also my friend, and a brother in Christ. He was so kind, and so true, and so faithful as to just be Norm with the members of our congregation. He was ever ready with a laugh or a piercing insight. He was fierce in his conviction that to be a person of faith was to seek justice for everyone, and that justice was rooted in a love for people. And his demeanor, even at his fiercest, was loving. He encouraged anyone to learn and anyone to teach, and would do anything he could to help. Norm taught many students over the years, and I'm proud to say that I was one of them, even if we never were in a campus classroom together. I'm profoundly grateful to my brilliant, gentle, loving friend, and will remember him always.
+
+Rev. Paul Schneider
+Pastor, Burien Community Church
+Office Administrator, Evergreen Association of American Baptist Churches
+
 ### From Amy L. Dalton: 
 I was blessed to be able to visit with Norman a few weeks before he passed. He was vigorous and articulate as ever, holding my hand with a firm grip and sharing with me for a half hour straight a detailed outline of the writing project he was working on -- a socio-historical unpacking of the person and political context behind each of the prophetic books. Rather than seeing the prophets only as the recipients of divine intercession, Norman was interested in who they were as leaders and change-makers in their contexts. He felt this sort of nuanced treatment could help us today to clarify how we can be part of continuing the prophetic tradition. I came away from the conversation energized and enthused, my mind filled with thoughts about the implications of his thinking. I had so hoped that he would rally and stay with us for a little longer, long enough at least to push these ideas out!
 

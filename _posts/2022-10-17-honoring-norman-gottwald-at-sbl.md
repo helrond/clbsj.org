@@ -8,7 +8,7 @@ time: '4:00pm Mountain Time'
 ---
 CLBSJ folks will be representing at the annual meeting of the Society for Biblical literature, to be held November 19–22 in Denver, Colorado. We would be grateful for your presence at two events which our Board members are helping to pull together, both honoring CLBSJ co-founder Norman Gottwald:
 
-**4:00–6:30pm — Joint Session on Social Class as an Analytic and Hermeneutical Category: Critical Reflections on the Work of Norman K. Gottwald.** This session is organized jointly by two SBL Sections: The "Poverty in the Biblical World Section and the Interpretation of the Hebrew Scriptures Section. Speakers will include CLBSJ Board members Hugh Page and Matthew Coomber, CLBSJ Publications Committee member Ludwig Noya, as well as Gale Yee, Monica Melanchthon, Steed Davis and Mark Sneed.
+**4:00–6:30pm — Joint Session on Social Class as an Analytic and Hermeneutical Category: Critical Reflections on the Work of Norman K. Gottwald.** This session is organized jointly by two SBL Sections: The Poverty in the Biblical World Section and the Interpretation of the Hebrew Scriptures Section. Speakers will include CLBSJ Board members Hugh Page and Matthew Coomber, CLBSJ Publications Committee member Ludwig Noya, as well as Gale Yee, Monica Melanchthon, Steed Davis and Mark Sneed.
 
 **7:00–8:30pm — Memorial Session for Norman K. Gottwald:** This special session will honor the memory of CLBSJ co-founder Norman Gottwald, who passed away earlier this year. It will include time for friends, colleagues and admirers to share their thoughts and memories of Norman, as well as a discussion of his vision for Biblically-engaged scholar-activism.
 

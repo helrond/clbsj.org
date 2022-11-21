@@ -1,5 +1,5 @@
 ---
-date: '2022-03-15'
+date: 'published March 15, 2022 ~ updated November 21, 2022'
 category: news
 layout: news-item
 published: true

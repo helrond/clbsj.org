@@ -22,4 +22,8 @@ In addition:
 
 We're grateful for the collaborative space created by SBL/AAR, and especially for the change-makers who have been pushing it forward!
 
+**Remembrance video for Norman Gottwald, compiled by Ched Myers of Bartimaeus Cooperative Ministries:**
+
 <iframe src="https://drive.google.com/file/d/15Zuk0FOwZr-CUjIOhNLFCNWhfHvf10aw/preview" width="640" height="480" allow="autoplay"></iframe>
+
+If you have trouble playing the above video, you can access it directly using this link: [https://drive.google.com/file/d/15Zuk0FOwZr-CUjIOhNLFCNWhfHvf10aw/view](https://drive.google.com/file/d/15Zuk0FOwZr-CUjIOhNLFCNWhfHvf10aw/view)

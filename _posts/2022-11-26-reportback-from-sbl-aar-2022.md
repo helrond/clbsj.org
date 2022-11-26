@@ -21,3 +21,5 @@ In addition:
 - CLBSJ was also blessed to connect with and learn from many good folks who have served as speakers at events we've held, including Angela Parker, Chris Hoklotubbe, Eric Thomas, Ericka Dunbar, Karri Whipple, Luis Menéndez-Antuña, Mitzi Smith and Traci West.
 
 We're grateful for the collaborative space created by SBL/AAR, and especially for the change-makers who have been pushing it forward!
+
+<iframe src="https://drive.google.com/file/d/15Zuk0FOwZr-CUjIOhNLFCNWhfHvf10aw/preview" width="640" height="480" allow="autoplay"></iframe>

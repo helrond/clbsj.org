@@ -12,7 +12,7 @@ Join us to expand our understanding of the Divine through new biblical translati
 
 CLBSJ is pleased to welcome Terry Wildman (Ojibwe and Yaqui), lead translator, general editor, and project manager of the [_First Nations Version: An Indigenous Translation of the New Testament_](https://firstnationsversion.com/), for a conversation about this project and an exploration into its rendering of some of our beloved advent texts. 
 
-New Testament scholar Dr. T. Christopher Hoklotubbe (Choctaw) will be offering a response.
+Mr. Wildman will share about the method behind this experiment in grassroots translation, and reflect on some of the themes and discoveries that emerged in the effort to craft a translation that resonates with the cultural and linguistic thought patterns of indigenous oral storytelling traditions. New Testament scholar Dr. T. Christopher Hoklotubbe (Choctaw) will offer a response and some discussion quesitons.
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUrf--hqzMoE9aoBhzuG0v1U2o4rLujjk_w" %}
 

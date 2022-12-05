@@ -21,3 +21,5 @@ After registering, you will receive a confirmation email containing information 
 **Terry M. Wildman (Ojibwe and Yaqui)** is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also the founder of Rain Ministries and has previously served as a pastor and worship leader. He and his wife, Darlene, live in Arizona. [Read More](https://www.ivpress.com/terry-m-wildman)
 
 **Dr. T. Christopher Hoklotubbe (Choctaw**) is Assistant Professor of Religion at Cornell College and serves on the faculty of NAIITS: An Indigenous Learning Community. His book, _Civilized Piety: The Rhetoric of Pietas in the Pastoral Epistles and the Roman Empire_ (Baylor University Press, 2017), won the 2021 Manfred Lautenschlaeger Award for Theological Promise. [Read More](https://www.cornellcollege.edu/academics/our-faculty/faculty-profile/index.php/show/choklotubbe)
+
+This event is co-sponsored by [Bartimaeus Cooperative Ministries](https://www.bcm-net.org/).

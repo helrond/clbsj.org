@@ -22,7 +22,7 @@ After registering, you will receive a confirmation email containing information 
 
 **Dr. T. Christopher Hoklotubbe (Choctaw)** is Assistant Professor of Religion at Cornell College and serves on the faculty of NAIITS: An Indigenous Learning Community. His book, _Civilized Piety: The Rhetoric of Pietas in the Pastoral Epistles and the Roman Empire_ (Baylor University Press, 2017), won the 2021 Manfred Lautenschlaeger Award for Theological Promise. [Read More](https://www.cornellcollege.edu/academics/our-faculty/faculty-profile/index.php/show/choklotubbe)
 
-**Dr. Casey Church (Pokagon Band of Potawatomi)** is an Indigenous Missiologist and Pastor of "Good Medicine Way" a contextual church plant in Albuquerque New Mexico. He is a Board Member with Indigenous Pathways and faculty with NAIITS: An Indigenous Learning Community. Casey is author of the book "Holy Smoke: The Contextual Use of Native American Ritual and Ceremony." [Read More](https://gmwgathering.org/caseys-story/)
+**Dr. Casey Church (Pokagon Band of Potawatomi)** is an Indigenous Missiologist and Pastor of "Good Medicine Way" a contextual church plant in Albuquerque New Mexico. He is a Board Member with Indigenous Pathways and faculty with NAIITS: An Indigenous Learning Community. Casey is author of the book _Holy Smoke: The Contextual Use of Native American Ritual and Ceremony._ [Read More](https://gmwgathering.org/caseys-story/)
 
 
 

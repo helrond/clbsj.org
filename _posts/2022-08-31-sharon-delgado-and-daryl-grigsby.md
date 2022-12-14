@@ -6,7 +6,7 @@ published: true
 title: Sharon Delgado and Daryl Grigsby on "The Word of the Cross"
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
-image_filename: TheCrossInTheMidstOfCreation.jpg
+vimeo_id: '763776006'
 ---
 CLBSJ and the Alternative Seminary warmly invite you to join us for a dialogue emerging from Rev. Sharon Delgado’s new book, [_The Cross in the Midst of Creation: Following Jesus, Engaging the Powers, Transforming the World._](https://www.fortresspress.com/store/product/9781506471693/The-Cross-in-the-Midst-of-Creation) Joining Delgado in conversation will be Daryl Grigsby, author, community organizer and lay theologian. Both Delgado’s and Grigsby’s theological reflections are rooted in their decades of work for economic equality, climate justice, racial healing, and peace. 
 

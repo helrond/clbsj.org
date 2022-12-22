@@ -3,7 +3,7 @@ date: '2023-02-28'
 category: events
 layout: event
 published: true
-title: 'Detoxing for Earth Justice: Opening Session'
+title: Reclaiming the Bible for Earth Justice -- Opening Session
 series: lenten-detox
 time: '7:30PM Eastern Time'
 ---

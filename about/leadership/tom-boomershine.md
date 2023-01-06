@@ -4,7 +4,7 @@ title: Thomas E. Boomershine
 sort: boomershine
 description: Thomas E. Boomershine is an emeritus professor of New Testament and a United Methodist elder.
 keywords: thomas e boomershine
-category: board-member
+category: advisory-committee-member
 job-title: President
 institution: GoTell Communications
 image: "/img/board/boomershine.jpg"

@@ -3,6 +3,7 @@ layout: board-member
 title: Cass Shaw
 sort: shaw
 description: "Cass Shaw began her tenure as the CEO of The Council of Churches of Greater Bridgeport (CCGB) in June, 2013."
+officer: Treasurer
 job-title: CEO
 institution: The Council of Churches of Greater Bridgeport
 keywords: cass shaw

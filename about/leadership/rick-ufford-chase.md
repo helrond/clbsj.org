@@ -5,8 +5,7 @@ sort: ufford-chase
 description: "Rick Ufford-Chase is a faith-rooted activist and author with a long
 history of developing popular education tools."
 keywords: rick ufford-chase
-category: board-member
-officer: Treasurer
+category: advisory-committee-member
 job-title: Institutional Advancement Officer
 institution: Johnson C. Smith Theological Seminary
 image: "/img/board/ufford-chase.jpg"

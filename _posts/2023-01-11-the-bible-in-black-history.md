@@ -7,7 +7,7 @@ title: The Bible in Black History
 series: scholar-activist-encounters
 time: '7:30pm Eastern Time'
 ---
-In honor of Black History Month, CLBSJ is hosing a roundtable discussion on the role of the Bible in Black History. Speakers will include Rev. Dr. Eric Thomas, Layla Jones and Zoe Greenberg. The evening will be hosted by CLBSJ Board Member Sr. Sharifa Vernice Meytung. Check this page for updates!
+In honor of Black History Month, CLBSJ is hosing a roundtable discussion on the role of the Bible in Black History. We will discuss how it has been both a source of guidance for racial justice movements and a tool of oppression — and what can be done to draw out the former and disarm the latter. Speakers will include Layla Jones, Zoe Greenberg and Rev. Dr. Eric Thomas. The evening will be hosted by Sr. Sharifa Meytung. Register by clicking on the button below, and check this page for updates. The evening will be hosted by CLBSJ Board Member Sr. Sharifa Vernice Meytung. Check this page for updates!
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZIscuurpjosGNLBuoixQVwCwOnej2-EpIGr" %}
 

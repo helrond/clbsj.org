@@ -2,7 +2,7 @@
 date: '2023-02-02'
 category: events
 layout: event
-published: false
+published: true
 title: The Bible in Black History
 series: scholar-activist-encounters
 time: '7:30pm Eastern Time'

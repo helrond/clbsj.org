@@ -3,7 +3,7 @@ date: '2023-02-02'
 category: events
 layout: event
 published: true
-title: The Bible in Black History
+title: The Bible as a Living Text in Black Community
 series: scholar-activist-encounters
 time: '7:30pm Eastern Time'
 ---

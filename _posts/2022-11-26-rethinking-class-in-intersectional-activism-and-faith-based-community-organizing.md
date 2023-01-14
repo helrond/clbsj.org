@@ -6,7 +6,7 @@ published: true
 title: >-
   Rethinking Class in Intersectional Activism and Faith-Based Community
   Organizing
-time: '11:00am–3:30pm Eastern Time'
+time: '11:00am–4:00pm Eastern Time'
 ---
 _Continuing Critical Reflections on the Work of Norman K. Gottwald_
 

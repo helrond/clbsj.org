@@ -28,4 +28,6 @@ Moderators:
 - Ludwig Beethoven J. Noya, Vanderbilt University
 - Matthew J.M. Coomber, St. Ambrose University
 
-_**Please save the date and check back for a registration link!**_
+To register for this session, click here: {% include registration-button.html link="https://vanderbilt.zoom.us/meeting/register/tJUpde-srjoqGNG5_O69G434A-xX8gvzONpW#/registration" %}
+
+After registering, you will receive a confirmation email containing information about joining the meeting.

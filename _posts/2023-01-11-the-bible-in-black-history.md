@@ -7,7 +7,7 @@ title: The Bible as a Living Text in Black Community
 series: scholar-activist-encounters
 time: '7:30pm Eastern Time'
 ---
-In honor of Black History Month, CLBSJ is hosing a roundtable discussion on the role community churches and Biblical scripture in galvanizing social justice organizing in Black communities. Speakers will include journalists Layla Jones and Zoe Greenberg, and New Testament scholar Rev. Dr. Eric Thomas. The evening will be hosted by CLBSJ Board Member Sr. Sharifa Vernice Meytung. 
+In honor of Black History Month, CLBSJ is hosting a roundtable discussion on the role community churches and Biblical scripture in galvanizing social justice organizing in Black communities. Speakers will include journalists Layla Jones and Zoe Greenberg, and New Testament scholar Rev. Dr. Eric Thomas. The evening will be hosted by CLBSJ Board Member Sr. Sharifa Vernice Meytung. 
 
 Check back for updates!
 

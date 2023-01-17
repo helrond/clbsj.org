@@ -21,7 +21,6 @@ Speakers:
 - Monica Melanchthon, University of Divinity
 - Stacy Davis, Saint Mary’s College 
 - Gregory Cuellar, Austin Presbyterian Theological Seminary
-- Jennifer Koosed, Albright College
 - Ched Myers, Bartimaeus Cooperative Ministries 
 
 Moderators:

@@ -15,7 +15,9 @@ This online seminar will continue discussions begun at the annual meeting of the
 
 The session is organized by the [Wendland-Cook Program in Religion and Justice](https://www.religionandjustice.org/) at Vanderbilt Divinity School and the Center and Library for the Bible and Social Justice.
 
-Speakers:
+To register for this session, click here: {% include registration-button.html link="https://vanderbilt.zoom.us/meeting/register/tJUpde-srjoqGNG5_O69G434A-xX8gvzONpW#/registration" %}
+
+**Speakers:**
 - Joerg Rieger, Vanderbilt University & Wendland-Cook Program
 - Madipoane Masenya, University of South Africa 
 - Gerald West, University of KwaZulu-Natal 
@@ -24,10 +26,9 @@ Speakers:
 - Gregory Cuellar, Austin Presbyterian Theological Seminary
 - Ched Myers, Bartimaeus Cooperative Ministries 
 
-Moderators:
+**Moderators:**
 - Ludwig Beethoven J. Noya, Vanderbilt University
 - Matthew J.M. Coomber, St. Ambrose University
 
-To register for this session, click here: {% include registration-button.html link="https://vanderbilt.zoom.us/meeting/register/tJUpde-srjoqGNG5_O69G434A-xX8gvzONpW#/registration" %}
 
-After registering, you will receive a confirmation email containing information about joining the meeting.
+

@@ -1,5 +1,6 @@
 ---
 layout: event-series
+prefix: "Seminal Books in Activist Theology"
 title: "Seminal Books in Activist Theology"
 slug: seminal-books
 tagline: "Reading and discussing books that help to galvanize faith-based consciousness in movement."

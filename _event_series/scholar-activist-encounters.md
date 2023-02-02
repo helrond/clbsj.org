@@ -1,5 +1,6 @@
 ---
 layout: event-series
+prefix: Scholar-Activist Encounter
 title: Scholar-Activist Encounters
 slug: scholar-activist-encounters
 tagline: >-

@@ -1,5 +1,6 @@
 ---
 layout: event-series
+prefix: Black August
 title: Black August
 slug: black-august
 tagline: >-

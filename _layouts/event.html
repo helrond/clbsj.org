@@ -5,7 +5,7 @@ layout: default
 {%- include event-series-by-name.html name=page.series -%}
 
 <div class="small-8 small-offset-2">
-  <h1>{% if series %}{{series.title}}: {% endif %}{{ page.title }}</h1>
+  <h1>{% if series %}{{series.prefix}}: {% endif %}{{ page.title }}</h1>
 
   {%- if series -%}
   <span class="label label-orange label-series"><a href="{{series.url}}">{{series.title}}</a></span>

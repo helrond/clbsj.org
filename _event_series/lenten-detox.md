@@ -1,5 +1,6 @@
 ---
 layout: event-series
+prefix: Lenten Bible "Detox"
 title: Lenten Bible "Detox"
 slug: lenten-detox
 tagline: >-

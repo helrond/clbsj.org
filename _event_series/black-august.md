@@ -64,9 +64,9 @@ In 2021, CLBSJ began participating in the "Black August" tradition. For five Tue
 
 In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. 
 
-Archives for both years can be viewed below. Stay tuned for plans for 2023!!
+Archives for both years can be viewed below. Stay tuned for plans for 2023!
 
-[Image by Rahim Gray; used with permission]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
+![RahimGray-Revolutionary.png]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
 
 _Image by [Rahim Gray](https://sites.tufts.edu/prisondivestment/2021/02/10/featured-artist-rahim-gray/). Used with permission._
 

@@ -61,9 +61,9 @@ leadership:
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
 
-In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. See below for the archives.
+In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. 
 
-This August, we will again convene weekly during August via Zoom to explore the resonance between our scriptural traditions and the call of Black August. This year's series will focus in on the connections between our scriptural traditions and the movement to end mass incarceration. The series will launch [on August 2 featuring Rev. Dr. Jeremy Williams](https://clbsj.org/events/2022/08/02/jeremy-williams-on-acts-16-16-40/). Other speakers will include Nyle Fort, Traci West, Nikia Smith Robert, Lukata Mjumbe, Lumumba Akinwole-Bandele, Charlene Sinclair, and others to be announced. The series will be co-hosted by Nicholas Johnson and Sherly Fabre, and Sr. Sharifa Vernice Meytung will lead a libation blessing to ground each session. Scroll down for event listings with registration links, and check this page for updates!![Image by Rahim Gray; used with permission]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
+In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. See below for the archives.[Image by Rahim Gray; used with permission]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
 
 _Image by [Rahim Gray](https://sites.tufts.edu/prisondivestment/2021/02/10/featured-artist-rahim-gray/). Used with permission._
 

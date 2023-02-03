@@ -19,17 +19,7 @@ leadership:
       Africana, postcolonial, and New Testament studies. Nick serves as the
       president of the CLBSJ Board. See full bio at        
       <https://clbsj.org/about/leadership/nicholas-a-johnson/>
-  - name: Sherly Fabre
-    description: >-
-      A Haitian-American immigrant who grew up Catholic and converted to Islam,
-      Sherly is a seasoned grassroots activist who builds capacity at local,
-      national and international levels. She is the co-chair of the boards of
-      Proyecto Faro and the Truth Telling Project, a member of the Fellowship of
-      Reconciliation National Committee, UN Representative for the International
-      Fellowship of Reconciliation, and a member of the Community of Living
-      Traditions and the Muslim Peace Fellowship. She has volunteered with
-      CLBSJ’s library team and the Muslim Peace Collection.
-  - name: Sister Sharifa Vernice Meytung
+  - name: Sr. Sharifa Vernice Meytung
     description: >-
       An African-American artist and haijin (a writer of haiku poetry), Sr.
       Sharifa is a teacher and lay religious practitioner in the Catholic and
@@ -41,6 +31,16 @@ leadership:
       Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia
       Buddhist Association. See full bio at
       <https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/>
+  - name: Sherly Fabre
+    description: >-
+      A Haitian-American immigrant who grew up Catholic and converted to Islam,
+      Sherly is a seasoned grassroots activist who builds capacity at local,
+      national and international levels. She is the co-chair of the boards of
+      Proyecto Faro and the Truth Telling Project, a member of the Fellowship of
+      Reconciliation National Committee, UN Representative for the International
+      Fellowship of Reconciliation, and a member of the Community of Living
+      Traditions and the Muslim Peace Fellowship. She has volunteered with
+      CLBSJ’s library team and the Muslim Peace Collection.
   - name: Warren Cooper
     description: >-
       A jazz musician and artistic entrepreneur from Philadelphia, Warren is the

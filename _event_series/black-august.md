@@ -60,10 +60,11 @@ leadership:
       Conscience Support Network. Amy is the Executive Director of CLBSJ. See
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
-
 In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. 
 
-In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. See below for the archives.
+In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. 
+
+Archives for both years can be viewed below. Stay tuned for plans for 2023!!
 
 [Image by Rahim Gray; used with permission]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
 

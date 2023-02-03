@@ -10,7 +10,7 @@ keywords: 'bible, activist, black'
 sort_order: 1
 published: true
 leadership:
-  - name: 'Nicholas Johnson, Series Co-Host'
+  - name: Nicholas Johnson
     description: >-
       Nick is a pastor at Raritan Valley Baptist Church, teacher of philosophy
       and religion at New Jersey City University, and a PhD candidate in New
@@ -19,7 +19,7 @@ leadership:
       Africana, postcolonial, and New Testament studies. Nick serves as the
       president of the CLBSJ Board. See full bio at        
       <https://clbsj.org/about/leadership/nicholas-a-johnson/>
-  - name: 'Sherly Fabre, Series Co-Host'
+  - name: Sherly Fabre
     description: >-
       A Haitian-American immigrant who grew up Catholic and converted to Islam,
       Sherly is a seasoned grassroots activist who builds capacity at local,

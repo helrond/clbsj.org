@@ -28,6 +28,7 @@ To register for this session, click here: {% include registration-button.html li
 - Gerald West, University of KwaZulu-Natal 
 - Monica Melanchthon, University of Divinity
 - Stacy Davis, Saint Mary’s College 
+- Brigitte Kahl, Union Theological Seminary
 - Gregory Cuellar, Austin Presbyterian Theological Seminary
 - Ched Myers, Bartimaeus Cooperative Ministries 
 

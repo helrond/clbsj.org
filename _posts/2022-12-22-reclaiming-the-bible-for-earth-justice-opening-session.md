@@ -13,4 +13,4 @@ Our opening session on February 28, 2023 will be led by CLBJS Board Member Gale 
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUud-utrj0jG9AKDqvHuYgOD63vFt4ect-Q" %}
 
-Subsequent speakers will include Miguel de la Torre, Rachel Mikva, Presian Burroughs, Jamie Waters, Brian Tipton, Crystal Hall, Brian Kolia, and more to be announced. Register for this session or check [clbsj.org/events/lenten-detox](https://clbsj.org/events/lenten-detox/) for updates!
+Subsequent speakers will include Miguel de la Torre, Rachel Mikva, Presian Burroughs, Jaime Waters, Brian Tipton, Crystal Hall, Brian Kolia, and more to be announced. Register for this session or check [clbsj.org/events/lenten-detox](https://clbsj.org/events/lenten-detox/) for updates!

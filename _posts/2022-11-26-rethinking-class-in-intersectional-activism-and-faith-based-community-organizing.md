@@ -30,7 +30,7 @@ To register for this session, click here: {% include registration-button.html li
 - Stacy Davis, Saint Mary’s College 
 - Brigitte Kahl, Union Theological Seminary
 - Gregory Cuellar, Austin Presbyterian Theological Seminary
-- Ched Myers, Bartimaeus Cooperative Ministries 
+- Ched Myers, Bartimaeus Cooperative Ministries  & CLBSJ
 
 **Moderators:**
 - Ludwig Beethoven J. Noya, Vanderbilt University

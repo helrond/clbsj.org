@@ -2,7 +2,7 @@
 date: '2023-03-21'
 category: events
 layout: event
-published: false
+published: true
 title: >-
   Interpreting Animals in the Bible -- Seeing Human and Non-Human Animals as
   Siblings in the Struggle to Survive

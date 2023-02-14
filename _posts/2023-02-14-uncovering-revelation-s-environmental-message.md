@@ -12,3 +12,5 @@ Sometimes hope-inspiring, sometimes trauma-inducing, the Book of Revelation has 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZckc--tpzgjG9fbmwTzD98Z1Y_M128zpkZn" %}
 
 Check [clbsj.org/events/lenten-detox](https://clbsj.org/events/lenten-detox/) for additional Detox sessions!
+
+**Dr. Crystal L. Hall** holds a PhD in Biblical Studies from Union Theological Seminary in New York and is a certified coach serving women in ministry. She is the author of Insights from Reading the Bible with the Poor with Fortress Press and the forthcoming From Cosmos to New Creation: An Ecological Rereading of Galatians with Rowman and Littlefield Press. Dr. Hall is a frequent speaker in churches and denominational conferences on topics including women’s leadership, LGBTQIA+ inclusion and immigration. She resides in Philadelphia with her fiancé and their cat, Lady Blue.

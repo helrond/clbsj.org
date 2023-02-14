@@ -2,7 +2,7 @@
 date: '2023-03-14'
 category: events
 layout: event
-published: false
+published: true
 title: >-
   Toward the Liberation of all Creation -- Reading Romans 8:21 in its Imperial
   Context

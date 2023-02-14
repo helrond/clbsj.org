@@ -2,7 +2,7 @@
 date: '2023-03-28'
 category: events
 layout: event
-published: false
+published: true
 title: Uncovering Revelation’s Environmental Message
 time: '7:30pm Eastern Time'
 series: lenten-detox

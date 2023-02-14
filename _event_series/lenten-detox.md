@@ -4,8 +4,9 @@ prefix: Lenten Bible "Detox"
 title: Lenten Bible "Detox"
 slug: lenten-detox
 tagline: >-
-  All are welcome on this journey to reclaim some neglected spaces in the
-  Christian scripture.
+  Each Lent, CLBSJ focuses our attention on the misuse of the Bible to promote
+  and justify violence and oppression. All are welcome on this journey of
+  healing and reclaiming.
 image_filename: LentenBibleDetox.jpg
 image_alt_text: Open Bible with highlighting and notes.
 keywords: 'bible, activist, lent, bible study'

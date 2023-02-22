@@ -16,3 +16,13 @@ sort_order: 3
 This year, the Lenten Bible Detox Series will examine the biblical roots of theologies that separate humans from the rest of creation, which have often been misused to justify environmental devastation. In solidarity with urgent movements for climate justice and biodiversity preservation, we will excavate and reclaim a biblical understanding of earth justice.
 
 People of all faiths and backgrounds are welcome to participate. We will gather each Tuesday during Lent at 4:30 Pacific Time / 7:30 Eastern Time via Zoom. Register for each session separately at the links below. You can also access archives of past years' sessions below.
+
+Many thanks to those who provided advisement to the 2023 Lenten Bible Detox Series:
+- Ched Myers
+- Dong Hyeon Jeong
+- Hugh Page
+- Jennifer Henry
+- Laurel Dykstra
+- Mitzi Smith
+- Rick Ufford-Chase
+- Sharifa Meytung

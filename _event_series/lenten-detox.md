@@ -17,12 +17,4 @@ This year, the Lenten Bible Detox Series will examine the biblical roots of theo
 
 People of all faiths and backgrounds are welcome to participate. We will gather each Tuesday during Lent at 4:30 Pacific Time / 7:30 Eastern Time via Zoom. Register for each session separately at the links below. You can also access archives of past years' sessions below.
 
-Many thanks to those who provided advisement to the 2023 Lenten Bible Detox Series:
-- Ched Myers
-- Dong Hyeon Jeong
-- Hugh Page
-- Jennifer Henry
-- Laurel Dykstra
-- Mitzi Smith
-- Rick Ufford-Chase
-- Sharifa Meytung
+Many thanks to those who provided advisement to the 2023 Lenten Bible Detox Series: Ched Myers, Dong Hyeon Jeong, Hugh Page, Jennifer Henry, Laurel Dykstra, Mitzi Smith, Rick Ufford-Chase, Sr. Sharifa Meytung

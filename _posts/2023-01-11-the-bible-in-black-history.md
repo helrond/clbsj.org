@@ -6,6 +6,7 @@ published: true
 title: The Bible as a Living Text in Black Community
 series: scholar-activist-encounters
 time: '7:30pm Eastern Time'
+vimeo_id: '795959610'
 ---
 In honor of Black History Month, CLBSJ is hosting an interactive dialogue on the role that community churches and Biblical scripture play in galvanizing social justice organizing in Black communities. The evening will feature a dialogue between New Testament scholar Rev. Dr. Eric A. Thomas and Rev. Bryan McAllister, pastor of Morris Brown African Methodist Episcopal Church in Philadelphia. The session will be hosted by CLBSJ Board Member Sr. Sharifa Vernice Meytung.
 

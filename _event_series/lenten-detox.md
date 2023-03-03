@@ -7,7 +7,7 @@ tagline: >-
   Each Lent, CLBSJ focuses our attention on the misuse of the Bible to promote
   and justify violence and oppression. All are welcome on this journey of
   healing and reclaiming.
-image_filename: Earth-Sunray.png
+image_filename: null
 image_alt_text: Open Bible with highlighting and notes.
 keywords: 'bible, activist, lent, bible study'
 published: true

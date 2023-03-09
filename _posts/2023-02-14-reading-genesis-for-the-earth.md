@@ -6,6 +6,7 @@ published: true
 title: Reading Genesis for the Earth
 time: '7:30pm Eastern Time'
 series: lenten-detox
+vimeo_id: '806071085'
 ---
 Passages in Genesis are among the core culprits in perpetuating theologies that justify the domination of humans over the environment, and over each other. Yet alternative Earth-positive readings and passages also abound. In this session, Dr. Miguel A. De La Torre and Rabbi Dr. Rachel S. Mikva will share hermeneutical perspectives that help to disarm toxic readings of texts such as [Genesis 1:26-28](https://bible.oremus.org/?ql=543410442), and draw out readings that support movements for climate justice and earth liberation.
 

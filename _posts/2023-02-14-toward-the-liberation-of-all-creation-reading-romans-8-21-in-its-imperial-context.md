@@ -8,6 +8,7 @@ title: >-
   Context
 time: '7:30pm Eastern Time'
 series: lenten-detox
+vimeo_id: '808542336'
 ---
 Is creation in a state of “bondage to decay” (Rom 8:21, NRSV), or is it “enslaved to destruction”? In this session, Dr. Presian Burroughs will show that the first and common translation, which has been so toxic to how Christians view the Earth, is fundamentally flawed. She will argue that the second translation expresses the thrust of Paul’s message to the congregations of ancient Rome even as it speaks a word of critique to the political and social powers of his day—and ours. Drawing from her recently published book, _Creation’s Slavery and Liberation: Paul’s Letter to Rome in the Face of Imperial and Industrial Agriculture,_ Dr. Burroughs will engage with the epistolary, political, and ecological contexts of [Romans 8:19-22](https://bible.oremus.org/?ql=543409855) to demonstrate that, according to Paul, it is human injustice and impiety that fuel creation’s destruction — and our actions that might also set it free. 
 

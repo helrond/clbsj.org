@@ -7,7 +7,7 @@ tagline: >-
   A deep dive into the transformative and revolutionary aspects of Black
   religion.
 keywords: 'bible, activist, black'
-sort_order: 1
+sort_order: 3
 published: true
 leadership:
   - name: Nicholas Johnson

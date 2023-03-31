@@ -8,6 +8,7 @@ title: >-
   Siblings in the Struggle to Survive
 time: '7:30pm Eastern Time'
 series: lenten-detox
+vimeo_id: '811674625'
 ---
 Too often, the traditional view of humans as “above” and “separate" from non-human animals has dominated the way we understand the Bible. In this session, Hebrew Testament Scholar Jaime Waters and New Testament Scholar Brian James Tipton will discuss ways to read scripture with an eye to disrupting “speciesism” and human domination. They will explore how hermeneutical perspectives that emphasize deep equality and the intrinsic worth of all creation can open up new understandings of texts about non-human animals.
 

@@ -15,9 +15,9 @@ sort_order: 1
 ---
 This year, the Lenten Bible Detox Series will examine the biblical roots of theologies that separate humans from the rest of creation, which have often been misused to justify environmental devastation. In solidarity with urgent movements for climate justice and biodiversity preservation, we will excavate and reclaim a biblical understanding of earth justice.
 
-People of all faiths and backgrounds are welcome to participate. We will gather each Tuesday during Lent at 4:30 Pacific Time / 7:30 Eastern Time via Zoom. Register for each session separately at the links below. [You can also download a flyer here.](https://clbsj.org/resources/LentenBibleDetox2023.pdf)
+People of all faiths and backgrounds are welcome to participate. We will gather each Tuesday during Lent at 4:30 Pacific Time / 7:30 Eastern Time via Zoom. Register for each session separately at the links below. [You can also download a flyer here.](https://clbsj.org/assets/LentenBibleDetox2023.pdf)
 
-<a href="https://clbsj.org/resources/LentenBibleDetox2023.pdf">
+<a href="https://clbsj.org/assets/LentenBibleDetox2023.pdf">
   <img alt="Lenten Bible Detox 2023 Flyer" src="/img/LentenBibleDetox2023-Flyer.jpg">
 </a>
 

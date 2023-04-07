@@ -40,7 +40,7 @@ Acknowledgement of Territory (Chief Dwaine Perry) (The Ramapough Lunaape Nation)
 
 Opening Plenary; The Work of Justice in Our Time (Jennifer Henry and Rick Ufford-Chase)  
 <a class="button tiny" href="https://www.youtube.com/watch?v=RUgp1aN07bA">Video</a>
-<a class="button tiny secondary" href="/resources/henry-plenary.pdf">Text</a>
+<a class="button tiny secondary" href="/assets/henry-plenary.pdf">Text</a>
 <a class="button tiny" href="https://www.youtube.com/watch?v=0MXdmt0gtfo">Video</a>
 
 ### Friday, October 21
@@ -61,7 +61,7 @@ The Project of Nonviolence in Islam (Rabia Harris)
 
 The Evil Eye (Jack Elliott)  
 <a class="button tiny" href="https://youtu.be/gX5R-E7MsCU">Video</a>
-<a class="button tiny secondary" href="/resources/elliott-evil-eye.pdf">Text</a>
+<a class="button tiny secondary" href="/assets/elliott-evil-eye.pdf">Text</a>
 
 Abusing the Bible: The Case of Deuteronomy 15 (Norman Gottwald)
 

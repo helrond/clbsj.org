@@ -9,4 +9,4 @@ title: Annual Report for 2021
 
 If you feel so moved, please consider sharing this with a handful of like-minded folks and inviting them to get involved!
 
-[2021 CLBSJ Annual Report](/resources/CLBSJ-AnnualReport2021.pdf)
+[2021 CLBSJ Annual Report](/assets/CLBSJ-AnnualReport2021.pdf)

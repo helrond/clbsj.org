@@ -34,7 +34,7 @@ Dr. Jones-Nelson completed her Ph.D. in Divinity at the University of St. Andrew
 
 Dr. R. Douglas Bendall is the founder and president of <a href="http://www.newarkschooloftheology.org/">The Newark School of Theology</a>, Newark, New Jersey, which promotes social justice and the development of congregations by providing educational opportunities to students in low income communities.
 
-If you're interested in helping us publicize this event, feel free to download and print out our flyer here, as well! [CLBSJ Autumn Seminar](/resources/flyer-CLBSJ-Autumn-Seminar-Update.pdf)
+If you're interested in helping us publicize this event, feel free to download and print out our flyer here, as well! [CLBSJ Autumn Seminar](/assets/flyer-CLBSJ-Autumn-Seminar-Update.pdf)
 
 This event is co-sponsored by
 

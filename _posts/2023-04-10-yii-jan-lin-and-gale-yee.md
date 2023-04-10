@@ -1,5 +1,5 @@
 ---
-date: 'May 18, 2023'
+date: '2023-05-18'
 category: events
 layout: event
 published: false

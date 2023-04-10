@@ -2,7 +2,7 @@
 date: '2023-05-18'
 category: events
 layout: event
-published: false
+published: true
 title: Yii-Jan Lin and Gale Yee
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters

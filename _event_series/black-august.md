@@ -19,6 +19,17 @@ leadership:
       Africana, postcolonial, and New Testament studies. Nick serves as the
       president of the CLBSJ Board. See full bio at        
       <https://clbsj.org/about/leadership/nicholas-a-johnson/>
+  - name: Hugh Page
+    description: >-
+      Hugh R. Page, Jr. is Professor of Theology and Africana Studies
+      and Vice President and Associate Provost at the University of Notre
+      Dame. His research interests include early Hebrew poetry, Africana
+      biblical interpretation, the role of mysticism and esotericism in
+      Anglican and Africana spiritualities, and the Blues aesthetic. He is an
+      elected member of the Society for the Study of Black Religion (SSBR), a
+      Research Associate of Human Relations Area Files (HRAF) at Yale
+      University, and a member of the CLBSJ Board. See full bio at
+      <https://clbsj.org/about/leadership/hugh-r-page/>
   - name: Sr. Sharifa Vernice Meytung
     description: >-
       An African-American artist and haijin (a writer of haiku poetry), Sr.

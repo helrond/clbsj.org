@@ -6,6 +6,7 @@ published: true
 title: Yii-Jan Lin and Gale Yee
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
+vimeo_id: '828789050'
 ---
 In honor of Asian American and Pacific Islander (AAPI) Heritage Month, our May Scholar-Activist Encounter will feature Dr. Yii-Jan Lin in dialogue with Dr. Gale Yee. They will discuss Dr. Lin’s recent effort to innovate a way of engaging with biblical texts that responds to the needs of anti-racism movements today. Her "writing" of [Hebrews 11:1–12:2](https://bible.oremus.org/?ql=548882538) draws from her research into the themes of lineage, ancestors, migration, faith, and rest in a promised land which are embedded into the original text, and weaves them together with contemporary historical data. The result is a creative _poiesis_ that exposes and speaks into the long history and current wave of anti-Asian hate, erasure, and violence. Dr. Lin and Dr. Yee will explore the motives for and implications of this project for faith and activist communities. 
 

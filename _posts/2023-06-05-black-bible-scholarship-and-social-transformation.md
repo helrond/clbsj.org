@@ -1,9 +1,11 @@
 ---
-date: '2023-06-05 17:20 -0400'
-category: news
-layout: news-item
-published: false
+date: '2023-08-03'
+category: events
+layout: event
+published: true
 title: Black Bible Scholarship and Social Transformation
+time: '7:30pm Eastern Time'
+series: black-august
 ---
 This year's Black August series will be focused on how the experiences of struggle to overcome racism, slavery and mass incarceration have informed Black/Africana biblical interpretation, and how Black scholars are using that understanding to reshape the field of biblical scholarship. 
 

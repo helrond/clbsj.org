@@ -75,7 +75,9 @@ In 2021, CLBSJ began participating in the "Black August" tradition. For five eve
 
 In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. 
 
-Archives for both years can be viewed below. Stay tuned for plans for 2023!
+Archives for both years can be viewed below. 
+
+This year, Black August sessions will take place on Thursday evenings. [Register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
 
 ![RahimGray-Revolutionary.png]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
 

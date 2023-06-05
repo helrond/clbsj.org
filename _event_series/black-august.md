@@ -21,14 +21,14 @@ leadership:
       <https://clbsj.org/about/leadership/nicholas-a-johnson/>
   - name: Hugh Page
     description: >-
-      Hugh R. Page, Jr. is Professor of Theology and Africana Studies
-      and Vice President and Associate Provost at the University of Notre
-      Dame. His research interests include early Hebrew poetry, Africana
-      biblical interpretation, the role of mysticism and esotericism in
-      Anglican and Africana spiritualities, and the Blues aesthetic. He is an
-      elected member of the Society for the Study of Black Religion (SSBR), a
-      Research Associate of Human Relations Area Files (HRAF) at Yale
-      University, and a member of the CLBSJ Board. See full bio at
+      Hugh R. Page, Jr. is Professor of Theology and Africana Studies and Vice
+      President and Associate Provost at the University of Notre Dame. His
+      research interests include early Hebrew poetry, Africana biblical
+      interpretation, the role of mysticism and esotericism in Anglican and
+      Africana spiritualities, and the Blues aesthetic. He is an elected member
+      of the Society for the Study of Black Religion (SSBR), a Research
+      Associate of Human Relations Area Files (HRAF) at Yale University, and a
+      member of the CLBSJ Board. See full bio at
       <https://clbsj.org/about/leadership/hugh-r-page/>
   - name: Sr. Sharifa Vernice Meytung
     description: >-
@@ -71,7 +71,7 @@ leadership:
       Conscience Support Network. Amy is the Executive Director of CLBSJ. See
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
-In 2021, CLBSJ began participating in the "Black August" tradition. For five Tuesday evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. 
+In 2021, CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. 
 
 In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. 
 

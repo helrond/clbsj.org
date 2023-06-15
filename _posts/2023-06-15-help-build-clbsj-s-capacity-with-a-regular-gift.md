@@ -2,7 +2,7 @@
 date: '2023-06-15 11:39 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: Help build CLBSJ's capacity with a regular gift!
 ---
 **From Rev. Betsy Simpson, CLBSJ Board Co-Secretary:**

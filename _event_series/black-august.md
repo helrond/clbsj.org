@@ -62,6 +62,16 @@ leadership:
       Community of Living Traditions and an Ordained Ruling Elder and Minister
       of Music in the Presbyterian Church USA. He works with CLBSJ as a media
       consultant.
+  - name: Angela Parker
+     description: >-
+      Dr. Angela N. Parker is assistant professor of New Testament and Greek
+      at McAfee. She received her B.A. in religion and philosophy from Shaw
+      University, her M.T.S. from Duke Divinity School and her Ph.D. in Bible,
+      culture, and hermeneutics (New Testament focus) from Chicago Theological
+      Seminary. She teaches courses in New Testament, Greek Exegesis, the
+      Gospel of Mark, the Corinthians Correspondence, the Gospel of John, and
+      Womanist and Feminist Hermeneutics unto preaching. Read full bio at
+      <https://theology.mercer.edu/faculty-and-staff/parker/>
   - name: Amy Dalton
     description: >-
       Amy has been active in peace and justice organizing since age 13. She

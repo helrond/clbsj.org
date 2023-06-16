@@ -63,7 +63,7 @@ leadership:
       of Music in the Presbyterian Church USA. He works with CLBSJ as a media
       consultant.
   - name: Angela Parker
-     description: >-
+    description: >-
       Dr. Angela N. Parker is assistant professor of New Testament and Greek
       at McAfee. She received her B.A. in religion and philosophy from Shaw
       University, her M.T.S. from Duke Divinity School and her Ph.D. in Bible,

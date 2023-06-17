@@ -72,6 +72,17 @@ leadership:
       Gospel of Mark, the Corinthians Correspondence, the Gospel of John, and
       Womanist and Feminist Hermeneutics unto preaching. Read full bio at
       <https://theology.mercer.edu/faculty-and-staff/parker/>
+  - name: Carolyn Grice
+    description: >-
+      Rev. Dr. Carolyn Grice is a retired teacher, veteran union leader,
+      community activist and Presbyterian leader in Omaha, Nebraska. She
+      serves as chair of the Presbytery of Missouri River Valley’s Social
+      Justice and Peacemaking Committee, and the Self Development of People
+      Committee. She also serves on the Mission and Evangelism Committee and
+      presbytery’s Leadership Team. Carolyn earned her M-Div from University
+      of Dubuque Theological Seminary, her D-Ed from the University of
+      Nebraska at Omaha, and certificates in Community Organizing and Public
+      Theology from the Johnson C. Smith Theological Seminary.
   - name: Amy Dalton
     description: >-
       Amy has been active in peace and justice organizing since age 13. She

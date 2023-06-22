@@ -64,25 +64,25 @@ leadership:
       consultant.
   - name: Angela Parker
     description: >-
-      Dr. Angela N. Parker is assistant professor of New Testament and Greek
-      at McAfee. She received her B.A. in religion and philosophy from Shaw
+      Dr. Angela N. Parker is assistant professor of New Testament and Greek at
+      McAfee. She received her B.A. in religion and philosophy from Shaw
       University, her M.T.S. from Duke Divinity School and her Ph.D. in Bible,
       culture, and hermeneutics (New Testament focus) from Chicago Theological
-      Seminary. She teaches courses in New Testament, Greek Exegesis, the
-      Gospel of Mark, the Corinthians Correspondence, the Gospel of John, and
-      Womanist and Feminist Hermeneutics unto preaching. Read full bio at
+      Seminary. She teaches courses in New Testament, Greek Exegesis, the Gospel
+      of Mark, the Corinthians Correspondence, the Gospel of John, and Womanist
+      and Feminist Hermeneutics unto preaching. Read full bio at
       <https://theology.mercer.edu/faculty-and-staff/parker/>
   - name: Carolyn Grice
     description: >-
       Rev. Dr. Carolyn Grice is a retired teacher, veteran union leader,
-      community activist and Presbyterian leader in Omaha, Nebraska. She
-      serves as chair of the Presbytery of Missouri River Valley’s Social
-      Justice and Peacemaking Committee, and the Self Development of People
-      Committee. She also serves on the Mission and Evangelism Committee and
-      presbytery’s Leadership Team. Carolyn earned her M-Div from University
-      of Dubuque Theological Seminary, her D-Ed from the University of
-      Nebraska at Omaha, and certificates in Community Organizing and Public
-      Theology from the Johnson C. Smith Theological Seminary.
+      community activist and Presbyterian leader in Omaha, Nebraska. She serves
+      as chair of the Presbytery of Missouri River Valley’s Social Justice and
+      Peacemaking Committee, and the Self Development of People Committee. She
+      also serves on the Mission and Evangelism Committee and presbytery’s
+      Leadership Team. Carolyn earned her M-Div from University of Dubuque
+      Theological Seminary, her D-Ed from the University of Nebraska at Omaha,
+      and certificates in Community Organizing and Public Theology from the
+      Johnson C. Smith Theological Seminary.
   - name: Amy Dalton
     description: >-
       Amy has been active in peace and justice organizing since age 13. She
@@ -92,13 +92,9 @@ leadership:
       Conscience Support Network. Amy is the Executive Director of CLBSJ. See
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
-In 2021, CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. 
+In 2021, CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and Black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. Archives for both years can be viewed below. 
 
-In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. 
-
-Archives for both years can be viewed below. 
-
-This year, Black August sessions will take place on Thursday evenings. [Register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
+This year, Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. [Register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
 
 ![RahimGray-Revolutionary.png]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
 

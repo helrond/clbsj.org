@@ -4,9 +4,9 @@ category: news
 layout: news-item
 published: true
 title: Help build CLBSJ's capacity with a regular gift!
+image_filename: Betsy-CityLights crop.jpeg
 ---
 **From Rev. Betsy Simpson, CLBSJ Board Co-Secretary:**
-
 Dear friends,
 
 I'm so grateful that you are with me on this journey of reclaiming the Bible for justice. Today, I want to ask if you would consider [joining me in making a monthly or quarterly gift](https://clbsj.org/donate/) to sustain CLBSJ's ministry for the long haul?

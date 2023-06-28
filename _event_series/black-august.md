@@ -6,7 +6,10 @@ slug: black-august
 tagline: >-
   A deep dive into the transformative and revolutionary aspects of Black
   religion.
-keywords: 'bible, activist, black'
+keywords:
+  - bible
+  - activist
+  - black
 sort_order: 3
 published: true
 leadership:
@@ -91,6 +94,8 @@ leadership:
       Proyecto Faro, and on the Research Team of the Ambazonia Prisoners of
       Conscience Support Network. Amy is the Executive Director of CLBSJ. See
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
+image_alt_text: Black August series thumbnail
+image_filename: blackaugust2023.png
 ---
 In 2021, as a way to act on our [Statement of Solidarity with Black Lives Matter Uprisings](https://clbsj.org/news/2020/07/13/statement-of-solidarity-with-black-lives-matter-uprisings/), CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and Black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. Archives for both years can be accessed below. 
 

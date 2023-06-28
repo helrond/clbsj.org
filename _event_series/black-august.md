@@ -92,13 +92,10 @@ leadership:
       Conscience Support Network. Amy is the Executive Director of CLBSJ. See
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 ---
+![blackaugust2023.png]({{site.baseurl}}/img/blackaugust2023.png)
 In 2021, as a way to act on our [Statement of Solidarity with Black Lives Matter Uprisings](https://clbsj.org/news/2020/07/13/statement-of-solidarity-with-black-lives-matter-uprisings/), CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and Black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. Archives for both years can be accessed below. 
 
 This year, CLBSJ's Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. [Register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
-
-![RahimGray-Revolutionary.png]({{site.baseurl}}/img/RahimGray-Revolutionary.png)
-
-_Image by [Rahim Gray](https://sites.tufts.edu/prisondivestment/2021/02/10/featured-artist-rahim-gray/). Used with permission._
 
 ## What is Black August?
 “Black August” is a pan-African and internationalist tradition that recognizes the month of August as a living testament of the depth of commitment to transformation and liberation within Black communities around the world. From the beginning of the Haitian Revolution to the Nat Turner Rebellion; from the Fugitive Slave Law Convention and the foundation of the Underground Railroad to the March on Washington; from the uprising in Watts (1965) to the Uprising in Ferguson (2014); from the births of Marcus Garvey, Russell Maroon Shoatz, and Fred Hampton to the deaths of Emmett Till, W.E.B du Bois and Michael Brown — August bursts at the seams with histories of Black resistance. Because of this, organizers have claimed it as a month to deepen understanding of and commitment to the practices that lead us to liberation. CLBSJ is honored to unite with this tradition.

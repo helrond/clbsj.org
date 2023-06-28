@@ -27,6 +27,59 @@ prose :
     'gulpfile.js', 'package.json', 'package-lock.json', 'robots.txt']
   media: img
   metadata:
+    _event_series:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "event-series"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+        label: "Title"
+      - name: "prefix"
+        field:
+          element: "text"
+          label: "prefix"
+        label: "Prefix"
+      - name: "image_filename"
+        field:
+            element: "text"
+            label: "Image filename"
+            help: "The filename of an image associated with this page, without the leading /img/ directory"
+      - name: "image_alt_text"
+        field:
+            element: "text"
+            label: "Image Alt Text"
+            help: "A human-readable description of the image"
+      - name: "slug"
+        field:
+          element: "text"
+          label: "slug"
+        label: "Slug"
+      - name: "tagline"
+        field:
+          element: "text"
+          label: "tagline"
+        label: "tagline"
+      - name: "keywords"
+        field:
+          element: "multiselect"
+          alterable: true
+          options:
+            - name: "Bible"
+              value: "bible"
+            - name: "Justice"
+              value: "justice"
+            - name: "Library"
+              value: "library"
+          label: "Keywords"
+          help: "Add relevant tags"
+      - name: "sort_order"
+        field:
+          element: "number"
+          label: "sort_order"
+        label: "Sort Order"
     _posts:
       - name: "title"
         field:

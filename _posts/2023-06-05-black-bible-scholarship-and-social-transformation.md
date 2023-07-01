@@ -8,7 +8,7 @@ time: '7:30pm Eastern Time'
 series: black-august
 image_filename: BlackScholarsMatter.jpeg
 ---
-This year's Black August series will focus on how the experiences of struggle to overcome racism, slavery and mass incarceration have informed Black/Africana biblical interpretation, and how Black scholars are using the understanding embedded in these experiences to reshape the field of biblical scholarship. Speakers include Rodney Sadler, Shively T.J. Smith and Ronald Charles, with more to be announced.
+This year's Black August series will focus on how the experiences of struggle to overcome racism, slavery and mass incarceration have informed Black/Africana biblical interpretation, and how Black scholars are using the understanding embedded in these experiences to reshape the field of biblical scholarship. Speakers include Rodney Sadler, Shively T.J. Smith, Ronald Charles, Renita Weems and Madeline McClenney.
 
 As part of this journey, we will engage with selections from the books _Black Scholars Matter: Visions, Struggles, and Hopes in Africana Biblical Studies_ and _Bitter the Chastening Rod: Africana Biblical Interpretation after Stony the Road We Trod in the Age of BLM, SayHerName, and MeToo_.
 

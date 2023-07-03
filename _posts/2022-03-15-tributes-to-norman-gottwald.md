@@ -24,16 +24,6 @@ _**Image:** Norman Gottwald reads from the Song of Deborah during his [scholar-a
 
 **Legacy Gifts:** We invite you to help us carry forward the vision Norman's vision for linking biblical scholarship and movement building by donating to the **Norman Gottwald Memorial Fund**. For details visit [clbsj.org/donate](https://clbsj.org/donate/).
 
-## Archives:
-
-### CLBSJ Events:
-- May 20, 2021 — Scholar-Activist Encounters: [Rabbi Michael Feinberg and Dr. Norman Gottwald](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/ )
-- February 25, 2021 — Lenten Bible "Detox": [Study of Deuteronomy 15 led by Norman Gottwald](https://clbsj.org/events/2021/02/25/lenten-detox-norman-gottwald/)
-- September 13, 2018 — [Seminal Books in Activist Theology: Norman Gottwald's Tribes of Yahweh](https://clbsj.org/events/2018/09/13/norman-gottwalds-tribes-of-yahweh/)
-
-### Other Audio-Video Archives:
-- July 11, 2011 — The Mid-Coast Forum on Foreign Relations: Ancient Israel's Anti-Imperialist Origins: Analogies for Today? [www.midcoastforum.org/speakers/norman-k-gottwald](https://www.midcoastforum.org/speakers/norman-k-gottwald)
-
 ## Obituary
 
 Rev. Dr. Norman Karol Gottwald, renowned pioneer in the use of the social-scientific method in biblical studies, passed away peacefully at his home surrounded by his family on March 11, 2022. He was 95.
@@ -157,3 +147,13 @@ Norman also spent time sharing with our community about how being a Hebrew Bible
 Norman was deeply troubled by the rise of fundamentalist white Christian nationalism, and the explicit antisemitism and racism that are its component parts. He was constantly pushing CLBSJ to undertake rigorous and disciplined work to expose and counter its theological and exegetical deficits. He felt a deep and strong sense of duty to be proactive on this front. CLBSJ's Lenten Bible Detox Series was animated in part by Norman's vision for making space to push back against right wing use of the Bible to promote racism, militarism and authoritarianism, and he led our second detox session in 2021 with a study on Deuteronomy 15.
 
 I am continually grateful, humbled and inspired to all the work, ideas and passion that Norman bequeathed to CLBSJ. He once described CLBSJ as a "think tank" to empower creative and participatory work to reclaim the Bible, a vision that I resonate with and take as a challenge. My prayer is that his passing helps to galvanize interest in and commitment to this vision.
+
+## Archives:
+
+### CLBSJ Events:
+- May 20, 2021 — Scholar-Activist Encounters: [Rabbi Michael Feinberg and Dr. Norman Gottwald](https://clbsj.org/events/2021/05/20/scholar-activist-encounter-rabbi-michael-feinberg-and-dr-norman-gottwald/ )
+- February 25, 2021 — Lenten Bible "Detox": [Study of Deuteronomy 15 led by Norman Gottwald](https://clbsj.org/events/2021/02/25/lenten-detox-norman-gottwald/)
+- September 13, 2018 — [Seminal Books in Activist Theology: Norman Gottwald's Tribes of Yahweh](https://clbsj.org/events/2018/09/13/norman-gottwalds-tribes-of-yahweh/)
+
+### Other Audio-Video Archives:
+- July 11, 2011 — The Mid-Coast Forum on Foreign Relations: Ancient Israel's Anti-Imperialist Origins: Analogies for Today? [www.midcoastforum.org/speakers/norman-k-gottwald](https://www.midcoastforum.org/speakers/norman-k-gottwald)

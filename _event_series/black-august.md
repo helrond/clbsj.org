@@ -97,7 +97,7 @@ leadership:
 image_alt_text: Black August series thumbnail
 image_filename: blackaugust2023.png
 ---
-CLBSJ's 2023 Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. Below is a listing for each session's speakers and themes. Click on the link for more detail and to access the link to regsiter, and/or [register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
+CLBSJ's 2023 Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. Below is a listing for each session's speakers and themes. Click on the link for more detail and to access the link to regsiter, and/or **[register for the opening session to receive updates on the entire series](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/).**
 
 - August 3: [Rodney Sadler on Human Bondage, Resistance to Slavery and Biblical Understanding](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
 - August 10: [Ronald Charles on Decolonizing the Bible](https://clbsj.org/events/2023/08/10/ronald-charles-on-decolonizing-the-bible/)

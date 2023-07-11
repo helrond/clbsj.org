@@ -6,7 +6,6 @@ published: true
 title: 'Rodney Sadler: Human Bondage, Resistance to Slavery and Biblical Understanding'
 time: '7:30pm Eastern Time'
 series: black-august
-image_filename: BlackScholarsMatter.jpeg
 ---
 Co-author of _The Genesis of Liberation: Biblical Interpretation in the Antebellum Narratives of the Enslaved_, Dr. Rodney Sadler will give an overview of recent efforts to recover the early history of Black biblical interpretation, and comment on how these enslaved interpreters have contributed to contemporary biblical understanding. In particular, he will speak to how "freedom hermeneutics" can inform our efforts to dismantle whiteness and to develop anti-racist understandings of the Bible as a whole, as well as biblical traditions such as the Sabbath.
 

@@ -97,16 +97,20 @@ leadership:
 image_alt_text: Black August series thumbnail
 image_filename: blackaugust2023.png
 ---
+CLBSJ's 2023 Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. Below is a listing for each session's speakers and themes. Click on the link for more detail and to access the link to regsiter, and/or [register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
+
+- August 3: [Rodney Sadler on Human Bondage, Resistance to Slavery and Biblical Understanding](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
+- August 10: [Ronald Charles on Decolonizing the Bible](https://clbsj.org/events/2023/08/10/ronald-charles-on-decolonizing-the-bible/)
+- August 17: [Shively T.J. Smith on Anti-Racist Biblical Interpretation](https://clbsj.org/events/2023/08/17/shively-t-j-smith-on-anti-racist-biblical-interpretation/)
+- August 24: [Renita Weems on Womanist Biblical Interpretation](https://clbsj.org/events/2023/08/24/renita-weems-on-womanist-biblical-interpretation/)
+- August 31: [Madeline McClenney on the Biblical Imperative to Abolish Mass Incarceration](https://clbsj.org/events/2023/08/31/madeline-mcclenney-on-the-biblical-imperative-to-abolish-mass-incarceration/)
+
+As part of this journey, we will engage with selections from the books [_Black Scholars Matter: Visions, Struggles, and Hopes in Africana Biblical Studies_](https://cart.sbl-site.org/books/0603112P) and [_Bitter the Chastening Rod: Africana Biblical Interpretation after Stony the Road We Trod in the Age of BLM, SayHerName, and MeToo_](https://www.amazon.com/Bitter-Chastening-Rod-Interpretation-SayHerName/dp/1978712006), as well as other materials.
+
+This year's series is being curated by Hugh Page (co-editor of _Black Scholars Matter_) and Angela Parker (co-editor of _Bitter the Chastening Rod_), along with Nicholas Johnson, Sr. Sharifa Vernice Meytung, Sherly Fabre, Warren Cooper, Carolyn Grice and Amy Dalton. Bios are available at [clbsj.org/events/black-august/](https://clbsj.org/events/black-august/). We are grateful for the co-sponsorship of [Johnson C. Smith Theological Seminary](https://www.jcsts.org/) and the [Community of Living Traditions](https://www.facebook.com/CLTMultifaith/).
+
+## Black August Series History
 In 2021, as a way to act on our [Statement of Solidarity with Black Lives Matter Uprisings](https://clbsj.org/news/2020/07/13/statement-of-solidarity-with-black-lives-matter-uprisings/), CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and Black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. Archives for both years can be accessed below. 
-
-This year, CLBSJ's Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. Our speaker lineup is as follows:
-- August 3: [Rodney Sadler](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
-- August 10: Ronald Charles
-- August 17: Shively T.J. Smith
-- August 24: Renita Weems
-- August 31: Madeline McClenney
-
-Check back for links to register, and/or [register for the opening session to receive updates on the entire series.](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
 
 ## What is Black August?
 “Black August” is a pan-African and internationalist tradition that recognizes the month of August as a living testament of the depth of commitment to transformation and liberation within Black communities around the world. From the beginning of the Haitian Revolution to the Nat Turner Rebellion; from the Fugitive Slave Law Convention and the foundation of the Underground Railroad to the March on Washington; from the uprising in Watts (1965) to the Uprising in Ferguson (2014); from the births of Marcus Garvey, Russell Maroon Shoatz, and Fred Hampton to the deaths of Emmett Till, W.E.B du Bois and Michael Brown — August bursts at the seams with histories of Black resistance. Because of this, organizers have claimed it as a month to deepen understanding of and commitment to the practices that lead us to liberation. CLBSJ is honored to unite with this tradition.

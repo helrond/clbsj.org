@@ -6,9 +6,10 @@ published: true
 title: Shively T.J. Smith on Anti-Racist Biblical Interpretation
 series: black-august
 time: '7:30pm Eastern Time'
+image_filename: ShivelySmith.jpeg
 ---
-Anti-Racist Biblical Interpretation:
-How Activists, Allies and Colleagues can Connect with and Amplify the Work of Black Biblical Scholars
+**Anti-Racist Biblical Interpretation:
+How Activists, Allies and Colleagues can Connect with and Amplify the Work of Black Biblical Scholars**
 
 Drawing from her article,  "Preliminary Thoughts: The Hermeneutical Dilemmas of the Allies, Colleagues and Guild of African American Biblical Scholar-Teachers," published in Black Scholars Matter, Dr. Shively Smith will outline a set of principles by which those working to end racism can participate in the transformation of biblical understanding that Black/Africana biblical scholars are striving to animate. She will give examples of the application of these principles, drawing from her own research and engagement with historical and contemporary anti-racism organizing.
 

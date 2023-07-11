@@ -1,9 +1,11 @@
 ---
-date: '2023-07-11 11:02 -0400'
-category: news
-layout: news-item
-published: false
+date: '2023-08-24'
+category: events
+layout: event
+published: true
 title: Renita Weems on Womanist Biblical Interpretation
+time: '7:30pm Eastern Time'
+series: black-august
 ---
 Womanist Biblical Interpretation:
 Exposing Whiteness, Critiquing Harmful Texts, Transforming the Conversation

@@ -6,9 +6,10 @@ published: true
 title: Ronald Charles on Decolonizing the Bible
 time: '7:30pm Eastern Time'
 series: black-august
+image_filename: RonaldCharles.jpeg
 ---
-Decolonizing the Bible:
-How Haiti’s language, culture and revolutionary legacy can inform a decolonial biblical understanding
+**Decolonizing the Bible:
+How Haiti’s language, culture and revolutionary legacy can inform a decolonial biblical understanding**
 
 Drawing from his articles, “Moving In Between Places and Academic Disciplines” (BSM) and “Reading Romans in Greek: Translating and Commenting on it in Haitian Creole” (BTCR), Dr. Ronald Charles will share about his quest to forge biblical scholarship that speaks generativeley into the lives of struggling communities in Haiti and the Haitian diaspora. In specific, he will discuss the ways that translation, both between languages and contexts, can either be mobilized toward silencing and conformity, or toward decolonization and solidarity.
 

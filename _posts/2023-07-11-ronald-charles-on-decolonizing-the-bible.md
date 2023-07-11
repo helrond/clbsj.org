@@ -1,9 +1,11 @@
 ---
-date: '2023-07-11 10:57 -0400'
-category: news
-layout: news-item
-published: false
+date: '2023-08-10'
+category: events
+layout: event
+published: true
 title: Ronald Charles on Decolonizing the Bible
+time: '7:30pm Eastern Time'
+series: black-august
 ---
 Decolonizing the Bible:
 How Haiti’s language, culture and revolutionary legacy can inform a decolonial biblical understanding

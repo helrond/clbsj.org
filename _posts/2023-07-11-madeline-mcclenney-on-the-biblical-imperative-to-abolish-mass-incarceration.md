@@ -1,14 +1,16 @@
 ---
-date: '2023-07-11 11:04 -0400'
-category: news
-layout: news-item
-published: false
+date: '2023-08-31'
+category: events
+layout: event
+published: true
 title: Madeline McClenney on the Biblical Imperative to Abolish Mass Incarceration
+time: '7:30pm Eastern Time'
+series: black-august
 ---
 The Biblical Imperative to Abolish Mass Incarceration:
 Why We Must Seek Mass Clemency or Stop Preaching the Gospel
 
-
+President and founder of [ExodusFoundation.Org](https://exodusfoundation.org/), Rev. Dr. Madeline McClenney will explore what the Exodus tradition, the Gospel of Jesus Christ, and other biblical stories have to say to us in this age of racialized criminalization and mass incarceration. Dr. McClenney has been tireless in working to integrate her training as a Hebrew Testament scholar with her work for fundamental system change. She will share about how she is doing that, and how we can support and participate in it. 
 
 {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUofuivqTMqE9AcxB_6lWeB7jirbkMWT5y2#/registration" %}
 

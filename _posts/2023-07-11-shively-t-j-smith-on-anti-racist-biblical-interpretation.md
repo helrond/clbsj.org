@@ -1,9 +1,10 @@
 ---
-date: '2023-07-11 11:00 -0400'
-category: news
-layout: news-item
-published: false
+date: '2023-08-17'
+category: events
+layout: event
+published: true
 title: Shively T.J. Smith on Anti-Racist Biblical Interpretation
+series: black-august
 ---
 Anti-Racist Biblical Interpretation:
 How Activists, Allies and Colleagues can Connect with and Amplify the Work of Black Biblical Scholars

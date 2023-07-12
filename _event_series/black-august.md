@@ -3,9 +3,6 @@ layout: event-series
 prefix: Black August
 title: Black August Series
 slug: black-august
-tagline: >-
-  A deep dive into the transformative and revolutionary aspects of Black
-  religion.
 keywords:
   - bible
   - activist

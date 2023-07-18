@@ -11,7 +11,7 @@ series: black-august
 image_filename: RodneySadler.jpeg
 ---
 **Starting At the Roots:
-Human Bondage, Resistance to Slavery and Biblical Understanding**
+Slavery, Resistance and Biblical Understanding**
 
 Co-author of [_The Genesis of Liberation: Biblical Interpretation in the Antebellum Narratives of the Enslaved_](https://www.wjkbooks.com/Products/0664230539/the-genesis-of-liberation.aspx), Dr. Rodney Sadler will explore with us how enslavement era biblical interpreters helped shape contemporary biblical interpretation. In particular, he will speak to how these "freedom hermeneutics" can inform our efforts to dismantle whiteness and to develop anti-racist understandings of the Bible as a whole, as well as biblical traditions such as the Sabbath.
 

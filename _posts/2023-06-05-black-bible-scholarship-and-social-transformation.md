@@ -3,9 +3,7 @@ date: '2023-08-03'
 category: events
 layout: event
 published: true
-title: >-
-  Rodney Sadler on Human Bondage, Resistance to Slavery and Biblical
-  Understanding
+title: 'Rodney Sadler on Slavery, Resistance and Biblical Understanding'
 time: '7:30pm Eastern Time'
 series: black-august
 image_filename: RodneySadler.jpeg

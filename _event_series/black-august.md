@@ -98,13 +98,13 @@ _**A deep dive into the transformative and revolutionary aspects of Black religi
 
 CLBSJ's 2023 Black August sessions will explore the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship. We will convene on Thursday evenings, starting on August 3, 2023. Below is a listing for each session's speakers and themes. Click on the links for more details on each session, and/or **[register for the opening session to receive updates on the entire series](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/).**
 
-- **August 3:** [Rodney Sadler on Human Bondage, Resistance to Slavery and Biblical Understanding](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
+- **August 3:** [Rodney Sadler on Slavery, Resistance and Biblical Understanding](https://clbsj.org/events/2023/08/03/black-bible-scholarship-and-social-transformation/)
 - **August 10:** [Ronald Charles on Decolonizing the Bible](https://clbsj.org/events/2023/08/10/ronald-charles-on-decolonizing-the-bible/)
 - **August 17:** [Shively T.J. Smith on Anti-Racist Biblical Interpretation](https://clbsj.org/events/2023/08/17/shively-t-j-smith-on-anti-racist-biblical-interpretation/)
 - **August 24:** [Renita Weems on Womanist Biblical Interpretation](https://clbsj.org/events/2023/08/24/renita-weems-on-womanist-biblical-interpretation/)
 - **August 31:** [Madeline McClenney on the Biblical Imperative to Abolish Mass Incarceration](https://clbsj.org/events/2023/08/31/madeline-mcclenney-on-the-biblical-imperative-to-abolish-mass-incarceration/)
 
-As part of this journey, we will engage with selections from the books [_Black Scholars Matter: Visions, Struggles, and Hopes in Africana Biblical Studies_](https://cart.sbl-site.org/books/0603112P) and [_Bitter the Chastening Rod: Africana Biblical Interpretation after Stony the Road We Trod in the Age of BLM, SayHerName, and MeToo_](https://www.amazon.com/Bitter-Chastening-Rod-Interpretation-SayHerName/dp/1978712006), as well as other materials.
+As part of this journey, we will engage with selections from the books [_Black Scholars Matter: Visions, Struggles, and Hopes in Africana Biblical Studies_](https://cart.sbl-site.org/books/0603112P) and [_Bitter the Chastening Rod: Africana Biblical Interpretation after Stony the Road We Trod in the Age of BLM, SayHerName, and MeToo_](https://rowman.com/ISBN/9781978712010/Bitter-the-Chastening-Rod-Africana-Biblical-Interpretation-after-Stony-the-Road-We-Trod-in-the-Age-of-BLM-SayHerName-and-MeToo), as well as other materials.
 
 This year's series is being curated by Hugh Page (co-editor of _Black Scholars Matter_) and Angela Parker (co-editor of _Bitter the Chastening Rod_), along with Nicholas Johnson, Sr. Sharifa Vernice Meytung, Sherly Fabre, Warren Cooper, Carolyn Grice and Amy Dalton (scroll down for bios). We are grateful for the co-sponsorship of [Johnson C. Smith Theological Seminary](https://www.jcsts.org/) and the [Community of Living Traditions](https://www.facebook.com/CLTMultifaith/).
 

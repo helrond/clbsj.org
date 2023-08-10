@@ -46,12 +46,12 @@ leadership:
     description: >-
       A Haitian-American immigrant who grew up Catholic and converted to Islam,
       Sherly is a seasoned grassroots activist who builds capacity at local,
-      national and international levels. She is the co-chair of the boards of
-      Proyecto Faro and the Truth Telling Project, a member of the Fellowship of
-      Reconciliation National Committee, UN Representative for the International
-      Fellowship of Reconciliation, and a member of the Community of Living
-      Traditions and the Muslim Peace Fellowship. She has volunteered with
-      CLBSJ’s library team and the Muslim Peace Collection.
+      national and international levels. She is a member of the Fellowship of
+      Reconciliation National Committee and UN Representative for the
+      International Fellowship of Reconciliation. She is also a member of the
+      Community of Living Traditions, and has served on the boards of the Truth
+      Telling Project and Proyecto Faro. She has also volunteered with CLBSJ’s
+      library team on the Muslim Peace Collection.
   - name: Warren Cooper
     description: >-
       A jazz musician and artistic entrepreneur from Philadelphia, Warren is the

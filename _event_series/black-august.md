@@ -27,8 +27,9 @@ leadership:
       interpretation, the role of mysticism and esotericism in Anglican and
       Africana spiritualities, and the Blues aesthetic. He is an elected member
       of the Society for the Study of Black Religion (SSBR), a Research
-      Associate of Human Relations Area Files (HRAF) at Yale University, and a
-      member of the CLBSJ Board. See full bio at
+      Associate of Human Relations Area Files (HRAF) at Yale University, the
+      Chair of the Council of the Society of Biblical Literature, and a member
+      of the CLBSJ Board. See full bio at
       <https://clbsj.org/about/leadership/hugh-r-page/>
   - name: Sr. Sharifa Vernice Meytung
     description: >-

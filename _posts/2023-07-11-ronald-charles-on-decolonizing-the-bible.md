@@ -6,7 +6,7 @@ published: true
 title: Ronald Charles on Decolonizing the Bible
 time: '7:30pm Eastern Time'
 series: black-august
-image_filename: RonaldCharles.jpeg
+vimeo_id: '854040283'
 ---
 **Decolonizing the Bible:
 How Haiti’s language, culture and revolutionary legacy can inform a decolonial biblical understanding**

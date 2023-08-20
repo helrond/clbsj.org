@@ -11,7 +11,7 @@ image_filename: RenitaWeems.jpg
 **Womanist Biblical Interpretation:
 Exposing Whiteness, Critiquing Harmful Texts, Transforming the Conversation**
 
-Drawing from her articles ‘To Think Better Than We Have Been Trained’: Thirty Years Later (BTCR) and On Leaving But Not Going Far (BSM), Rev. Dr. Renita Weems will share about her experience challenging racism and white supremacy within the field of Biblical scholarship. The first African American woman to earn a Ph.D. in Hebrew Bible, Dr. Weems has been consistently opening up space to face and wrestle with the layers of violence embedded into biblical texts. She will discuss the relationship between this work, and accessing the power of the Bible for liberation.
+Drawing from her articles ‘To Think Better Than We Have Been Trained’: Thirty Years Later (BTCR) and On Leaving But Not Going Far (BSM), Rev. Dr. Renita Weems will share about her experience challenging racism and patriarchy within the field of Biblical scholarship. The first African American woman to earn a Ph.D. in Hebrew Bible, Dr. Weems has been consistently opening up space to face and wrestle with the layers of violence embedded into biblical texts. She will discuss the relationship between this work, and accessing the power of the Bible for liberation.
 
 Dr. Weems will be joined in conversation with longtime anti-racism activist, minister and musician Rev. Osagyefo Sekou. The session will be hosted and facilitated by Rev. Dr. Angela Parker, co-editor of _Bitter the Chastening Rod: Africana Biblical Interpretation after Stony the Road We Trod in the Age of BLM, SayHerName, and MeToo._
 

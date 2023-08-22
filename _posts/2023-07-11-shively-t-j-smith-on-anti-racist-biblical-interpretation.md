@@ -6,7 +6,7 @@ published: true
 title: Shively T.J. Smith on Anti-Racist Biblical Interpretation
 series: black-august
 time: '7:30pm Eastern Time'
-image_filename: ShivelySmith.jpeg
+vimeo_id: '855713364'
 ---
 **Anti-Racist Biblical Interpretation:
 How Activists, Allies and Colleagues can Connect with and Amplify the Work of Black Biblical Scholars**

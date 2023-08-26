@@ -8,8 +8,7 @@ time: '7:30pm Eastern Time'
 series: black-august
 image_filename: MadelineMcClenney.jpeg
 ---
-**The Biblical Imperative to Abolish Mass Incarceration:
-Why We Must Seek Mass Clemency or Stop Preaching the Gospel**
+**Why We Must Seek Mass Clemency or Stop Preaching the Gospel**
 
 President and founder of [ExodusFoundation.Org](https://exodusfoundation.org/), Rev. Dr. Madeline McClenney will explore what the Exodus tradition, the Gospel of Jesus Christ, and other biblical stories have to say to us in this age of racialized criminalization and mass incarceration. Dr. McClenney has been tireless in working to integrate her training as a Hebrew Testament scholar with her work for fundamental system change. She will share about how she is doing that, and how we can support and participate in it. 
 
@@ -23,4 +22,4 @@ This year's Black August series is focused on how the experiences of struggle to
 
 **M. Ashanti Alston** is an organizer, speaker and writer who spent 14 years in prison because of his membership and participation with the Black Panther Party and the Black Liberation Army. Since being released in 1985 he has been a leader in organizing support for political prisoners and is now on the Steering Committee of the National Jericho Movement to free U.S. political prisoners. Brother Ashanti was raised within the Church of God and Saints in Christ and the Baptist tradition, and has a deep respect for the role of religion in opening the mind for liberation.
 
-**Sr. Sharifa Vernice Meytung** is an African-American artist, haijin (a writer of haiku poetry), and a teacher and lay religious practitioner in the Catholic and Buddhist traditions. Her practice is also steeped in and informed by West African, Native and HipHop traditions. Her media books and CDs include Oil For The Lamp: 7 Virtues of Human Character Development, Hiphop H.A.I.K.U. Vol 1 and 2, Rough Ground, and she is currently producing an online video series focused on the study of the Jataka Tales of early Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia Buddhist Association. 
+**Sr. Sharifa Vernice Meytung** is an African-American artist, haijin (a writer of haiku poetry), and a teacher and lay religious practitioner in the Catholic and Buddhist traditions. Her practice is also steeped in and informed by West African, Native and HipHop traditions. Her media books and CDs include Oil For The Lamp: 7 Virtues of Human Character Development, Hiphop H.A.I.K.U. Vol 1 and 2, Rough Ground, and she is currently producing an online video series focused on the study of the Jataka Tales of early Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia Buddhist Association.

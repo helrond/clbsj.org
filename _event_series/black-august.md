@@ -7,7 +7,7 @@ keywords:
   - bible
   - activist
   - black
-sort_order: 3
+sort_order: 1
 published: true
 leadership:
   - name: Nicholas Johnson

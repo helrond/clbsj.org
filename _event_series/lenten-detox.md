@@ -11,7 +11,7 @@ image_filename: null
 image_alt_text: Open Bible with highlighting and notes.
 keywords: 'bible, activist, lent, bible study'
 published: true
-sort_order: 1
+sort_order: 2
 ---
 This year, the Lenten Bible Detox Series will examine the biblical roots of theologies that separate humans from the rest of creation, which have often been misused to justify environmental devastation. In solidarity with urgent movements for climate justice and biodiversity preservation, we will excavate and reclaim a biblical understanding of earth justice.
 

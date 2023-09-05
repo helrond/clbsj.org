@@ -6,7 +6,7 @@ published: true
 title: Renita Weems on Womanist Biblical Interpretation
 time: '7:30pm Eastern Time'
 series: black-august
-image_filename: Weems_Renita_2023.jpg
+vimeo_id: '857991217'
 ---
 **Womanist Biblical Interpretation:
 Exposing Whiteness, Critiquing Harmful Texts, Transforming the Conversation**

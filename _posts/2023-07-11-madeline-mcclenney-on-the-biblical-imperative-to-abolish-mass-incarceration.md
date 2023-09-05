@@ -6,7 +6,7 @@ published: true
 title: Madeline McClenney on the Biblical Imperative to Abolish Mass Incarceration
 time: '7:30pm Eastern Time'
 series: black-august
-image_filename: MadelineMcClenney.jpeg
+vimeo_id: '860207758'
 ---
 **Why We Must Seek Mass Clemency or Stop Preaching the Gospel**
 

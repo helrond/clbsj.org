@@ -2,7 +2,7 @@
 date: '2023-09-14 15:34 -0400'
 category: news
 layout: news-item
-published: false
+published: true
 title: 'Ed Long, Presenté!'
 ---
 _**A Reflection on his Life and Legacy by Rick Ufford-Chase**_

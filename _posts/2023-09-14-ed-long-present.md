@@ -4,6 +4,7 @@ category: news
 layout: news-item
 published: true
 title: 'Edward LeRoy Long, Jr. — Presenté!'
+image_filename: Long-Edward.jpg
 ---
 _**A Reflection on his Life and Legacy by Rick Ufford-Chase**_
 

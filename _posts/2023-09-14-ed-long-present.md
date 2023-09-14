@@ -21,4 +21,4 @@ Ed published well over a dozen books — including _The Nature and Future of Chr
 
 Edward LeRoy Long, Jr. – Presenté!
 
-[Ed Long's Obituary](https://www.dickenfuneralhome.com/obituary/Edward-LongJr)  |  [Books written by Ed Long](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AEdward+LeRoy+Long+Jr.&s=relevancerank&text=Edward+LeRoy+Long+Jr.)   |   [Ed Long's Collection at CLBSJ](https://www.librarything.com/catalog/clbsj?tag=Long)
+[Ed Long's Obituary](https://www.dickenfuneralhome.com/obituary/Edward-LongJr)  |  [Books written by Ed Long](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AEdward+LeRoy+Long+Jr.&s=relevancerank&text=Edward+LeRoy+Long+Jr.)   |   [Ed Long's Collection at CLBSJ](https://www.librarything.com/catalog/clbsj?tag=Long)   |   [Finding Aid to the Ed Long Papers at Drew University Archives](https://uknow.drew.edu/confluence/download/attachments/23298689/Long,Edward.pdf) 

@@ -14,4 +14,6 @@ As part of our 2023 read-a-thon, and in solidarity with Banned Books Week, CLBSJ
 Registration is a sliding scale fee, starting at $5. All proceeds go directly to CLBSJ's work. Click on the orange button to register and make your gift!
 {% include registration-button.html link="https://go.rallyup.com/clbsj-readathon2023/Event/Details" %}
 
-Anyone who is participating in the Read-a-thon is welcome to present on October 5. For more information on how to become a Read-a-thon reader, visit [go.rallyup.com/c/clbsj-readathon2023-reader](https://go.rallyup.com/c/clbsj-readathon2023-reader)
+**Want to share on October 5?** Anyone who is participating in the Read-a-thon is welcome to present on October 5. For more information on how to become a Read-a-thon reader, visit [go.rallyup.com/c/clbsj-readathon2023-reader](https://go.rallyup.com/c/clbsj-readathon2023-reader)
+
+**Can organizations support?** Yes, please! Organizations, congregations and businesses can support CLBSJ's first online fundraiser as a Partner, Promoter, Advocate or Champion. [Click here for details on the sponsorship levels and how to sign up.](https://clbsj.org/assets/Oct5-Fundraiser-SponsorshipOptions.pdf)

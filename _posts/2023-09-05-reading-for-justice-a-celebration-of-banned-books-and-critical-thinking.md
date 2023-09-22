@@ -19,9 +19,11 @@ Registration is a sliding scale fee, starting at $5. All proceeds go directly to
 **Thank you to our Sponsors!**
 
 Advocates: 
+
 • [Stony Point Center](https://stonypointcenter.org/)
 
-Promoters: 
+Promoters:
+
 • [CONECT: Congregations Organized for a New Connecticut](https://weconect.org/)
 • [The Council of Churches of Greater Bridgeport, Raising the B.A.R. (Becoming Anti Racist) Program](https://www.ccgb.org/rtb )
 

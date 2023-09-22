@@ -17,11 +17,12 @@ Registration is a sliding scale fee, starting at $5. All proceeds go directly to
 **Want to share on October 5?** Anyone who is participating in the Read-a-thon is welcome to present on October 5. For more information on how to become a Read-a-thon reader, visit [go.rallyup.com/c/clbsj-readathon2023-reader](https://go.rallyup.com/c/clbsj-readathon2023-reader)
 
 **Thank you to our Sponsors!**
+
 Advocates: 
-- [Stony Point Center](https://stonypointcenter.org/)
+• [Stony Point Center](https://stonypointcenter.org/)
 
 Promoters: 
-- [CONECT: Congregations Organized for a New Connecticut](https://weconect.org/)
-- [The Council of Churches of Greater Bridgeport, Raising the B.A.R. (Becoming Anti Racist) Program](https://www.ccgb.org/rtb )
+• [CONECT: Congregations Organized for a New Connecticut](https://weconect.org/)
+• [The Council of Churches of Greater Bridgeport, Raising the B.A.R. (Becoming Anti Racist) Program](https://www.ccgb.org/rtb )
 
 Add your group's name to this list and help us make our goal! Organizations, congregations and businesses can support CLBSJ's first online fundraiser as a Partner, Promoter, Advocate or Champion. [Click here for details on the sponsorship levels and how to sign up.](https://clbsj.org/assets/Oct5-Fundraiser-SponsorshipOptions.pdf)

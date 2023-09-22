@@ -18,13 +18,11 @@ Registration is a sliding scale fee, starting at $5. All proceeds go directly to
 
 **Thank you to our Sponsors!**
 
-Advocates: 
-
+Advocates:<br>
 • [Stony Point Center](https://stonypointcenter.org/)
 
-Promoters:
-
-• [CONECT: Congregations Organized for a New Connecticut](https://weconect.org/)
+Promoters:<br>
+• [CONECT: Congregations Organized for a New Connecticut](https://weconect.org/)<br>
 • [The Council of Churches of Greater Bridgeport, Raising the B.A.R. (Becoming Anti Racist) Program](https://www.ccgb.org/rtb )
 
 Add your group's name to this list and help us make our goal! Organizations, congregations and businesses can support CLBSJ's first online fundraiser as a Partner, Promoter, Advocate or Champion. [Click here for details on the sponsorship levels and how to sign up.](https://clbsj.org/assets/Oct5-Fundraiser-SponsorshipOptions.pdf)

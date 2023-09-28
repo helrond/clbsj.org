@@ -16,6 +16,13 @@ Registration is a sliding scale fee, starting at $5. All proceeds go directly to
 
 **Want to share on October 5?** Anyone who is participating in the Read-a-thon is welcome to present on October 5. For more information on how to become a Read-a-thon reader, visit [go.rallyup.com/c/clbsj-readathon2023-reader](https://go.rallyup.com/c/clbsj-readathon2023-reader)
 
+**Sharers so far:**<br>
+• Board President Nicholas Johnson<br>
+• Board Co-Secretary Betsy Simpson<br>
+• Advisory Committee Member Rick Ufford-Chase<br>
+• Longtime Supporter Mary Johnson<br>
+• Executive Director Amy Dalton<br>
+
 **Thank you to our Sponsors!**
 
 Advocates:<br>

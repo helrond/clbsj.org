@@ -15,11 +15,11 @@ Registration is a sliding scale fee, starting at $5. All proceeds go directly to
 {% include registration-button.html link="https://go.rallyup.com/clbsj-readathon2023/Event/Details" %}
 
 **Sharers so far:**<br>
-• Board President Nicholas Johnson<br>
-• Board Co-Secretary Betsy Simpson<br>
-• Advisory Committee Member Rick Ufford-Chase<br>
-• Longtime Supporter Mary Johnson<br>
-• Executive Director Amy Dalton<br>
+• Board President Nicholas Johnson will share about _Bitter the Chastening Rod_, edited by Mitzi Smith and Angela Parker <br>
+• Board Co-Secretary Betsy Simpson will share about _A Palestinian Theology_ of Liberation by Naim Ateek <br>
+• Advisory Committee Member Rick Ufford-Chase will share about _Black AF History: The Un-Whitewashed Story of America_ by Michael Harriot<br>
+• Longtime Supporter Mary Johnson will share about _Cloudsplitter_ by Russell Banks<br>
+• Executive Director Amy Dalton will share about _Each One Teach One_ by Ron Casanova<br>
 
 **Want to share on October 5?** Anyone who is participating in the Read-a-thon is welcome to talk on October 5. For more information on how to become a Read-a-thon reader, visit [go.rallyup.com/c/clbsj-readathon2023-reader](https://go.rallyup.com/c/clbsj-readathon2023-reader)
 

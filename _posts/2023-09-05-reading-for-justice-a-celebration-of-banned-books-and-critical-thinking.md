@@ -14,7 +14,7 @@ As part of our 2023 read-a-thon, and in solidarity with Banned Books Week, CLBSJ
 Registration is a sliding scale fee, starting at $5. All proceeds go directly to CLBSJ's work. Click on the orange button to register and make your gift!
 {% include registration-button.html link="https://go.rallyup.com/clbsj-readathon2023/Event/Details" %}
 
-**Here are the sharers and the books they will be discussing::**<br>
+**Here are the sharers and the books they will be discussing:**<br>
 • Board President Nicholas Johnson — _Bitter the Chastening Rod_, edited by Mitzi Smith and Angela Parker <br>
 • Board Co-Secretary Betsy Simpson — _A Palestinian Theology_ of Liberation by Naim Ateek <br>
 • Advisory Committee Member Rick Ufford-Chase — _Black AF History: The Un-Whitewashed Story of America_ by Michael Harriot<br>

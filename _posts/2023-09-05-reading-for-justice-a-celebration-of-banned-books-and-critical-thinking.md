@@ -29,7 +29,7 @@ Advocates:<br>
 • [Stony Point Center](https://stonypointcenter.org/)
 
 Promoters:<br>
-• [Bartimaeus Cooperative Ministries](https://www.bcm-net.org/)
+• [Bartimaeus Cooperative Ministries](https://www.bcm-net.org/)<br>
 • [CONECT: Congregations Organized for a New Connecticut](https://weconect.org/)<br>
 • [The Council of Churches of Greater Bridgeport, Raising the B.A.R. (Becoming Anti Racist) Program](https://www.ccgb.org/rtb )
 

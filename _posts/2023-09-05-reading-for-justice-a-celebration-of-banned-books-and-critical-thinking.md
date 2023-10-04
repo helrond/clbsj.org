@@ -16,7 +16,7 @@ Registration is a sliding scale fee, starting at $5. All proceeds go directly to
 
 **Here are the sharers and the books they will be discussing:**<br>
 • Board President Nicholas Johnson — _Bitter the Chastening Rod_, edited by Mitzi Smith and Angela Parker <br>
-• Board Co-Secretary Betsy Simpson — _A Palestinian Theology_ of Liberation by Naim Ateek <br>
+• Board Co-Secretary Betsy Simpson — _A Palestinian Theology of Liberation_ by Naim Ateek<br>
 • Advisory Committee Member Rick Ufford-Chase — _Black AF History: The Un-Whitewashed Story of America_ by Michael Harriot<br>
 • Longtime Supporter Mary Johnson — _Cloudsplitter_ by Russell Banks<br>
 • Executive Director Amy Dalton — _Each One Teach One_ by Ron Casanova<br>

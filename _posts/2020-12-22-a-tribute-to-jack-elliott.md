@@ -9,6 +9,7 @@ description: >-
   John H. Elliott better, known as "Jack," is solidly established in the
   scholarly world as a master interpreter of 1st Peter and an ardent advocate of
   social-scientific criticism in biblical studies.
+image_filename: Jack-Greg-Michael.jpeg
 ---
 _We are heartbroken at the sudden passing of CLBSJ cofounder and former
 Board President John H. "Jack" Elliott on December 13, 2020. Jack had

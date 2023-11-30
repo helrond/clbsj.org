@@ -2,7 +2,7 @@
 date: '2023-11-12'
 category: news
 layout: news-item
-published: false
+published: true
 title: Review of Guerrilla Gospel by Bob Ekblad
 author: Laura Gottwald
 ---

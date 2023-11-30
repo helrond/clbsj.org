@@ -5,6 +5,7 @@ layout: news-item
 published: true
 title: Review of Guerrilla Gospel by Bob Ekblad
 author: Laura Gottwald
+location: GuerrillaGospel.jpg
 ---
 Bob Ekblad's book _Guerrilla Gospel_ offers readers a transformative experience in Bible study. He defines the word gospel - which means good news -- as "liberating message." Through his own deeply personal belief in Jesus and in his life and revolutionary ministry, Ekblad speaks both to readers' spiritual relationship with Christ, and delivers a radical challenge that our personal ministries truly follow Jesus' example.
 

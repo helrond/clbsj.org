@@ -14,6 +14,6 @@ Ekblad's book inspires, refreshes, excites and challenges us to read the Bible i
 
 This book, I believe gives us a powerful, revolutionary, justice making, liberative, spiritual and loving instruction for how to deeply love God and to love and serve all God's children. I encourage everyone to read and enjoy this insightful, stimulating, and powerful call to deepen, transform and excite your Bible reading and ministry.
 
-Purchase Guerrilla Gospel at https://bobekblad.com/store/
+Purchase _Guerilla Gospel_ at https://bobekblad.com/store/
 
 _This mini-review was written by Laura Gottwald, CLBSJ Board Member and wife of the late Dr. Norman Gottwald, for the CLBSJ 2023 Read-a-thon._

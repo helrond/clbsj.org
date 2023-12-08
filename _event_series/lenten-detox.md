@@ -7,15 +7,17 @@ tagline: >-
   Each Lent, CLBSJ focuses our attention on the misuse of the Bible to promote
   and justify violence and oppression. All are welcome on this journey of
   healing and reclaiming.
-image_filename: null
 image_alt_text: Open Bible with highlighting and notes.
-keywords: 'bible, activist, lent, bible study'
+keywords:
+  - 'bible, activist, lent, bible study'
 published: true
 sort_order: 2
 ---
-This year, the Lenten Bible Detox Series will examine the biblical roots of theologies that separate humans from the rest of creation, which have often been misused to justify environmental devastation. In solidarity with urgent movements for climate justice and biodiversity preservation, we will excavate and reclaim a biblical understanding of earth justice.
+2024 will be our fourth annual Lenten Bible Detox. Stay tuned for details!
 
-People of all faiths and backgrounds are welcome to participate. We will gather each Tuesday during Lent at 4:30 Pacific Time / 7:30 Eastern Time via Zoom. Register for each session separately at the links below. [You can also download a flyer here.](https://clbsj.org/assets/LentenBibleDetox2023.pdf)
+Archives to past years' detox sessions can be found below. 
+
+In 2023, the Lenten Bible Detox Series examined the biblical roots of theologies that separate humans from the rest of creation, which have often been misused to justify environmental devastation. In solidarity with urgent movements for climate justice and biodiversity preservation, we excavated and reclaimed a biblical understanding of earth justice.
 
 <a href="https://clbsj.org/assets/LentenBibleDetox2023.pdf">
   <img alt="Lenten Bible Detox 2023 Flyer" src="/img/LentenBibleDetox2023-Flyer.jpg">

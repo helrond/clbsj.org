@@ -6,16 +6,15 @@ published: true
 title: The Bible and Settler Colonialism in Palestine and Beyond
 time: '9:30am Eastern Time'
 ---
-
-Facing reality and forging a new paradigm
+**_Facing reality and forging a new paradigm_**
 
 an international consultation featuring Rev. Prof. Mitri Raheb,
 Founder and President of Dar al-Kalima University in Bethlehem
-and author of Decolonizing Palestine: The Land, The People, The Bible
+and author of _Decolonizing Palestine: The Land, The People, The Bible_
 
-Check back for information on respondents and information on how to register.
+**Check back for information on respondents and information on how to register.**
 
-The session will begin at 4:30pm in Palestine (EET), which is:
+The session will begin at 4:30pm in Palestine-Israel (EET), which is:
 - 6:30am in Los Angeles (PST)
 - 8:30am in Nashville (CST)
 - 9:30am in New York (EST)
@@ -27,4 +26,4 @@ The session will begin at 4:30pm in Palestine (EET), which is:
 See and calculate additional time zones: 
 https://www.timeanddate.com/worldclock/converter.html?iso=20240127T143000&p1=137&p2=171&p3=179&p4=37&p5=1048&p6=tz_sast&p7=145&p8=235
 
-Co-sponsored by the Wendland-Cook Center for Religion and Justice
+Co-sponsored by the Wendland-Cook Center for Religion and Justice.

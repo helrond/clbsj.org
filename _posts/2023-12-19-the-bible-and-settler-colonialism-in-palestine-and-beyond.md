@@ -1,9 +1,10 @@
 ---
-date: '2023-12-19 09:38 -0500'
-category: news
-layout: news-item
-published: false
+date: '2024-01-27'
+category: events
+layout: event
+published: true
 title: The Bible and Settler Colonialism in Palestine and Beyond
+time: '9:30am Eastern Time'
 ---
 
 Facing reality and forging a new paradigm

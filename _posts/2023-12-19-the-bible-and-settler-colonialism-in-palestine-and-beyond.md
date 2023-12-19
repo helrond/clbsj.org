@@ -5,6 +5,7 @@ layout: event
 published: true
 title: The Bible and Settler Colonialism in Palestine and Beyond
 time: '9:30am Eastern Time'
+image_filename: MitriRaheb.jpeg
 ---
 an international consultation featuring Rev. Prof. Mitri Raheb,
 Founder and President of Dar al-Kalima University in Bethlehem

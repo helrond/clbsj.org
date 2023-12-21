@@ -11,7 +11,9 @@ an international consultation featuring Rev. Prof. Mitri Raheb,
 Founder and President of Dar al-Kalima University in Bethlehem
 and author of _Decolonizing Palestine: The Land, The People, The Bible_
 
-**Check back for more information on respondents and how to register.**
+Responses will be offered by Atalia Omer and Revelation Velunta
+
+**Check back for more information on respondents and how to register!**
 
 The session will begin at 4:30pm in Palestine-Israel (EET), which is:
 - 6:30am in Los Angeles (PST)

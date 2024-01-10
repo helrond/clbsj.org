@@ -22,6 +22,18 @@ The session will begin at 4:30pm in Palestine-Israel (EET), which is:
 
 [Click here to see and calculate additional time zones.](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T143000&p1=137&p2=171&p3=179&p4=37&p5=1048&p6=tz_sast&p7=145&p8=235)
 
+**This event is endorsed by:**
+Alternative Seminary
+Bartimaeus Cooperative Ministries
+Bible Remixed
+Ecumenical Bishop's Forum
+Friends of Sabeel–North America (FOSNA)
+National Council of Churches in the Philippines
+Presbyterian Peace Fellowship
+Promotion of Churches and People's Response
+Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)
+Union Theological Seminary–Philippines
+
 ## Main Speaker:
 
 **Rev. Prof. Mitri Raheb** is the Founder and President of Dar al-Kalima University in Bethlehem. The most widely published Palestinian theologian to date, Dr. Raheb is the author and editor of 50 books including: _Decolonizing Palestine: The Land, The People, The Bible_ (2023) and _The Cross in Contexts: Suffering and Redemption in Palestine_ (2017). His books and numerous articles have been translated so far into thirteen languages. Rev. Raheb served as the senior pastor of the Christmas Lutheran Church in Bethlehem from June 1987 to May 2017 and as the President of the Synod of the Evangelical Lutheran Church in Jordan and the Holy Land from 2011-2016. A social entrepreneur, Rev. Raheb has founded several NGOs including the Christian Academic Forum for Citizenship in the Arab World (CAFCAW). He is a founding and board member of the National Library of Palestine, and a founding member of Bright Stars of Bethlehem, a US 501c3 non-for-profit organization. He is an elected member to the Palestinian National Council as well as the Palestinian Central Council. Read full bio at [https://www.mitriraheb.org/en/page/short-bio](https://www.mitriraheb.org/en/page/short-bio)

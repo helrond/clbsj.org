@@ -22,17 +22,17 @@ The session will begin at 4:30pm in Palestine-Israel (EET), which is:
 
 [Click here to see and calculate additional time zones.](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T143000&p1=137&p2=171&p3=179&p4=37&p5=1048&p6=tz_sast&p7=145&p8=235)
 
-**This event is endorsed by:**
-Alternative Seminary
-Bartimaeus Cooperative Ministries
-Bible Remixed
-Ecumenical Bishop's Forum
-Friends of Sabeel–North America (FOSNA)
-National Council of Churches in the Philippines
-Presbyterian Peace Fellowship
-Promotion of Churches and People's Response
-Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)
-Union Theological Seminary–Philippines
+**This event is endorsed by:**<br>
+Alternative Seminary<br>
+Bartimaeus Cooperative Ministries<br>
+Bible Remixed<br>
+Ecumenical Bishop's Forum<br>
+Friends of Sabeel–North America (FOSNA)<br>
+National Council of Churches in the Philippines<br>
+Presbyterian Peace Fellowship<br>
+Promotion of Churches and People's Response<br>
+Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)<br>
+Union Theological Seminary–Philippines<br>
 
 ## Main Speaker:
 

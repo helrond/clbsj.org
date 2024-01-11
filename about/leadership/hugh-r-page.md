@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: advisory-committee-member
 title: Hugh R. Page
 sort: page
 description: >-
@@ -9,7 +9,8 @@ keywords: hugh r page
 category: board-member
 job-title: Associate Professor of Theology and Africana Studies
 institution: University of Notre Dame
-image: "/img/board/page.jpg"
+image: /img/board/page.jpg
+published: true
 ---
 Hugh R. Page, Jr. is Professor of Theology and _Africana_ Studies; and Vice
 President and Associate Provost at the University of Notre Dame. He holds a

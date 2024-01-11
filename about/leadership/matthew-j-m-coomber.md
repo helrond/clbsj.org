@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: advisory-committee-member
 title: Matthew J. M. Coomber
 sort: coomber
 description: >-

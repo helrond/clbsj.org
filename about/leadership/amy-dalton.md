@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Amy L. Dalton
 sort: dalton
 description: >-

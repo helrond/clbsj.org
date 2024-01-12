@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Thomas E. Boomershine
 sort: boomershine
 description: Thomas E. Boomershine is an emeritus professor of New Testament and a United Methodist elder.

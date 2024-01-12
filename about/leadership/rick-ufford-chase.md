@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Rick Ufford-Chase
 sort: ufford-chase
 description: "Rick Ufford-Chase is a faith-rooted activist and author with a long

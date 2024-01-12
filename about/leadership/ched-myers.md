@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Ched Myers
 sort: myers
 description: >-

@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Gale A. Yee
 sort: yee
 description: >-

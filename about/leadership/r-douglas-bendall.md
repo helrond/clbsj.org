@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: R. Douglas Bendall
 sort: bendall
 description: R. Douglas Bendall is the founder and president of The Newark School of Theology, Newark, New Jersey.

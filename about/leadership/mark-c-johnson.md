@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Mark C. Johnson
 sort: johnson
 description:

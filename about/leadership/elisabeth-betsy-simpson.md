@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Elisabeth "Betsy" Simpson
 sort: simpson
 description: "Rev. Betsy Simpson is a retired Presbyterian Pastor, having served at the First Presbyterian Church of Glen Cove, Long Island for 17 yrs. until Sept. 30, 2016."

@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Nicholas A. Johnson
 sort: johnson
 description: "The Reverend Nicholas A. Johnson is pastor of Raritan Valley Baptist Church in Edison, NJ. He also teaches in the Philosophy and Religion department at New Jersey City University in Jersey City, NJ."

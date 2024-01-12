@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Norman Gottwald
 sort: gottwald
 description: >-

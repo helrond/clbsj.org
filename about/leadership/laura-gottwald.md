@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Laura Gottwald
 sort: gottwald
 description: "Laura Gottwald is an artist, activist and Baptist minister."

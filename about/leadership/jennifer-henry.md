@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Jennifer Henry
 sort: henry
 description: "Jennifer Henry is an activist, preacher, and feminist leader."

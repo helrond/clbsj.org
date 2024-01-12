@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Sister Sharifa Vernice Meytung
 sort: meytung
 description: >-

@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: Laurel Dykstra
 sort: dykstra
 description: "Laurel Dykstra (no pronouns/they/them) is an Anglican priest,

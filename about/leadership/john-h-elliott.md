@@ -1,5 +1,5 @@
 ---
-layout: board-member
+layout: leader-snippet
 title: John H. Elliott
 sort: elliott
 description: >-

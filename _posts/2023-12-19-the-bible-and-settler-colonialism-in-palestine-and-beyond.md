@@ -32,6 +32,7 @@ National Council of Churches in the Philippines<br>
 Presbyterian Peace Fellowship<br>
 Promotion of Churches and People's Response<br>
 Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)<br>
+Samuel DeWitt Proctor Conference<br>
 Union Theological Seminary–Philippines<br>
 
 ## Main Speaker:

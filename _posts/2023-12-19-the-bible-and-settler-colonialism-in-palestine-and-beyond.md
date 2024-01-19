@@ -31,7 +31,7 @@ Friends of Sabeel–North America (FOSNA)<br>
 Mindanao Bishops' Conference of the Iglesia Filipina Independiente<br>
 National Council of Churches in the Philippines<br>
 Presbyterian Peace Fellowship<br>
-Promotion of Churches and People's Response<br>
+Promotion of Church People's Response<br>
 Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)<br>
 Samuel DeWitt Proctor Conference<br>
 Union Theological Seminary–Philippines<br>

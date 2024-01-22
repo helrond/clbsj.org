@@ -34,6 +34,7 @@ Presbyterian Peace Fellowship<br>
 Promotion of Church People's Response<br>
 Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)<br>
 Samuel DeWitt Proctor Conference<br>
+Tzedek Chicago<br>
 Union Theological Seminary–Philippines<br>
 
 ## Main Speaker:

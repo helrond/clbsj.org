@@ -28,6 +28,7 @@ Bartimaeus Cooperative Ministries<br>
 Bible Remixed<br>
 Ecumenical Bishop's Forum<br>
 Friends of Sabeel–North America (FOSNA)<br>
+Jewish Voice for Peace Rabbinical Council<br>
 Mindanao Bishops' Conference of the Iglesia Filipina Independiente<br>
 National Council of Churches in the Philippines<br>
 Presbyterian Peace Fellowship<br>

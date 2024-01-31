@@ -5,7 +5,7 @@ layout: event
 published: true
 title: The Bible and Settler Colonialism in Palestine and Beyond
 time: '9:30am Eastern Time'
-image_filename: Jan27-MitriRaheb.png
+vimeo_id: '907662719'
 ---
 All are invited to join in this international, online consultation featuring Rev. Prof. Mitri Raheb, Founder and President of Dar al-Kalima University in Bethlehem and author of _Decolonizing Palestine: The Land, The People, The Bible._ Responses will be offered by Atalia Omer and Revelation Velunta. This event is being co-organized with the Wendland-Cook Program in Religion and Justice.<br>
 

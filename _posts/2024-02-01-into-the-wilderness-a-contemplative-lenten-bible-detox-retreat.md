@@ -13,4 +13,4 @@ This will be a participatory retreat. Registrants will be given an opportunity t
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=2&reset=1" %}
 
-Planning Committee: Sr. Sharifa Vernice Meytung, Rev. Betsy Simpson, Rev. Dr. Dong Hyeon Jeong, Amy Dalton
+**Planning Committee:** Sr. Sharifa Vernice Meytung, Rev. Betsy Simpson, Rev. Dr. Dong Hyeon Jeong, Amy Dalton

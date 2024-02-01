@@ -2,7 +2,7 @@
 date: '2024-03-02'
 category: events
 layout: event
-published: false
+published: true
 title: 'Into the Wilderness: A Contemplative Lenten Bible Detox Retreat'
 time: '10:00am Eastern Time'
 series: lenten-detox

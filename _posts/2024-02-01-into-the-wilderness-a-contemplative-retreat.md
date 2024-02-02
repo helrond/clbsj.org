@@ -6,6 +6,8 @@ published: true
 title: "Into the Wilderness —\_A Contemplative Retreat"
 time: '10:00am Eastern Time'
 series: lenten-detox
+image_alt_text: '"The Mind of Christ" by Frank Wesley'
+image_filename: MindOfChrist-FrankWesley.jpg
 ---
 In the past few months we’ve seen in unprecedented scale the destructive impact that violent misuse of the Bible can wreak on vulnerable populations. Facing the shadow side of our scriptural traditions is no longer just a personally fulfilling thing to do. It is an absolute necessity if we are to be able to act with integrity in “the fierce urgency of now.” CLBSJ invites all who are struggling to find traction in this moment to join us for a half-day Bible Detox retreat. Following in Jesus’ footsteps and drawing from the tradition of contemplative Christianity, we will mark a path into the wilderness to face down the demons that are coopting and confusing our scriptural traditions today. 
 

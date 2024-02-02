@@ -17,4 +17,4 @@ This will be a participatory retreat. Registrants will be given an opportunity t
 
 **Planning Committee:** Sr. Sharifa Vernice Meytung, Rev. Betsy Simpson, Rev. Dr. Dong Hyeon Jeong, Amy Dalton
 
-**Image:** "The Mind of Christ (temptation story)" by Frank Wesley (1923-2002) from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN. https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=59167 [retrieved February 1, 2024]. Original source: Estate of Frank Wesley, http://www.frankwesleyart.com/main_page.htm.
+**Image:** "The Mind of Christ (temptation story)" by Frank Wesley (1923-2002) from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN.

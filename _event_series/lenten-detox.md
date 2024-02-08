@@ -13,14 +13,6 @@ keywords:
 published: true
 sort_order: 2
 ---
-2024 will be our fourth annual Lenten Bible Detox. Stay tuned for details!
+This year, CLBSJ will continue our Lenten Bible Detox practice in a different format. All are warmly invited to join us online on Saturday, March 2, 2024 for "Into the Wilderness: A Contemplative Lenten Bible Detox Retreat." See below for more information and a link to register.
 
-Archives to past years' detox sessions can be found below. 
-
-In 2023, the Lenten Bible Detox Series examined the biblical roots of theologies that separate humans from the rest of creation, which have often been misused to justify environmental devastation. In solidarity with urgent movements for climate justice and biodiversity preservation, we excavated and reclaimed a biblical understanding of earth justice.
-
-<a href="https://clbsj.org/assets/LentenBibleDetox2023.pdf">
-  <img alt="Lenten Bible Detox 2023 Flyer" src="/img/LentenBibleDetox2023-Flyer.jpg">
-</a>
-
-Many thanks to those who provided advisement to the 2023 Lenten Bible Detox Series: Ched Myers, Dong Hyeon Jeong, Hugh Page, Jennifer Henry, Laurel Dykstra, Mitzi Smith, Rick Ufford-Chase, Sr. Sharifa Meytung
+2024 will be our fourth annual Lenten Bible Detox. Archives to past years' detox sessions can be found below.

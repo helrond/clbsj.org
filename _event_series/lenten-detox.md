@@ -18,4 +18,4 @@ This year, CLBSJ will continue our Lenten Bible Detox practice in a different fo
 
 2024 will be our fourth annual Lenten Bible Detox. Archives to past years' detox sessions can be found below.
 
-Image: “The Mind of Christ (temptation story)” by Frank Wesley (1923-2002) from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN. https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=59167
+Image: [“The Mind of Christ (temptation story)” by Frank Wesley (1923-2002)](https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=59167) from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN.

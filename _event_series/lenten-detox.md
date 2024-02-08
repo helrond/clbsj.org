@@ -13,7 +13,7 @@ keywords:
 published: true
 sort_order: 2
 ---
-This year, CLBSJ will continue our Lenten Bible Detox practice in a different format. All are warmly invited to join us online on Saturday, March 2, 2024 for "Into the Wilderness: A Contemplative Lenten Bible Detox Retreat." Click on the link below for more information and to register.
+This year, CLBSJ will continue our Lenten Bible Detox practice in a different format. All are warmly invited to join us online on Saturday, March 2, 2024 for "Into the Wilderness: A Contemplative Lenten Bible Detox Retreat." [Click here for more information and a link to register](https://clbsj.org/events/2024/03/02/into-the-wilderness-a-contemplative-retreat/)
 
 2024 will be our fourth annual Lenten Bible Detox. Archives to past years' detox sessions can be found below.
 

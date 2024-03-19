@@ -7,7 +7,23 @@ title: The Bible and Settler Colonialism in Palestine and Beyond
 time: '9:30am Eastern Time'
 vimeo_id: '907662719'
 ---
-All are invited to join in this international, online consultation featuring Rev. Prof. Mitri Raheb, Founder and President of Dar al-Kalima University in Bethlehem and author of _Decolonizing Palestine: The Land, The People, The Bible._ Responses will be offered by Atalia Omer and Revelation Velunta. This event is being co-organized with the Wendland-Cook Program in Religion and Justice.<br>
+In this international, online consultation, Rev. Prof. Mitri Raheb addressed how the recent escalation of violence in Palestine/Israel is part of a much longer settler colonialist project that relies on a weaponization of the Bible for its public support. Dr. Raheb, along with our respondents Atalia Omer and Revelation Velunta delved into the history of advocacy for settler colonial takeover of Palestine and the role of the Bible, especially the book of Joshua, in this process. Texts addressed included the siege of Jericho in Joshua 6, and the judgment on Amalek in 1 Samuel 15.
+
+This event was co-organized with the Wendland-Cook Program in Religion and Justice, and was endorsed by:<br>
+-Alternative Seminary<br>
+-Bartimaeus Cooperative Ministries<br>
+-Bible Remixed<br>
+-Ecumenical Bishop's Forum<br>
+-Friends of Sabeel–North America (FOSNA)<br>
+-Jewish Voice for Peace Rabbinical Council<br>
+-Mindanao Bishops' Conference of the Iglesia Filipina Independiente<br>
+-National Council of Churches in the Philippines<br>
+-Presbyterian Peace Fellowship<br>
+-Promotion of Church People's Response<br>
+-Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)<br>
+-Samuel DeWitt Proctor Conference<br>
+-Tzedek Chicago<br>
+-Union Theological Seminary–Philippines<br>
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=1&reset=1" %}
 
@@ -21,22 +37,6 @@ The session will begin at 4:30pm in Palestine-Israel (EET), which is:
 - 11:30pm in Seoul (KST)
 
 [Click here to see and calculate additional time zones.](https://www.timeanddate.com/worldclock/converter.html?iso=20240127T143000&p1=137&p2=171&p3=179&p4=37&p5=1048&p6=tz_sast&p7=145&p8=235)
-
-**This event is endorsed by:**<br>
-Alternative Seminary<br>
-Bartimaeus Cooperative Ministries<br>
-Bible Remixed<br>
-Ecumenical Bishop's Forum<br>
-Friends of Sabeel–North America (FOSNA)<br>
-Jewish Voice for Peace Rabbinical Council<br>
-Mindanao Bishops' Conference of the Iglesia Filipina Independiente<br>
-National Council of Churches in the Philippines<br>
-Presbyterian Peace Fellowship<br>
-Promotion of Church People's Response<br>
-Samahan ng Teolohikal na Edukasyon sa Pilipinas (STEP)<br>
-Samuel DeWitt Proctor Conference<br>
-Tzedek Chicago<br>
-Union Theological Seminary–Philippines<br>
 
 ## Main Speaker:
 

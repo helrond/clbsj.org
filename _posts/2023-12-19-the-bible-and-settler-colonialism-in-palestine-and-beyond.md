@@ -7,7 +7,7 @@ title: The Bible and Settler Colonialism in Palestine and Beyond
 time: '9:30am Eastern Time'
 vimeo_id: '907662719'
 ---
-In this international, online consultation, Rev. Prof. Mitri Raheb addressed how the recent escalation of violence in Palestine/Israel is part of a much longer settler colonialist project that relies on a weaponization of the Bible for its public support. Dr. Raheb, along with our respondents Atalia Omer and Revelation Velunta delved into the history of advocacy for settler colonial takeover of Palestine and the role of the Bible, especially the book of Joshua, in this process. Texts addressed included the siege of Jericho in Joshua 6, and the judgment on Amalek in 1 Samuel 15.
+In this international, online consultation, Rev. Prof. Mitri Raheb addressed how the recent escalation of violence in Palestine/Israel is part of a much longer settler colonialist project that relies on a weaponization of the Bible for its public support, giving highlights of his recent book _Decolonizing Palestine: The Land, The People, The Bible_ (2023). Along with our respondents Atalia Omer and Revelation Velunta, he delved into the history of advocacy for settler colonial takeover of Palestine and the role of the Bible, especially the book of Joshua, in this process. Texts addressed included the siege of Jericho in Joshua 6, and the judgment on Amalek in 1 Samuel 15.
 
 This event was co-organized with the Wendland-Cook Program in Religion and Justice, and was endorsed by:<br>
 -Alternative Seminary<br>

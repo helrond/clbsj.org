@@ -7,6 +7,7 @@ title: >-
   Rethinking Class in Intersectional Activism and Faith-Based Community
   Organizing
 time: '11:00am–3:00pm Eastern Time'
+vimeo_id: '922063935'
 ---
 **_Continuing Reflections on the Work of Norman K. Gottwald_**
 

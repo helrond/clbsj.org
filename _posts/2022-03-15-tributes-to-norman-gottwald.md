@@ -1,5 +1,5 @@
 ---
-date: 'published March 15, 2022 ~ updated November 21, 2022'
+date: 'published March 15, 2022 (updated April 17, 2024)'
 category: news
 layout: news-item
 published: true
@@ -157,3 +157,6 @@ I am continually grateful, humbled and inspired to all the work, ideas and passi
 
 ### Other Audio-Video Archives:
 - July 11, 2011 — The Mid-Coast Forum on Foreign Relations: Ancient Israel's Anti-Imperialist Origins: Analogies for Today? [www.midcoastforum.org/speakers/norman-k-gottwald](https://www.midcoastforum.org/speakers/norman-k-gottwald)
+- November 10, 2011 - Harrod Lecture at Vanderbilt University: "The Bible as Nurturer of Passive and Active Worldviews" [https://youtu.be/b2fqiYXtUbw?si=1HbsSERd6hAXVHd4](https://youtu.be/b2fqiYXtUbw?si=1HbsSERd6hAXVHd4)
+
+_Do you have additional A/V archives of Dr. Gottwald's public education efforts? CLBSJ would be grateful to receive them. Please email info@clbsj.org_

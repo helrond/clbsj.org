@@ -18,6 +18,6 @@ This year, CLBSJ will continue our Lenten Bible Detox practice in a different fo
 
 2024 will be our fourth annual Lenten Bible Detox. Archives to past years' detox sessions can be found below.
 
-Our 2023 Lenten Bible Detox was a unique thematic format. For six weeks, we convned to reckon with scriptures that have been misused to justify and perpetuate disregard and destruction of the environment. In solidarity with urgent movements for climate justice and biodiversity preservation, we excavated and reclaimed a biblical understanding of earth justice. For a summary of the speakers and topics, see https://clbsj.org/assets/LentenBibleDetox2023.pdf
+Our 2023 Lenten Bible Detox was a unique thematic format. For six weeks, we convned to reckon with scriptures that have been misused to justify and perpetuate disregard and destruction of the environment. In solidarity with urgent movements for climate justice and biodiversity preservation, we excavated and reclaimed a biblical understanding of earth justice. For a summary of the speakers and topics, [see this flyer](https://clbsj.org/assets/LentenBibleDetox2023.pdf).
 
 Image: [“The Mind of Christ (temptation story)” by Frank Wesley (1923-2002)](https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=59167) from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN.

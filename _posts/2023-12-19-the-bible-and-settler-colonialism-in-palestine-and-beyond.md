@@ -11,7 +11,6 @@ In this international, online consultation, Rev. Prof. Mitri Raheb addressed how
 
 - [Click here to access a 1-page study guide](https://clbsj.org/assets/StudyGuide-Jan27consultation.pdf) for individual or group use
 - [Click here to access the full video archive](https://vimeo.com/907662719)
-- Click here to access an edited podcast archive: [Part 1](https://www.buzzsprout.com/2237315/14388024-the-bible-and-settler-colonialism-in-palestine-and-beyond-part-i.mp3?client_source=small_player&download=true)  |  [Part 2](https://www.buzzsprout.com/2237315/14439286-the-bible-and-settler-colonialism-in-palestine-and-beyond-part-ii.mp3?client_source=small_player&download=true)
 
 This event was co-organized with the Wendland-Cook Program in Religion and Justice, and was endorsed by:<br>
 -Alternative Seminary<br>

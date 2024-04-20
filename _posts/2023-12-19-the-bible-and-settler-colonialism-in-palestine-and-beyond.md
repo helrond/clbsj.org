@@ -9,8 +9,8 @@ vimeo_id: '907662719'
 ---
 In this international, online consultation, Rev. Prof. Mitri Raheb addressed how the recent escalation of violence in Palestine/Israel is part of a much longer settler colonialist project that relies on a weaponization of the Bible for its public support, giving highlights of his recent book _Decolonizing Palestine: The Land, The People, The Bible_ (2023). Along with our respondents Atalia Omer and Revelation Velunta, he delved into the history of advocacy for settler colonial takeover of Palestine and the role of the Bible, especially the book of Joshua, in this process. Texts addressed included the siege of Jericho in Joshua 6, and the judgment on Amalek in 1 Samuel 15.
 
-- [Click here to access a 1-page study guide](https://clbsj.org/assets/StudyGuide-Jan27consultation.pdf) for individual or group use
-- [Click here to access the full video archive](https://vimeo.com/907662719)
+**- [Click here to access a 1-page study guide](https://clbsj.org/assets/StudyGuide-Jan27consultation.pdf) for individual or group use
+- [Click here](https://vimeo.com/907662719) or on the above image to access the full video archive**
 
 This event was co-organized with the Wendland-Cook Program in Religion and Justice, and was endorsed by:<br>
 -Alternative Seminary<br>

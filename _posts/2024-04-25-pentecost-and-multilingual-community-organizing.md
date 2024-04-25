@@ -11,4 +11,4 @@ What can the Pentecost Story in Acts 2, as well as other biblical references to 
 
 Click here to register: {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=3&reset=1" %}
 
-Dr. Tupamahu's teaching will draw from the perspectives put forth in his book, Contesting Languages: Heteroglossia and the Politics of Language in the Early Church, published by Oxford University Press in 2022. To learn more, visit https://readingreligion.org/9780197581124/contesting-languages/
+Dr. Tupamahu's teaching will draw from the perspectives put forth in his book, _Contesting Languages: Heteroglossia and the Politics of Language in the Early Church,_ published by Oxford University Press in 2022. To learn more, visit https://readingreligion.org/9780197581124/contesting-languages/

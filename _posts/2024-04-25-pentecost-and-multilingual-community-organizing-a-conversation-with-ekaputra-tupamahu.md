@@ -2,9 +2,7 @@
 date: '2024-05-16'
 category: events
 layout: event
-title: >-
-  Pentecost and Multilingual Community Organizing: A Conversation with Ekaputra
-  Tupamahu
+title: Pentecost and Multilingual Community Organizing
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
 ---

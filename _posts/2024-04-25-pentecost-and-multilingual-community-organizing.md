@@ -5,6 +5,7 @@ layout: event
 title: Pentecost and Multilingual Community Organizing
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
+image_filename: tupamahu-ekaputra.jpeg
 ---
 What can the Pentecost Story in Acts 2, as well as other biblical references to "speaking in tongues," tell us about the experience of living and building people power in multilingual societies? Indonesian New Testament scholar Ekaputra Tupamahu will present his “heteroglossic-immigrant” mode of reading these texts, and unpack its implications for understanding biblical times, as well as our own contexts. This Scholar-Activist Encounter is held in solidarity with Asian-American and Pacific Islander Month.
 

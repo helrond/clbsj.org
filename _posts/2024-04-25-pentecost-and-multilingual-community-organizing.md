@@ -9,7 +9,7 @@ image_filename: tupamahu-ekaputra.jpeg
 ---
 Click here to register: {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=3&reset=1" %}
 
-What can the Pentecost Story in Acts 2, as well as other biblical references to "speaking in tongues," tell us about the experience of living and building people power in multilingual societies? Indonesian New Testament scholar Ekaputra Tupamahu will present his “heteroglossic-immigrant” mode of reading these texts, and unpack its implications for understanding biblical times, as well as our own contexts. Nelcy Garcia, an immigrant rights activist and organizer, will offer a response.
+What can the Pentecost Story in [Acts 2](https://bible.oremus.org/?ql=582797469), as well as other biblical references to "speaking in tongues," tell us about the experience of living and building people power in multilingual societies? Indonesian New Testament scholar Ekaputra Tupamahu will present his “heteroglossic-immigrant” mode of reading these texts, and unpack its implications for understanding biblical times, as well as our own contexts. Nelcy Garcia, an immigrant rights activist and organizer, will offer a response.
 
 This Scholar-Activist Encounter is held in solidarity with Asian-American and Pacific Islander Month, and will be co-hosted by Gale Yee and Amy Dalton.
 

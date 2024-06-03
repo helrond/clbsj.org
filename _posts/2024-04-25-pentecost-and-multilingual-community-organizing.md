@@ -5,7 +5,7 @@ layout: event
 title: Pentecost and Multilingual Community Organizing
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
-image_filename: tupamahu-ekaputra.jpeg
+vimeo_id: '947499654'
 ---
 Click here to register: {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=3&reset=1" %}
 

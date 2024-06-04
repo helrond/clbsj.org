@@ -3,6 +3,7 @@ date: '2024-06-04'
 category: news
 layout: news-item
 title: June 2024 Fundraising Challenge
+image_filename: June 2024 Campaign.jpg
 ---
 _A Special Request from Nick Johnson, CLBSJ Board President_
 
@@ -32,4 +33,4 @@ Peace,
 
 Rev. Nick Johnson
 CLBSJ President/Board Chair
-on behalf of [the whole CLBSJ team](https://clbsj.org/about/leadership/)
+On behalf of [the whole CLBSJ team](https://clbsj.org/about/leadership/)

@@ -26,10 +26,9 @@ One-time donations are also extremely helpful. You can make a one-time or recurr
 
 I thank you sincerely for considering this request, and for all that you do for justice. As spring quickens into summer, may the wonders of creation continue to fill you with awe and hope!
 
-
 Peace,
 
-
+![Nick Johnson]({{site.baseurl}}/img/NickJohnson-signature-sm.jpeg)
 
 Rev. Nick Johnson
 CLBSJ President/Board Chair

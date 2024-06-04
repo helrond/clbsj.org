@@ -32,4 +32,4 @@ Peace,
 
 Rev. Nick Johnson
 CLBSJ President/Board Chair
-on behalf of the whole CLBSJ team
+on behalf of [the whole CLBSJ team](https://clbsj.org/about/leadership/)

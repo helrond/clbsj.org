@@ -31,6 +31,6 @@ Peace,
 
 ![Nick Johnson]({{site.baseurl}}/img/NickJohnson-signature-sm.jpeg)
 
-Rev. Nick Johnson
-CLBSJ President/Board Chair
+Rev. Nick Johnson<br>
+CLBSJ President/Board Chair<br>
 On behalf of [the whole CLBSJ team](https://clbsj.org/about/leadership/)

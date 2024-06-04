@@ -3,8 +3,16 @@ date: '2024-06-04'
 category: news
 layout: news-item
 title: June 2024 Fundraising Challenge
-image_filename: June 2024 Campaign.jpg
 ---
+
+
+<div class="image-right float-right">
+    <a href="/donate">
+        <img src="/img/June 2024 Campaign.jpg" alt="Bird flying towards CLBSJ logo with text Help CLBSJ unlock our potential!">
+    </a>
+</div>
+
+
 _A Special Request from Nick Johnson, CLBSJ Board President_
 
 Dear Friends of CLBSJ,

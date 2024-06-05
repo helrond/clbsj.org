@@ -27,7 +27,7 @@ Looking forward, our fourth annual Black August series this year will be focused
 
 I am continually impressed by all that CLBSJ pulls off with such a tiny budget. Like many justice-seeking non-profit organizations, we were not founded out of an abundance of financial wealth, but rather out of an abundance of vision. And it is that vision — of working collectively to reclaim the Bible for the building of a just society — that keeps so many offering their talent and resources. It is this generosity of spirit that propels us forward.
 
-Would you be able to join with this process today by making a monetary gift? As we gear up toward the transformative energy of the summer, I especially want to encourage you to consider becoming a monthly giver. If you could set aside $15, $50, or $150 a month, it would help so much to propel CLBSJ into the next phase of our growth.
+Would you be able to add to this momentum today by making a monetary gift? As we gear up toward the transformative energy of the summer, I especially want to encourage you to consider becoming a monthly giver. If you could set aside $15, $50, or $150 a month, it would help so much to propel CLBSJ into the next phase of our growth.
 
 {% include donate-button.html %}
 

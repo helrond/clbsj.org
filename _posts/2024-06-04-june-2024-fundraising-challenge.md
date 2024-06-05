@@ -29,9 +29,13 @@ I am continually impressed by all that CLBSJ pulls off with such a tiny budget. 
 
 Would you be able to join with this process today by making a monetary gift? As we gear up toward the transformative energy of the summer, I especially want to encourage you to consider becoming a monthly giver. If you could set aside $15, $50, or $150 a month, it would help so much to propel CLBSJ into the next phase of our growth.
 
+{% include donate-button.html %}
+
 In fact, knowing that we need to grow in order to be able to fully enact our visions, one of our donors has challenged us to recruit $1250/month in new recurring gifts. They will match all recurring gifts added from now through next April, up to $15,000. Can you help us reach this challenge?
 
 One-time donations are also extremely helpful. You can make a one-time or recurring gift at [clbsj.org/donate](https://clbsj.org/donate/), or follow the instructions on this page to send a check via mail. Gifts of all shapes and sizes will help carry us through 2024 and beyond.
+
+{% include donate-button.html %}
 
 I thank you sincerely for considering this request, and for all that you do for justice. As spring quickens into summer, may the wonders of creation continue to fill you with awe and hope!
 

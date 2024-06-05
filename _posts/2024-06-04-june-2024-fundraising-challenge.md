@@ -13,7 +13,7 @@ title: June 2024 Fundraising Challenge
 </div>
 
 
-_A Special Request from Nick Johnson, CLBSJ Board President_
+_A Mid-Year Report and Special Request from Nick Johnson, CLBSJ Board President_
 
 Dear Friends of CLBSJ,
 

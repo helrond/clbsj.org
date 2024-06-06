@@ -31,7 +31,7 @@ Would you be able to add to this momentum today by making a monetary gift? As we
 
 {% include donate-button.html %}
 
-In fact, knowing that we need to grow in order to be able to fully enact our visions, one of our donors has challenged us to recruit $1250/month in new recurring gifts. They will match all recurring gifts added from now through next April, up to $15,000. Can you help us reach this challenge?
+In fact, knowing that we need to grow in order to be able to fully enact our visions, one of our donors has challenged us to recruit $1250/month in new recurring gifts. They will match all recurring gifts added or increased from now through next April, up to $15,000. Can you help us reach this challenge?
 
 One-time donations are also extremely helpful. You can make a one-time or recurring gift at [clbsj.org/donate](https://clbsj.org/donate/), or follow the instructions on this page to send a check via mail. Gifts of all shapes and sizes will help carry us through 2024 and beyond.
 

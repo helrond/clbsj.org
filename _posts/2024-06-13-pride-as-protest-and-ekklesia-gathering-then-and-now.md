@@ -10,3 +10,5 @@ All are warmly invited to a roundtable discussion hosted by CLBSJ Board Member R
 
 <b>Register here:</b> 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=5&reset=1" %}
+
+**Rev. Dr. Eric A. Thomas** is an Assistant Professor of Bible at the General Theological Seminary of the Episcopal Church and pastor at Siloam Presbyterian Church in Bedford Stuyvesant, Brooklyn. His research interests include Queer biblical interpretation, Diasporic Studies and Homiletics. His research explores the potential for queer people of color to engage with scriptural texts to articulate and embody their own modes of flourishing.

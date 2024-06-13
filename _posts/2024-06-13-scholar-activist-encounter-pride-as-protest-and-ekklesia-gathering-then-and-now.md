@@ -1,10 +1,12 @@
 ---
-date: '2024-06-13 10:32 -0400'
-category: news
-layout: news-item
+date: '2024-06-27'
+category: events
+layout: event
 title: >-
   Scholar-Activist Encounter: Pride as Protest and Ekklesia (Gathering), Then
   and Now
+time: '7:30pm Eastern Time'
+series: scholar-activist-encounters
 ---
 All are warmly invited to a roundtable discussion hosted by CLBSJ Board Member Rev. Dr. Eric Thomas on the role of radical biblical interpretation in the Pride tradition, from the Stonewall Uprising to today. We will explore how embodied queer theologies and hermeneutics have evolved from the streets and the night clubs, to the sanctuaries and the academy, to resist toxic anti-LGBTQIA interpretation of scripture. 
 

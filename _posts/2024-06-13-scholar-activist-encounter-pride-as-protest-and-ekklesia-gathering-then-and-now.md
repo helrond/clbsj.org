@@ -2,9 +2,7 @@
 date: '2024-06-27'
 category: events
 layout: event
-title: >-
-  Scholar-Activist Encounter: Pride as Protest and Ekklesia (Gathering), Then
-  and Now
+title: 'Pride as Protest and Ekklesia (Gathering), Then and Now'
 time: '7:30pm Eastern Time'
 series: scholar-activist-encounters
 ---

@@ -2,12 +2,14 @@
 layout: leader-snippet
 title: Eric A. Thomas
 sort: thomas
-description: "Eric A. Thomas is an Assistant Professor of Bible at the General Theological Seminary of the Episcopal Church."
+description: >-
+  Eric A. Thomas is an Assistant Professor of Bible at the General Theological
+  Seminary of the Episcopal Church.
 job-title: Assistant Professor of Bible
 institution: General Theological Seminary of the Episcopal Church
 keywords: eric a thomas
 category: board-member
-image: "/img/board/thomas-ea.jpg"
+image: /img/board/thomas-ea.jpg
 ---
 
 Eric A. Thomas is an Assistant Professor of Bible at the General

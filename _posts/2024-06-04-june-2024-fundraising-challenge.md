@@ -2,7 +2,7 @@
 date: '2024-06-06'
 category: news
 layout: news-item
-title: June 2024 Fundraising Challenge
+title: Summer 2024 Fundraising Challenge
 ---
 
 

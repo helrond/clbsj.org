@@ -99,7 +99,7 @@ image_filename: BlackAugust2024.png
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
 CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Because we have set a goal to make our sessions more accessible to a wider number of time zones, we will hold sessions at two different times, Thursdays at 7:30pm Eastern US Time, and Saturdays at 11am Eastern US Time:
-- Thursday, August 1 — Opening Session with Hugh Page
+- Thursday, August 1 — Opening Session with Hugh Page and Elvine Belinda Andjembe Etogho
 - Thursday, August 8 - Steed Davidson
 - Thursday, August 15 - Kenneth Ngwa and Cleo Silvers
 - Saturday, August 24 - Musa Dube

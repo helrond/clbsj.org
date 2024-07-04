@@ -98,7 +98,14 @@ image_filename: BlackAugust2024.png
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
-CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Speakers will include Hugh Page and Musa Dube, with more to be announced. Check this page for updates.
+CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Because we have set a goal to make our sessions more accessible to a wider number of time zones, we will hold sessions at two different times, Thursdays and Saturdays:
+- Thursday, August 1 at 7:30pm Eastern US Time — Opening Session with Hugh Page
+- Thursday, August 8 at 7:30pm Eastern US Time - Steed Davidson
+- Thursday, August 15 at 7:30pm Eastern US Time - Kenneth Ngwa
+- Saturday, August 24 at 11am Eastern US Time - Musa Dube
+- Saturday, August 31 at 11am Eastern US Time - Closing Session with Alice Yafeh-Deigh, hosted by Sr. Sharifa Meytung
+
+Check this page for more details and registration links in the coming weeks!
 
 CLBSJ’s Black August Series is curated by Rev. Nicholas Johnson, Sr. Sharifa Vernice Meytung, Dr. Angela Parker, Rev. Dr. Hugh Page, Rev. Dr. Carolyn Grice, Warren Cooper, Sherly Fabre and Amy Dalton. Bios can be found below.
 

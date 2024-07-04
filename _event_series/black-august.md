@@ -105,7 +105,7 @@ CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspec
 - Saturday, August 24 at 11am Eastern US Time - Musa Dube
 - Saturday, August 31 at 11am Eastern US Time - Closing Session with Alice Yafeh-Deigh, hosted by Sr. Sharifa Meytung
 
-Check this page for more details and registration links in the coming weeks!
+Check this page for more details and registration links, coming soon!
 
 CLBSJ’s Black August Series is curated by Rev. Nicholas Johnson, Sr. Sharifa Vernice Meytung, Dr. Angela Parker, Rev. Dr. Hugh Page, Rev. Dr. Carolyn Grice, Warren Cooper, Sherly Fabre and Amy Dalton. Bios can be found below.
 

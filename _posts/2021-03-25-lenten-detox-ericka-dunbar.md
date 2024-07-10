@@ -2,7 +2,7 @@
 date: '2021-03-25'
 category: events
 layout: event
-series: lenten-detox
+series: bible-detox
 published: true
 vimeo_id: "530550161"
 time: '7:30pm Eastern Time'

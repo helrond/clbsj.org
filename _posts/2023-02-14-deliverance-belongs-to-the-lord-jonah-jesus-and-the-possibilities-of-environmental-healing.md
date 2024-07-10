@@ -7,14 +7,14 @@ title: >-
   Deliverance belongs to the Lord! Jonah, Jesus and the Possibilities of
   Environmental Healing
 time: '7:30pm Eastern Time'
-series: lenten-detox
+series: bible-detox
 vimeo_id: '815403112'
 ---
 In this session, Rev. Dr. Brian Fiu Kolia, a second-generation Australian-born Samoan, will share about the role of indigenous worldviews in detoxing from anthropocentric hermeneutical tendencies. He will draw from his research on “The I’a Tele (Great Fish) and the Search for Jonah: A Fāgogo Reading of [Jonah 1:17-2:10](https://bible.oremus.org/?ql=542899050). Kolia engages traditional Samoan culture to explore what the Great Fish may have been experiencing when it swallowed Jonah, and what message the text has for us today in light of the impending climate catastrophe. Dr. Kolia will be joined by Rev. Dr. Peggy Mulambya-Kabonde of the Circle of Concerned African Women Theologians. She will offer a response based on her climate justice activism, and reflect on the message that the Passion story holds for those who have ears to hear the suffering of Momma Earth.
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZMtdemhqjIvGdWbC48b1PvPXwTjNfmllnfe" %}
 
-Check [clbsj.org/events/lenten-detox](https://clbsj.org/events/lenten-detox/) for additional Detox sessions!
+Check [clbsj.org/events/bible-detox](https://clbsj.org/events/bible-detox/) for additional Detox sessions!
 
 **Rev. Dr. Brian Fiu Kolia** is a second-generation Australian-born Samoan. He hails from the Samoan villages of Sili, Satapuala (Sa-ta-pū-a-la), Faleaseela (Fa-le-a-seh'eh-lah) and Tufutafoe (Too-foo-tah-fō-eh). He is an ordained minister of the Congregational Christian Church Samoa, and a lecturer in Hebrew Bible/Old Testament at Mālua Theological College, while also serving as an adjunct lecturer at Trinity Theological College and Whitley College, both in Melbourne Australia. He holds a PhD from the University of Divinity in Melbourne, Australia. His research interests are in diasporic theory, critical race theory, decolonizing readings/interpretation, Hebrew Bible, biblical hermeneutics, and cultural & indigenous/native knowledge. More importantly, he is a husband to Tanaria and a father to Elichai.
 

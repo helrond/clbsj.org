@@ -5,14 +5,14 @@ layout: event
 published: true
 title: Reading Genesis for the Earth
 time: '7:30pm Eastern Time'
-series: lenten-detox
+series: bible-detox
 vimeo_id: '806071085'
 ---
 Passages in Genesis are among the core culprits in perpetuating theologies that justify the domination of humans over the environment, and over each other. Yet alternative Earth-positive readings and passages also abound. In this session, Dr. Miguel A. De La Torre and Rabbi Dr. Rachel S. Mikva will share hermeneutical perspectives that help to disarm toxic readings of texts such as [Genesis 1:26-28](https://bible.oremus.org/?ql=543410442), and draw out readings that support movements for climate justice and earth liberation.
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZIlcOCsrjouEtYOdybiCYTE0Hv5u8zaw01a" %}
 
-Check [clbsj.org/events/lenten-detox](https://clbsj.org/events/lenten-detox/) for additional Detox sessions!
+Check [clbsj.org/events/bible-detox](https://clbsj.org/events/bible-detox/) for additional Detox sessions!
 
 **Rabbi Dr. Rachel S. Mikva** is the Herman E. Schaalman Professor of Jewish Studies and Senior Faculty Fellow of the InterReligious Institute at Chicago Theological Seminary. Professor Mikva served as a congregational rabbi for thirteen years before returning to academia. Her research and teaching focus on interpretation of the Hebrew Bible in various times and places, exploring how the ideas both shape and reflect the societies in which they unfold. She is especially interested in the intersections of exegesis, culture and ethics. She is also an interfaith activist, a mother, an environmentalist, a feminist, an anti-racist, an empath, a pragmatist, and a perfectionist. Her recent publications include Dangerous Religious Ideas: The Deep Roots of Self-Critical Faith in Judaism, Christianity, and Islam (2020) and Midrash vaYosha: A Medieval Midrash on the Song at the Sea (2012). Read more at https://www.rachelmikva.com/
 

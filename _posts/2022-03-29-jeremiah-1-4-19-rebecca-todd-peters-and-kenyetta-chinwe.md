@@ -5,7 +5,7 @@ layout: event
 published: true
 title: 'Study of Jeremiah 1:4-19 led by Rebecca Todd Peters and Kenyetta Chinwe'
 time: '7:30 PM Eastern Time'
-series: lenten-detox
+series: bible-detox
 vimeo_id: '694100305'
 ---
 

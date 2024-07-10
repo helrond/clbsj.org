@@ -5,7 +5,7 @@ layout: event
 published: true
 title: 'Study of Mark 15:1-15 led by Tom Boomershine with Joyce Bressler, respondent'
 time: '7:30 PM Eastern Time'
-series: lenten-detox
+series: bible-detox
 vimeo_id: '697733301'
 ---
 In this session, Dr. Tom Boomershine explores the accounts of Jesus' appearance before Pontius Pilate, governor of the province of Judaea under the Roman Empire. Dr. Boomershine challenges the way this text has been interpreted to justify and perpetuate antisemitism, and he will propose how a rigorously contextual reading exposes this perspective to be unjustifiable, and to the contrary discloses the Gospel's central and radical call to peacemaking. Joyce Bressler, member of the Jewish circle of the Community of Living Traditions and a longtime peace activist, gives a response based on her experience in multifaith organizing.

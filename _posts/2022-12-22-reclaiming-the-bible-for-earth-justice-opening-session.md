@@ -4,7 +4,7 @@ category: events
 layout: event
 published: true
 title: Climate Change Deniers' Use of the Bible
-series: lenten-detox
+series: bible-detox
 time: '7:30PM Eastern Time'
 vimeo_id: '804923105'
 ---
@@ -14,7 +14,7 @@ Dr. Yee will be joined in dialogue with Rev. Laurel Dykstra from the Salal + Ced
 
 To register for this session, click here: {% include registration-button.html link="https://us02web.zoom.us/meeting/register/tZUud-utrj0jG9AKDqvHuYgOD63vFt4ect-Q" %}
 
-Check [clbsj.org/events/lenten-detox](https://clbsj.org/events/lenten-detox/) for additional Detox sessions!
+Check [clbsj.org/events/bible-detox](https://clbsj.org/events/bible-detox/) for additional Detox sessions!
 
 **Dr. Gale Yee** is a Hebrew Bible Scholar who has opened pathways for the interpretation of the Bible from feminist, postcolonial and Asian American perspectives. In 2019, she served as the first Asian American and first woman of color president of the Society of Biblical Literature. She currently lives at Pilgrim Place, a retirement community in Claremont, CA, known for its social activism. Her publications include _Towards and Asian American Biblical Hermeneutics: An Intersectional Anthology_ (2021). _Poor Banished Children of Eve: Woman as Evil in the Hebrew Bible_ (2003), and others. In 2020 she was awarded an honorary Doctor of Divinity from Virginia Theological Seminary. [Click here to read Full Bio](https://clbsj.org/about/leadership/gale-yee/)
 

@@ -98,16 +98,14 @@ image_filename: BlackAugust2024.png
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
-CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Because we have set a goal to make our sessions more accessible to a wider number of time zones, we will hold sessions at two different times, Thursdays at 7:30pm Eastern US Time, and Saturdays at 11am Eastern US Time:
-- Thursday, August 1 — Opening Session with Hugh Page and Elvine Belinda Andjembe Etogho
-- Thursday, August 8 - Steed Davidson
-- Thursday, August 15 - Kenneth Ngwa and Cleo Silvers
-- Saturday, August 24 - Musa Dube
-- Saturday, August 31 - Closing Session with Alice Yafeh-Deigh, hosted by Sr. Sharifa Meytung
+CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Because we have set a goal to make our sessions more accessible to a wider number of time zones, we will hold sessions at two different times, Thursdays at 7:30pm Eastern US Time, and Saturdays at 11am Eastern US Time. Click on the links below for more information and to register:
+- Thursday, August 1 — [Opening Session with Hugh Page and Elvine Belinda Andjembe Etogho](https://clbsj.civicrm.org/civicrm/event/info?id=6&reset=1)
+- Thursday, August 8 - [Steed Davidson](https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1)
+- Thursday, August 15 - [Kenneth Ngwa and Cleo Silvers](https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1)
+- Saturday, August 24 - [Musa Dube](https://clbsj.civicrm.org/civicrm/event/info?id=10&reset=1)
+- Saturday, August 31 - Closing Session with [Sr. Sharifa Meytung and Dr. Alice Yafeh-Deigh]( https://clbsj.civicrm.org/civicrm/event/info?id=11&reset=1)
 
-Check this page for more details and registration links, coming soon!
-
-CLBSJ’s Black August Series is curated by Rev. Nicholas Johnson, Sr. Sharifa Vernice Meytung, Dr. Angela Parker, Rev. Dr. Hugh Page, Rev. Dr. Carolyn Grice, Warren Cooper, Sherly Fabre and Amy Dalton. Bios can be found below.
+CLBSJ’s Black August Series is curated by Rev. Nicholas Johnson, Sr. Sharifa Vernice Meytung, Dr. Angela Parker, Rev. Dr. Hugh Page, Rev. Dr. Carolyn Grice, Rev. Dr. Eric Thomas, Sherly Fabre, Warren Cooper, and Amy Dalton. Bios can be found below.
 
 ## Black August Series History
 In 2021, as a way to act on our [Statement of Solidarity with Black Lives Matter Uprisings](https://clbsj.org/news/2020/07/13/statement-of-solidarity-with-black-lives-matter-uprisings/), CLBSJ began participating in the "Black August" tradition. For five evenings in August, we took a deep dive into the connections between our religious traditions and Black-led movements for racial justice and social transformation. The theme of this innaugural series was was "Why Black Religion Matters" and it was co-sponsored by the Community of Living Traditions. In 2022, we again convened weekly during August, this time with a focus in on the connections between our scriptural traditions and the movement to end mass incarceration. In 2023 we shifted our focus to the relationship between the struggle to overcome racism and the tradition of Black/Africana Biblical Scholarship, and were excited to welcome [Johnson C. Smith Theological Seminary](https://www.jcsts.org/) as a co-sponsor. As part of this journey, we also engaged with selections from the books [_Black Scholars Matter: Visions, Struggles, and Hopes in Africana Biblical Studies_](https://cart.sbl-site.org/books/0603112P) and [_Bitter the Chastening Rod: Africana Biblical Interpretation after Stony the Road We Trod in the Age of BLM, SayHerName, and MeToo_](https://rowman.com/ISBN/9781978712010/Bitter-the-Chastening-Rod-Africana-Biblical-Interpretation-after-Stony-the-Road-We-Trod-in-the-Age-of-BLM-SayHerName-and-MeToo), as well as other materials. Archives for all three years can be accessed below. 

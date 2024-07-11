@@ -1,7 +1,7 @@
 ---
 layout: leader-snippet
 title: Amy L. Dalton
-sort: dalton
+sort: 1
 description: >-
   Amy Dalton is a faith-rooted scholar-activist who has been active in peace and
   justice organizing since age 13 when she served on the Reconciling Committee

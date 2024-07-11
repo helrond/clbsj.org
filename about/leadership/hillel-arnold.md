@@ -1,7 +1,7 @@
 ---
 layout: leader-snippet
 title: Hillel Arnold
-sort: arnold
+sort: 4
 description: Hillel Arnold is the Associate Director of Archives and Chief Digital Strategies Officer at the Rockefeller Archive Center.
 keywords: hillel arnold
 category: staff

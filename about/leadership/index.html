@@ -14,6 +14,11 @@ keywords: board of directors
 {% assign advisory_committee_members = site.pages | where: 'category', 'advisory-committee-member' | sort: 'sort' %}
 {% assign in_memoriam_members = site.pages | where: 'category', 'in-memoriam' | sort: 'sort' %}
 
+<h2>Staff</h2>
+{% for page in staff_members %}
+  {% include staff.html %}
+{% endfor %}
+
 <h2>Board</h2>
 {% for page in president %}
   {% include officer.html %}
@@ -29,11 +34,6 @@ keywords: board of directors
   {% unless page.officer %}
     {% include board_member.html %}
   {% endunless %}
-{% endfor %}
-
-<h2>Staff</h2>
-{% for page in staff_members %}
-  {% include staff.html %}
 {% endfor %}
 
 <h2>Advisory Committee</h2>

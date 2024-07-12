@@ -8,4 +8,4 @@ series: black-august
 ---
 For our third Black August session, we will welcome Dr. Kenneth Ngwa and Ms. Cleo Silvers, who will both explore share about their work to organize and educate toward global transformation in our understanding of and commitment to the health of all people.
 
-{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1" %}
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1" %}

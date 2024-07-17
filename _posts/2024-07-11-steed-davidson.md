@@ -2,7 +2,7 @@
 date: '2024-08-08'
 category: events
 layout: event
-title: 'Steed Davidson: Biblical Ethiopianism and Beyond'
+title: Steed Davidson on Biblical Ethiopianism and Beyond
 time: '7:30pm Eastern US Time'
 series: black-august
 ---

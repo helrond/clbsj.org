@@ -2,7 +2,7 @@
 date: '2024-08-15'
 category: events
 layout: event-series
-title: Kenneth Ngwa and Cleo Silvers
+title: Kenneth Ngwa and Cleo Silvers on Health Equity Hermeneutics
 time: '7:30pm Eastern US Time'
 series: black-august
 ---

@@ -103,7 +103,7 @@ CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspec
 - Thursday, August 8 - [Steed Davidson on Biblical Ethiopianism and Beyond](https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1)
 - Thursday, August 15 - [Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health Equity](https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1)
 - Saturday, August 24 - [Musa Dube and Sithembiso Zwane on the Politics and Possibilities of Bible Translation](https://clbsj.civicrm.org/civicrm/event/info?id=10&reset=1)
-- Saturday, August 31 - Closing Session with [Sr. Sharifa Meytung and Dr. Alice Yafeh-Deigh]( https://clbsj.civicrm.org/civicrm/event/info?id=11&reset=1)
+- Saturday, August 31 - [Participatory Closing Session with Sr. Sharifa Meytung and Dr. Alice Yafeh-Deigh]( https://clbsj.civicrm.org/civicrm/event/info?id=11&reset=1)
 
 CLBSJ’s Black August Series is curated by Rev. Nicholas Johnson, Sr. Sharifa Vernice Meytung, Dr. Angela Parker, Rev. Dr. Hugh Page, Rev. Dr. Carolyn Grice, Rev. Dr. Eric Thomas, Sherly Fabre, Warren Cooper, and Amy Dalton. Bios can be found below.
 

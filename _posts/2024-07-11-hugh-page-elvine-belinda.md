@@ -6,7 +6,7 @@ title: Hugh Page and Elvine Belinda on African Liberation Today
 time: '7:30pm Eastern Daylight Time'
 series: black-august
 ---
-In the opening session of our 2024 Black August Series, we will start with a big picture look at Black and African liberation organizing and scriptural understanding.
+In the opening session of our 2024 Black August Series, we will take a big picture look at our series theme: Panafricanism, Internationalism and African Liberation -- what is going on today, and what does the Bible have to do with it? 
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?reset=1&id=6" %}
 

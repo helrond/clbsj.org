@@ -12,9 +12,7 @@ institution: University of Notre Dame
 image: /img/board/page.jpg
 published: true
 ---
-Hugh R. Page, Jr. is Professor of Theology and _Africana_ Studies; and Vice
-President and Associate Provost at the University of Notre Dame. He holds a
-PhD in Near Eastern Languages and Civilizations from Harvard University.  His
+Hugh R. Page, Jr. is Professor of Theology and Africana Studies as well as Vice President for Institutional Transformation and Advisor to the President at the University of Notre Dame. He holds a PhD in Near Eastern Languages and Civilizations from Harvard University.  His
 research interests include early Hebrew poetry; _Africana_ biblical interpretation;
 the role of mysticism and esotericism in Anglican and _Africana_ spiritualities; and
 the Blues aesthetic. His most recent sole-authored work is _Israel’s Poetry of

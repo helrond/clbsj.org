@@ -2,12 +2,11 @@
 date: '2024-08-08'
 category: events
 layout: event
-title: Steed Davidson on Biblical Ethiopianism and Beyond
+title: Steed Vernyl Davidson on Biblical Ethiopianism and Beyond
 time: '7:30pm Eastern US Time'
 series: black-august
 ---
-Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar and Executive Director of the Society of Biblical Literature, from Trinidad and Tobago. 
-Working with Jeremiah 38:7-13, Dr. Davidson will explore how Ethiopianism opened the space for the idealization of African and Africans in the Bible, as well as offering support for liberationist movements in the late 19th and 20th centuries.
+Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar and Executive Director of the Society of Biblical Literature, from Trinidad and Tobago. Working with Jeremiah 38:7-13, Dr. Davidson will explore how Ethiopianism contributed to the idealization of African and Africans in the Bible, as well as offering support for liberationist movements in the late 19th and 20th centuries.
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1" %}
 

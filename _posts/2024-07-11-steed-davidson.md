@@ -10,4 +10,9 @@ Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar 
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1" %}
 
+## Logistical Notes: 
+Please register separately for each session that you wish to attend. Donations are encouraged on a sliding scale basis, based on what you can pay. All are welcome regardless of ability to donate. We are using a new "cart" technology which allows you to register for multiple events at once -- please reach out to info@clbsj.org if you have any questions or technical issues with it!
+
+## Speaker Bios:
+
 **Dr. Steed Vernyl Davidson** began his tenure as executive director of the Society for Biblical Literature in June 2023. Prior to that, he was most recently on faculty at McCormick Theological Seminary, where he served as professor of Hebrew Bible and held the positions of vice president of academic affairs and dean of the faculty. Dr. Davidson's research focuses on the consequences of empire on the shape and reading of the Bible, using postcolonial and other critical theories to read and teach the Bible in diverse settings. He is the author of _Empire and Exile: Postcolonial Readings of Selected Texts of the Book of Jeremiah_ and a co-editor of _Prophetic Otherness: Constructions of Otherness in Prophetic Literature_. His internationalist scholarship draws from his experience as a native of Trinidad and Tobago, educated in Jamaica, Boston and New York.

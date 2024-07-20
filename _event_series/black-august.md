@@ -94,7 +94,7 @@ leadership:
       Conscience Support Network. Amy is the Executive Director of CLBSJ. See
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 image_alt_text: Black August series thumbnail
-image_filename: BlackAugust2024.jpg
+image_filename: BlackAugust2024-FullCalendar.jpg
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 

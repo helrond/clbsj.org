@@ -52,6 +52,11 @@ prose :
             element: "text"
             label: "Image Alt Text"
             help: "A human-readable description of the image"
+      - name: "image_link"
+        field:
+            element: "text"
+            label: "Image Link"
+            help: "A URL that the image should be linked to"
       - name: "slug"
         field:
           element: "text"

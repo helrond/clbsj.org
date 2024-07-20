@@ -108,6 +108,7 @@ leadership:
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 image_alt_text: Black August series thumbnail
 image_filename: BlackAugust2024-FullCalendar.jpg
+image_link: https://clbsj.civicrm.org/civicrm/event/list
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 

@@ -1,3 +1,9 @@
 <div class="image-right float-right">
+  {% if include.link %}
+  <a href="{{include.link}}">
+    <img src="/img/{{include.filename}}" alt="{{include.alt_text}}">
+  </a>
+  {% else %}
   <img src="/img/{{include.filename}}" alt="{{include.alt_text}}">
+  {% endif %}
 </div>

@@ -9,7 +9,7 @@ layout: level-two
 {%- endif -%}
 
 {%- if page.image_filename -%}
-{%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
+{%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text link=page.image_link -%}
 {%- endif -%}
 
 {{ content }}

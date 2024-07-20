@@ -10,7 +10,7 @@ keywords:
 sort_order: 1
 published: true
 leadership:
-  - name: Nicholas Johnson
+  - name: Rev. Nicholas Johnson
     description: >-
       Nick is a pastor at Raritan Valley Baptist Church, teacher of philosophy
       and religion at New Jersey City University, and a PhD candidate in New
@@ -19,11 +19,11 @@ leadership:
       Africana, postcolonial, and New Testament studies. Nick serves as the
       president of the CLBSJ Board. See full bio at        
       <https://clbsj.org/about/leadership/nicholas-a-johnson/>
-  - name: Hugh Page
+  - name: Rev. Dr. Hugh Page
     description: >-
-      Hugh R. Page, Jr. is Professor of Theology and Africana Studies and Vice
-      President and Associate Provost at the University of Notre Dame. His
-      research interests include early Hebrew poetry, Africana biblical
+      Rev. Dr. Hugh R. Page, Jr. is Professor of Theology and Africana Studies
+      and Vice President and Associate Provost at the University of Notre Dame.
+      His research interests include early Hebrew poetry, Africana biblical
       interpretation, the role of mysticism and esotericism in Anglican and
       Africana spiritualities, and the Blues aesthetic. He is an elected member
       of the Society for the Study of Black Religion (SSBR), a Research
@@ -31,6 +31,18 @@ leadership:
       Chair of the Council of the Society of Biblical Literature, and a member
       of the CLBSJ Board. See full bio at
       <https://clbsj.org/about/leadership/hugh-r-page/>
+  - name: Sr. Sharifa Vernice Meytung
+    description: >-
+      An African-American artist and haijin (a writer of haiku poetry), Sr.
+      Sharifa is a teacher and lay religious practitioner in the Catholic and
+      Buddhist traditions. Her practice is also steeped in and informed by West
+      African, Native and HipHop traditions. Her media books and CDs include
+      _Oil For The Lamp: 7 Virtues of Human Character Development_, _Hiphop
+      H.A.I.K.U. Vol 1 and 2_, _Rough Ground_, and she is currently producing an
+      online video series focused on the study of the Jataka Tales of early
+      Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia
+      Buddhist Association. See full bio at
+      <https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/>     
   - name: Sr. Sharifa Vernice Meytung
     description: >-
       An African-American artist and haijin (a writer of haiku poetry), Sr.

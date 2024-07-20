@@ -98,12 +98,7 @@ image_filename: BlackAugust2024.jpg
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
-CLBSJ's fourth annual Black August series is focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Starting August 1, biblical scholars and grassroots leaders will come together weekly to discuss what is going on today in the movement for African Liberation, and what does the Bible have to do with it? Click on the links below for more information on each session, and to register:
-- Thursday, August 1 — [Rev. Dr. Hugh Page and Elvine Belinda Andjembe Etogho on African Liberation Today](https://clbsj.civicrm.org/civicrm/event/info?id=6&reset=1)
-- Thursday, August 8 - [Dr. Steed Vernyl Davidson on Biblical Ethiopianism and Beyond](https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1)
-- Thursday, August 15 - [Rev. Dr. Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health Equity](https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1)
-- Saturday, August 24 - [Dr. Musa Dube and Sithembiso Zwane on the Politics and Possibilities of Bible Translation](https://clbsj.civicrm.org/civicrm/event/info?id=10&reset=1)
-- Saturday, August 31 - [Participatory Closing Session with Sr. Sharifa Meytung and Dr. Alice Yafeh-Deigh]( https://clbsj.civicrm.org/civicrm/event/info?id=11&reset=1)
+CLBSJ's fourth annual Black August series is focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Starting August 1, biblical scholars and grassroots leaders will come together weekly to discuss what is going on today in the movement for African Liberation, and what does the Bible have to do with it? [Click here to register for one or more session](https://clbsj.civicrm.org/civicrm/event/list), or scroll down to access links with more details on each session.
 
 ## Logistical Notes: 
 Because we have set a goal to make our sessions more accessible to a wider section of the globe, this year we will hold sessions at two different times. The first three sessions will be at our usual time, Thursdays at 7:30pm Eastern US Time, and the last two sessions will be on Saturdays at 11am Eastern US Time, which is 4pm West Africa Time and 5pm Central Africa Time.

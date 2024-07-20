@@ -12,9 +12,14 @@ Our fourth Black August session will feature Dr. Musa Wenkosi Dube Shomanah, Bot
 
 Dr. Dube will discuss the call she delivered to the field of biblical scholarship in November 2023 to direct scholarly attention toward researching and understanding the process of Biblical translation into the many languages around the world. She will be joined by Sithembiso Zwane, who will offer a response based on his work developing the Contextual Bible Study (CBS) tradition, a popular bible study methodology aimed at working with grassroots communities to read the Bible in the context of social change initiatives.
 
-_Please note this session will take place at a different day and time of the week than the previous three sessions!_
-
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=10&reset=1" %}
+
+## Logistical Notes: 
+_**Please note:** This session takes place at a different day and time of the week than the previous three sessions!_
+
+Please register separately for each session that you wish to attend. Donations are encouraged on a sliding scale basis, based on what you can pay. All are welcome regardless of ability to donate. We are using a new "cart" technology which allows you to register for multiple events at once -- please reach out to info@clbsj.org if you have any questions or technical issues with it!
+
+## Speaker Bios:
 
 **Dr. Musa Wenkosi Dube Shomanah** is the William Ragsdale Cannon Distinguished Professor of New Testament at Candler School of Theology. Prior to that, she has held positions at the University of Botswana, the World Council Churches, Scripps College, Union Theological Seminary, University of Stellenbosch, University of Bamberg, and University of South Africa. Particularly known for her work as a postcolonial feminist theologian, her research interests include gender, postcolonialism, translation, and HIV and AIDS studies. She has authored 262 academic works published in journals, books, encyclopedias, educational modules, and magazines, and has edited 12 volumes -- including Postcoloniality, Translation, and the Bible in Africa (Wipf and Stock, 2017) and The Bible in Africa: Transactions, Trajectories, and Trends (Brill, 2000). Dube is the current continental coordinator of The Circle of Concerned African Women Theologians, and recently finished her term as the first African president of the Society of Bibilcal Literature. She is a member and lay preacher in The United Methodist Church.
 

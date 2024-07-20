@@ -99,10 +99,10 @@ image_filename: BlackAugust2024.png
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
 CLBSJ's fourth annual Black August series will be focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Because we have set a goal to make our sessions more accessible to a wider number of time zones, we will hold sessions at two different times, Thursdays at 7:30pm Eastern US Time, and Saturdays at 11am Eastern US Time. Click on the links below for more information and to register:
-- Thursday, August 1 — [Hugh Page and Elvine Belinda Andjembe Etogho on African Liberation Today](https://clbsj.civicrm.org/civicrm/event/info?id=6&reset=1)
-- Thursday, August 8 - [Steed Davidson on Biblical Ethiopianism and Beyond](https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1)
-- Thursday, August 15 - [Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health Equity](https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1)
-- Saturday, August 24 - [Musa Dube and Sithembiso Zwane on the Politics and Possibilities of Bible Translation](https://clbsj.civicrm.org/civicrm/event/info?id=10&reset=1)
+- Thursday, August 1 — [Rev. Dr. Hugh Page and Elvine Belinda Andjembe Etogho on African Liberation Today](https://clbsj.civicrm.org/civicrm/event/info?id=6&reset=1)
+- Thursday, August 8 - [Dr. Steed Vernyl Davidson on Biblical Ethiopianism and Beyond](https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1)
+- Thursday, August 15 - [Rev. Dr. Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health Equity](https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1)
+- Saturday, August 24 - [Dr. Musa Dube and Sithembiso Zwane on the Politics and Possibilities of Bible Translation](https://clbsj.civicrm.org/civicrm/event/info?id=10&reset=1)
 - Saturday, August 31 - [Participatory Closing Session with Sr. Sharifa Meytung and Dr. Alice Yafeh-Deigh]( https://clbsj.civicrm.org/civicrm/event/info?id=11&reset=1)
 
 CLBSJ’s Black August Series is curated by Rev. Nicholas Johnson, Sr. Sharifa Vernice Meytung, Dr. Angela Parker, Rev. Dr. Hugh Page, Rev. Dr. Carolyn Grice, Rev. Dr. Eric Thomas, Sherly Fabre, Warren Cooper, and Amy Dalton. Bios can be found below.

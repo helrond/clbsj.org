@@ -43,18 +43,19 @@ leadership:
       Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia
       Buddhist Association. See full bio at
       <https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/>     
-  - name: Sr. Sharifa Vernice Meytung
+  - name: Rev. Dr. Eric A. Thomas
     description: >-
-      An African-American artist and haijin (a writer of haiku poetry), Sr.
-      Sharifa is a teacher and lay religious practitioner in the Catholic and
-      Buddhist traditions. Her practice is also steeped in and informed by West
-      African, Native and HipHop traditions. Her media books and CDs include
-      _Oil For The Lamp: 7 Virtues of Human Character Development_, _Hiphop
-      H.A.I.K.U. Vol 1 and 2_, _Rough Ground_, and she is currently producing an
-      online video series focused on the study of the Jataka Tales of early
-      Buddhism. Sister Sharifa serves on the Board of CLBSJ and the Philadelphia
-      Buddhist Association. See full bio at
-      <https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/>
+      Rev. Dr. Eric A. Thomas is an Assistant Professor of Bible at the General
+      Theological Seminary of the Episcopal Church and pastor at Siloam
+      Presbyterian Church in Bedford Stuyvesant, Brooklyn. His research
+      interests include Queer biblical interpretation, Diasporic Studies and
+      Homiletics. His research explores the potential for queer people of color
+      to engage with scriptural texts to articulate and embody their own modes
+      of flourishing. Eric is a graduate of Drew University where he completed
+      the Ph.D. in New Testament with concentrations in Africana, and Women and
+      Gender Studies, and the Interdenominational Theological Center where he
+      completed his M.Div. See Full Bio at
+      <https://clbsj.org/about/leadership/eric-a-thomas/>
   - name: Sherly Fabre
     description: >-
       A Haitian-American immigrant who grew up Catholic and converted to Islam,

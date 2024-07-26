@@ -158,8 +158,8 @@ footer {
 }
 
 .home-section {
-  padding-bottom: 10%;
-  padding-top: 10%;
+  padding-bottom: 5%;
+  padding-top: 5%;
 }
 
 .home-library {
@@ -285,4 +285,27 @@ footer {
   background: rgba(10,10,10,.5);
   padding: 1em;
   text-align: center;
+}
+
+.home-card__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.home-card {
+ box-sizing: border-box;
+ padding: 1em;
+ margin: 1em;
+ min-height: 15em;
+ border: 1px solid rgba(10,10,10,.25);
+  // align-items: flex-start;
+  // align-content: space-between;
+  width: calc(50% - 2em);
+  @media #{$large-up} {
+    width: calc(25% - 2em);
+  }
+  & h2 {
+    font-size: 2em;
+  }
 }

@@ -9,6 +9,8 @@ image_filename: BlackAugust2024-Session1.jpg
 ---
 In the opening session of our 2024 Black August Series, we will take a big picture look at our series theme: Panafricanism, Internationalism and African Liberation -- what is going on today, and what does the Bible have to do with it? 
 
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?reset=1&id=6" %}
+
 Elvine Belinda Andjembe Etogho, Gabonese anti-colonial and activist and diaspora organizer, will ground us with an overview of the liberation movements currently unfolding in Africa and in PanAfrican communities. Rev. Dr. Hugh Page, Jr., general editor of _The Africana Bible: Reading Israel's Scriptures from Africa and the African Diaspora, 2nd Ed._, will discuss how Africana (African and African-Diasporan) understandings of the Hebrew Bible have developed in relation to social, political-economic, and historical circumstances, especially the continuing legacy of the colonial era. We will then discuss the interpretive questions that are alive and urgent in the current moment.
 
 This session will be hosted by CLBSJ Board President, Rev. Nicholas Johnson.

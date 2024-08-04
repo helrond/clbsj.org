@@ -10,7 +10,7 @@ series: black-august
 ---
 For our third Black August session, we will welcome Rev. Dr. Kenneth Ngwa and Cleo Silvers, who will both share about their work to organize and educate toward global transformation in our understanding of and commitment to the health of all people. Dr. Ngwa will discuss his efforts to innovate a Health Equity Hermeneutics, and how this work is rooted in an Africana reading of the Bible. Ms. Silvers will reflect on her history at the frontlines of Black Liberation organizing for health equity, especially her working relationship with Dr. Mutulu Shakur, and how her formation in the Black church informed her commitment to radical health organizing. 
 
-{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1" %}
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 
 ## Logistical Notes: 
 Please register separately for each session that you wish to attend. Donations are encouraged on a sliding scale basis, based on what you can pay. All are welcome regardless of ability to donate. We are using a new "cart" technology which allows you to register for multiple events at once -- please reach out to info@clbsj.org if you have any questions or technical issues with it!

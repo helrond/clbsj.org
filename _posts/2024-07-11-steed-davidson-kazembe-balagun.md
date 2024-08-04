@@ -10,7 +10,7 @@ Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar 
 
 Working with Jeremiah 38:7-13, Dr. Davidson will explore how Ethiopianism contributed to the idealization of African and Africans in the Bible, as well as offering support for liberationist movements in the late 19th and 20th centuries. Mr. Balagun will offer a response based on his work cultivating the internationalist tendencies within the Black Lives Matter movement.
 
-{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=7&reset=1" %}
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 
 ## Logistical Notes: 
 Please register separately for each session that you wish to attend. Donations are encouraged on a sliding scale basis, based on what you can pay. All are welcome regardless of ability to donate. We are using a new "cart" technology which allows you to register for multiple events at once -- please reach out to info@clbsj.org if you have any questions or technical issues with it!

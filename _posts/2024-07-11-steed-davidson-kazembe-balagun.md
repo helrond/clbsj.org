@@ -7,7 +7,13 @@ time: '7:30pm Eastern US Time'
 series: black-august
 image_filename: BlackAugust2024-Session2.jpg
 ---
-Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar from Trinidad and Tobago who serves as executive director of the Society of Biblical Literature, in conversation with Kazembe Balagun, longtime community organizer and cultural activist who serves as the executive director at the Maysles Documentary Center in Harlem. Working with Jeremiah 38:7-13, Dr. Davidson will explore how Ethiopianism contributed to the idealization of African and Africans in the Bible, as well as offering support for liberationist movements in the late 19th and 20th centuries. Mr. Balagun will offer a response based on his work cultivating the internationalist tendencies within the Black Lives Matter movement. This session will be hosted by Black August Leadership Team member Rev. Dr. Carolyn Grice.
+Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar from Trinidad and Tobago who serves as executive director of the Society of Biblical Literature, in conversation with Kazembe Balagun, longtime community organizer and cultural activist who serves as the executive director at the Maysles Documentary Center in Harlem. 
+
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
+
+Working with Jeremiah 38:7-13, Dr. Davidson will explore how Ethiopianism contributed to the idealization of African and Africans in the Bible, as well as offering support for liberationist movements in the late 19th and 20th centuries. Mr. Balagun will offer a response based on his work cultivating the internationalist tendencies within the Black Lives Matter movement.
+
+This session will be hosted by Black August Leadership Team member Rev. Dr. Carolyn Grice.
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 

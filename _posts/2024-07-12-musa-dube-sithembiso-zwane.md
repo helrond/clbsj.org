@@ -13,6 +13,8 @@ Our fourth Black August session will feature Dr. Musa Wenkosi Dube Shomanah, Bot
 
 Dr. Dube will discuss the call she delivered to the field of biblical scholarship in November 2023 to direct scholarly attention toward researching and understanding the process of Biblical translation into the many languages around the world. She will be joined by Sithembiso Zwane, who will offer a response based on his work developing the Contextual Bible Study (CBS) tradition, a popular bible study methodology aimed at working with grassroots communities to read the Bible in the context of social change initiatives.
 
+This session will be hosted by Dr. Angela Parker.
+
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 
 ## Logistical Notes: 

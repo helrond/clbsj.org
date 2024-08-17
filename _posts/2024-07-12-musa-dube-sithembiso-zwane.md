@@ -7,6 +7,7 @@ title: >-
   Translation
 time: 11am Eastern US Time
 series: black-august
+image_filename: BlackAugust2024-Session4.jpg
 ---
 Our fourth Black August session will feature Dr. Musa Wenkosi Dube Shomanah, Botswanan biblical scholar and first African President of the Society of Biblical Literature, in conversation with Sithembiso Zwane, director of the Ujamaa Centre for Biblical and Theological Community Development and Research in KwaZulu-Natal, South Africa.
 
@@ -15,7 +16,7 @@ Dr. Dube will discuss the call she delivered to the field of biblical scholarshi
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 
 ## Logistical Notes: 
-_**Please note:** This session takes place at a different day and time of the week than the previous three sessions!_
+_**Please note:** This session takes place at a different day and time of the week than the previous three sessions!_ In an effort to make the series more accessible to a wider section of the globe, the last two sessions will be on Saturdays at 11am Eastern US Time, which is 4pm West Africa Time and 5pm Central Africa Time.
 
 Please register separately for each session that you wish to attend. Donations are encouraged on a sliding scale basis, based on what you can pay. All are welcome regardless of ability to donate. We are using a new "cart" technology which allows you to register for multiple events at once -- please reach out to info@clbsj.org if you have any questions or technical issues with it!
 

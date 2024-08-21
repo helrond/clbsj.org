@@ -3,7 +3,7 @@ date: '2024-08-31'
 category: events
 layout: event
 title: >-
-  Integration and Reflection: a Participatory Closing Session with Sr. Sharifa
+  Integration and Reflection — a Participatory Closing Session with Sr. Sharifa
   Meytung and Dr. Alice Yafeh-Deigh
 time: 11am Eastern US Time
 series: black-august

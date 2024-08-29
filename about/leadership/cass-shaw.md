@@ -2,15 +2,18 @@
 layout: leader-snippet
 title: Cass Shaw
 sort: shaw
-description: "Cass Shaw began her tenure as the CEO of The Council of Churches of Greater Bridgeport (CCGB) in June, 2013."
+description: >-
+  Cass Shaw began her tenure as the CEO of The Council of Churches of Greater
+  Bridgeport (CCGB) in June, 2013.
 officer: Treasurer
 job-title: CEO
 institution: The Council of Churches of Greater Bridgeport
 keywords: cass shaw
 category: board-member
-image: "/img/board/shaw.jpg"
+image: /img/board/shaw.jpg
 ---
+Cass Shaw is an honorably retired Minister of Word and Sacrament in the PCUSA.  Her most recent call was as CEO of The Council of Churches of Greater Bridgeport, in Bridgeport, CT, where she still lives.
 
-Cass Shaw began her tenure as the CEO of The Council of Churches of Greater Bridgeport (CCGB) in June, 2013. She received her B.A. in religious studies from Smith College in Northampton, MA, and an M.Div. from Princeton Theological Seminary.
+After ordination in 1980, Cass served as Pastor of a church in Cape May, New Jersey, then as Chaplain of the Kodaikanal International School and Pastor of a small interdenominational church in South India. Upon her return to the States, she served as the Associate Pastor of a church in Tenafly, NJ, then pastored a multi-racial church in New City, NY before going to Albany Presbytery where she spent 13 years as its Executive Presbyter.
 
-Prior to coming to Bridgeport to lead CCGB into the future, Cass served for 13 years as General Presbyter of Albany Presbytery in upstate NY, serving 70 Presbyterian churches. She has also served on a number of non-profit Boards; including the Advisory Board of Stony Point Center. She also chaired the Social Witness Commission of the New York State Council of Churches before coming to Bridgeport. After ordination in 1980, Cass served as Pastor of a church in Cape May, New Jersey for 6 years. She then spent 4 years working in South India, in the state of Tamil Nadu, where she served as Chaplain of the Kodaikanal International School and Pastor of a small interdenominational church. Upon her return to the States, she spent five years as the Associate Pastor of a church in Tenafly, NJ. She then pastored a multi-racial church in New City, NY before going to Albany Presbytery in 2013.
+Cass now spends her time working on police accountability and juvenile justice reform in Bridgeport, volunteering on several non profit boards, and teaching pottery at a local art studio.  She enjoys scuba diving, traveling, and has a 32 year old daughter who lives way too far away in San Francisco.

@@ -100,6 +100,10 @@ scholar, teacher, and agent for social justice, not to forget his
 towering achievement as co-founder of our cherished Center and Library
 for the Bible and Social Justice.
 
+## Additional Tributes
+
+[Video Archive: Remembering John H. "Jack" Elliott at SBL](https://clbsj.org/events/2021/11/21/remembering-john-h-elliott/)
+
 ## Selected Bibliography
 
 _The Elect and the Holy. An Exegetical Examination of 1 Peter 2:4-10 and the Phrase basileion hierateuma._ Supplements to Novum Testamentum 12. Leiden: E. J. Brill, 1966; reprinted, Wipf & Stock, Eugene, OR, 2006.

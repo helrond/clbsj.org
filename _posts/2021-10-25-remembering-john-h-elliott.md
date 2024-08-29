@@ -22,4 +22,6 @@ If you will be attending AAR/SBL in person in San Antonio, we will gather at the
 
 [Click here to read more about Jack.](https://clbsj.org/about/leadership/john-h-elliott/ )
 
+[Click here to read Norman Gottwald's tribute to Jack](https://clbsj.org/news/2020/12/22/a-tribute-to-jack-elliott/)
+
 _Photo: [Jack speaks at CLBSJ's inaugural gathering](https://clbsj.org/events/2011/10/22/opening-weekend/). © Tim Nafziger, used with permission._

@@ -5,7 +5,7 @@ layout: news-item
 title: 'CLBSJ Read-a-Thon 2024: Reading Audaciously!'
 image_filename: Readathon2024-Insta.jpg
 ---
-_**This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts. **_
+**This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts.**
 
 Over the past few years, the number of books being banned has been on the rise, and at the same time efforts are underway to require that the Bible be studied in public schools. CLBSJ supports studying the Bible, _and_ studying and engaging with all expressions that arise out of the many facets of human cultural and political-economic contexts. Centralizing one while demonizing the other does not lead to understanding. Rather, we gain understanding by intentionally placing our communities’ texts in conversation with the Bible.
 

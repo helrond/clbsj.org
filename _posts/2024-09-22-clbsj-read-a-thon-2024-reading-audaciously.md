@@ -3,7 +3,6 @@ date: '2024-09-22 11:46 -0400'
 category: news
 layout: news-item
 title: 'CLBSJ Read-a-Thon 2024: Reading Audaciously!'
-published: false
 ---
 **_This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts. 
 _**

@@ -15,4 +15,4 @@ Over the past few years, the number of books being banned has been on the rise, 
 - Dong is “reading” _Dropping a Han Dynasty Urn_ by Ai Wei Wei (visual art)
 For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” Follow us on social media to hear our learnings!
 
-What are you reading? Why is it controversial? And how does it impact your understanding of what the Bible has to say to the world right now? Share about your reading and get connected at https://forms.gle/fucEoTWnoQ6mMEeV8
+What are you reading? Why is it controversial? And how does it impact your understanding of what the Bible has to say to the world right now? Share about your reading and get connected at [https://forms.gle/fucEoTWnoQ6mMEeV8](https://forms.gle/fucEoTWnoQ6mMEeV8)

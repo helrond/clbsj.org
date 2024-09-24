@@ -18,3 +18,8 @@ Over the past few years, the number of books being banned has been on the rise, 
 For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” Follow us on social media to hear our learnings!
 
 What are you reading? Why is it controversial? And how does it impact your understanding of what the Bible has to say to the world right now? Share about your reading and get connected at [https://forms.gle/fucEoTWnoQ6mMEeV8](https://forms.gle/fucEoTWnoQ6mMEeV8)
+
+Help boost our signal on social media!
+- [Facebook](https://www.facebook.com/clbsj/posts/pfbid0JSprJ7yLXX8RzhULBM9EMng56oxNas7muWoLCfabcrZHR18TNiku7YXkjaHXAEFnl )
+- [Instagram](https://www.instagram.com/p/DAPC5fnScpj/ )
+- [Twitter](https://x.com/clbsj/status/1837974001681158508)

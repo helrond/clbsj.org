@@ -4,6 +4,7 @@ category: news
 layout: news-item
 title: A reflection on Maia Kobabe’s Gender Queer by Amy Dalton
 series: from-the-stacks
+image_filename: ALA-GenderQueer.png
 ---
 On top of the list of the ten most banned books of the last year is Maia Kobabe’s _Gender Queer_, an autobiographical graphic novel.[1] The work was also cited by Oklahoma State Superintendent of Education Ryan Walters as “not on the same plane” as the Bible, when he was asked why he didn’t ban the Bible if he was concerned with banning material that is filled with sexuality and violence.[2] He went on to disparage the book as “pornography” — which honestly makes me wonder if he has even read it, as the protagonist in this memoir is mostly uninterested in sex. This lack of interest in fact is one of the main dilemmas that prompts the journey of identity questioning and self-exploration documented in its beautifully illustrated pages.
 

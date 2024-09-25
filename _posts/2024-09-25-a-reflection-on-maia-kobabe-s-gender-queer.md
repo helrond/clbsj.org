@@ -15,7 +15,7 @@ I also experienced biblical resonance in _Gender Queer_ mediated by a song, whic
 
 I experienced resonance with “Simple Gifts” at many points throughout the book, but most strongly was on page 191 where Kobabe compares the experience of androgyny, or having no gender identity, as like a “wild forest” that is found between the mountains and the sea. “This is where I want to make my home,” e writes. This reminds me of the line in Simple Gifts:
 
-> And when we find ourselves in the place just right,
+> And when we find ourselves in the place just right,<br>
 > ‘Twill be in the valley of love and delight.
 
 Both the valley and the wild forest are spaces between in which the fixations of the world, which so often race madly toward polarized/-ing binaries, can be transcended. Both Brackett’s song and Kobabe’s book capture the level at which this space is a sanctuary for those who seek it. That societal momentum that keeps pushing us toward polarizing identities and experiences is painful for everyone, but some more sensitive souls are more in touch with how deeply compromising it is. For some, it is gender binaries that raise this awareness; for others, other binaries weigh heavily and painfully until we find and forge ways to undo their constraints.

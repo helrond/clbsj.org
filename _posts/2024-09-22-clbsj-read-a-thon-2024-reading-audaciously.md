@@ -12,7 +12,7 @@ Over the past few years, the number of books being banned has been on the rise, 
 **Join in!** We call on all those who value critical thinking to join this campaign by intentionally reading a controversial text alongside resonant biblical passages. A “text” does not have to be in the shape of a book — it can be a poem, a podcast, even a work of art. A text is anything that documents and communicates culture and political-economic context. Below are a few examples:
 - Gale is reading _The Hundred Years’ War on Palestine_ by Rashid Khalidi (book)
 - Betsy is reading _Nineteen Minutes_ by Jodi Picoult (book)
-- Amy is reading _Gender Queer_ by Maia Kobabe (graphic novel)
+- Amy is reading _Gender Queer_ by Maia Kobabe (graphic memoir)
 - Dong is “reading” _Dropping a Han Dynasty Urn_ by Ai Wei Wei (visual art)
 
 For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” Follow us on social media to hear our learnings!

@@ -25,7 +25,7 @@ I think this is the same possibility that the apostle Paul was trying to impart 
 Understanding this (albeit through a glass darkly), I welcome the transformation and testimony of brave souls like Kobabe as to how deeply they had to dive in order to find their way to the blessed and beautiful “third space.” May we take the time and heart to learn from them!
 
 References:<br>
-1- [https://www.ala.org/bbooks/frequentlychallengedbooks/top10](https://www.ala.org/bbooks/frequentlychallengedbooks/top10) <br>
+1- [https://www.ala.org/bbooks/frequentlychallengedbooks/top10](https://www.ala.org/bbooks/frequentlychallengedbooks/top10) and [https://www.ala.org/bbooks/frequentlychallengedbooks/top10/archive](https://www.ala.org/bbooks/frequentlychallengedbooks/top10/archive) <br>
 2- [https://www.foxnews.com/media/oklahoma-schools-chief-spars-cnn-host-over-teaching-bible-classrooms-heated-interview](https://www.foxnews.com/media/oklahoma-schools-chief-spars-cnn-host-over-teaching-bible-classrooms-heated-interview) <br>
 3- [https://en.wikipedia.org/wiki/Spivak_pronoun](https://en.wikipedia.org/wiki/Spivak_pronoun) <br>
 4- Brigitte Kahl, Galatians Re-Imagined (2010), p20. [https://www.jstor.org/stable/j.ctv19cwb7n](https://www.jstor.org/stable/j.ctv19cwb7n)

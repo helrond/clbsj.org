@@ -7,7 +7,7 @@ series: from-the-stacks
 author: Betsy Simpson
 image_filename: NineteenMinutes-BannedBook.jpg
 ---
-Jodi Picoult’s book, _Nineteen Minutes_, is a fictional story about a school shooting at a high school in a relatively small community. The shooter is a 17-year-old boy who has been bullied since early childhood, had inadequate family support and virtually no school support the few times he dared to ask. Picoult shared various background snippets illuminating the relationships Peter, the shooter, had with “the cool kids” who were jocks, popular girls and guys while he was ostracized and humiliated over and over again.
+Jodi Picoult’s book, _Nineteen Minutes_, is a fictional story about a mass shooting at a high school in a relatively small community. The shooter is a 17-year-old boy who has been bullied since early childhood, had inadequate family support and virtually no school support the few times he dared to ask. Picoult shared various background snippets illuminating the relationships Peter, the shooter, had with “the cool kids” who were jocks, popular girls and guys while he was ostracized and humiliated over and over again.
 
 This story gave me pause as I reflected on how many school shootings have occurred in the past few months and years and some common threads connecting most, if not all of them. In addition to being rife in our society, themes of bullying, judging perceived outsiders vs insiders, friendship and loneliness, pain and anger, guilt and forgiveness are all themes that we find throughout the Bible.
 

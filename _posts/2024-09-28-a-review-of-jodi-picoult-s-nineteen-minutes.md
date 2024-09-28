@@ -3,7 +3,9 @@ date: '2024-09-28 14:20 -0400'
 category: news
 layout: news-item
 title: A Review of Jodi Picoult’s Nineteen Minutes
-series: from-the-stacks
+series: 
+    - from-the-stacks
+    - reading-audaciously
 author: Betsy Simpson
 image_filename: NineteenMinutes-BannedBook.jpg
 ---

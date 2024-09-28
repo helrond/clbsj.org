@@ -5,6 +5,7 @@ layout: news-item
 title: A Review of Jodi Picoult’s Nineteen Minutes
 series: from-the-stacks
 author: Betsy Simpson
+image_filename: NineteenMinutes-BannedBook.jpg
 ---
 Jodi Picoult’s book, _Nineteen Minutes_, is a fictional story about a school shooting at a high school in a relatively small community. The shooter is a 17-year-old boy who has been bullied since early childhood, had inadequate family support and virtually no school support the few times he dared to ask. Picoult shared various background snippets illuminating the relationships Peter, the shooter, had with “the cool kids” who were jocks, popular girls and guys while he was ostracized and humiliated over and over again.
 
@@ -23,4 +24,4 @@ We need all “cool kids,” — as well as successful students, athletes and yo
 Despite its timely and urgent message, this book has been banned book in some schools because there are scenes of violence, sexuality and profanity. Yet, a letter from a member of the National Coalition Against Censorship made a strong argument in favor of allowing this excellent book to remain in the high school library.[2] Citing the recommendation of a committee of teachers, a school principal, a librarian and a school psychologist who reviewed the book, the NCAC hoped to ensure the students’ right to read, inquire, question and think for themselves about challenging material. I highly recommend this book for the edification of all “cool kids” — as well as the rest of us.
 
 1- [https://aleteia.org/2018/09/29/when-us-vs-them-poisoned-the-apostles-the-way-its-poisoning-us](https://aleteia.org/2018/09/29/when-us-vs-them-poisoned-the-apostles-the-way-its-poisoning-us) 
-2- [https://ncac.org/incident/letter-opposing-challenges-to-nineteen-minutes-by-jodi-picoult](https://ncac.org/incident/letter-opposing-challenges-to-nineteen-minutes-by-jodi-picoult) 
+2- [https://ncac.org/incident/letter-opposing-challenges-to-nineteen-minutes-by-jodi-picoult](https://ncac.org/incident/letter-opposing-challenges-to-nineteen-minutes-by-jodi-picoult)

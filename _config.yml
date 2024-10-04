@@ -163,7 +163,7 @@ prose :
           help: "For news items, choose News Item, for events, choose Event. For special series, choose that series name."
       - name: "series"
         field:
-          element: "select"
+          element: "multiselect"
           options:
             - name: "Do not assign this post to a series"
               value: null

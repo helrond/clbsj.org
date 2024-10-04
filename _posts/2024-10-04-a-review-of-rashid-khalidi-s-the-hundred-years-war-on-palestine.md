@@ -6,6 +6,7 @@ title: A Review of Rashid Khalidi’s The Hundred Years’ War on Palestine
 author: >-
   Dr. Gale A. Yee, Nancy W. King Professor of Biblical Studies emerita,
   Episcopal Divinity School
+image_filename: Khalidi.jpg
 ---
 For the CLBSJ Read-A-Thon, I chose to read Rashid Khalidi’s The Hundred Years’ War on Palestine: A History of Settler Colonialism and Resistance, 1917-2017 (New York: Henry Hold and Company, 2022). Before I move on to my report, I would like to provide a little context.
 

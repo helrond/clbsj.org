@@ -173,6 +173,8 @@ prose :
               value: "from-the-stacks"
             - name: "Bible Detox"
               value: "bible-detox"
+            - name: "Reading Audaciously"
+              value: "reading-audaciously"
             - name: "Reading the Bible as an Activist"
               value: "reading-the-bible-as-an-activist"
             - name: "Scholar-Activist Encounters"

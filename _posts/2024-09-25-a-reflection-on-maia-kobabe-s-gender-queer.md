@@ -3,9 +3,8 @@ date: '2024-09-25 10:11 -0400'
 category: news
 layout: news-item
 title: A reflection on Maia Kobabe’s Gender Queer
-series: 
-    - from-the-stacks
-    - reading-audaciously
+series:
+  - reading-audaciously
 image_filename: ALA-GenderQueer.png
 author: Amy L. Dalton
 ---

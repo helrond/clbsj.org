@@ -6,9 +6,11 @@ layout: default
 <div class="small-8 small-offset-2">
   <h1>{{ page.title }}</h1>
   {%- if series -%}
-  <span class="label label-orange label-series">
-    <a href="{{series.url}}">{{ series.title }}</a>
-  </span>
+    {% for item in series %}
+      <span class="label label-orange label-series">
+        <a href="{{item.url}}">{{ item.title }}</a>
+      </span>
+    {% endfor %}
   {%- endif -%}
 
   <p>{%- if page.series == 'from-the-stacks' -%}Reviewed by {% endif %}{{ page.author }}<br />

@@ -29,9 +29,9 @@ And this is what Jesus wants us to do: embody and aid the rising up of the human
 
 Focusing on this aspect of Jesus' ascension allows us to understand why the two intercessors wanted to redirect the disciples' attention. Don't stand around gawking at the sky! Rather, turn and return, and attend to where you are. Do the work of lifting up -- lifting yourselves, those around you, and all the spaces of worldly confusion that you are in contact with -- because it is in the space created by this uplifting work that Jesus will find room to return.
 
-1 - Acts 1:6-11 -- [https://bible.oremus.org/?ql=582288114](https://bible.oremus.org/?ql=582288114)
-2 -  [Faith leaders support for encampments at Columbia University, CUNY, and more](https://docs.google.com/forms/d/e/1FAIpQLSeuh8Q8NfI-AQLD7Ad64nzQQGrOHcyvILnWryfj4-HJfqh9KQ/viewform?fbclid=IwY2xjawFychpleHRuA2FlbQIxMAABHXyMWgEIVxHguvNgmxLVOVg9M6tzURVxaNvmTMaRIspJlJqQPDYOKxez8w_aem_e31V6I5IWHu9TopLGqBA4w)
-3 - Rockland for Ceasefire: [https://www.instagram.com/rockland4ceasefire/](https://www.instagram.com/rockland4ceasefire/)
+1 - Acts 1:6-11 -- [https://bible.oremus.org/?ql=582288114](https://bible.oremus.org/?ql=582288114)<br>
+2 -  [Faith leaders support for encampments at Columbia University, CUNY, and more](https://docs.google.com/forms/d/e/1FAIpQLSeuh8Q8NfI-AQLD7Ad64nzQQGrOHcyvILnWryfj4-HJfqh9KQ/viewform?fbclid=IwY2xjawFychpleHRuA2FlbQIxMAABHXyMWgEIVxHguvNgmxLVOVg9M6tzURVxaNvmTMaRIspJlJqQPDYOKxez8w_aem_e31V6I5IWHu9TopLGqBA4w)<br>
+3 - Rockland for Ceasefire: [https://www.instagram.com/rockland4ceasefire/](https://www.instagram.com/rockland4ceasefire/)<br>
 4 - Bob Emerick, Soul Affirmation (2010)
 
 Image from the Rutgers encampment, taken by Friends of Sabeel North America FOSNA: [https://www.instagram.com/fosnalive](https://www.instagram.com/fosnalive)

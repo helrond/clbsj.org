@@ -15,4 +15,4 @@ This speaks volumes to how we approach the Bible. I am particularly thinking of 
 This article displays the full image goes into detail about Wei Wei's background and artistic process:
 [https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/ai-weiwei-dropping-han-dynasty-urn-1995](https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/ai-weiwei-dropping-han-dynasty-urn-1995)
 
-_Image Credit: Ai Weiwei, Dropping a Han Dynasty Urn (second image), 1995, © Ai Weiwei_
+_Image: Ai Weiwei, Dropping a Han Dynasty Urn (second image), 1995, © Ai Weiwei_

@@ -6,6 +6,7 @@ title: 'Rising Up: An Ascension Reflection'
 author: Amy L. Dalton
 series:
   - reading-audaciously
+image_filename: Mt20-16.jpg
 ---
 The account of Jesus' Ascension in Acts 1:6-11 (1) could be seen as among the most "pie in the sky" sections of Christian scripture. Just when everyone has come together in one place, Jesus is suddenly and without explanation swept up to the sky and into a cloud. What? What use does this story have for those organizing for justice and renewal on earth?
 

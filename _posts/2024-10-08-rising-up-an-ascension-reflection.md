@@ -1,5 +1,5 @@
 ---
-date: '2024-10-08 16:11 -0400'
+date: '2024-05-10 16:11 -0400'
 category: news
 layout: news-item
 title: 'Rising Up: An Ascension Reflection'

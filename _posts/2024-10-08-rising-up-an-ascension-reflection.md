@@ -3,7 +3,7 @@ date: '2024-05-10 16:11 -0400'
 category: news
 layout: news-item
 title: 'Rising Up: An Ascension Reflection'
-author: Amy Dalton
+author: Amy L. Dalton
 series:
   - reading-audaciously
 ---

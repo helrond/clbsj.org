@@ -3,8 +3,8 @@ date: '2024-09-22 11:46 -0400'
 category: news
 layout: news-item
 title: 'CLBSJ Read-a-Thon 2024: Reading Audaciously!'
-series: 
-    - reading-audaciously
+series:
+  - reading-audaciously
 image_filename: Readathon2024.jpg
 ---
 **This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts.**
@@ -17,7 +17,7 @@ Over the past few years, the number of books being banned has been on the rise, 
 - Amy is reading _Gender Queer_ by Maia Kobabe (graphic memoir)
 - Dong is “reading” _Dropping a Han Dynasty Urn_ by Ai Wei Wei (visual art)
 
-For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” Follow us on social media to hear our learnings!
+For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” [Check out our learnings here](https://clbsj.org/news/reading-audaciously/) and on our facebook page.
 
 What are you reading? Why is it controversial? And how does it impact your understanding of what the Bible has to say to the world right now? Share about your reading and get connected at [https://forms.gle/fucEoTWnoQ6mMEeV8](https://forms.gle/fucEoTWnoQ6mMEeV8)
 

@@ -1,0 +1,27 @@
+---
+date: '2024-10-29 13:20 -0400'
+category: news
+layout: news-item
+title: Some thoughts on Playground by Richard Powers
+author: Wes Howard-Brook
+series:
+  - reading-audaciously
+image_filename: Playground-RichardPowers.jpg
+---
+Richard Powers is one of my favorite authors, and his most recent, Playground, is one of his best. My wife, Sue, and I listened to the incredible audiobook version while on a road trip through the US Southwest, an ironic experience for a book all about oceans and sealife. But the magnificent narration by prize-winning readers like Eduardo Ballerini and Eunice Wong swept us right along. 
+
+Having engaged the audiobook, I have no access to pages from which to draw quotations here, so I'm reliant on memory. But that’s better, perhaps, given the kind of story Powers’ pens here. For the plot isn’t so much about “data”—although Powers can be one of the most scientifically-grounded novelists out there—as perceptions: of people’s feelings in response to an errant word; of how water flows and ebbs around infinite forms of life, whether we are there to notice or not; of how the world changes before our eyes, both slowly over eons and in an instant of technological transformation. 
+
+So how did this book affect my reading of the Bible? While Playground is not a formally “religious” book, it is deeply spiritual. The characters are constantly pondering how their actions intersect with the bigger world, both in their present and across the sweep of time. It begins with a story of creation emerging from a cosmic egg, an image that stays just in the background throughout. And it emphasizes something that the Bible “knows,” but doesn’t shout at readers: land life is a latecomer to this earthy experiment. Life begins and thrives and continues to have most of its being in the oceans, beyond our awareness or control. 
+
+Playground’s plot subtly offers a deep insight about evil in the world, too: the most horrible “crimes” can be perpetrated not by Hollywood villains who wear greed on the sleeves of their bespoke suits, but by ordinary folk whose personal pains and confusions can cause behavioral ripples that bring down massive suffering. The primary narrator, Todd, is a wounded child whose primary ability is playing and constructing games. His ultimate game is a social media platform called, you guessed it, “Playground.” Via “Playbucks,” his game becomes a world-within-the-world, making Todd a billionaire and trapping millions in its endless loops of competitive status. 
+
+Which leads to the central theme of the book: the role of play, in all its many manifestations. Todd muses on how young animals are often taught to play by their parents in order to learn the rules of life. He sees play as an evolutionary means of advancing intelligence, whether in humans or others. He and his childhood friend Rafi play countless games of chess, and then, Go. But central to Todd’s choices—and to the book as a whole—is the distinction between finite and infinite games. In a finite game, there is an end, of course, and thus a winner and loser. But in an infinite game, the goal is to keep the game going. In that sense, both Todd’s Playground platform and life itself are “infinite games.” The difference, though, is that his social media platform exists in a different space and works under radically different rules that the “game” of life. 
+
+The people of the former French Polynesian “phosphate island” of Makatea find themselves in the crosshairs of Todd’s gaming life when he takes up seasteading. This concept, [very much alive](https://www.seasteading.org/) in the real world outside the book, feels to me like the perfect expression of what I've described as the true meaning of “original sin”: God made the earth “good” but humans imagine that we can make it “better.” Seasteading is an attempt to use the ocean as a platform for autonomous communities beyond the bounds of government and mutual responsibility. The people of Makatea, some indigenous and some who end up there for other reasons, like Todd’s friend Rafi and his local wife, are forced to grapple with Todd’s scheme to harness their isle for this “grand” project. Trying to be helpful, Todd provides an AI tool to aid in the islanders’ decision making process. But in the end, the locals work through the challenge on their own terms. They are playing a game of their own in which they get to decide the rules. 
+
+I can see the biblical Israelites and Judahites through the lens of the Makateans. Throughout the biblical story, the people are constantly challenged, invited, coerced by the blandishments of empire: why not embrace Babylonian mathematics, Persian diplomacy, Greek culture, Roman law? Why remain “stubborn” in the face of the endless enticements offered by empire? 
+
+I can also see the fledgling followers of Jesus, seeking to make their way through the Roman world, armed only with a vague trust that Jesus’ “way” will lead them to something better. But at every turn, the “real world” imposes its own logic, suggesting that resistance is not only futile, it is stupid. 
+
+In Playground, Powers grapples gently but insistently with these big questions. Find yourself a little island with a watery breeze, curl up with its pages or its sounds, and try to imagine a world in which keeping God’s infinite game lively and fun for all was our primary purpose.

@@ -3,10 +3,10 @@ date: '2024-10-18 13:29 -0400'
 category: news
 layout: news-item
 title: Parables for Urgent Times
-time: Amy L. Dalton
 series:
   - reading-audaciously
 image_filename: ParableOfTheSoweer.jpg
+author: Amy L. Dalton
 ---
 _As yet another epic US election approaches, its appropriate to lift up the legacy of Octavia Butler's work Parable of the Sower, as well as its sequal Parable of the Talents, which contain many plot details that eerily predict our current moment. Butler's novels have been targetted by bans in both schools and prisons. CLBSJ shared the following post on our facebook page on July 20, 2024:_
 

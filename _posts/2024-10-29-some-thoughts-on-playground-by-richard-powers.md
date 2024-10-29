@@ -1,5 +1,5 @@
 ---
-date: '2024-10-29 13:20 -0400'
+date: '2024-10-28 23:20 -0400'
 category: news
 layout: news-item
 title: Some thoughts on Playground by Richard Powers

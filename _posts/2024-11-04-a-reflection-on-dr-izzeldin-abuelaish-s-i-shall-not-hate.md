@@ -6,6 +6,7 @@ title: A reflection on Dr. Izzeldin Abuelaish’s I Shall Not Hate
 series:
   - reading-audaciously
 author: Rev. Betsy Simpson
+image_filename: I-Shall-Not-Hate.jpg
 ---
 As President Jimmy Carter puts it, “In this book, Dr. Abuelaish has expressed a remarkable commitment to forgiveness and reconciliation that describes the foundation for a permanent peace in the Holy Land.” 
 

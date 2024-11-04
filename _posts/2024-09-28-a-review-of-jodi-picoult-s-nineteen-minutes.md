@@ -5,7 +5,7 @@ layout: news-item
 title: A Review of Jodi Picoult’s Nineteen Minutes
 series:
   - reading-audaciously
-author: Betsy Simpson
+author: Rev. Betsy Simpson
 image_filename: NineteenMinutes-BannedBook.jpg
 ---
 Jodi Picoult’s book, _Nineteen Minutes_, is a fictional story about a mass shooting at a high school in a relatively small community. The shooter is a 17-year-old boy who has been bullied since early childhood, had inadequate family support and virtually no school support the few times he dared to ask. Picoult shared various background snippets illuminating the relationships Peter, the shooter, had with “the cool kids” who were jocks, popular girls and guys while he was ostracized and humiliated over and over again.

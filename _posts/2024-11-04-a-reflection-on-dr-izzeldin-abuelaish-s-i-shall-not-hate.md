@@ -7,9 +7,9 @@ time: Rev. Betsy Simpson
 series:
   - reading-audaciously
 ---
-Quoting President Jimmy Carter, “In this book, Dr. Abuelaish has expressed a remarkable commitment to forgiveness and reconciliation that describes the foundation for a permanent peace in the Holy Land.” 
+As President Jimmy Carter puts it, “In this book, Dr. Abuelaish has expressed a remarkable commitment to forgiveness and reconciliation that describes the foundation for a permanent peace in the Holy Land.” 
 
-The book, _I Shall Not Hate: A Gaza Doctor's Journey on the Road to Peace and Human Dignity,_ shares Dr. Izzeldin Abuelaish’s life story as a Gazan doctor growing up in a refugee camp, persisting in getting educated, obtaining a degree from Harvard, securing a position in an Israeli hospital and continuously crossing from Gaza to Israel as he both grew in recognizing the humanity of Israelis, developing his faith as a Muslim, and establishing his own family in Gaza. Then, on January 16, 2009, he suffered horrendous loss when his house was bombed, killing 3 of his daughters and a niece, having lost his wife to disease only months before.
+The book, _I Shall Not Hate: A Gaza Doctor's Journey on the Road to Peace and Human Dignity,_ shares Dr. Izzeldin Abuelaish’s life story as a Gazan doctor growing up in a refugee camp, persisting in getting educated, obtaining a degree from Harvard, securing a position in an Israeli hospital and continuously crossing from Gaza to Israel. During this time he grew in recognizing the humanity of Israelis, developing his faith as a Muslim, and establishing his own family in Gaza. Then, on January 16, 2009, he suffered horrendous loss when his house was bombed, killing 3 of his daughters and a niece, only months after having lost his wife to disease.
 
 Despite this horrendous pain and grief, Dr. Abuelaish did not seek revenge or harbor hatred for those who were responsible for the deaths of his familiy and so many others. Instead he has continued to speak out for peace and reconciliation.
 

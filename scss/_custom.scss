@@ -303,9 +303,14 @@ footer {
   // align-content: space-between;
   width: calc(50% - 2em);
   @media #{$large-up} {
-    width: calc(25% - 2em);
+    width: calc(33% - 2em);
   }
   & h2 {
     font-size: 2em;
+    margin-top: -1rem;
+    margin-right: -1rem;
+    margin-left: -1rem;
+    padding: 1rem;
+    background: $orange;
   }
 }

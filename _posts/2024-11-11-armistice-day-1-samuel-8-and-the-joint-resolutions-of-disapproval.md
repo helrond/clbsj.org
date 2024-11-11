@@ -5,8 +5,10 @@ layout: news-item
 title: 'Armistice Day, 1 Samuel 8, and the Joint Resolutions of Disapproval'
 series:
   - reading-audaciously
+author: Amy L. Dalton
+image_filename: ArmisticeDayReclaim.jpg
 ---
-On Armistice Day, Take Action for CEASEFIRE
+_On Armistice Day, Take Action for CEASEFIRE_
 
 Today, November 11, is known to us as “Veteran’s Day.” But did you know that it’s original name was Armistice Day? “Armistice,’ which basically means “CEASEFIRE,” refers to the day that World War I was officially ended through a negotiated truce. The signing of the armistice agreement was accompanied by a strong feeling across borders and continents that the possibility of a world without war was within reach. For decades in the United States and elsewhere, this day was called Armistice Day, and was identified as a day to mourn and remember all those who lost their life in war, and to recommit to the ending of all war — including by the U.S. government, as recorded in the 1938 act which made the day a legal holiday.
 
@@ -39,4 +41,4 @@ The Sacking of Fallujah: A People's History
 by Ross Caputi, Richard Hil and Donna Mulhearn
 https://www.umasspress.com/9781625344380/the-sacking-of-fallujah/
 
-Ceasefire Now!! 
+Ceasefire Now!!

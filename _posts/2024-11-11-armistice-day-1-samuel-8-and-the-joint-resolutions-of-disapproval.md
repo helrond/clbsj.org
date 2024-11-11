@@ -39,4 +39,4 @@ The Sacking of Fallujah: A People's History
 by Ross Caputi, Richard Hil and Donna Mulhearn
 [https://www.umasspress.com/9781625344380/the-sacking-of-fallujah/](https://www.umasspress.com/9781625344380/the-sacking-of-fallujah/)
 
-Ceasefire Now!!
+**_Honor all souls killed in war! Demand a Ceasefire Now!!_**

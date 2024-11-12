@@ -8,6 +8,8 @@ image_filename: 2024AMBanner.png
 ---
 For all those who are coming to the Society of Biblical Literature’s 2024 meeting in San Diego, please consider joining us for roundtable discussion on Monday, November 24, 8-9am. We will gather in the Hilton Bayfront, Room Aqua 309. Coffee service and a light breakfast will be provided.
 
+{% include registration-button.html link="https://forms.gle/iZn4AP83kBwx9nJw9" %}
+
 Items for discussion: 
 - What is the role of critical, contextual biblical scholarship in addressing the urgent crises of our times — including genocidal war in the Middle East and beyond, the rise of reactionary and fascist politics, and the threat and reality of climate catastrophe?
 - What presentations and discussions at SBL so far have spoken the most strongly to these justice struggles?

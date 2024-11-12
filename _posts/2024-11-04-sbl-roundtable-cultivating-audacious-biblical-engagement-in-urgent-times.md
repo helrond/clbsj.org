@@ -3,8 +3,6 @@ date: '2024-11-25'
 category: events
 layout: event
 title: 'SBL Roundtable: Cultivating Audacious Biblical Engagement in Urgent Times'
-series:
-  - ''
 time: 8am Pacific Time
 image_filename: 2024AMBanner.png
 ---
@@ -16,4 +14,4 @@ Items for discussion:
 - How can we support each other to make this content more available as resources for movements for justice and peace?
 - What are we learning about building sincere, generative relationship between our academies, our sanctuaries and our frontline movement communities organizing for justice and peace in the face of these crises? 
 
-Please direct questions and RSVPs to Amy at info@clbsj.org 
+Please direct questions to Amy at info@clbsj.org

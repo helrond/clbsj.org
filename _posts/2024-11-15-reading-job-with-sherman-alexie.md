@@ -6,7 +6,7 @@ title: Reading Job with Sherman Alexie
 author: Rev. Betsy Simpson
 series:
   - reading-audaciously
-image_filename: ShermanAlexie.jpeg
+image_filename: ShermanAlexie2.jpeg
 ---
 Intrigued by Sherman Alexie’s book title, _The Absolutely True Diary of a Part-Time Indian_, I added it to my reading list when I saw that it has appeared on the ALA’s top ten challenged books repeatedly since its publication in 2007.
 

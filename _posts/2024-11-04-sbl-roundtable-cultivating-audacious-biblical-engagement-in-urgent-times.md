@@ -5,6 +5,8 @@ layout: event
 title: 'SBL Roundtable: Cultivating Audacious Biblical Engagement in Urgent Times'
 time: 8am Pacific Time
 image_filename: 2024AMBanner.png
+series:
+  - reading-audaciously
 ---
 For all those who are coming to the Society of Biblical Literature’s 2024 meeting in San Diego, please consider joining us for roundtable discussion on Monday, November 25, 8-9am. We will gather in the Hilton Bayfront, Room Aqua 309. Coffee service and light breakfast items will be provided.
 

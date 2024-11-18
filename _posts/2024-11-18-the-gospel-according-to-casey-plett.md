@@ -6,6 +6,7 @@ title: The Gospel According to Casey Plett
 author: Laurel Dykstra
 series:
   - reading-audaciously
+image_filename: DreamOfAWoman.jpg
 ---
 _**Content Warning:** addiction, sexual violence, murder, dismemberment_
 

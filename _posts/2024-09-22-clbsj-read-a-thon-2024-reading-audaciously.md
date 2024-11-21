@@ -5,7 +5,7 @@ layout: news-item
 title: 'CLBSJ Read-a-Thon 2024: Reading Audaciously!'
 series:
   - reading-audaciously
-image_filename: Readathon2024.jpg
+image_filename: WithTheBanned-2024.jpg
 ---
 **This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts.**
 

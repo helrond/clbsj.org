@@ -7,6 +7,6 @@ tagline: >-
   banned and controversial texts. Check out reader reviews below.  <a
   href="/news/2024/09/22/clbsj-read-a-thon-2024-reading-audaciously/">Learn
   more</a>  |  <a href="https://forms.gle/fucEoTWnoQ6mMEeV8">Sign up to
-  read</a>  | Stay tuned for how else to support the 2024 Read-a-thon.
+  read</a>  | <em>Stay tuned for how else to support the 2024 Read-a-thon!</em>
 sort_order: 1
 ---

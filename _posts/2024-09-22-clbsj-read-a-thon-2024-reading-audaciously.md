@@ -14,7 +14,9 @@ Over the past few years, the number of books being banned has been on the rise, 
 **Join in!** Support CLBSJ's efforts to extend access to critical biblical reflection by [making a donation](http://go.rallyup.com/clbsj-readathon2024 ) and/or [joining our Audacious Readers Team](https://forms.gle/fucEoTWnoQ6mMEeV8)). 
 
 ## Making a Donation
-This is our biggest annual fundraiser and each year we count on folks like you to be able to continue doing our work. Donations of any amount make a real difference in building our capacity to cultivate audacious readings. You can donate as an individual or as an organization. [Click here to see options and make your gift!](http://go.rallyup.com/clbsj-readathon2024)
+This is our biggest annual fundraiser and each year we count on folks like you to be able to continue doing our work. Donations of any amount make a real difference in building our capacity to cultivate audacious readings. You can make a per-text challenge gift, or a flat donation. You can donate as an individual or as an organization. [Click here to see options and make your gift!](http://go.rallyup.com/clbsj-readathon2024)
+
+_Please note:_ the read-a-thon platform we use, RallyUp, will give you an option to give them a "tip." This is optional. They will set the amount based on a percentage of your gift, but you can choose to adjust it as high or low as you like.
 
 ## Joining as a Reader
 Readers choose a controversial text to intentionally read alongside a resonant biblical passages, and share a reflection on what they learn. A “text” does not have to be in the shape of a book — it can be a poem, a podcast, even a work of art. A text is anything that documents and communicates culture and political-economic context. Below are a few examples:

@@ -7,7 +7,7 @@ series:
   - reading-audaciously
 image_filename: WithTheBanned-2024.jpg
 ---
-**This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts. Please join in and support our efforts to extend access to audacious biblical reflection!**
+**This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts. _Please join in and support our efforts to extend access to audacious biblical reflection!_**
 
 Over the past few years, the number of books being banned has been on the rise, and at the same time efforts are underway to require that the Bible be studied in public schools. Too often it is the same groups pushing both agendas. CLBSJ supports studying the Bible, AND we support studying and engaging with all expressions that arise out of our cultural and political-economic contexts. Centralizing one while demonizing the other does not lead to understanding. Rather, we gain understanding by intentionally placing our communities’ texts in conversation with the Bible.
 

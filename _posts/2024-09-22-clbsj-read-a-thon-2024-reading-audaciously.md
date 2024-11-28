@@ -9,7 +9,7 @@ image_filename: WithTheBanned-2024.jpg
 ---
 **This fall, CLBSJ is reading the Bible in solidarity with banned and controversial texts. _Please join in and support our efforts to extend access to audacious biblical reflection!_**
 
-Over the past few years, the number of books being banned has been on the rise, and at the same time efforts are underway to require that the Bible be studied in public schools. Too often it is the same groups pushing both agendas. CLBSJ supports studying the Bible, AND we support studying and engaging with all expressions that arise out of our cultural and political-economic contexts. Centralizing one while demonizing the other does not lead to understanding. Rather, we gain understanding by intentionally placing our communities’ texts in conversation with the Bible.
+Over the past few years, the number of books being banned has been on the rise, and at the same time efforts are underway to require that the Bible be studied in public schools. Too often it is the same groups pushing both agendas. CLBSJ supports studying the Bible, AND we support studying and engaging with all expressions that arise out of our cultural and political-economic contexts. Centralizing one while demonizing the other does not lead to understanding. Rather, we gain understanding by intentionally placing our communities’ texts in conversation with the Bible. **[Check out what we are learning here](https://clbsj.org/news/reading-audaciously/)**
 
 **Join in!** Support CLBSJ's efforts to extend access to critical biblical reflection by [making a donation](http://go.rallyup.com/clbsj-readathon2024 ) and/or [joining our Audacious Readers Team](https://forms.gle/fucEoTWnoQ6mMEeV8)). 
 
@@ -25,4 +25,4 @@ Readers choose a controversial text to intentionally read alongside a resonant b
 - Amy is reading _Gender Queer_ by Maia Kobabe (graphic memoir)
 - Dong is “reading” _Dropping a Han Dynasty Urn_ by Ai Wei Wei (visual art)
 
-For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” [Check out our learnings here](https://clbsj.org/news/reading-audaciously/) and on our facebook page. [Click here to share about your reading and get connected!](https://forms.gle/fucEoTWnoQ6mMEeV8)
+For each one, we are asking: “How does this work relate to the Bible’s message? How does it help me hear that message in new ways?” [Check out our learnings here](https://clbsj.org/news/reading-audaciously/) and [click here to share about your reading and get connected!](https://forms.gle/fucEoTWnoQ6mMEeV8)

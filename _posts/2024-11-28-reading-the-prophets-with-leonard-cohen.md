@@ -6,8 +6,9 @@ title: Reading the Prophets with Leonard Cohen
 author: Brian J. Walsh
 series:
   - reading-audaciously
+image_filename: RagsOfLight.jpg
 ---
-The following selection, reprinted with permission, is from _Rags of Light: Leonard Cohen and the Landscape of Biblical Imagination_, recently published by Cascade Books. In it, biblical scholar and minister Brian Walsh of Bible Remixed creatively bringing the lyrics and writings of Leonard Cohen into conversation with Scripture. Walsh explores how Leonard Cohen has been a liturgist for our time, a cantor singing for all those clothed in rags of light, a prophet in the ruins, and a priest who greets us "from the other side of sorrow and despair."  Click here for more information and to purchase: https://wipfandstock.com/9781666782134/rags-of-light/
+The following selection, reprinted with permission, is from _Rags of Light: Leonard Cohen and the Landscape of Biblical Imagination_, recently published by Cascade Books. In it, biblical scholar and minister Brian Walsh of Bible Remixed creatively bringing the lyrics and writings of Leonard Cohen into conversation with Scripture. Walsh explores how Leonard Cohen has been a liturgist for our time, a cantor singing for all those clothed in rags of light, a prophet in the ruins, and a priest who greets us "from the other side of sorrow and despair."  [Click here for more information and to purchase.](https://wipfandstock.com/9781666782134/rags-of-light/)
 
 **THE PROPHET GOES TO WAR**
 
@@ -47,4 +48,4 @@ Cohen acknowledges that not only is this an uncharitable song, it could also eas
 
 --------
 
-Reprinted with permission from Brian J. Walsh, _Rags of Light: Leonard Cohen and the Landscape of Biblical Imagination. _Cascade Books, 2024. Pages 79-81.
+Reprinted with permission from Brian J. Walsh, _Rags of Light: Leonard Cohen and the Landscape of Biblical Imagination._ Cascade Books, 2024. Pages 79-81.

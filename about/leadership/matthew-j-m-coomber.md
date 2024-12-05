@@ -15,7 +15,7 @@ publications:
   '1':
     title: Re-Reading the Bible through Corporate Globalization
     url: >-
-      https://www.gorgiaspress.com/re-reading-the-prophets-through-corporate-globalization
+      https://wipfandstock.com/9781666700756/re-reading-the-prophets-through-corporate-globalization/
   '2':
     title: 'Bible and Justice: Ancient Texts, Modern Challenges'
     url: >-

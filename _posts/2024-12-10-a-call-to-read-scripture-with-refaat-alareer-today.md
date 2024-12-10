@@ -16,7 +16,7 @@ A few months ago, my daughter’s voice conspired with Alareer’s words; the wo
 
 My daughter was performing in her school music concert. The 2nd and 3rd graders joined forces to sing a variety of songs, ranging from "Your a Grand Old Flag" to "You Can Dance, You Can Sing" complete with lyrics in the Zimbabwean language. For the closing song, the music teacher chose the finale of Mary Poppins, "Let's Go Fly A Kite." As the song swelled toward the chorus, the kids' voices grew in unity and strength. They bellowed out the song's call with unabashed joy. It's such a beautiful song, and it could be just because of this that my heart suddenly broke open without warning. As I tried to explain to myself and my partner why I was crying as everyone around us was beaming with parental joy, I suddenly remembered Alareer's poem. It reads:
 
-If I must die,<br>
+_If I must die,<br>
 you must live<br>
 to tell my story<br>
 to sell my things<br>
@@ -34,7 +34,7 @@ and thinks for a moment an angel is there<br>
 bringing back love<br>
 If I must die<br>
 let it bring hope<br>
-let it be a tale
+let it be a tale_
 
 In one of those unbelievable ironies that makes you realize this life is far more meaningful than it appears to be, Alareer was killed not long after writing this poem by a targeted IDF airstrike on December 6, 2023, along with his brother, sister, and three nephews.
 

@@ -67,9 +67,9 @@ its ancient splendors fling,<br>
 and the whole world send back the song<br>
 which now the angels sing."
 
-I yearn for this mass turning, a collective metanoia, in which for no discernible reason we all finally get to the point where we are ready to say, "I wasn't just singing the words! I really want this! Enough is enough! For the sake of all that is good — we must stop!"
+I yearn for this mass turning, a collective metanoia, in which for no discernible reason we all finally get to the point where we are ready to say, "I wasn't just singing the words! I really want this!" 
 
-For the sake of my child's voice, weaving in joy with those of her peers, and for the sake of every child who has been cut down too soon: please add your voice to the call to end this genocidal war.
+For the sake of my child's voice, weaving in joy with those of her peers, and for the sake of every soul who has been cut down too soon: please add your voice to the call to end this genocidal war.
 
 Purchase Refaat Alareer’s book: [https://orbooks.com/catalog/if-i-must-die/](https://orbooks.com/catalog/if-i-must-die/)
 

@@ -11,7 +11,7 @@ Today, on Human Rights Day, Palestinian poet Refaat Alareer’s poems, prose and
 
 Though raised speaking Arabic, Alareer had dedicated his academic life to the study and practice of the English language, allowing him to communicate across cultures and borders. The poem for which the book is named has had a sharp impact on my soul, and on the souls of many, over the last year. It is perhaps the case that the act of thinking ahead about the possibility of one’s own senseless death creates a spiritual force that lives on after that one has passed. For those who have ears to hear such things, this leaves us with a responsibility.
 
-A few months ago, my daughter’s voice conspired with Alareer’s words and the Spirit to drive this point home.
+A few months ago, my daughter’s voice conspired with Alareer’s words; the words of Habakkuk, Jesus and Edmund Sears; and the Spirit to drive this point home.
 
 My daughter was performing in her school music concert. The 2nd and 3rd graders joined forces to sing a variety of songs, ranging from "Your a Grand Old Flag" to "You Can Dance, You Can Sing" complete with lyrics in the Zimbabwean language. For the closing song, the music teacher chose the finale of Mary Poppins, "Let's Go Fly A Kite." As the song swelled toward the chorus, the kids' voices grew in unity and strength. They bellowed out the song's call with unabashed joy. It's such a beautiful song, and it could be just because of this that my heart suddenly broke open without warning. As I tried to explain to myself and my partner why I was crying as everyone around us was beaming with parental joy, I suddenly remembered Alareer poem. It reads:
 
@@ -59,7 +59,7 @@ For there is still a vision for the appointed time;<br>
 If it seems to tarry, wait for it;<br>
      it will surely come, it will not delay. (Habakkuk 2:2-3)
 
-The end that is promised is an end to this war, and all wars, and an end to the belief that we can solve injury by heaping more injury onto it. The beloved Christmas carol explains it thusly:
+The end that is promised is an end to this war, and all wars, and an end to the belief that we can solve injury by heaping more injury onto it. The beloved Christmas carol by Edmund Sears explains it thusly:
 
 "when peace shall over all the earth<br>
 its ancient splendors fling,<br>

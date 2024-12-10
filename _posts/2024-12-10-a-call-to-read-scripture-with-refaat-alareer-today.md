@@ -8,7 +8,7 @@ series:
   - reading-audaciously
 image_filename: RefaatAlareer.jpg
 ---
-Today, on Human Rights Day, Palestinian poet Refaat Alareer’s poems, prose and interviews are being published posthumously in a book called If I Must Die. [I urge you to purchase this book today in his memory.](https://orbooks.com/catalog/if-i-must-die/) 
+Today, on Human Rights Day, Palestinian poet Refaat Alareer’s poems, prose and interviews are being published posthumously in a book called _If I Must Die._ [I urge you to purchase this book today in his memory.](https://orbooks.com/catalog/if-i-must-die/) 
 
 Though raised speaking Arabic, Alareer had dedicated his academic life to the study and practice of the English language, allowing him to communicate across cultures and borders. The poem for which the book is named has had a sharp impact on my soul, and on the souls of many, over the last year. It is perhaps the case that the act of thinking ahead about the possibility of one’s own senseless death creates a spiritual force that lives on after that one has passed. For those who have ears to hear such things, this leaves us with a responsibility.
 

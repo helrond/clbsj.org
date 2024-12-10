@@ -6,6 +6,7 @@ title: A call to read scripture with Refaat Alareer today
 author: Amy L. Dalton
 series:
   - reading-audaciously
+image_filename: RefaatAlareer.jpg
 ---
 Today, on Human Rights Day, Palestinian poet Refaat Alareer’s poems, prose and interviews are being published posthumously in a book called If I Must Die. [I urge you to purchase this book today in his memory.](https://orbooks.com/catalog/if-i-must-die/) 
 

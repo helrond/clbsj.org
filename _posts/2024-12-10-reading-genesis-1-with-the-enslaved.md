@@ -8,7 +8,9 @@ series:
   - reading-audaciously
 image_filename: Noya-SBL2024.png
 ---
-At this year’s meeting of the Society for Biblical Literature, Ludwig Noya presented a critique of the way Genesis 1 has traditionally been understood to promote a universally accessible democratic identity as ‘made in the image of God.' To do this, he put the text into conversation with the experiences of the enslaved, as represented in this famous abolitionist movement image. He writes, 
+At this year’s meeting of the Society for Biblical Literature, Ludwig Noya presented a critique of the way Genesis 1 has traditionally been understood to promote a universally accessible democratic identity as ‘made in the image of God.' To do this, he put the text into conversation with the experiences of the enslaved, as represented in this famous abolitionist movement image (originally published on the cover of the 1866 annual report of the Edinburgh Ladies Emancipation Society).
+
+Noya writes:
 
 _I couldn’t help but put the passages on priesthood enslavement and Genesis One twenty-seven side by side with the Declaration of Independence and the experiences of the enslaved person in North America. As the enslaved persons cry out, am I not a man and a brother, and am I not a woman and a sister? toward the notion that all men are created equal; enslaved foreigners, persons with disabilities, and women in the Pentateuch could also cry out, am I not a human toward the so-called democratic notion of the image of God?_
 

@@ -16,4 +16,4 @@ _I couldn’t help but put the passages on priesthood enslavement and Genesis On
 
 _Perhaps what we thought was a concept of democratization of kingship was none other than a creation of what Norman Gottwald called a theocratic oligarchy. Instead of the democratization of kingship, a dispersion of power from the monarchy to the masses of the population, what we encountered instead was a concentration of power in the hands of the few, which Exodus nineteen verse six described as a “priestly kingdom.”_
 
-Noya’s presentation drew from his dissertation, _Rest as a Site of Struggle: Reconsidering Sabbath Transgression Narratives in the Hebrew Bible_, which will soon be published as a monograph.
+Noya’s presentation drew from his dissertation, "Rest as a Site of Struggle: Reconsidering Sabbath Transgression Narratives in the Hebrew Bible," which will soon be published as a monograph.

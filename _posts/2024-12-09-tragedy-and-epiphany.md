@@ -13,3 +13,7 @@ On Epiphany, also known as Three Kings Day, we remember how the stars re-aligned
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=12&reset=1" %}
 
 Speakers will include Will O'Brien, Crystal Silva-McCormick, and Brian Walsh -- check back for details! This event is a collaboration with the Alternative Seminary.
+
+**Optional advance reading:** [Matthew 2](https://bible.oremus.org/?ql=601375462)
+
+**Image:** "Flight into Egypt" by Gislebertus. Sculpture on the capital of the Cathédrale Saint-Lazare d'Autun in Bourgogne, France. Photograph from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autun,_Flight_into_Egypt.JPG)

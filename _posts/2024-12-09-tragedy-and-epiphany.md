@@ -9,4 +9,7 @@ _A scriptural and contemplative exploration of stories of the Three Kings (Maji)
 
 On Epiphany, also known as Three Kings Day, we remember how the stars re-aligned to recognize the Christ, arising from the struggling margins of the earth. We remember how a group of elders crossed boundaries to encounter and give respect to this miracle. We often do not remember that, as the scripture tells it, their visit triggered the killing of every child below the age of two by the jealous King Herod. What does the coincidence of these stories of epiphany and tragedy have to say to us today?
 
-Speakers will include Will O'Brien, Crystal Silva-McCormick, and Brian Walsh. This event is a collaboration with the Alternative Seminary. _Check back for more details and a link to register!_
+<b>Register here:</b> 
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=12&reset=1" %}
+
+Speakers will include Will O'Brien, Crystal Silva-McCormick, and Brian Walsh -- check back for details! This event is a collaboration with the Alternative Seminary.

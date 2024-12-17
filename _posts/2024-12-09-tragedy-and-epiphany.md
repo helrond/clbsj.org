@@ -13,7 +13,7 @@ On Epiphany, also known as Three Kings Day, we remember how the stars re-aligned
 <b>Register here:</b> 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=12&reset=1" %}
 
-Speakers will include Will O'Brien, Crystal Silva-McCormick, and Brian Walsh -- check back for details! This event is a collaboration with the Alternative Seminary.
+Speakers will include Will O'Brien, Miguel A. De La Torre, Crystal Silva-McCormick, and Brian Walsh -- check back for details! This event is a collaboration with the Alternative Seminary.
 
 **Optional advance reading:** [Matthew 2](https://bible.oremus.org/?ql=601375462)
 

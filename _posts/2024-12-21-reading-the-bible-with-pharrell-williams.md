@@ -3,6 +3,9 @@ date: '2024-12-21 13:23 -0500'
 category: news
 layout: news-item
 title: Reading the Bible with Pharrell Williams
+author: Amy L. Dalton
+series:
+  - reading-audaciously
 ---
 Over the last few months, its been challenging to say the least to make sense of the divisive and distraction-filled political landscape in the United States, let alone to determine the best way to engage with it. I know I am not alone in having a very hard time in keeping my morale up and my mind clear during this time. Amidst this difficulty, I’ve turned often to music for some sweet relief.
 

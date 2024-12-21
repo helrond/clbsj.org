@@ -18,7 +18,7 @@ Clearly joy and playfulness are a key part of Williams’ understanding of the D
 
 But I got ahead of myself. How, again, is the song about God?
 
-In the song’s chorus, the rhythmic repetition of the phrase “The yellow light shining down” is engaged in a call and response sequence in which an unnamed figure of worldly power is addressed. This figure might be a character in Despicable Me 3, or he might be Someone Else in the landscape of the times, or perhaps he just stands in for a certain sort of force in the world. Probably it’s a little of all three. At a certain point, a responder interrupts himself and shifts the focus toward another sort of power. To quote:
+In the song’s chorus, the rhythmic repetition of the phrase “The yellow light shining down” is engaged in a call and response sequence in which an unnamed figure of worldly power is addressed. This figure might be a character in Despicable Me 3, or they might be Someone Else in the landscape of the times, or perhaps they just stand in for a certain sort of force in the world. Probably it’s a little of all three. At a certain point, a responder interrupts himself and shifts the focus toward another sort of power. To quote:
 
 _The yellow light shining down (Congratulations!)<br>
 The yellow light shining down (Whoop-dee-doo!)<br>

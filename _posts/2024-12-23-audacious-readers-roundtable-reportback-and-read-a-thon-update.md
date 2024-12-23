@@ -14,8 +14,8 @@ On December 19, a small group of Audacious Readers gathered to share some closin
 - “Yellow Light” by Pharell Williams
 - “If I must die” by Refaat Alareer
 
-One thing we all agreed on was that more space to have conversations like these are deeply needed in these times. This year’s read-a-thon has been one of many experiments in building capacity for this sort of critical biblical reflection programming? As of writing, we are 60% of the way to making our goal! We will only be able to reach it with your help. Can you help us get there by making a gift before the end of the year? You can donate at [go.rallyup.com/clbsj-readathon2024](https://go.rallyup.com/clbsj-readathon2024/)
+One thing we all agreed on was that more space to have conversations like these are deeply needed in these times. This year’s read-a-thon has been one of many experiments in building capacity for this sort of critical biblical reflection programming. As of writing, we are 60% of the way to making our goal! Can you help us get there by making a gift before the end of the year? You can donate at [go.rallyup.com/clbsj-readathon2024](https://go.rallyup.com/clbsj-readathon2024/)
 
 **Please note:** RallyUp offers you the option of making a “tip” which goes to support their interface. You can increase or decrease this as much as you want. If you do not adjust it, they will set it as a percentage of your gift.
 
-Thank you for considering this request, and for all that you do for justice!
+Please give as generously as you are able! CLBSJ is a tiny, independent non-profit with denominational or institutional funding. We are only able to persist through your generosity and participation. Thank you so much for considering this request, and for all that you do for justice!

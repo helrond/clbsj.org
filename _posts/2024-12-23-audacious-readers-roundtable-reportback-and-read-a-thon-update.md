@@ -3,6 +3,8 @@ date: '2024-12-23 04:57 -0500'
 category: news
 layout: news-item
 title: Audacious Readers Roundtable Reportback and Read-a-thon Update
+series:
+  - reading-audaciously
 ---
 On December 19, a small group of Audacious Readers gathered to share some closing reflections on our experiences reflecting on how controversial texts are in conversation with the Bible in our lives and communities. We had a dynamic conversation which ranged from the complexities of politicians’ use of biblical texts; the ways violent and liberatory themes co-exist in Deuteronomy, the Pauline letters, and throughout scripture; the role of fiction and creative writing in understanding scripture; and the need for a theology of joy, even and especially in times such as these. Texts we dialogued with in this process included:
 - Safety Through Solidarity: A Radical Guide to Fighting Antisemitism by Shane Burley and Ben Lorber

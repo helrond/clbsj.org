@@ -17,7 +17,10 @@ This event co-sponsored by the Alternative Seminary and Bible Remixed.
 
 **Image:** "Flight into Egypt" by Gislebertus. Sculpture on the capital of the Cathédrale Saint-Lazare d'Autun in Bourgogne, France. Photograph from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autun,_Flight_into_Egypt.JPG)
 
-**Optional advance reading:** [Matthew 2](https://bible.oremus.org/?ql=601375462)
+## Optional advance reading:
+- [Matthew 2](https://bible.oremus.org/?ql=601375462)
+- [Rachael Weeps](https://goodfaithmedia.org/rachael-weeps/)
+- [Slaughter of the Holy Innocents... again](https://empireremixed.com/2019/12/29/slaughter-of-the-holy-innocents-again/)
 
 ## Speakers:
 

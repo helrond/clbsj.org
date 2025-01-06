@@ -10,7 +10,7 @@ _A scriptural and contemplative exploration of stories of the Three Kings (Maji)
 
 On Epiphany, also known as Three Kings Day or or Día de Los Reyes, we remember how the stars re-aligned to recognize the Christ, arising from the struggling margins of the earth. We remember how a group of elders crossed boundaries to encounter and give respect to this miracle. We often do not remember that, as the scripture tells it, their visit triggered the killing of every child below the age of two by the jealous King Herod, forcing the Holy Family into exile. What does the coincidence of these stories of epiphany and tragedy have to say to us today? Join Will O'Brien, Miguel A. De La Torre, Crystal Silva-McCormick and Brian Walsh for a roundtable discussion.
 
-<b>Register here:</b> 
+<b>Registration will be open until 7:15pm Eastern US Time:</b> 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=12&reset=1" %}
 
 This event co-sponsored by the Alternative Seminary and Bible Remixed.

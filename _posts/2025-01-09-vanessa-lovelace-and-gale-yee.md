@@ -15,8 +15,8 @@ In honor of Black History Month, Vanessa Lovelace and Gale Yee will dialogue abo
 _PLEASE NOTE: Registration will be open until 7:00pm Eastern US Time on the day of the event._
 
 ## Optional Advance Reading:
-Attendees are welcome to read some or all of Dr. Lovelace's book, [_A Womanist Reading of Hebrew Bible Narratives as the Politics of Belonging from an Outsider Within_](https://rowman.com/ISBN/9781978706996/A-Womanist-Reading-of-Hebrew-Bible-Narratives-as-the-Politics-of-Belonging-from-an-Outsider-Within)
-Download this flyer to obtain a 30% discount on the book.
+Attendees are welcome to read some or all of Dr. Lovelace's book, [_A Womanist Reading of Hebrew Bible Narratives as the Politics of Belonging from an Outsider Within_](https://rowman.com/ISBN/9781978706996/A-Womanist-Reading-of-Hebrew-Bible-Narratives-as-the-Politics-of-Belonging-from-an-Outsider-Within)<br>
+[Download this flyer](https://clbsj.org/assets/Lovelace-BookFlyer.pdf) to obtain a 30% discount on the book.
 
 ## Speaker Bios:
 

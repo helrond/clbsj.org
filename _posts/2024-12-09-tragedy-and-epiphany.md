@@ -4,7 +4,9 @@ category: events
 layout: event
 title: Tragedy and Epiphany
 time: '7:30pm Eastern Standard Time'
-image_filename: Gislebertus-FlightIntoEgypt.JPG
+vimeo_id: '1044552496'
+series:
+  - scholar-activist-encounters
 ---
 _A scriptural and contemplative exploration of stories of the Three Kings (Maji) and the Slaughter of the Innocents_
 

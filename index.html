@@ -16,7 +16,8 @@ image: /img/home.jpg
 
 <div class="home-card__wrapper">
 
-  {% for featured in site.featured_items %}
+  {%- assign sorted_featured = site.featured_items | sort: 'sort_order' -%}  
+  {% for featured in sorted_featured %}
   <div class="home-card">
     <h2>{{featured.title}}</h2>
     <p>{{featured.content}}</p>

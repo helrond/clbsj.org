@@ -57,7 +57,7 @@ _So much for taking it slow<br>
 Now everybody knows<br>
 Here we go!_
 
-To me this verse speaks of the quickening of consciousness that has happened as we’ve observed the growing strength of reactionary politics. In our attempts to make political change, some are always advocating for a slow, incremental approach, and sometimes this seems like the only available option. Nina Simone famously bewailed this mentality in her famous ballad Mississippi Goddamn: “They keep on sayin' 'go slow'… [but] to do things gradually would bring more tragedy!”
+To me this verse speaks of the quickening of consciousness that has happened as we’ve observed the growing strength of reactionary politics. In our attempts to make political change, some are always advocating for a slow, incremental approach, and sometimes this seems like the only available option. Nina Simone famously bewailed this mentality in her ballad Mississippi Goddamn: “They keep on sayin' 'go slow'… [but] to do things gradually would bring more tragedy!”
 
 But, in this moment, the curtain has been pulled back. We now no longer have the option to say “go slow.” “Everybody” (relatively speaking) now sees what is happening, and what is at stake. There is now only one option: Time to speed up. Here we go!
 
@@ -80,6 +80,6 @@ The forces of confusion produce fruits of ignorance that have lethal consequence
 
 The most important message in Yellow Light, I think, is this confidence in the face of suffering and difficulty that our movements for justice and truth can respond to this stepped up pressure, and an invitation for all of us to do so with a spirit of joy. His song communicates the same message that Jesus communicated to his disciples in John 16:20-22:
 
-“Very truly, I tell you, you will weep and mourn, but the world will rejoice; you will have pain, but your pain will turn into joy. When a woman is in labour, she has pain, because her hour has come. But when her child is born, she no longer remembers the anguish because of the joy of having brought a human being into the world. So you have pain now; but I will see you again, and your hearts will rejoice, and no one will take your joy from you.”
+_“Very truly, I tell you, you will weep and mourn, but the world will rejoice; you will have pain, but your pain will turn into joy. When a woman is in labour, she has pain, because her hour has come. But when her child is born, she no longer remembers the anguish because of the joy of having brought a human being into the world. So you have pain now; but I will see you again, and your hearts will rejoice, and no one will take your joy from you.”_
 
-Here we go!
+May it be so. Here we go!

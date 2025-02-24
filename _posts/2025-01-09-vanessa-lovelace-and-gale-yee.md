@@ -4,9 +4,9 @@ category: events
 layout: event
 title: Vanessa Lovelace and Gale Yee
 time: '7:30pm Eastern US Time'
+image_filename: Lovelace-With-Book-CROP.jpg
 series:
   - scholar-activist-encounters
-image_filename: Lovelace-With-Book-CROP.jpg
 ---
 In honor of Black History Month, Vanessa Lovelace and Gale Yee will explore the importance of reading the Bible in conversation with the history of racism and sexism, as well as anti-oppression organizing. Dr. Lovelace will discuss her most recent book, _A Womanist Reading of Hebrew Bible Narratives as the Politics of Belonging from an Outsider Within_, which explores how biblical stories were first used by ancient biblical writers to include some and exclude others as members of the nation of Israel, and then appropriated by White supremacists in the antebellum era and the early twentieth century to do the same in the United States of America. Dr. Lovelace and Dr. Yee will discuss both the activist hermeneutical stance of using contemporary history and experience to inform our understanding of the Bible, and the implications of this way of reading for intersectional racial justice activism and organizing today.
 

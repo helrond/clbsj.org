@@ -14,7 +14,7 @@ published: true
 sort_order: 3
 image_filename: MindOfChrist-FrankWesley.jpg
 ---
-This year, CLBSJ continues our Lenten Bible Detox practice with a mini-series. Stay tuned for announcements of three events taking plaace on April 1, April 8 and April 12.
+This year, CLBSJ continues our Lenten Bible Detox practice with a mini-series. Stay tuned for announcements of three events taking place on April 1, April 8 and April 12.
 
 Archives to most previous detox sessions can be found below.
 

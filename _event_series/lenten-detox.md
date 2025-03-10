@@ -14,7 +14,7 @@ published: true
 sort_order: 3
 image_filename: MindOfChrist-FrankWesley.jpg
 ---
-This year, CLBSJ continued our Bible Detox practice in a different format. We gathered online on Saturday, March 2, 2024 for "Into the Wilderness: A Contemplative Lenten Bible Detox Retreat." [Click here for more information.](https://clbsj.org/events/2024/03/02/into-the-wilderness-a-contemplative-retreat/)
+This year, CLBSJ continues our Lenten Bible Detox practice with a mini-series. Stay tuned for announcements of three events taking plaace on April 1, April 8 and April 12.
 
 Archives to most previous detox sessions can be found below.
 

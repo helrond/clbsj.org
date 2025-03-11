@@ -2,7 +2,8 @@
 date: '2019-01-10'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 title: 'Feminist Theology'
 author: Shannan Vance-Ocampo

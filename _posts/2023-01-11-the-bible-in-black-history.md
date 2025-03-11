@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: The Bible as a Living Text in Black Community
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 time: '7:30pm Eastern Time'
 vimeo_id: '795959610'
 ---

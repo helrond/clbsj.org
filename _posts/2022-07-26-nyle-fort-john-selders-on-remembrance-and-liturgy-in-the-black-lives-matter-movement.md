@@ -6,7 +6,8 @@ published: true
 title: >-
   Nyle Fort and John Selders on Remembrance and Liturgy in the Black Lives
   Matter movement
-series: black-august
+series:
+  - black-august
 time: '7:30pm Eastern Time'
 vimeo_id: '738412266'
 ---

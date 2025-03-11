@@ -2,7 +2,8 @@
 date: '2019-10-14 19:06 -0500'
 category: news
 layout: news-item
-series: from-the-stacks
+series:
+  - from-the-stacks
 published: true
 title: '<em>Radical Jesus: The Way of Jesus, Then and Now</em> by John Vincent'
 author: Laura Gottwald and Amy Dalton

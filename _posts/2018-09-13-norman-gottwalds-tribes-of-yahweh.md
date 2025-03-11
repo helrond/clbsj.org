@@ -2,7 +2,8 @@
 date: '2018-09-13'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 time: '7:00pm Eastern Time'
 title: Norman Gottwald's <em>Tribes of Yahweh</em>

@@ -4,7 +4,8 @@ category: events
 layout: event
 title: Pentecost and Multilingual Community Organizing
 time: '7:30pm Eastern Time'
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 vimeo_id: '947499654'
 ---
 What can the Pentecost Story in [Acts 2](https://bible.oremus.org/?ql=582797469), as well as other biblical references to "speaking in tongues," tell us about the experience of living and building people power in multilingual societies? In this session, Indonesian-American New Testament scholar Ekaputra Tupamahu presents his “heteroglossic-immigrant” mode of reading these texts, and unpacks its implications for understanding biblical times, as well as our own contexts. Nelcy García De León, an immigrant rights activist and organizer, offers a response.

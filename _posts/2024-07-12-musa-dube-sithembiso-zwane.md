@@ -6,7 +6,8 @@ title: >-
   Musa Dube and Sithembiso Zwane on the Politics and Possibilities of Bible
   Translation
 time: 11am Eastern US Time
-series: black-august
+series:
+  - black-august
 vimeo_id: '1002310220'
 ---
 Our fourth Black August session will feature Dr. Musa Wenkosi Dube Shomanah, Botswanan biblical scholar and first African President of the Society of Biblical Literature, in conversation with Sithembiso Zwane, director of the Ujamaa Centre for Biblical and Theological Community Development and Research in KwaZulu-Natal, South Africa.

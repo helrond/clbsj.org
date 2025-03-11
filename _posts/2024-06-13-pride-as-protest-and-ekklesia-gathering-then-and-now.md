@@ -4,7 +4,8 @@ category: events
 layout: event
 title: 'Pride as Protest and Ekklesia (Gathering), Then and Now'
 time: '7:30pm Eastern Time'
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 vimeo_id: '973334789'
 ---
 All are warmly invited to a roundtable discussion hosted by CLBSJ Board Member Rev. Dr. Eric Thomas on the role of radical biblical interpretation in the Pride tradition, from the Stonewall Uprising to today. Panelist include Valerie Bridgeman, Danielle Dufoe, Leonard Curry and Nathan Sobers. Together, we will explore how embodied queer theologies and hermeneutics have evolved from the streets and the night clubs, to the sanctuaries and the academy, to resist toxic anti-LGBTQIA+ interpretation of scripture. 

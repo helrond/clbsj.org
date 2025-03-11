@@ -2,7 +2,8 @@
 date: '2020-10-15'
 category: events
 layout: event
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
 title: 'Traci West and Nicholas Johnson'

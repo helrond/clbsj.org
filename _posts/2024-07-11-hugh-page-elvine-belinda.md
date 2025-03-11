@@ -4,7 +4,8 @@ category: events
 layout: event
 title: Hugh Page and Elvine Belinda on African Liberation Today
 time: '7:30pm Eastern Daylight Time'
-series: black-august
+series:
+  - black-august
 vimeo_id: '994276727'
 ---
 In the opening session of our 2024 Black August Series, we will take a big picture look at our series theme: Panafricanism, Internationalism and African Liberation -- what is going on today, and what does the Bible have to do with it? 

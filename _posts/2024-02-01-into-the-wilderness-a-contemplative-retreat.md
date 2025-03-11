@@ -5,7 +5,8 @@ layout: event
 published: true
 title: "Into the Wilderness —\_A Contemplative Retreat"
 time: '10:00am – 1:30pm Eastern Time'
-series: bible-detox
+series:
+  - bible-detox
 image_alt_text: '"The Mind of Christ" by Frank Wesley'
 image_filename: MindOfChrist-FrankWesley.jpg
 ---

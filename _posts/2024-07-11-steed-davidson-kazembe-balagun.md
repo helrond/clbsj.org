@@ -4,7 +4,8 @@ category: events
 layout: event
 title: Steed Vernyl Davidson and Kazembe Balagun on Biblical Ethiopianism and Beyond
 time: '7:30pm Eastern US Time'
-series: black-august
+series:
+  - black-august
 vimeo_id: '996477513'
 ---
 Our second session will feature Dr. Steed Vernyl Davidson, Hebrew Bible scholar from Trinidad and Tobago who serves as executive director of the Society of Biblical Literature, in conversation with Kazembe Balagun, longtime community organizer and cultural activist who serves as the executive director at the Maysles Documentary Center in Harlem. 

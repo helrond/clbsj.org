@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: 'Dr. Gale Yee and Rev. Dr. Dong Hyeon Jeong '
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 time: '7:30pm Eastern Time'
 vimeo_id: '733316813 '
 ---

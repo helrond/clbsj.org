@@ -2,7 +2,8 @@
 date: '2019-05-09 '
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 vimeo_id: "337498344"
 title: 'Palestinian Liberation Theology'

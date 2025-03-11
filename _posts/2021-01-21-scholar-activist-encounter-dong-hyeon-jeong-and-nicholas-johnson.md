@@ -2,7 +2,8 @@
 date: '2021-01-21'
 category: events
 layout: event
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
 title: Dong Hyeon Jeong and Nicholas Johnson

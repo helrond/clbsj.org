@@ -2,7 +2,8 @@
 date: '2020-11-07 15:12 -0400'
 category: news
 layout: news-item
-series: from-the-stacks
+series:
+  - from-the-stacks
 image_filename: espinoza_activist-theology.jpg
 image_alt_text: cover of Activist Theology
 published: true

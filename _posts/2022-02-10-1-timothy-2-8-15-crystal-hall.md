@@ -5,7 +5,8 @@ layout: event
 published: true
 title: 'Study of 1 Timothy 2:8-15 led by Crystal Hall and Carolyn Grice'
 time: '7:30 PM Eastern Time'
-series: bible-detox
+series:
+  - bible-detox
 vimeo_id: '687671237'
 ---
 In this session, Dr. Crystal Hall rereads [1 Timothy 2:8-15](https://bible.oremus.org/?ql=510380030), a passage perhaps more than any other used to silence women and deny women's leadership. She contextualizes this passage within its socio-historical context, in which there was increasing pressure on the early church to accommodate to Greco-Roman gender norms. Rev. Carolyn Grice, Chair of the Presbytery of Missouri River Valley’s Social Justice and Peacemaking Committee and activist with the Empowerment Network of North Omaha, offers her perspective based on her grassroots work to empower women and girls.

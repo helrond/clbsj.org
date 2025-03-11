@@ -2,7 +2,8 @@
 date: '2018-11-12 18:14 -0500'
 category: news
 layout: news-item
-series: reading-the-bible-as-an-activist
+series:
+  - reading-the-bible-as-an-activist
 published: true
 title: Struggling with Faith
 author: Shannan Vance-Ocampo

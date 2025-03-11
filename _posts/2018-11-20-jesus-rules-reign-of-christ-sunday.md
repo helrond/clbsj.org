@@ -2,7 +2,8 @@
 date: '2018-11-20 08:10 -0500'
 category: news
 layout: news-item
-series: reading-the-bible-as-an-activist
+series:
+  - reading-the-bible-as-an-activist
 published: true
 title: 'Jesus Rules: Reign of Christ Sunday'
 author_bio: >-

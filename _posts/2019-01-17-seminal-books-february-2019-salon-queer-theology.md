@@ -2,7 +2,8 @@
 date: 2019/02/14
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 title: Queer Theology - Liberating Love
 author: Shannan Vance-Ocampo

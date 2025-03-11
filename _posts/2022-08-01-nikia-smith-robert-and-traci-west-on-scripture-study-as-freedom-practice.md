@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: Nikia Smith Robert and Traci West on Scripture Study as Freedom Practice
-series: black-august
+series:
+  - black-august
 time: '7:30pm Eastern Time'
 vimeo_id: '740584650'
 ---

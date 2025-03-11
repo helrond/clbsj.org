@@ -6,7 +6,8 @@ title: >-
   Integration and Reflection — a Participatory Closing Session with Sr. Sharifa
   Meytung and Dr. Alice Yafeh-Deigh
 time: 11am Eastern US Time
-series: black-august
+series:
+  - black-august
 vimeo_id: '1005890630'
 ---
 Our closing Black August session will be a participatory format in which we will gather the threads of what we have learned in the previous four sessions and weave them together, with the aid of a deep contemplative engagement with [Mark 11:15-19](https://bible.oremus.org/?ql=591266382). This session will be facilitated by CLBSJ Board Member Sr. Sharifa Meytung, and will include a sharing by New Testament scholar Dr. Alice Yafeh-Deigh.

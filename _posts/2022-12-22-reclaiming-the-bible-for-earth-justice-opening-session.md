@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: Climate Change Deniers' Use of the Bible
-series: bible-detox
+series:
+  - bible-detox
 time: '7:30PM Eastern Time'
 vimeo_id: '804923105'
 ---

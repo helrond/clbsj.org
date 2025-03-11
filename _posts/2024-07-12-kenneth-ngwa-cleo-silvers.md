@@ -6,7 +6,8 @@ title: >-
   Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health
   Equity
 time: '7:30pm Eastern US Time'
-series: black-august
+series:
+  - black-august
 vimeo_id: '1000213779'
 ---
 For our third Black August session, we will welcome Rev. Dr. Kenneth Ngwa and Cleo Silvers, who will both share about their work to organize and educate toward global transformation in our understanding of and commitment to the health of all people. Dr. Ngwa will discuss his efforts to innovate a Health Equity Hermeneutics, and how this work is rooted in an Africana reading of the Bible. Ms. Silvers will reflect on her history at the frontlines of Black Liberation organizing for health equity, especially her working relationship with Dr. Mutulu Shakur, and how her formation in the Black church informed her commitment to radical health organizing. This session will be hosted by CLBSJ Board Member Rev. Dr. Eric Thomas.

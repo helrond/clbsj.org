@@ -1,7 +1,9 @@
 {% assign series = null %}
 {% for item in site.event_series %}
     {% assign name = item.path | split:"/" | last | split:"." | first %}
-    {% if name == include.name %}
-        {% assign series = item %}
-    {% endif %}
+    {% for include_name in include.name %}
+        {% if name == include_name %}
+            {% assign series = item %}
+        {% endif %}
+    {% endfor %}
 {% endfor %}

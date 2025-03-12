@@ -11,10 +11,11 @@ Our closing Lenten Bible Detox session will be a participatory session in which 
 
 Guests are encouraged to have attended at least one of the previous detox sessions, and/or to have watched the archive. Stay tuned for details on the scriptures we will focus on!
 
-Click here to register:
 <b>Click Here to Register:</b> 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=16&reset=1" %}
 _PLEASE NOTE: Registration will be open until 9:00am Eastern US Time on the day of the event._
+
+_**Image:** "One Who Understands" by Paul Klee, [donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art](https://commons.wikimedia.org/wiki/File:OneWhoUnderstandsMETDT4466.jpg)._
 
 ## Session Hosts:
 

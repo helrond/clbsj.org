@@ -16,7 +16,7 @@ Guests are encouraged to have attended at least one of the previous detox sessio
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=16&reset=1" %}
 _PLEASE NOTE: Registration will be open until 9:00am Eastern US Time on the day of the event._
 
-_**Image:** "One Who Understands" by Paul Klee, [donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art](https://commons.wikimedia.org/wiki/File:OneWhoUnderstandsMETDT4466.jpg)._
+**Image:** ["One Who Understands" by Paul Klee](https://commons.wikimedia.org/wiki/File:OneWhoUnderstandsMETDT4466.jpg).
 
 ## Session Hosts:
 

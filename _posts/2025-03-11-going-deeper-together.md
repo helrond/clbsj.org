@@ -12,7 +12,6 @@ Our closing Lenten Bible Detox session will be a participatory session in which 
 
 Guests are encouraged to have attended at least one of the previous detox sessions, and/or to have watched the archive. Stay tuned for details on the scriptures we will focus on!
 
-<b>Click Here to Register:</b> 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=16&reset=1" %}
 _PLEASE NOTE: Registration will be open until 9:00am Eastern US Time on the day of the event._
 

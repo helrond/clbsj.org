@@ -6,7 +6,7 @@ title: Going Deeper Together
 time: 10am-12pm Eastern US Time
 series:
   - bible-detox
-image_filename: PaulKlee-OneWhoUnderstands.jpg
+image_filename: PaulKlee-AtTheCore.jpg
 ---
 Our closing Lenten Bible Detox session will be a participatory session in which we will revisit the scriptures and themes discussed by Kate Common and Jeremy Williams in dialogue and contemplation. This session will be facilitated by CLBSJ Program Committee Member Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
 
@@ -16,7 +16,7 @@ Guests are encouraged to have attended at least one of the previous detox sessio
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=16&reset=1" %}
 _PLEASE NOTE: Registration will be open until 9:00am Eastern US Time on the day of the event._
 
-**Image:** ["One Who Understands" by Paul Klee](https://commons.wikimedia.org/wiki/File:OneWhoUnderstandsMETDT4466.jpg).
+_Image: ["At the Core" by Paul Klee](https://en.wikipedia.org/wiki/File:Kleeatthecore35dallas.jpg)_
 
 ## Session Hosts:
 

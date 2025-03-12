@@ -6,6 +6,7 @@ title: Going Deeper Together
 time: 10am-12pm Eastern US Time
 series:
   - bible-detox
+image_filename: PaulKlee-OneWhoUnderstands.jpg
 ---
 Our closing Lenten Bible Detox session will be a participatory session in which we will revisit the scriptures and themes discussed by Kate Common and Jeremy Williams in dialogue and contemplation. This session will be facilitated by CLBSJ Board Member Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
 

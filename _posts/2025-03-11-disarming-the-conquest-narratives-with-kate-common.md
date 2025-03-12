@@ -10,7 +10,6 @@ image_filename: UndoingConquest.jpg
 ---
 Perhaps the most glaring and destructive misuse of the biblical text has been the deployment of the narratives of conquest of ancient Israel to justify current colonial projects from Palestine to South Africa to Turtle Island. To tackle this problem, CLBSJ is honored to welcome Kate Common, practical theologian and interdisciplinary biblical researcher, and author of the recently published [_Undoing Conquest: Ancient Israel, the Bible, and the Future of Christianity_](https://orbisbooks.com/products/undoing-conquest-ancient-israel-the-bible-and-the-future-of-christianity) (Orbis, 2024). Dr. Common will lead us on a deep dive into how contemporary research on the origins of the Hebrew people can help us challenge the dominant interpretation of the conquest narratives as justification for colonialist violence. Their work builds on archeological research on the Highlands Settlements north of Jerusalem, as well as on Norman Gottwald’s seminal work interpreting this research, _Tribes of Yahweh: A Sociology of the Religion of Liberated Israel, 1250-1050 BCE._ 
 
-<b>Click Here to Register:</b> 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=15&reset=1" %}
 _PLEASE NOTE: Registration will be open until 7:00pm Eastern US Time on the day of the event._
 

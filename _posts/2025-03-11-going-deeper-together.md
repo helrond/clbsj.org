@@ -7,7 +7,7 @@ time: 10am-12pm Eastern US Time
 series:
   - bible-detox
 ---
-Our closing Lenten Bible Detox session will be a participatory session in which we will revisit the scriptures discussed by Kate Common and Jeremy Williams in dialogue and contemplation. This session will be facilitated by CLBSJ Board Member Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
+Our closing Lenten Bible Detox session will be a participatory session in which we will revisit the scriptures and themes discussed by Kate Common and Jeremy Williams in dialogue and contemplation. This session will be facilitated by CLBSJ Board Member Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
 
 Guests are encouraged to have attended at least one of the previous detox sessions, and/or to have watched the archive. Stay tuned for details on the scriptures we will focus on!
 

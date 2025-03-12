@@ -4,7 +4,7 @@ prefix: Bible "Detox"
 title: Bible "Detox"
 slug: bible-detox
 tagline: >-
-  Reckoning with and healing from the misuse of the Bible to promote and justify
+  Reckoning with and resisting the misuse of the Bible to promote and justify
   violence and oppression.
 image_alt_text: “The Mind of Christ (temptation story)” by Frank Wesley (1923-2002)
 keywords:

@@ -15,7 +15,7 @@ Guests are encouraged to have attended at least one of the previous detox sessio
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=16&reset=1" %}
 _PLEASE NOTE: Registration will be open until 9:00am Eastern US Time on the day of the event._
 
-_Image: ["At the Core" by Paul Klee](https://en.wikipedia.org/wiki/File:Kleeatthecore35dallas.jpg)_
+_Image: ["At the Core" by Paul Klee](https://commons.wikimedia.org/wiki/File:Klee_at_the_core_35_dallas.jpg)_
 
 ## Session Hosts:
 

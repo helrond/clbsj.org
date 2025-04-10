@@ -8,7 +8,7 @@ series:
   - bible-detox
 image_filename: PaulKlee-AtTheCore.jpg
 ---
-Our closing Lenten Bible Detox session will be a participatory session in which we will revisit the scriptures and themes discussed by Kate Common and Jeremy Williams in dialogue and contemplation. In supportive community we will endeavor to discern what mindset shifts and action steps their teachings call us to. This session will be facilitated by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
+Our closing Lenten Bible Detox session will be a participatory gathering in which we revisit the scriptures and themes discussed by Kate Common and Jeremy Williams in dialogue and contemplation. In supportive community, we will endeavor to discern what mindset shifts and action steps their teachings call us to. This session will be facilitated by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
 
 Participants are encouraged to have attended or watched the archive of at least one of the previous detox sessions. These archives are now online:<br> 
 [Session 1](https://vimeo.com/1071988410)<br>

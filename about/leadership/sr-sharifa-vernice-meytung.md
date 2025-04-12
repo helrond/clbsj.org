@@ -1,13 +1,13 @@
 ---
 layout: leader-snippet
 title: Sister Sharifa Vernice Meytung
-sort: meytung
+sort: 3
 description: >-
   Sister Sharifa Vernice Meytung, OLC (Our Lady of Czestochowa) is an
   African-American artist, haijin (a writer of haiku poetry), teacher and lay
   religious practitioner in the Catholic and Buddhist traditions.
 keywords: sister sharifa vernice meytung
-category: board-member
+category: staff
 image: /img/board/meytung.jpg
 published: true
 officer: Contemplative Traditions Advisor

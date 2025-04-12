@@ -1,7 +1,7 @@
 ---
 layout: leader-snippet
 title: Matthew J. M. Coomber
-sort: 3
+sort: 4
 description: >-
   Matthew J. M. Coomber is an Assistant Professor of Theology in biblical
   studies at St. Ambrose University and an Episcopal priest.

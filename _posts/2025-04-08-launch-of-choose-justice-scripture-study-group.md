@@ -12,4 +12,5 @@ Our gatherings will take place online on Tuesday at 7:30pm Eastern US Time (whic
 
 This pilot project is co-produced by CLBSJ, the Alternative Seminary, the Garret Collective, and other friends and conspirators.
 
-[Use this form to register for any and all of the sessions.](https://forms.gle/6Eo46G2htPf9RW9v7)
+Use this form to register for any and all of the sessions:
+{% include registration-button.html link="https://forms.gle/6Eo46G2htPf9RW9v7" %}

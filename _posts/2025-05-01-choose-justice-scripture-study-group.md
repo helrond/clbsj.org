@@ -6,7 +6,7 @@ title: CHOOSE JUSTICE Scripture Study Group
 time: '7:30pm Eastern US Time'
 image_filename: HandsCircle.jpg
 ---
-**Our experimental CHOOSE JUSTICE Scripture Study Group continues on May 6 / May 7, 2025! It will be facilitated by Jane Dawson.**
+**Our experimental CHOOSE JUSTICE Scripture Study Group continues on May 6 / May 7, 2025! It will be facilitated by Jane Dawson, a writer and teacher at the University of Victoria and the Ottowa School of Theology and Spirituality.**
 
 As we are moving quickly into a time of challenges both known and unknown, we need both biblical guidance and supportive community. Toward this end, seekers and freedom fighters of all faiths and life backgrounds are invited to participate in this experimental weekly scripture study group, which will run from Easter through Pentecost. 
 

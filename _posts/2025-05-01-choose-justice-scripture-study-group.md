@@ -4,6 +4,7 @@ category: events
 layout: event
 title: CHOOSE JUSTICE Scripture Study Group
 time: '7:30pm Eastern US Time'
+image_filename: HandsCircle.jpg
 ---
 **Our experimental CHOOSE JUSTICE Scripture Study Group continues on May 6 / May 7, 2025! It will be facilitated by Jane Dawson.**
 

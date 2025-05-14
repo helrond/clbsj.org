@@ -44,9 +44,7 @@ publications:
     title: 'Amos and Micah: Through the Centuries (Wiley Blackwell, forthcoming)'
     url: 'http://www.wiley.com/WileyCDA/Section/id-398210.html'
   '9':
-    title: >-
-      God, Mammon, and Hope for the Poor: A Commentary (Fortress Press,
-      forthcoming)
+    title: 'God, Mammon, and Hope for the Poor: A Commentary (Fortress Press, forthcoming)'
   '10':
     title: >-
       "Those at Ease Have Contempt for Misfortune: Biblical Approaches to

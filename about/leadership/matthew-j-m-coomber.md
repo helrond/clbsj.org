@@ -25,8 +25,7 @@ publications:
     url: 'http://fortresspress.com/fcob'
   '4':
     title: 'Debt as Weapon: Manufacturing Poverty from Judah to Today'
-    url: >-
-      http://www.v-r.de/en/diaconia_journal_for_the_study_of_christian_social_practice_2015_6_1/me-0/1009904/
+    url: 'https://www.vr-elibrary.de/doi/pdf/10.13109/diac.2013.4.2.143'
   '5':
     title: >-
       Occupying the Temple in Ancient Judah: Resisting Debt Abuses from

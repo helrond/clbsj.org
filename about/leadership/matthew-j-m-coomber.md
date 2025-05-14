@@ -10,7 +10,7 @@ category: staff
 officer: Book Series Editor
 job-title: Associate Professor of Biblical Studies
 institution: St. Ambrose University
-image: /img/board/coomber.jpg
+image: /img/matthewcoomber.jpg
 publications:
   '1':
     title: Re-Reading the Bible through Corporate Globalization

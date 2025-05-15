@@ -2,7 +2,8 @@
 date: '2018-12-13 06:21 -0500'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 title: 'Sanctuary for All Life and Goatwalking'
 location: '17 Crickettown Road Stony Point, NY 10980 '

@@ -2,7 +2,8 @@
 date: '2018-12-11 19:59 -0500'
 category: news
 layout: news-item
-series: reading-the-bible-as-an-activist
+series:
+  - reading-the-bible-as-an-activist
 published: true
 title: 'Advent 3: Joy and Justice'
 description: >-

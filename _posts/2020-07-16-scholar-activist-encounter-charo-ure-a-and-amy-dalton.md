@@ -2,7 +2,8 @@
 date: '2020-07-16 00:00 -0400'
 category: events
 layout: event
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 published: true
 time: '7:30pm Eastern Time'
 title: 'Charo Ureña and Amy Dalton'

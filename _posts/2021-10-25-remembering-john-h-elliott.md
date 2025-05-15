@@ -6,7 +6,8 @@ published: true
 title: Remembering John H. "Jack" Elliott at SBL
 time: 7pm Eastern Time ~ 6pm Central Time ~ 4pm Pacific Time
 image_alt_text: Jack Elliott at CLBSJ's Founding Conference in 2011
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 vimeo_id: '652671820'
 ---
 Rev. Dr. John H. “Jack” Elliott (1935–2020) was known internationally for his research on 1 Peter (especially [_A Home for the Homeless_, Wipf and Stock, 2005](https://wipfandstock.com/9781597524094/a-home-for-the-homeless/)) and as a leading proponent of the social-scientific study of the Bible. Less well known is his 4-volume work on the "Evil Eye" tradition as it informs our understanding of the bible, that he was a co-founder and longtime Board President of CLBSJ, and the many activist efforts he participated in—including labor organizing and immigrant solidarity work.
@@ -21,5 +22,7 @@ To register online, please click here:
 If you will be attending AAR/SBL in person in San Antonio, we will gather at the Marriott Rivercenter, Conference Room 20-21. A group will also be gathering at CLBSJ's main collection in Stony Point, NY. To RSVP to an in person gathering, please email clbsjorg@gmail.com
 
 [Click here to read more about Jack.](https://clbsj.org/about/leadership/john-h-elliott/ )
+
+[Click here to read Norman Gottwald's tribute to Jack](https://clbsj.org/news/2020/12/22/a-tribute-to-jack-elliott/)
 
 _Photo: [Jack speaks at CLBSJ's inaugural gathering](https://clbsj.org/events/2011/10/22/opening-weekend/). © Tim Nafziger, used with permission._

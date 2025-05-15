@@ -2,7 +2,8 @@
 date: '2021-07-15'
 category: events
 layout: event
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 published: true
 title: >-
   Discussion of <em>Healing Haunted Histories</em> with Sweetwater Cultural

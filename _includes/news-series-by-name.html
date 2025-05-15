@@ -1,7 +1,9 @@
-{% assign series = null %}
+{% assign series = '' | split: ',' %}
 {% for item in site.news_series %}
     {% assign name = item.path | split:"/" | last | split:"." | first %}
-    {% if name == include.name %}
-        {% assign series = item %}
-    {% endif %}
+    {% for include_name in include.name %}
+        {% if name == include_name %}
+            {% assign series = series | push: item %}
+        {% endif %}
+    {% endfor %}
 {% endfor %}

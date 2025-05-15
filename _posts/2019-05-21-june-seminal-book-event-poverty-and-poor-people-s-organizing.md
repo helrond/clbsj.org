@@ -2,7 +2,8 @@
 date: '2019-06-13'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 title: 'Poverty and Poor People’s Organizing'
 location: '5 Cricketown Road Stony Point, NY 10980'

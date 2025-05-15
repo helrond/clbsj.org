@@ -2,7 +2,8 @@
 date: '2017-10-23 15:12 -0400'
 category: news
 layout: news-item
-series: from-the-stacks
+series:
+  - from-the-stacks
 published: true
 title: <em>The Little Book of Biblical Justice</em> by Chris Marshall
 author: Norman Gottwald

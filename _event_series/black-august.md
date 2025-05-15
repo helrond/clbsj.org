@@ -108,16 +108,20 @@ leadership:
       full bio at <https://clbsj.org/about/leadership/amy-dalton/>
 image_alt_text: Black August series thumbnail
 image_filename: BlackAugust2024-FullCalendar.jpg
-image_link: https://clbsj.civicrm.org/civicrm/event/list
+image_link: 'https://clbsj.civicrm.org/civicrm/event/list'
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
 CLBSJ's fourth annual Black August series is focused on "Scriptural Perspectives on PanAfricanism and Internationalism." Starting August 1, biblical scholars and grassroots leaders will come together weekly to discuss what is going on today in the movement for African Liberation, and what does the Bible have to do with it? [Click here to register for one or more session](https://clbsj.civicrm.org/civicrm/event/list), or scroll down to access links with more details on each session.
 
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
+
 ## Logistical Notes: 
 Because we have set a goal to make our sessions more accessible to a wider section of the globe, this year we will hold sessions at two different times. The first three sessions will be at our usual time, Thursdays at 7:30pm Eastern US Time, and the last two sessions will be on Saturdays at 11am Eastern US Time, which is 4pm West Africa Time and 5pm Central Africa Time.
 
 [Links to register for each session can be accessed here](https://clbsj.civicrm.org/civicrm/event/list). Please register for each session you wish to attend. We are using a new "cart" technology which allows you to register for multiple events at once. Add each session you wish to attend to your "cart." Once you initiate the checkout process, you will be given an option to select a donation amount for each session. Please choose event donations that comport with your financial capacity — please give more if you can, and do not hesitate to select $0 if you need to. **All are welcome!**
+
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 
 Please reach out to info@clbsj.org if you have any questions or technical issues with the registration process.
 

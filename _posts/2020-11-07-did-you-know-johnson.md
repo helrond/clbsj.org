@@ -2,7 +2,8 @@
 date: '2020-11-07 14:45 -0400'
 category: news
 layout: news-item
-series: did-you-know
+series:
+  - did-you-know
 published: true
 title: More about our new Board President, Nicholas Johnson
 description: >-

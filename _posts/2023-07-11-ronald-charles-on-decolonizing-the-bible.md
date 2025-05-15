@@ -5,7 +5,8 @@ layout: event
 published: true
 title: Ronald Charles on Decolonizing the Bible
 time: '7:30pm Eastern Time'
-series: black-august
+series:
+  - black-august
 vimeo_id: '854040283'
 ---
 **Decolonizing the Bible:

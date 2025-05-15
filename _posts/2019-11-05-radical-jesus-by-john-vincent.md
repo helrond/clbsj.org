@@ -2,7 +2,8 @@
 date: '2018-10-25'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 time: '7:15pm Eastern Time'
 title: <em>Radical Jesus</em> by John Vincent

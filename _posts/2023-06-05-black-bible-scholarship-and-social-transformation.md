@@ -5,7 +5,8 @@ layout: event
 published: true
 title: 'Rodney Sadler on Slavery, Resistance and Biblical Understanding'
 time: '7:30pm Eastern Time'
-series: black-august
+series:
+  - black-august
 vimeo_id: '851795325'
 ---
 **Starting At the Roots:

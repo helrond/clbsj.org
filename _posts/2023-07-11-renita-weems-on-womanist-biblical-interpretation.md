@@ -5,7 +5,8 @@ layout: event
 published: true
 title: Renita Weems on Womanist Biblical Interpretation
 time: '7:30pm Eastern Time'
-series: black-august
+series:
+  - black-august
 vimeo_id: '857991217'
 ---
 **Womanist Biblical Interpretation:

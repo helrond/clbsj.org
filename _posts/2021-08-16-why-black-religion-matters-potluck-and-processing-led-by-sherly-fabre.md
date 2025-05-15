@@ -2,7 +2,8 @@
 date: '2021-08-31'
 category: events
 layout: event
-series: black-august
+series:
+  - black-august
 published: true
 title: '"Potluck and Processing" led by Sherly Fabre'
 time: '7:30pm Eastern Time'

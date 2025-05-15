@@ -2,7 +2,8 @@
 date: '2019-03-07 08:41 -0500'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 vimeo_id: "330910239"
 title: 'Perspectives on Earth Care'

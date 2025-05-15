@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: Resistance Readings of the Parable of the Manager of Unjust Wealth
-series: scholar-activist-encounters
+series:
+  - scholar-activist-encounters
 vimeo_id: '722800233'
 ---
 CLBSJ is pleased to again join forces with the Alternative Seminary to host a teaching and discussion on [Luke 16:1-13](https://bible.oremus.org/?ql=522052784), the Parable of the Manager of Unjust Wealth. CLBSJ Board Member Rev. Dr. Dong Hyeon Jeong summarizes his resistance reading of this confounding parable, drawing from socio-economic analysis of the biblical context, his experience as a Korean missionary in the Phillippines, as well as Mel Chen’s Animacies Theory.

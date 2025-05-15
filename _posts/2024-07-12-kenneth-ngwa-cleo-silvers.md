@@ -1,16 +1,18 @@
 ---
 date: '2024-08-15'
 category: events
-layout: event-series
+layout: event
 title: >-
   Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health
   Equity
 time: '7:30pm Eastern US Time'
-series: black-august
+series:
+  - black-august
+vimeo_id: '1000213779'
 ---
-For our third Black August session, we will welcome Rev. Dr. Kenneth Ngwa and Cleo Silvers, who will both share about their work to organize and educate toward global transformation in our understanding of and commitment to the health of all people. Dr. Ngwa will discuss his efforts to innovate a Health Equity Hermeneutics, and how this work is rooted in an Africana reading of the Bible. Ms. Silvers will reflect on her history at the frontlines of Black Liberation organizing for health equity, especially her working relationship with Dr. Mutulu Shakur, and how her formation in the Black church informed her commitment to radical health organizing. 
+For our third Black August session, we will welcome Rev. Dr. Kenneth Ngwa and Cleo Silvers, who will both share about their work to organize and educate toward global transformation in our understanding of and commitment to the health of all people. Dr. Ngwa will discuss his efforts to innovate a Health Equity Hermeneutics, and how this work is rooted in an Africana reading of the Bible. Ms. Silvers will reflect on her history at the frontlines of Black Liberation organizing for health equity, especially her working relationship with Dr. Mutulu Shakur, and how her formation in the Black church informed her commitment to radical health organizing. This session will be hosted by CLBSJ Board Member Rev. Dr. Eric Thomas.
 
-{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/info?id=9&reset=1" %}
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/list" %}
 
 ## Logistical Notes: 
 Please register separately for each session that you wish to attend. Donations are encouraged on a sliding scale basis, based on what you can pay. All are welcome regardless of ability to donate. We are using a new "cart" technology which allows you to register for multiple events at once -- please reach out to info@clbsj.org if you have any questions or technical issues with it!
@@ -20,3 +22,5 @@ Please register separately for each session that you wish to attend. Donations a
 **Rev. Dr. Kenneth Ngwa** is the inaugural Donald J. Casper Professor of Hebrew Bible and African Biblical Hermeneutics at Garrett-Evangelical Theological Seminary. Previously the John Fletcher Hurst Professor of Hebrew Bible and founding director of the Religion and Global Health Forum at Drew University Theological School, Dr. Ngwa carries dual passions for biblical scholarship and understanding how religion affects health outcomes. Born in Cameroon, Dr. Ngwa brings particular focus in African theologies and hermeneutics. His most recent publication is _Let My People Live: An Africana Reading of Exodus_ (Westminster John Knox Press, 2022), which explores how communities both throughout the continent and in diaspora engage the Exodus story to nurture collective thriving. 
 
 **Cleo Deborah Silvers** is a long-time community organizer and healthcare activist. As a young person, she fought for the human right to adequate healthcare through the Black Panther and Young Lords parties. She helped found the Health Revolutionary Unity Movement and played a leading role in the 1970 takeover of Lincoln Hospital in the South Bronx. During this time she worked with and was trained by the late Dr. Mutulu Shakur, who was a pioneer in developing acupuncture treatments for recovering addicts at the Lincoln Hospital Detox Program. She went on to organize with James Forman through the League of Revolutionary Black Workers in Detroit. Since then she has continued to organize within labor and community contexts to expand access to healthcare and healthy living conditions for poor communities. In the 1990s, she helped found and went on to lead For a Better Bronx, a grassroots organizing initiative aimed at organizing holistically for environmental and social justice.
+
+**Rev. Dr. Eric A. Thomas** is an Assistant Professor of Bible at the General Theological Seminary of the Episcopal Church. His research interests include Queer biblical interpretation, Diasporic Studies and Homiletics. Eric is a graduate of Drew University where he completed the Ph.D. in New Testament with concentrations in Africana, and Women and Gender Studies, and the Interdenominational Theological Center where he completed his M.Div. His research explores the potential for queer people of color to engage with scriptural texts to articulate and embody their own modes of flourishing. In addition to his scholarship, Eric is a pastor and an activist, having served since 2017 at the Siloam Presbyterian Church in Bedford Stuyvesant, Brooklyn.

@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: Shively T.J. Smith on Anti-Racist Biblical Interpretation
-series: black-august
+series:
+  - black-august
 time: '7:30pm Eastern Time'
 vimeo_id: '855713364'
 ---

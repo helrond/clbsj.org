@@ -2,7 +2,8 @@
 date: '2021-08-10'
 category: events
 layout: event
-series: black-august
+series:
+  - black-august
 published: true
 title: Onleilove Alston
 time: '7:30pm Eastern Time'

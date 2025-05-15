@@ -2,7 +2,8 @@
 date: '2021-02-18'
 category: events
 layout: event
-series: bible-detox
+series:
+  - bible-detox
 published: true
 vimeo_id: "515533429"
 time: '7:30pm Eastern Time'

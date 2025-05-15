@@ -4,7 +4,8 @@ category: events
 layout: event
 published: true
 title: 'Jeremy Williams on Acts 16:16-40'
-series: black-august
+series:
+  - black-august
 time: '7:30pm Eastern Time'
 vimeo_id: '736989981'
 ---

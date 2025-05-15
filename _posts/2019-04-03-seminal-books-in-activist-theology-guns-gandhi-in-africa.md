@@ -2,7 +2,8 @@
 date: '2019-04-11'
 category: events
 layout: event
-series: seminal-books
+series:
+  - seminal-books
 published: true
 vimeo_id: "330909796"
 title: 'Guns & Gandhi in Africa'

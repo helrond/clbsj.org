@@ -14,6 +14,9 @@ collections:
     permalink: /news/:name/
   featured_items:
     output: false
+  study_guides:
+    output: true
+    permalink: /resources/study-guides/:name/
 future: true
 twitter : clbsj
 markdown : kramdown
@@ -29,6 +32,27 @@ prose :
     'gulpfile.js', 'package.json', 'package-lock.json', 'robots.txt']
   media: img
   metadata:
+    _study_guides:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+        label: "Title"
+      - name: "pdf_link"
+        field:
+          element: "text"
+          label: "pdf_link"
+        label: "PDF Link"
+      - name: "tagline"
+        field:
+          element: "tagline"
+          label: "tagline"
+        label: "Tagline"
+      - name: "sort_order"
+        field:
+          element: "number"
+          label: "sort_order"
+        label: "Sort Order"
     _featured_items:
       - name: "title"
         field:
@@ -40,6 +64,11 @@ prose :
           element: "text"
           label: "link"
         label: "Link"
+      - name: "sort_order"
+        field:
+          element: "number"
+          label: "sort_order"
+        label: "Sort Order"
     _event_series:
       - name: "layout"
         field:

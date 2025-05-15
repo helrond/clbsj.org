@@ -1,0 +1,13 @@
+---
+layout: level-two
+---
+
+{%- if page.tagline -%}
+<p class="event-tagline">{{page.tagline}}</p>
+{%- endif -%}
+
+{{ content }}
+
+<div class="callout">
+  <a href="{{page.pdf_link}}">Download PDF for {{page.title}}</a>
+</div>

@@ -10,7 +10,7 @@ keywords: sister sharifa vernice meytung
 category: staff
 image: /img/board/meytung.jpg
 published: true
-officer: Contemplative Traditions Advisor
+clbsj_title: Contemplative Traditions Advisor
 ---
 Sr. Sharifa V. Meytung is a Catholic-Buddhist lay contemplative practitioner; teacher of young children; haijin (writer of haiku poetry) and an abstract painter. Her spiritual practice is also deeply informed by her ancestral animist indigeneity. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany. In the year 2000 she pilgrimed to the Jasna Gora
 Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year.

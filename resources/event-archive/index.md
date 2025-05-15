@@ -5,4 +5,6 @@ description: Past events from the Center and Library for the Bible and Social Ju
 keywords: events
 ---
 
+Explore all of our past events, listed chronologically.
+
 {% include event-list-archive.html %}

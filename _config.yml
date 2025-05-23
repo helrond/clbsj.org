@@ -6,6 +6,8 @@ url : https://clbsj.org
 author : The Center & Library for the Bible and Social Justice
 year : 2022s
 collections:
+  books:
+    output: false
   event_series:
     output: true
     permalink: /events/:name/

@@ -4,6 +4,7 @@ category: events
 layout: event
 title: 'CHOOSE JUSTICE Scripture Study Group: Acts 16:16-34'
 time: '7:30pm Eastern US Time'
+image_filename: HandsCircle.jpg
 ---
 **Our experimental CHOOSE JUSTICE Scripture Study Group continues on May 27 / May 28, 2025! This session will be facilitated by abby mohaupt, Director of the Garret Collective at Garrett-Evangelical Theological Seminary. Our scripture selection will be Acts 16:16-34, which is one of the lectionary texts for the [Seventh Sunday of Easter](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=s&d=50).**
 

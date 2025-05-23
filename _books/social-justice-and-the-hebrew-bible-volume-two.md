@@ -1,6 +1,6 @@
 ---
 title: "Social Justice and the Hebrew Bible, Volume Two"
-author: "Norman K. Gottwald"
+byline: "by Norman K. Gottwald"
 publication_date: November 2017
 purchase_url: https://wipfandstock.com/9781498292184/social-justice-and-the-hebrew-bible-volume-two/
 published: true

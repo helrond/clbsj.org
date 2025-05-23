@@ -1,6 +1,6 @@
 ---
 title: "Liberating Biblical Study: Scholarship, Art, and Action in Honor of the Center and Library for the Bible and Social Justice"
-author: "Laurel Dykstra and Ched Myers"
+byline: "Edited by Laurel Dykstra and Ched Myers"
 publication_date: September 2011
 purchase_url: https://wipfandstock.com/9781610974011/liberating-biblical-study/
 published: true

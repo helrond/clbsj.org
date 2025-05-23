@@ -1,6 +1,6 @@
 ---
 title: "Jesus and the Politics of Roman Palestine"
-author: "Richard A. Horsley"
+byline: "by Richard A. Horsley"
 publication_date: November 2021
 purchase_url: https://wipfandstock.com/9781666707427/jesus-and-the-politics-of-roman-palestine/
 published: true

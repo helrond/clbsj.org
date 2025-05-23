@@ -3,8 +3,8 @@
   <h4>
     <a href="{{include.book.url}}">{{include.book.title}}</a>
   </h4>
-  <p>by {{include.book.author}}<br/>
+  <p>{{include.book.byline}}<br/>
     {{include.book.publication_date}}</p>
   <p>{{include.book.content || markdownify}}</p>
-  <a class="hollow button small" href="{{include.book.purchase_url}}">Purchase</a>
+  <a class="hollow button small" href="{{include.book.purchase_url}}">More Information</a>
 </div>

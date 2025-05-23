@@ -1,6 +1,6 @@
 ---
 title: "Healing Haunted Histories: A Settler Discipleship of Decolonization"
-author: "Elaine Enns and Ched Myers"
+byline: "by Elaine Enns and Ched Myers"
 publication_date: February 2021
 purchase_url: https://wipfandstock.com/9781725255357/healing-haunted-histories/
 published: true

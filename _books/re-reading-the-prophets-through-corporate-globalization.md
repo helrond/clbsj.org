@@ -1,6 +1,6 @@
 ---
 title: "Re-Reading the Prophets through Corporate Globalization"
-author: "Matthew J. M. Coomber"
+byline: "by Matthew J. M. Coomber"
 publication_date: July 2022
 purchase_url: https://wipfandstock.com/9781666700756/re-reading-the-prophets-through-corporate-globalization/
 published: true

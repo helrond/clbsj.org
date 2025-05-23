@@ -1,6 +1,6 @@
 ---
 title: "Economics and Empire in the Roman World: Guide to the Bible and Economics, Volume 2"
-author: "Matthew J. M. Coomber"
+byline: "Edited by Matthew J. M. Coomber"
 publication_date: January 2025
 purchase_url: https://wipfandstock.com/9781666712438/economics-and-empire-in-the-roman-world/
 published: true

@@ -1,6 +1,6 @@
 ---
 title: "Economics and Empire in the Ancient Near East: Guide to the Bible and Economics, Volume 1"
-author: "Matthew J. M. Coomber"
+byline: "Edited by Matthew J. M. Coomber"
 publication_date: February 2023
 purchase_url: https://wipfandstock.com/9781532657986/economics-and-empire-in-the-ancient-near-east/
 published: true

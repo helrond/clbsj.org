@@ -1,6 +1,7 @@
 ---
 layout: study-guide
 title: "The Top 100 Books on the Bible and Social Justice"
+study_guide_date: "2011"
 slug: top-100-books
 pdf_link: /assets/Top-100-Books-on-the-Bible-and-Social-Justice.pdf
 tagline: "A working document compiled by the members of the CLBSJ team."

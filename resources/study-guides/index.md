@@ -6,7 +6,7 @@ keywords: study guides
 published: true
 ---
 
-Study guides based on books in the collection of the Center and Library for the Bible and Social Justice.
+Below are study guides produced by CLBSJ to augment and aid engagement with our book collection and digital event archive.
 
 {%- assign sorted_guides = site.study_guides | sort: 'sort_order' -%}
 {% for guide in sorted_guides %}

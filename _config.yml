@@ -38,6 +38,11 @@ prose :
           element: "text"
           label: "title"
         label: "Title"
+      - name: "date"
+        field:
+          element: "study_guide_date"
+          label: "study_guide_date"
+        label: "Date"
       - name: "pdf_link"
         field:
           element: "text"

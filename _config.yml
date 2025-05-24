@@ -34,6 +34,37 @@ prose :
     'gulpfile.js', 'package.json', 'package-lock.json', 'robots.txt']
   media: img
   metadata:
+    _books:
+      - name: title
+        field:
+          element: "text"
+          label: "title"
+        label: "Title"
+      - name: byline
+        field:
+          element: "text"
+          label: "byline"
+        label: "By Line"
+      - name: publication_date
+        field:
+          element: "text"
+          label: "publication_date"
+        label: "Publication Date"
+      - name: purchase_url
+        field:
+          element: "text"
+          label: "purchase_url"
+        label: "Purchase URL"
+      - name: cover_image
+        field:
+          element: "text"
+          label: "cover_image"
+        label: "Cover Image"
+      - name: sort_order
+        field:
+          element: "text"
+          label: "sort_order"
+        label: "Sort order"
     _study_guides:
       - name: "title"
         field:

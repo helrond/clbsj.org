@@ -1,0 +1,10 @@
+---
+title: "Economics and Empire in the Roman World: Guide to the Bible and Economics, Volume 2"
+byline: "Edited by Matthew J. M. Coomber"
+publication_date: January 2025
+purchase_url: https://wipfandstock.com/9781666712438/economics-and-empire-in-the-roman-world/
+cover_image: books/9781666712438.jpg
+sort: 2025-01
+published: true
+---
+Over the past few decades the study of biblical economics has developed into an important subfield of biblical studies. This subfield uses textual and archaeological evidence to uncover the economic realities behind biblical literature, resulting in greater understandings of the lives and possible intentions of those individuals and communities that composed these religious texts, and also of their potential relevance (or lack thereof) to the communities that continue to receive them. Economics and Empire in the Roman World has brought together eight scholars of biblical economics to create a repository of what is understood about the socioeconomic realities of those who penned and first received what were to become the Christian scriptures. In addition to serving the research and teaching interests of biblical scholars, this volume has also been created for the benefit of economic historians, anthropologists, and sociologists.

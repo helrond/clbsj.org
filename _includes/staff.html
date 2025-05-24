@@ -4,7 +4,7 @@
       <img class="round-image" src="{{page.image}}">
     </div>
     <div class="medium-9 columns">
-      <h4><a href="{{page.url}}">{{page.title}}, {{page.officer}}</a></h4>
+      <h4><a href="{{page.url}}">{{page.title}}, {{page.clbsj_title}}</a></h4>
       <p>{{page.job-title}}{% if page.job-title %}, {% endif %}{{page.institution}}</p>
       <p>{{page.content | strip_html  | truncatewords:50 }}</p>
       <a class="hollow button small" href="{{page.url}}">Read More</a>

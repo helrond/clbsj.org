@@ -7,7 +7,7 @@ description: >-
   studies at St. Ambrose University and an Episcopal priest.
 keywords: matthew j m coomber
 category: staff
-officer: Book Series Editor
+clbsj_title: Book Series Editor
 job-title: Associate Professor of Biblical Studies
 institution: St. Ambrose University
 image: /img/matthewcoomber.jpg

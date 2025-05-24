@@ -1,0 +1,16 @@
+
+<div class="callout">
+  <h4>{{include.book.title}}</h4>
+  <p>{{include.book.byline}}<br/>
+    {{include.book.publication_date}}</p>
+  <div style="display: flex;margin-bottom:1em;">
+    <div style="width:20%;margin-right: 5%;">
+      <img alt="Cover of {{include.book.title}}" src="/img/{{include.book.cover_image}}"/>
+    </div>
+    
+    <div style="width:75%"> 
+      {{include.book.content}}
+    </div>
+  </div>
+  <a class="primary donate button small" href="{{include.book.purchase_url}}">Purchase from Wipf & Stock</a>
+</div>

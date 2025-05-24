@@ -6,7 +6,7 @@ description: >-
   Warren Cooper is a jazz musician and artistic entrepreneur from Philadelphia.
 keywords: warren cooper
 category: staff
-officer: Video Editor and Media Consultant
+clbsj_title: Video Editor and Media Consultant
 job-title: Executive Producer
 institution: Music Media Ministry
 image: /img/board/cooper.jpg

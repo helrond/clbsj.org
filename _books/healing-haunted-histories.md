@@ -3,6 +3,8 @@ title: "Healing Haunted Histories: A Settler Discipleship of Decolonization"
 byline: "by Elaine Enns and Ched Myers"
 publication_date: February 2021
 purchase_url: https://wipfandstock.com/9781725255357/healing-haunted-histories/
+cover_image: books/27625.jpg
+sort: 2021-02
 published: true
 ---
 Healing Haunted Histories tackles the oldest and deepest injustices on the North American continent. Violations which inhabit every intersection of settler and Indigenous worlds, past and present. Wounds inextricably woven into the fabric of our personal and political lives. And it argues we can heal those wounds through the inward and outward journey of decolonization. The authors write as, and for, settlers on this journey, exploring the places, peoples, and spirits that have formed (and deformed) us. They look at issues of Indigenous justice and settler “response-ability” through the lens of Elaine’s Mennonite family narrative, tracing Landlines, Bloodlines, and Songlines like a braided river. From Ukrainian steppes to Canadian prairies to California chaparral, they examine her forebearers’ immigrant travails and trauma, settler unknowing and complicity, and traditions of resilience and conscience. And they invite readers to do the same. Part memoir, part social, historical, and theological analysis, and part practical workbook, this process invites settler Christians (and other people of faith) into a discipleship of decolonization. How are our histories, landscapes, and communities haunted by continuing Indigenous dispossession? How do we transform our colonizing self-perceptions, lifeways, and structures? And how might we practice restorative solidarity with Indigenous communities today?

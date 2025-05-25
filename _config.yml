@@ -7,7 +7,8 @@ author : The Center & Library for the Bible and Social Justice
 year : 2022s
 collections:
   books:
-    output: false
+    output: true
+    permalink: /resources/books/:name/
   event_series:
     output: true
     permalink: /events/:name/

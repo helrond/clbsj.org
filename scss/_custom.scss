@@ -309,3 +309,17 @@ footer {
     background: $orange;
   }
 }
+
+.book__wrapper {
+  display: flex;
+  margin-bottom:1em;
+}
+
+.book__image {
+  width:20%;
+  margin-right: 5%;
+}
+
+.book__text {
+  width:75%
+}

@@ -3,7 +3,7 @@ layout: leader-snippet
 title: Cathy Burrafato
 sort: 1
 keywords: cathy burrafato
-category: null
+category: staff
 officer: Library Associate
 image: CathyBurrafato.jpeg
 published: true

@@ -5,6 +5,8 @@ layout: event
 title: 'CHOOSE JUSTICE Scripture Study Group: Acts 2:1-21'
 time: '7:30pm Eastern US Time'
 image_filename: HandsCircle.jpg
+series:
+  - choose-justice
 ---
 **The final session of our CHOOSE JUSTICE Scripture Study Group will take place on June 3 / June 4, 2025! This session will be facilitated by Nicholas Johnson, President and Board Chair of the Center and Library for the Bible and Social Justice. Our scripture selection will be Acts Acts 2:1-21, which is one of the lectionary texts for the [Day of Pentecost](https://lectionary.library.vanderbilt.edu/texts/?y=384&z=s&d=51).**
 

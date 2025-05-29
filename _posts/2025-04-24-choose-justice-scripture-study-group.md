@@ -5,6 +5,8 @@ layout: event
 title: CHOOSE JUSTICE Scripture Study Group
 time: '7:30pm Eastern US Time'
 image_filename: HandsCircle.jpg
+series:
+  - choose-justice
 ---
 **Jump in to the second session of our CHOOSE JUSTICE Scripture Study Group on April 29, 2025! It will be facilitated by Revelation Enriquez Velunta, Professor of New Testament and Cultural Studies at Union Theological Seminary, Philippines.**
 

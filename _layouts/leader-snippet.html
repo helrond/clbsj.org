@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="small-8 small-offset-2 columns">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}{%if page.officer %}, {{page.officer}}{% endif %}{%if page.clbsj_title %}, {{page.clbsj_title}}{% endif %}</h1>
   <p>{{page.job-title}}{% if page.job-title %}, {% endif %}{{page.institution}}</p>
 
   <div class="row">

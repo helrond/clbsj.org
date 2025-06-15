@@ -6,6 +6,7 @@ title: Understanding Trans Biblical Interpretation with Melissa Harl Sellew
 time: '6:30pm Eastern US Time'
 series:
   - scholar-activist-encounters
+image_filename: trans-biblical.jpg
 ---
 Right now, as the Bible is too often being used as a tool to misunderstand and malign those who identify as transgender and gender-expansive, CLBSJ is honored to welcome Melissa Harl Sellew to lead us in an exploration of the history and future of trans-positive biblical interpretation. 
 

@@ -3,7 +3,7 @@ date: '2025-06-29'
 category: events
 layout: event
 title: Understanding Trans Biblical Interpretation with Melissa Harl Sellew
-time: '6:30pm Eastern US Time'
+time: '6:30-8:30pm Eastern US Time'
 series:
   - scholar-activist-encounters
 image_filename: trans-biblical.jpg

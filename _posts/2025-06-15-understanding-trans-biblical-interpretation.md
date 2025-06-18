@@ -10,7 +10,7 @@ series:
   - scholar-activist-encounters
 image_filename: trans-biblical.jpg
 ---
-Right now, the Bible is too often being used as a tool to misunderstand and malign those who identify as transgender and gender-expansive. In response to these patterns, and in solidarity with Pride month, CLBSJ is honored to welcome Melissa Harl Sellew and Joseph Marchal to lead us in an exploration of the history and future of trans-positive biblical interpretation. 
+Right now, the Bible is too often being used as a tool to misunderstand and malign those who identify as transgender and gender-expansive. In response to these patterns, and in solidarity with Pride month, CLBSJ is honored to welcome Melissa Harl Sellew and Joseph Marchal to lead us in an exploration of the history and future of trans biblical interpretation. 
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=18&reset=1" %}
 

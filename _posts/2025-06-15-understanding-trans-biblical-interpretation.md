@@ -16,7 +16,7 @@ Right now, the Bible is too often being used as a tool to misunderstand and mali
 
 Dr. Sellew, Dr. Valentine and Dr. Marchal are co-editors of [_Trans Biblical: New Approaches to Interpretation and Embodiment in Scripture_](https://www.wjkbooks.com/bookproduct/0664268897-trans-biblical/), recently published by Westminster John Knox Press. This session will provide a glimpse into this book's goals and content, including an overview of the history of queer and trans hermeneutics in light of broader trends in queer and trans theory. We will focus in on several specific scriptures and accompanying interpretations as examples of trans hermeneutics. We will then spend some time in dialogue and contemplation on one of the book's central questions:  “what makes a biblical reading trans, or a trans reading biblical?” 
 
-This session will be hosted by CLBSJ Contemplative Traditions Advisor, Sr. Sharifa Vernice Meytung.
+This session will be hosted by CLBSJ Contemplative Traditions Advisor, Sr. Sharifa Vernice Meytung. We are also honored to welcome as respondents Africa Lynn Nesbitt-Gaines and Eric A. Thomas.
 
 _Please Note:_ This session will start earlier than our usual time, and the format will be slightly longer than usual to make more space for dialogue and contemplation.
 

@@ -3,7 +3,7 @@ date: '2025-08-30'
 category: events
 layout: event
 title: 'The Way of Overcoming: A Freedom Stories Roundtable'
-time: '10:30am Eastern US Time'
+time: '10:30am Eastern US Time ~ 4:30pm South Africa Time'
 series:
   - black-august
 ---

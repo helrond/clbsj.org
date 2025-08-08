@@ -9,7 +9,7 @@ series:
 ---
 **_Save the Date! Registration Link will be posted soon._**
 
-_"My soul looks back and wonders, how I got over?”_
+_"My soul looks back in wonder, how I got over!”_
 
 How did we, how are we, how will we make it over? How does the ideal of freedom — from Christian, Pan-Africanist and Abolitionist perspectives — relate to the process of struggling for liberation, both within our own lives and bodies, and within our religious traditions and social structures? What guidance can the stories of scripture and the stories of Black lives offer as we seek to discern, comprehend and walk this path of overcoming?
 

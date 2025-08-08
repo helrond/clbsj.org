@@ -6,6 +6,7 @@ title: A Freedom Stories Roundtable Retreat
 time: '10:30am Eastern US Time ~ 4:30pm South Africa Time'
 series:
   - black-august
+image_filename: BlackAugust2025.jpg
 ---
 **_Save the Date! Registration Link will be posted soon._**
 

@@ -8,8 +8,6 @@ series:
   - black-august
 image_filename: BlackAugust2025.jpg
 ---
-**_Save the Date! Registration Link will be posted soon._**
-
 _"My soul looks back in wonder, how I got over...”_
 
 How did we, how are we, how will we make it over? How does the ideal of freedom — from Christian, Pan-Africanist and Abolitionist perspectives — relate to the process of struggling for liberation, both within our own lives and bodies, and within our religious traditions and social structures? What guidance can the stories of scripture and the stories of Black lives offer as we seek to discern, comprehend and walk this path of overcoming?
@@ -17,3 +15,12 @@ How did we, how are we, how will we make it over? How does the ideal of freedom 
 CLBSJ will center these questions in a freedom stories roundtable retreat, held in honor of Black August. We will hear testimony and guidance from New Testament Scholar Mitzi J. Smith, who will share based on her new book, _Not Wanting a Thing to Be the Thing: An African American Woman Biblical Scholar’s Stroke Memoir,_ and Hebrew Bible scholar Funlola Olojede, who will bring us into communion with South Africa’s observation of Women's Month. We will then engage in a participatory session, drawing from contemplative, Pan-Africanist and abolitionist perspectives, in which we explore how our experiences of struggle and overcoming reflect and refract biblical understandings of freedom.
 
 This session will be co-hosted by CLBSJ Board President Rev. Nicholas Johnson and CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung. People of all faiths and backgrounds are invited to join in this gathering.
+
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=19&reset=1" %}
+
+## Speaker and Host Bios
+
+Mitzi J. Smith
+Funlola Olojede
+Nicholas Johnson
+Sr. Sharifa Vernice Meytung

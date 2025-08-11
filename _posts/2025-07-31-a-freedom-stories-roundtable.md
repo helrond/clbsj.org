@@ -20,7 +20,7 @@ This session will be co-hosted by CLBSJ Board President Rev. Nicholas Johnson an
 
 ## Speaker and Host Bios
 
-**Dr. Mitzi J. Smith** is J. Davison Philips Professor of New Testament at Columbia Theological Seminary and Professor Extraordinarius at the University of South Africa, College of the Humanities, Institute of Gender Studies. She has authored and edited ten books, including _We Are All Witnesses: Toward Disruptive and Creative Biblical Interpretation_ (2023). Smith is currently completing a book on the Gospel of Luke and is the host and producer of the _Beyond the Womanist Classroom_ podcast.
+**Dr. Mitzi J. Smith** is J. Davison Philips Professor of New Testament at Columbia Theological Seminary. She has authored and edited eleven books, including _Not Wanting a Thing to Be the Thing: An African American Woman Biblical Scholar’s Stroke Memoir_ (2025) and _Chloe and Her People: A Womanist Critical Reading of First Corinthians_ (2023). Smith is currently completing a book on the Gospel of Luke and is the host and producer of the _Beyond the Womanist Classroom_ podcast.
 
 **Dr. Funlola Olojede** is a research fellow at University of Stellenbosch, a member of the Circle of Concerned African Women Theologians, and the co-chair of the Society of Biblical Literature's African Biblical Hermeneutics Section. Her research foci include Hebrew Testament, Postcolonial and Feminist Hermeneutics, and the Bible and Immigration. She is co-editor of _Transgression and Transformation: Feminist, Postcolonial and Queer Biblical Interpretation as Creative Interventions_ (2021).
 

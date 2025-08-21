@@ -16,7 +16,7 @@ CLBSJ will center these questions in a freedom stories roundtable retreat, held 
 
 Dr. Smith will share based on her new book, _Not Wanting a Thing to Be the Thing: An African American Woman Biblical Scholar’s Stroke Memoir,_ and Dr. Olojede will share about her efforts to uplift Black women's biblical understanding, and bring us into communion with South Africa’s observation of Women's Month. Mr. Greene will share based on his experience as a formerly incarcerated person advocating for fair chance policies for the reentry population, and Rev. McCants will share based on his organizing around reclaiming public space and building the power of Black workers through the Oakland-based Faith Alliance for a Moral Economy. We will then engage in a participatory session, drawing from contemplative, Pan-Africanist and abolitionist perspectives, in which we explore how our experiences of struggle and overcoming reflect and refract biblical understandings of freedom.
 
-This session will be co-hosted by CLBSJ Board President Rev. Nicholas Johnson and CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung. People of all faiths and backgrounds are invited to join in this gathering.
+This session will be co-hosted by CLBSJ Board President Rev. Nicholas Johnson and CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung. We are grateful for the co-sponsorship of Music Media Ministry and the Justice Center for Sacred Theological Studies. People of all faiths and backgrounds are invited to join in this gathering!
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=19&reset=1" %}
 

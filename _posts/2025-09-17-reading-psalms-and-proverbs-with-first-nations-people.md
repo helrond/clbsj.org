@@ -12,4 +12,4 @@ CLBSJ is excited to welcome Terry Wildman for a sharing and Bible study with the
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
-Stay tuned for more event details!
+_Check back soon for more event details!_

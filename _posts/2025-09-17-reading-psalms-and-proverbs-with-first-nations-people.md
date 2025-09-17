@@ -13,3 +13,7 @@ CLBSJ is excited to welcome Terry Wildman for a sharing and Bible study with the
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
 _Check back soon for more event details!_
+
+Speaker Bios:
+
+Terry M. Wildman (Ojibwe and Yaqui) is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also the founder of Rain Ministries and has previously served as a pastor and worship leader.

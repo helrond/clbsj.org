@@ -8,6 +8,8 @@ series:
   - scholar-activist-encounters
 image_filename: Nov13-event-bookcovers.jpg
 ---
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=21&reset=1" %}
+
 CLBSJ is excited to welcome CLBSJ co-founder Ched Myers in dialogue with inequality.org’s Chuck Collins for a deep dive into the problem of plutocracy. They will explore the intersection of their new books on this subject, both written under the shadow of the plutocratic politics that are currently colonizing the U.S. Ched will overview his _Healing Affluenza, Resisting Plutocracy: Luke’s Jesus and Sabbath Economics_ (Fortress, 2025), to which Chuck wrote the Foreword. Chuck will discuss his just-released volume _Burned by Billionaires: How Concentrated Wealth and Power Are Ruining Our Lives and Planet_ (The New Press). These two friends will then explore how biblical critique, social analysis and political organizing can conspire to animate current resistance to a toxic, run-away “broligarchy.”
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=21&reset=1" %}

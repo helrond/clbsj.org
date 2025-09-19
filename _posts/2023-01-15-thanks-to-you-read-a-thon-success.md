@@ -4,6 +4,8 @@ category: news
 layout: news-item
 published: true
 title: 'Thanks to You: READ-A-THON SUCCESS!!'
+series:
+  - reading-audaciously
 ---
 The CLBSJ Board is thrilled to report that we have reached our end-of-the-year fundraising goal of $25,000 through our "Will Read for Justice" Read-a-Thon! WOW!! _**Thank you so much to everyone who helped make this happen!!!**_
 

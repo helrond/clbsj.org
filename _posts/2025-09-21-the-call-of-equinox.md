@@ -64,6 +64,6 @@ Reason will come of age, God will succeed in becoming at home with humanity; we 
 -------
 
 I invite you to use the songs referenced in this reflection as devotional tools to respond to the Equinox’s invitation to harmony.
-- [From a Distance, sung by it's authore, Julie Gold](https://youtu.be/F4q9JUMF0oc?feature=shared)
+- [From a Distance, sung by songwriter Julie Gold](https://youtu.be/F4q9JUMF0oc?feature=shared)
 - [From a Distance, sung by Nanci Griffith](https://youtu.be/qqXFdMSvDDk?feature=shared)
 - [Sumud by Roger Waters (with Lyrics)](https://youtube.com/watch?v=K6dcS6SOYZc&si=uKHQ-6aIDamYMYeZ )

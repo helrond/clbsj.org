@@ -10,7 +10,7 @@ image_filename: SunDayArt-LizRobinson-USA.jpg
 ---
 _As the Southward Equinox, Peace Day and Sun Day align, we can experience a uniquely powerful call to align our inner equilibrium with the divine work of harmony in the world. In this Audacious Reading, CLBSJ Executive Director Amy L. Dalton reflects on this invitation in conversation with the first chapter of John’s gospel._
 
-**_Image_: "Sun Day Art" by Liz Robinson / United States, from [sunday.earth/gallery](https://www.sunday.earth/gallery)**
+**_Image_: "Sun Day Art" by Liz Robinson, from [sunday.earth/gallery](https://www.sunday.earth/gallery)**
 
 Christians often neglect the earth-centered holidays, despite the reality that much of our devotional calendar was literally built on top of them. There is a tendency to see this syncretism as in service of a sort of supersessionism whereby idolatrous “pagan” holidays were appropriately displaced by the growing Christian church. Exceptions like Unitarian (and Trinitarian) Universalism have for centuries tried to correct this attitude and focus on mining the significance of this syncretism: What biblical and theological content can we find within earth-centric traditions? I find that when we look in this way, we find a deep and brimming well. 
 

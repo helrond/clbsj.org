@@ -31,19 +31,19 @@ It is only by attuning our mind to this balanced awareness that we can truly occ
 
 Returning to Julie Gold’s anthem, the decision to unite one’s perspective with God’s view of humanity leads to deep clarity: 
 
-_"From a distance, we are instruments
-Marching in a common band
-Playing songs of hope
-Playing songs of peace
+_"From a distance, we are instruments<br>
+Marching in a common band<br>
+Playing songs of hope<br>
+Playing songs of peace<br>
 They're the songs of every man!"_
 
 Roger Waters, co-founder of the bank Pink Floyd, recently released a song called Sumud which taps into precisely the same stance:
 
-_"I just want that thing
-When voices join in harmony
-And in that fleeting moment
-When meaning coalesces there
-All dark dissolving
+_"I just want that thing<br>
+When voices join in harmony<br>
+And in that fleeting moment<br>
+When meaning coalesces there<br>
+All dark dissolving<br>
 Clouds the alleyways no more..."_
 
 Both of these devotional songs, as well as so many others, capture in subtle balance the deep faith that we will make it through with stark awareness of the difficulty ahead.

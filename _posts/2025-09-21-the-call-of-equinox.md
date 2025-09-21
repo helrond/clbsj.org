@@ -6,6 +6,7 @@ title: The Call of Equinox
 author: Amy L. Dalton
 series:
   - reading-audaciously
+image_filename: SunDayArt-LizRobinson-USA.jpg
 ---
 _As the Southward Equinox, Peace Day and Sun Day align, we can experience a uniquely powerful call to align our inner equilibrium with the divine work of harmony in the world. In this Audacious Reading, CLBSJ Executive Director Amy L. Dalton reflects on this invitation in conversation with the first chapter of John’s gospel._
 

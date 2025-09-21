@@ -59,7 +59,7 @@ God is watching us – nothing is guaranteed.
 
 And:
 
-Reason will come of age, God will return home with humanity; we will turn this ship around!
+Reason will come of age, God will again dwell with humanity; we will turn this ship around!
 
 -------
 

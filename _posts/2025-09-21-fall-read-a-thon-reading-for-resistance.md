@@ -5,6 +5,7 @@ layout: news-item
 title: 'Fall Read-a-thon: Reading for Resistance!'
 series:
   - reading-audaciously
+image_filename: Readathon2025.jpg
 ---
 This fall, CLBSJ invites one and all to join in this practice of audacious, intersectional, intertextual readings. CLBSJ will continue our tradition of intentionally reading sacred scripture in solidarity with marginalized perspectives — including those in banned and controversial books, in current events, and in testimonies of resistance, including those present in our own lives. We invite people of all beliefs and walks of life to join in our Fall Read-a-Thon and do your own audacious readings in community and for resistance. 
 

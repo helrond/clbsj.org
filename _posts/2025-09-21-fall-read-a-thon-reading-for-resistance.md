@@ -12,9 +12,11 @@ This fall, CLBSJ invites one and all to join in this practice of audacious, inte
 **The Read-a-thon is....**<br>
 - _a community of practice:_ we will gather in community to discuss and digest our readings
 - _a public witness:_ together we will demonstrate a different way to read the Bible
-- _a participatory fundraiser:_ as we pursue our reading goals, we invite supporters to donate in support of our monetary goals
-You can participate in one, two or all parts!
+- _a participatory fundraiser:_ as we pursue our reading goals, we invite supporters to donate in support of our monetary goals<br>
+All are welcome to participate in one, two or all three parts!
 
 **How does it work?** [Click here to register as an Audacious Reader.](https://forms.gle/Mye8v36wKw36Ayi79). In this form, you will be invited to share books, articles, films, songs or themes that you want to read alongside scripture. You can also ask to be sent ideas for readings. You can choose to participate in a network of readers through social media, interactive zoom sessions and in person gatherings. You will also have the opportunity to produce written or audio-visual mini-reviews about your readings to share your insights with a broader group of people. Finally, if you feel moved to, you can invite those who are following your reading to support the campaign with a financial donation.
 
 If you have any trouble, or have questions, you can reach out to info@clbsj.org
+
+Check [this overview page](https://clbsj.org/news/reading-audaciously/) for more audacious reading updates!

@@ -37,7 +37,7 @@ Playing songs of hope
 Playing songs of peace
 They're the songs of every man!"_
 
-Roger Waters recently released song, Sumud, taps into precisely the same stance:
+Roger Waters, co-founder of the bank Pink Floyd, recently released a song called Sumud which taps into precisely the same stance:
 
 _"I just want that thing
 When voices join in harmony

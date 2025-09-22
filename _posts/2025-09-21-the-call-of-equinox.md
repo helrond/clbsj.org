@@ -8,7 +8,7 @@ series:
   - reading-audaciously
 image_filename: SunDayArt-LizRobinson-USA.jpg
 ---
-_As the Southward Equinox, Peace Day and Sun Day align, we can experience a uniquely powerful call to align our inner equilibrium with the divine work of harmony in the world. In this Audacious Reading, CLBSJ Executive Director Amy L. Dalton reflects on this invitation in conversation with the first chapter of John’s gospel._
+_As the Southward Equinox, Peace Day and Sun Day align, we can experience a uniquely powerful call to align our inner equilibrium with the divine work of harmony in the world. In this Audacious Reading, CLBSJ Executive Director Amy L. Dalton reflects on this invitation in conversation with the first chapter of John’s gospel, and two anthems for justice and peace: "From a Distance" by Julie Gold and "Sumud" by Roger Waters._
 
 **_Image_: "Sun Day Art" by Liz Robinson, from [sunday.earth/gallery](https://www.sunday.earth/gallery)**
 

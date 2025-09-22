@@ -51,9 +51,9 @@ When meaning coalesces there<br>
 All dark dissolving<br>
 Clouds the alleyways no more..."_
 
-Both of these devotional songs, as well as so many others, capture in subtle balance the deep faith that we will make it through with stark awareness of the difficulty ahead.
+Both of these devotional songs, as well as so many others, capture in subtle balance the deep faith that we need to make it through with stark awareness of the difficulty ahead.
 
-Today and tomorrow, let us respond to this invitation to unite with this call to rise above binaries and balance our inner awareness — and inso doing, balance our relationships with each other, our relationship with the earth, and our relationship with the great I Am. For at once, one and the same is fully true:
+Today and tomorrow, let us respond to this invitation to unite with this call to rise above binaries and balance our inner awareness — and insodoing, balance our relationships with each other, our relationship with the earth, and our relationship with the great I Am. For at once, one and the same is fully true:
 
 God is watching us – nothing is guaranteed.
 
@@ -63,7 +63,7 @@ Reason will come of age, God will again dwell with humanity; we will turn this s
 
 -------
 
-I invite you to use the songs referenced in this reflection as devotional tools to respond to the Equinox’s invitation to harmony.
+I invite you to use the songs referenced in this reflection as devotional tools to respond to the Equinox’s invitation to the work of harmony:
 - [From a Distance, sung by songwriter Julie Gold](https://youtu.be/F4q9JUMF0oc?feature=shared)
 - [From a Distance, sung by Nanci Griffith](https://youtu.be/qqXFdMSvDDk?feature=shared)
 - [Sumud by Roger Waters (with Lyrics)](https://youtube.com/watch?v=K6dcS6SOYZc&si=uKHQ-6aIDamYMYeZ )

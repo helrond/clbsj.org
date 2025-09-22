@@ -2,7 +2,7 @@
 date: '2025-09-21 12:16 -0400'
 category: news
 layout: news-item
-title: 'Fall Read-a-thon: Reading for Resistance!'
+title: 'Read-a-thon 2025: Reading for Resistance!'
 series:
   - reading-audaciously
 image_filename: Readathon2025.jpg
@@ -18,5 +18,3 @@ All are welcome to participate in one, two or all three parts!
 **How does it work?** [Click here to register as an Audacious Reader.](https://forms.gle/Mye8v36wKw36Ayi79). In this form, you will be invited to share books, articles, films, songs or themes that you want to read alongside scripture. You can also ask to be sent ideas for readings. You can choose to participate in a network of readers through social media, interactive zoom sessions and in person gatherings. You will also have the opportunity to produce written or audio-visual mini-reviews about your readings to share your insights with a broader group of people. Finally, if you feel moved to, you can invite those who are following your reading to support the campaign with a financial donation.
 
 If you have any trouble, or have questions, you can reach out to info@clbsj.org
-
-Check [this overview page](https://clbsj.org/news/reading-audaciously/) for more audacious reading updates!

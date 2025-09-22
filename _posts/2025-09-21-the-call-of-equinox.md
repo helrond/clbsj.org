@@ -42,7 +42,7 @@ Playing songs of hope<br>
 Playing songs of peace<br>
 They're the songs of every man!"_
 
-Roger Waters, co-founder of the bank Pink Floyd, recently released a song in solidarity with the people of Palestine called "Sumud," which taps into precisely the same stance:
+Roger Waters, co-founder of the bank Pink Floyd, recently produced a song in solidarity with the people of Palestine called "Sumud," which taps into precisely the same stance:
 
 _"I just want that thing<br>
 When voices join in harmony<br>

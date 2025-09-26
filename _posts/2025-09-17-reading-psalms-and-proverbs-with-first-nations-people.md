@@ -12,8 +12,8 @@ In honor of Indigenous Peoples Day, CLBSJ welcomes Terry Wildman for a sharing a
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
-_Check back soon for more event details!_
+This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are invited to attend! _Check back soon for more event details!_
 
 ## Speaker Bios:
 
-**Terry M. Wildman** _(Ojibwe and Yaqui)_ is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also the founder of Rain Ministries and has previously served as a pastor and worship leader.
+**Terry M. Wildman** _(Ojibwe and Yaqui)_ is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also the founder of Rain Ministries and has previously served as a pastor and worship leader. He and his wife, Darlene, live in Arizona. [Click here to read more](https://firstnationsversion.com/about/).

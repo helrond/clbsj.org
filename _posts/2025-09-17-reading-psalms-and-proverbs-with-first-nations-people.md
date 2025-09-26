@@ -12,7 +12,11 @@ In honor of Indigenous Peoples Day, CLBSJ welcomes Terry Wildman for a sharing a
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
-This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are invited to attend! _Check back soon for more event details!_
+This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are invited to attend. _Check back soon for more event details!_
+
+## Optional Advance Reading:
+
+- You can [downloand the First Nations Version sampler HERE](https://www.ivpress.com/first-nations-version-psalms-and-proverbs), which includes several selections from the Psalms and Proverbs volume.
 
 ## Speaker Bios:
 

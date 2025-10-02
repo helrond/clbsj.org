@@ -16,7 +16,7 @@ This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sha
 
 ## Optional Advance Reading:
 
-- You can [downloand the First Nations Version sampler HERE](https://www.ivpress.com/first-nations-version-psalms-and-proverbs), which includes several selections from the Psalms and Proverbs volume.
+- You can [downloand the First Nations Version sampler at IVPress.com](https://www.ivpress.com/first-nations-version-psalms-and-proverbs), which includes several selections from the Psalms and Proverbs volume.
 
 ## Speaker Bios:
 

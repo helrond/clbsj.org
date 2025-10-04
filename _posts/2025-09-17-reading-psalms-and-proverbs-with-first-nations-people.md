@@ -12,7 +12,7 @@ In honor of Indigenous Peoples Day, CLBSJ welcomes Terry Wildman for a sharing a
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
-We are also blessed to welcome Rev. Petra Thombs (Cherokee), Patricia Osterhoudt (Ramapo), and Evan Pritchard (Mi'kmaq) for sharings and offerings. This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are warmly invited to attend!
+We are also blessed to welcome Patricia Osterhoudt (Ramapo), Rev. Petra Thombs (Cherokee), and Evan Pritchard (Mi'kmaq) for sharings and offerings. This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are warmly invited to attend!
 
 ## Optional Advance Reading:
 

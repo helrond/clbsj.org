@@ -12,7 +12,7 @@ In honor of Indigenous Peoples Day, CLBSJ welcomes Terry Wildman for a sharing a
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
-We are also blessed to welcome Petra Thombs (Cherokee), Patricia Osterhoudt (Ramapo), and Evan Pritchard (Micmac) for sharings and offerings. This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are warmly invited to attend!
+We are also blessed to welcome Petra Thombs (Cherokee), Patricia Osterhoudt (Ramapo), and Evan Pritchard (Mi'kmaq) for sharings and offerings. This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are warmly invited to attend!
 
 ## Optional Advance Reading:
 
@@ -26,3 +26,5 @@ We are also blessed to welcome Petra Thombs (Cherokee), Patricia Osterhoudt (Ram
 **Patricia Osterhoudt** _(Ramapo)_ is an addiction recovery coach, and an elder at Brook Presbyterian Church in the Hudson River Presbytery (PC-USA), and a member of the Board of the Sweetwater Cultural Center. The modalities that she is trained in include the Wellbriety White Bison Warrior Down Recovery Coach, which attempts to translate the 12 steps of Alcoholics Anonymous into indigenous language and thought patterns. She is an active member of the Ramapo Munsee Lenape Nation.
 
 **Rev. Petra Thombs** _(Cherokee)_ serves as pastor at the Unitarian Universalist Congregation of Central Nassau and Educational Consultant at the Ramapough Lenape Community Center. Having spent a 32-year career in the NYC Department of Education before attending seminary, Rev. Thombs now focuses on community education, spiritual development and grassroots advocacy around the priorities of multiculturalism, anti-racism and indigenous solidarity. She is a regular participant in the Rockland Coalition to End the New Jim Crow and the campaign to end the Doctrine of Discovery.
+
+**Evan Pritchard** _(Mi'kmaq)_ is a prolific author, grassroots educator and musician from the Hudson Valley, NY. He is the author of _Native New Yorkers_, _No Word For Time_, _The Way of the Algonquin People_, and many other books, including an Algonkian language series. He was the organizer of the North American Friendship Circle gathering on Columbus Day, 1992, and currently runs Resonance Communications and the Center for Algonquin Culture. 

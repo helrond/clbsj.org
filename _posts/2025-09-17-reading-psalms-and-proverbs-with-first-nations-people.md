@@ -12,12 +12,17 @@ In honor of Indigenous Peoples Day, CLBSJ welcomes Terry Wildman for a sharing a
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
-This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are invited to attend. _Check back soon for more event details!_
+We are also blessed to welcome Petra Thombs (Cherokee), Patricia Osterhoudt (Ramapo), and Evan Pritchard (Micmac) for sharings and offerings. This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are warmly invited to attend!
 
 ## Optional Advance Reading:
 
-- You can [downloand the First Nations Version sampler at IVPress.com](https://www.ivpress.com/first-nations-version-psalms-and-proverbs), which includes several selections from the Psalms and Proverbs volume.
+- The First Nations Version of Psalms and Proverbs [can be purchased from Intervarsity Press](https://www.ivpress.com/first-nations-version-psalms-and-proverbs-paperback). At this website, you can also [download a free press kit](https://www.ivpress.com/Media/Default/Press-Kits/A0727-press.pdf) which contains several sample verses.  
+- In 2022, CLBSJ hosted our first conversation with the First Nations Version. You can [watch the archive of that event here](https://clbsj.org/events/2022/12/15/advent-study-with-the-first-nations-version/). 
 
 ## Speaker Bios:
 
 **Terry M. Wildman** _(Ojibwe and Yaqui)_ is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also the founder of Rain Ministries and has previously served as a pastor and worship leader. He and his wife, Darlene, live in Arizona. [Click here to read more](https://firstnationsversion.com/about/).
+
+**Patricia Osterhoudt** _(Ramapo)_ is an addiction recovery coach, and an elder at Brook Presbyterian Church in the Hudson River Presbytery (PC-USA), and a member of the Board of the Sweetwater Cultural Center. The modalities that she is trained in include the Wellbriety White Bison Warrior Down Recovery Coach, which attempts to translate the 12 steps of Alcoholics Anonymous into indigenous language and thought patterns. She is an active member of the Ramapo Munsee Lenape Nation.
+
+**Rev. Petra Thombs** _(Cherokee)_ serves as pastor at the Unitarian Universalist Congregation of Central Nassau and Educational Consultant at the Ramapough Lenape Community Center. Having spent a 32-year career in the NYC Department of Education before attending seminary, Rev. Thombs now focuses on community education, spiritual development and grassroots advocacy around the priorities of multiculturalism, anti-racism and indigenous solidarity. She is a regular participant in the Rockland Coalition to End the New Jim Crow and the campaign to end the Doctrine of Discovery.

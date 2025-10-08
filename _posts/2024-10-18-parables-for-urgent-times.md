@@ -16,9 +16,8 @@ Butler’s book is an excellent example of the ways that artists and visionaries
 
 Butler works with the scripture implicitly, not explicitly. She includes the core lines from the Lukan version (Luke 8:5-8a KJV) at the very end of the novel, like a mini-epilogue. Throughout the novel, Olamina is wrestling with her contested relationship with her father’s religion, and also writing her own beliefs into a book of scripture that she calls “Earthseed.” At the end of the novel, just before the epilogue, her community gathers and reads Bible passages, Earthseed verses and other meaningful writings as a way to honor those they have lost. At this gathering, they also plant acorns together. Their care-filled weaving of togetherness across difference signifies and cultivates the good ground.
 
-Luke 8:5-8:
-_"A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold."_
-
+Luke 8:5-8:<br>
+_"A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold."_<br>
 _And when [Jesus] had said these things, he cried, He that hath ears to hear, let him hear!_
 
 More Reading:

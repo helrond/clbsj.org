@@ -8,7 +8,7 @@ series:
 image_filename: ParableOfTheSoweer.jpg
 author: Amy L. Dalton
 ---
-_As yet another epic US election approaches, its appropriate to lift up the legacy of Octavia Butler's work Parable of the Sower, as well as its sequel Parable of the Talents, which contain many plot details that eerily predict our current moment. Butler's novels have been targeted by bans in both schools and prisons. CLBSJ shared the following post on our facebook page on July 20, 2024:_
+_As yet another epic US election approaches, its appropriate to lift up the legacy of Octavia Butler's work Parable of the Sower, as well as its sequel Parable of the Talents, which contain many plot details that eerily predict our current moment. Butler's novels have been targeted by bans in both schools and prisons. CLBSJ shared the following post on our facebook page on **July 20, 2024**:_
 
 Afrofuturist and science fiction aficionados across the world are marking today as “Parable of the Sower Day” in recognition of the widely influential novel by the late Octavia Butler. The story begins with a journal entry by Butler’s protagonist Lauren Oya Olamina, dated July 20, 2024, in which she shares her wrestling with the state of the world she is living in, and her role in the face of it.
 

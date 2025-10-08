@@ -12,6 +12,6 @@ The Garret Collective and the Center and Library for the Bible and Social Justic
 
 Right now we urgently need to gather together the clarity within our scriptural traditions, the innovations forged by our scholarly conversations, and the grounded knowledge emerging from our grassroots movements, to help guide us in the work to come. Join us in Boston to do this weaving work. At 7pm, we will convene at Church of the Covenant with Boston activists and people of faith to share and weave useable theology for this urgent time. A vegan dinner will be served.
 
-Those who wish to walk together are invited to meet at the Convention Center at 6:45pm. 
+SBL/AAR attendees who wish to walk together are invited to meet at the Convention Center at 6:45pm. Check this page for updates.
 
-We welcome ideas and questions -- please reach out to info@clbsj.org
+Wwe welcome your ideas and questions! Please reach out to info@clbsj.org

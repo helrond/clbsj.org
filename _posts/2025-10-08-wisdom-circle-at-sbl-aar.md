@@ -2,7 +2,7 @@
 date: '2025-11-23'
 category: events
 layout: event
-title: Wisdom Circle at SBL/AAR
+title: Wisdom Circle (and Vegan Potluck!) at SBL/AAR
 time: '6:45pm Eastern US Time'
 location: 'Church of the Covenant, 67 Newbury St, Boston, MA 02116'
 ---

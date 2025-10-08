@@ -25,7 +25,7 @@ Additional sharings will be brought by Rev. Petra Thombs (Cherokee), Evan Pritch
 
 ## Speaker Bios:
 
-**Terry M. Wildman** _(Ojibwe and Yaqui)_ is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also the founder of Rain Ministries and has previously served as a pastor and worship leader. He and his wife, Darlene, live in Arizona. [Click here to read more](https://firstnationsversion.com/about/).
+**Terry M. Wildman** _(Ojibwe and Yaqui)_ is the lead translator, general editor, and project manager of the First Nations Version. He serves as the director of spiritual growth and leadership development for Native InterVarsity. He is also a musician, the founder of Rain Ministries, and has previously served as a pastor and worship leader. He and his wife, Darlene, live in Arizona. [Click here to read more](https://firstnationsversion.com/about/).
 
 **Patricia Osterhoudt** _(Ramapo)_ is an addiction recovery coach, an elder at Brook Presbyterian Church in the Hudson River Presbytery (PC-USA), and a member of the Board of the Sweetwater Cultural Center. The modalities that she is trained in include the Wellbriety White Bison Warrior Down Recovery method, which aims to translate the 12 steps of Alcoholics Anonymous into indigenous language and thought patterns. She is an active member of the Ramapo Munsee Lenape Nation.
 

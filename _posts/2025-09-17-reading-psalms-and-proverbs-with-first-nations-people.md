@@ -9,14 +9,16 @@ series:
   - scholar-activist-encounters
 ---
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
+_**Please note: Registration will close on October 9 at 7pm Eastern US Time.**_
 
 In honor of Indigenous Peoples Day, CLBSJ welcomes Terry Wildman for a sharing and Bible study with the _First Nations Version of Psalms and Proverbs_, recently published by InterVarsity Press. Building upon the well-received _FNV: An Indigenous Translation of the New Testament_, Wildman's team has crafted a dynamic equivalence translation of the beloved books of Psalms and Proverbs, drawing from the cultural and linguistic thought patterns found in the tongues and traditions of First Nations peoples. In this session, Wildman will share about the history, motivations and process of creating this unique translation. We will then delve into a few scriptures that speak strongly to our current times.
-
-{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 
 We are also blessed to welcome Presbyterian elder Patricia Osterhoudt (Ramapo) to offer a response based on her work in the community as an addiction recovery coach. 
 
 Additional sharings will be brought by Rev. Petra Thombs (Cherokee), Evan Pritchard (Mi'kmaq), and Ched Myers. This session will be co-hosted by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton. People of all faiths and backgrounds are warmly invited to attend!
+
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
+_**Please note: Registration will close on October 9 at 7pm Eastern US Time.**_
 
 ## Optional Advance Reading:
 

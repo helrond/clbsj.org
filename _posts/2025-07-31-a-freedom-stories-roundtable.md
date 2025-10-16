@@ -6,7 +6,7 @@ title: A Freedom Stories Roundtable Retreat
 time: '10:30am Eastern US Time ~ 4:30pm South Africa Time'
 series:
   - black-august
-image_filename: BlackAugust2025.jpg
+vimeo_id: '1114953767'
 ---
 _"My soul looks back in wonder, how I got over...”_
 

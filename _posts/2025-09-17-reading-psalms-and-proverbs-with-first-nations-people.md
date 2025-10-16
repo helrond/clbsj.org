@@ -4,9 +4,9 @@ category: events
 layout: event
 title: Reading Psalms and Proverbs with First Nations People
 time: '7:30pm Eastern US Time'
-image_filename: FNV-PsalmsProverbs-Cover.jpeg
 series:
   - scholar-activist-encounters
+vimeo_id: '1126505767'
 ---
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=20&reset=1" %}
 _**Please note: Registration will close on October 9 at 7pm Eastern US Time.**_

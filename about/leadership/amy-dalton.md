@@ -12,7 +12,7 @@ clbsj_title: Executive Director
 image: /img/board/dalton.jpg
 published: true
 ---
-Amy L. Dalton is a faith-rooted scholar-activist who has been deeply involved in peace and justice organizing since age 13 when she served on the Reconciling Committee of her local Methodist church, 35 years before the denomination removed homophobic language from its organizational documentation. Since then, Amy has organized broadly within many faith-based and secular movements. Her professional experience spans nonprofit development, publishing and communications, and community organizing.
+Amy L. Dalton is a faith-rooted scholar-activist who has been deeply involved in peace and justice organizing since age 13 when she began serving on the Reconciling Committee of her local Methodist church, 35 years before the denomination removed homophobic language from its organizational documentation. Since then, Amy has organized broadly within many faith-based and secular movements. Her professional experience spans nonprofit development, publishing and communications, and community organizing.
 
 Amy holds a Master of Divinity from Union Theological Seminary with a research focus in faith-based community organizing, and a Bachelor of Arts with high honors in sociology/anthropology from Swarthmore College with research focuses in prison history, museum studies, anthropology of religion and critical social theory. Amy has been trained by PICO (now Faith In Action) and IAF, and participated for five years in the Brecht Forum's Revolutions Study Group, serving on the convening team for several sessions.
 

@@ -14,6 +14,8 @@ CLBSJ is excited to welcome CLBSJ co-founder Ched Myers in dialogue with inequ
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=21&reset=1" %}
 
+This session is co-sponsored by the Institute for Policy Studies' Program on Inequality ([inequality.org](https://inequality.org/)) and Bartiaeus Cooperative Ministries.
+
 ## Book Info
 - Healing Affluenza, Resisting Plutocracy: Luke’s Jesus and Sabbath Economics (Fortress, 2025) -- [Buy from Bookshop.org](https://bookshop.org/p/books/healing-affluenza-and-resisting-plutocracy-luke-s-jesus-and-sabbath-economics-ched-myers/ecfc29b3e97d08f5?ean=9798889834366&next=t&)
 - Burned by Billionaires: How Concentrated Wealth and Power Are Ruining Our Lives and Planet (The New Press, 2025) -- [Pre-order for 30% off from burnedbybillionaires.com](http://www.burnedbybillionaires.com/)

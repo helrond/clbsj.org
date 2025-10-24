@@ -18,4 +18,4 @@ SBL/AAR attendees who wish to walk together are invited to meet at the Conventio
 Please click on the link below to RSVP:
 {% include registration-button.html link="https://forms.gle/fWmUjYKKm13u1YFTA" %}
 
-Wwe welcome your ideas and questions! Please reach out to Amy at clbsjorg@gmail.com
+We welcome your ideas and questions! Please reach out to Amy at clbsjorg@gmail.com

@@ -5,6 +5,7 @@ layout: event
 title: Wisdom Circle (and Vegan Potluck!) at SBL/AAR
 time: '6:45pm Eastern US Time'
 location: 'Church of the Covenant, 67 Newbury St, Boston, MA 02116'
+image_filename: WisdomCircle.png
 ---
 _Gathering the resources of Scripture, Scholarship and Solidarity for a time such as this_
 

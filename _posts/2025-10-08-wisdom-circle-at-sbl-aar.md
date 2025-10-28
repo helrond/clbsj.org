@@ -9,7 +9,7 @@ image_filename: WisdomCircle.png
 ---
 _Gathering the resources of Scripture, Scholarship and Solidarity for a time such as this_
 
-The Garret Collective and the Center and Library for the Bible and Social Justice (CLBSJ) in collaboration with the Church of the Covenant invite all justice-oriented scholars attending the SBL/AAR Conference in Boston, and all Boston-area activists and faith leaders, to come together for a “Wisdom Circle.” A potluck-style vegan dinner will be served!
+The Garrett Collective and the Center and Library for the Bible and Social Justice (CLBSJ) in collaboration with the Church of the Covenant invite all justice-oriented scholars attending the SBL/AAR Conference in Boston, and all Boston-area activists and faith leaders, to come together for a “Wisdom Circle.” A potluck-style vegan dinner will be served!
 
 Right now we urgently need to gather together the clarity within our scriptural traditions, the innovations forged by our scholarly conversations, and the grounded knowledge emerging from our grassroots movements, to help guide us in the work to come. Join us in Boston to weave another chapter of this critical work! 
 

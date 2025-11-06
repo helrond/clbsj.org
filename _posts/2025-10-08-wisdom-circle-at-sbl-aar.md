@@ -15,7 +15,7 @@ Right now we urgently need to gather together the clarity within our scriptural 
 
 SBL/AAR attendees who wish to walk together are invited to meet at the Convention Center at 6:45pm. At 7pm, we will convene at Church of the Covenant with Boston activists and people of faith to share and forge useable theology for this urgent time.
 
-Please click on the link below to RSVP:<br>)
+Please click on the link below to RSVP:<br>
 {% include registration-button.html link="https://forms.gle/fWmUjYKKm13u1YFTA" %}
 
 We welcome your ideas and questions! Please reach out to Amy at clbsjorg@gmail.com

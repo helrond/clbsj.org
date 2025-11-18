@@ -3,6 +3,8 @@ date: '2022-12-15'
 category: events
 layout: event
 published: true
+series:
+  - advent-study
 title: Advent Study with the First Nations Version
 time: '7:30pm Eastern Time'
 vimeo_id: '781893887'

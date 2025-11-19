@@ -4,6 +4,8 @@ category: events
 layout: event
 title: What are We Waiting For? Closing Session
 time: '7:30pm Eastern US Time'
+series:
+  - advent-study
 ---
 **DETAILS COMING SOON!**
 
@@ -12,4 +14,3 @@ time: '7:30pm Eastern US Time'
 _**Please Note!** Registration closes one half hour prior to the start of the event._
 
 ## Speaker Bios:
-

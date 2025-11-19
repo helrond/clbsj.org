@@ -4,6 +4,8 @@ category: events
 layout: event
 title: What are We Waiting For? Christ and the Earth
 time: '7:30pm Eastern US Time'
+series:
+  - advent-study
 ---
 Jim Perkinson and S. Lily Mendoza will explore eco-spiritual and indigenous perspectives crucial to understanding Christ.
 

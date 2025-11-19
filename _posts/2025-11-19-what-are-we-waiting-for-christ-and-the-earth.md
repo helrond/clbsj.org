@@ -15,4 +15,6 @@ _**Please Note!** Registration closes one half hour prior to the start of the ev
 
 ## Speaker Bios:
 
+**James W. (Jim) Perkinson** is longtime activist, spoken-word poet, and teacher of Social Ethics at the Ecumenical Theological Seminary and Intercultural Communication at the University of Oakland (Michigan). He holds a Ph.D. in theology from the University of Chicago, is the author of five books on theology/spirituality and two poetry chap books. He has also written extensively in both academic and popular journals on questions of race, class and colonialism in connection with religion and urban culture.
+
 **S. Lily Mendoza** is Professor of Culture and Communication at Oakland University in Rochester, Michigan, USA and Director of the Center for Babaylan Studies, a non-profit organization committed to decolonization and indigenization among diasporic Filipinos on Turtle Island. She hails originally from the Philippines, the traditional homeland of the Ayta and other indigenous peoples.

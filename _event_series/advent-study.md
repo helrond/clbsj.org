@@ -4,7 +4,7 @@ prefix: Advent Study
 title: Advent Study
 slug: advent-study
 tagline: >-
-  What are We Waiting For? Scriptural and Social Justice Approaches to
+  What Are We Waiting For? Scriptural and Social Justice Approaches to
   Christology
 keywords:
   - 'bible, activist, advent'

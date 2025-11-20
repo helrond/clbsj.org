@@ -11,4 +11,4 @@ keywords:
 published: true
 sort_order: 2
 ---
-In this season, the church adopts a stance of devotional anticipation of the birth of Christ. But who, or what, is Christ — truly? For the seasoned and newly converted, alike, this is the most important question of Christian life. In this series, we will approach the task of understanding Christ from three angles, drawing both from deep engagement with scripture and from the knowledge that comes from our experiences struggling for peace and justice.
+In this season, the church adopts a stance of devotional anticipation of the birth of Christ. But who, or what, is Christ — truly? This is the most important question of Christian life, and not one that should be glibly answered. In this series, we will approach the task of understanding Christ from three angles, drawing both from deep engagement with scripture and from the knowledge that comes from our experiences struggling for peace and justice.

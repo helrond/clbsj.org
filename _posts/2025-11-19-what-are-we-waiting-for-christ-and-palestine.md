@@ -8,9 +8,11 @@ series:
   - advent-study
 image_filename: KellyLatimore-ChristintheRubble.jpg
 ---
-CLBSJ is pleased to welcome the Rev. Dr. Niveen Sarras, in conversation with the Rev. Dr. Jenny Veninga, to delve into the ways that “Christ is Palestinian.” In particular, we will explore the layers of meaning evoked by nativity scenes constructed during the genocide in Gaza, which place the baby Jesus “in the rubble” and often wrapped in Palestinian garments. In the context of the Advent scriptures, we will reflect on questions and challenges raised by the nativity scene. How, for example, do the socio-political conditions into which Jesus of Nazareth was born as a Jewish peasant in the Roman province of Palestine compare to the socio-political conditions of a baby born in Gaza today? How do stories and testimonies from Palestine/Israel today help us understand the Advent message in a new way? We will also share about current efforts to organize action for a just and lasting peace, and take time and space to contemplate the questions and challenges that this information raises so that attendees can find language for their viewpoints, and discern what action they are being called to take.
+CLBSJ is pleased to welcome the Rev. Dr. Niveen Sarras, in conversation with the Rev. Dr. Jenny Veninga, to delve into the ways that “Christ is Palestinian.” 
 
-This event will be co-hosted by Katy Valentine and Amy Dalton.
+In particular, we will explore the layers of meaning evoked by nativity scenes constructed during the genocide in Gaza, which place the baby Jesus “in the rubble” and often wrapped in Palestinian garments. In the context of the Advent scriptures, we will reflect on questions and challenges raised by the nativity scene. How, for example, do the socio-political conditions into which Jesus of Nazareth was born as a Jewish peasant in the Roman province of Palestine compare to the socio-political conditions of a baby born in Gaza today? How do stories and testimonies from Palestine/Israel today help us understand the Advent message in a new way? We will also share about current efforts to organize action for a just and lasting peace, and take time and space to contemplate the questions and challenges that this information raises so that attendees can find language for their viewpoints, and discern what action they are being called to take.
+
+This event will be co-hosted by Katy Valentine and Amy Dalton, and is co-sponsored by Soul Forge Coaching and Global Ministries of the Christian Church (Disciples of Christ) and United Church of Christ.
 
 {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=23&reset=1" %}
 

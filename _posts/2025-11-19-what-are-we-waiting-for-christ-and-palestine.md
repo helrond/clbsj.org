@@ -17,4 +17,4 @@ _**Please Note!** Registration closes one half hour prior to the start of the ev
 
 _Image: Christ in the Rubble by Kelly Latimore_
 
-## Speaker Bios:
+**Check back for More Details!**

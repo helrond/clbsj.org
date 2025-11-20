@@ -18,6 +18,6 @@ This event will be co-hosted by Katy Valentine and Amy Dalton, and is co-sponsor
 
 _**Please Note!** Registration closes one half hour prior to the start of the event._
 
-_Image: Christ in the Rubble by Kelly Latimore_
+_**Image:** Christ in the Rubble by Kelly Latimore_
 
 **Check back for More Details!**

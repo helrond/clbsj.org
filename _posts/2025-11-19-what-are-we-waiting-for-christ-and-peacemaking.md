@@ -18,4 +18,6 @@ _**Please Note!** Registration closes one half hour prior to the start of the ev
 
 _**Image:** "Our Lady of the Qur’an" by Br. Robert Lentz OFM_
 
-**Check back for More Details!**
+**Speaker Bios**
+
+**Will O’Brien** is the coordinator of the Alternative Seminary, and is currenting serving as interim pastor at Frazer Mennonite Church outside of Philadelphia, Pennsylvania. He spent several years on the editorial staff of The Other Side magazine, an independent progressive Christian magazine. He has written and taught extensively on issues of scripture, discipleship, social justice, peace, and culture. He has also spent years working with Project HOME, a nationally recognized nonprofit organization that develops solutions to homelessness and poverty in Philadelphia. He has done extensive advocacy and political organizing with and on behalf of homeless persons.

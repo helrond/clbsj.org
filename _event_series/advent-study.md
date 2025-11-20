@@ -10,7 +10,7 @@ keywords:
   - 'bible, activist, advent'
 published: true
 sort_order: 2
-image_link: LaurenWrightPittman-PrepareTheWay.jpg
+image_filename: LaurenWrightPittman-PrepareTheWay.jpg
 ---
 During the Advent season, students and followers of the Way of Jesus adopt a stance of devotional anticipation of His birth. But who, or what, is Jesus Christ — truly? This is the most important question of Christian life, and not one that should be glibly answered. In this series, we will approach the task of understanding Christ from three angles, drawing both from deep engagement with scripture and from the knowledge that comes from our experiences struggling for peace and justice.
 

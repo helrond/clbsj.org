@@ -16,7 +16,7 @@ Starting with the invocation of the Big Waters contained in Matthew’s “Littl
 
 _**Please Note!** Registration closes one half hour prior to the start of the event._
 
-_Image: Cosmic Christ by Sr. Annett Hanrahan_
+_**Image:** Cosmic Christ by Sr. Annett Hanrahan_
 
 ## Speaker Bios:
 

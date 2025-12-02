@@ -8,6 +8,6 @@ tagline: >-
   perspectives — including those in banned and controversial books, in current
   events, and in testimonies of resistance, including those present in our own
   lives. Check out reader reviews below, and <a
-  href="https://forms.gle/EvKpW9xvTocnXrGz7">click here to sign up to read</a>
+  href="https://forms.gle/EvKpW9xvTocnXrGz7">click here to sign up to read!</a>
 sort_order: 1
 ---

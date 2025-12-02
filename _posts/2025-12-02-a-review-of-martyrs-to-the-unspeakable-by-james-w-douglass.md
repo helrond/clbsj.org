@@ -6,6 +6,7 @@ title: A review of "Martyrs to the Unspeakable" by James W. Douglass
 author: Reviewed by Wes Howard-Brook
 series:
   - reading-audaciously
+image_filename: Douglass-MartyrstotheUnspeakable.jpg
 ---
 I first met Jim Douglass at Ground Zero Center for Nonviolent Action, in the woods of western Washington adjacent to the Trident Submarine Base, in 1984. Already, Jim was a leading faith-based proponent of nonviolent resistance, whether to the nuclear weapons housed near the home he shared with his wife, Shelley, or other issues of peace and justice. I was a newbie, about to shift careers from lawyer to my eventual vocation as Bible teacher and writer. Jim’s wisdom, experience and gentle manner changed me forever, starting from that first meeting.
 

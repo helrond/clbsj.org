@@ -9,7 +9,7 @@ image_filename: GivingTuesday2025.jpg
 ---
 **_The Call on Giving Tuesday and every day_**
 
-Most of us will be flooded today with challenges to give funds to support the many facets of loving resistance that are being cultivated now. The times are such that we should all give as much as we can in as many ways as we can to all the organizations and efforts we care about. I do hope that you will count CLBSJ as one of your priority projects and [donate to help us make our year-end goal](https://clbsj.org/donate/). AND, I also feel that right now it is extremely important to remember that a faithful reading of the Bible as well as of these times discloses that there is something much deeper than money, or time, or talent that we are being asked to give.
+Most of us will be flooded today with challenges to give funds to support the many facets of loving resistance that are being cultivated now. The times are such that we should all give as much as we can in as many ways as we can to all the organizations and efforts we care about. I do hope that you will count CLBSJ as one of your priority projects and [donate to help us make our year-end goal](https://clbsj.org/donate/). AND, I also feel that right now it is extremely important to remember and remind each other that a faithful reading of the Bible as well as of these times discloses that there is something much deeper than money, or time, or talent that we are being asked to give.
 
 As Jesus puts it:
 

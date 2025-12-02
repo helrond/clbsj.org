@@ -3,6 +3,8 @@ date: '2025-12-02 10:36 -0500'
 category: news
 layout: news-item
 title: Giving Ourselves Over
+series:
+  - reading-audaciously
 ---
 **_The Challenge on Giving Tuesday and every day_**
 

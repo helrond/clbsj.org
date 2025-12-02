@@ -32,7 +32,7 @@ Thusly an anguished testimony ends on an unexpected note of hope – we feel, su
 
 So on this Giving Tuesday, and through the final weeks of 2025, CLBSJ invites you to this deep form of giving. And, if the Spirit allows them to align, we invite you also to two more modest forms:
 
-- Please consider offering whatever monetary donations you can spare to help our tiny but mighty organization continue to propagate readings and teachings that draw out this deep form of giving. If you are wondering if your gift will matter, let me tell you that it will! All of our work is funded by the humble generosity of committed individuals. Make your gift and help us reach our end-of-year fundraising goal at [clbsj.org/donate]( https://clbsj.org/donate/ )
+- Please consider offering whatever monetary donations you can spare to help our tiny but mighty organization continue to propagate readings and teachings that draw out and mark this path of embodied justice. If you are wondering if your gift will matter, let me tell you that it will! All of our work is funded by the humble generosity of committed individuals. Make your gift and help us reach our end-of-year fundraising goal at [clbsj.org/donate]( https://clbsj.org/donate/ )
 
 - Please share where you have found and are finding words that, albeit with fear, trembling, and contradictions, help point your soul forward on this path. Learn more about our audacious reading invitation at [clbsj.org/news/reading-audaciously](https://clbsj.org/news/reading-audaciously) and submit your reviews and reflections to info@clbsj.org
 

@@ -5,6 +5,7 @@ layout: news-item
 title: Giving Ourselves Over
 series:
   - reading-audaciously
+image_filename: GivingTuesday2025.jpg
 ---
 **_The Call on Giving Tuesday and every day_**
 

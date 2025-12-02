@@ -6,6 +6,7 @@ title: Giving Ourselves Over
 series:
   - reading-audaciously
 image_filename: GivingTuesday2025.jpg
+author: Amy L. Dalton
 ---
 **_The Call on Giving Tuesday and every day_**
 
@@ -13,7 +14,7 @@ Most of us will be flooded today with challenges to give funds to support the ma
 
 As Jesus puts it:
 
-> “If anyone wants to come after me, they must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for my sake will save it. What does it profit a person to gain the whole world, yet lose or forfeit their very self?"
+> “If anyone wants to come after me, they must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for my sake will save it. What does it profit a person to gain the whole world, yet lose or forfeit their very self?"<br>
 ~ Luke 9.23-25, Berean Standard Bible with refinements
 
 The sort of giving that Spirit is asking of us now goes way beyond generosity with our time, talent and treasure. It is a call to give over our very definitions of our selves -- and insodoing allow ourselves to become an instrument in a common project of justice and repair that is as old as time, and yet is new every morning.
@@ -24,9 +25,9 @@ Where have you heard this message of late -- the message to lay down our lives a
 
 I’m also reminded of a song which, while not reflecting directly on the scripture, for me is contains a lucid “midrash” on this passage: “Hurt” by Nine Inch Nails, and especially the [touchingly raw cover by Johnny Cash](https://youtu.be/8AHCfZTRGiI?si=nGkbRPyBwY-kGp5g), presents the confession of a person who has suffered greatly, and has also caused great suffering. After laying down all the posturing that pretends either is not the case, the song finds new and different energy at the end: 
 
-> If I could start again
-a million miles away
-I would keep myself – 
+> If I could start again<br>
+a million miles away<br>
+I would keep myself – <br>
 I would find a way.
 
 Thusly an anguished testimony ends on an unexpected note of hope – we feel, surprisingly, that the singer will find a way, and so will we. As I listen, I am reminded that I do believe and know that there is a way, and that it can be found in THIS life. The Bible teaches me that it is a way paved with justice, mercy and humility (Micah 6:8). Along the path, we can help each other excavate and magnify “our very selves.” To walk it, we have to give these very selves over.

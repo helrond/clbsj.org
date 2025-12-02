@@ -10,7 +10,10 @@ series:
 
 Most of us will be flooded today with challenges to give funds to support the many facets of loving resistance that are being cultivated now. The times are such that we should all give as much as we can in as many ways as we can to all the organizations and efforts we care about. I do hope that you will count CLBSJ as one of your priority projects and [donate to help us make our year-end goal](https://clbsj.org/donate/). AND, I also feel that right now it is extremely important to remember that a faithful reading of the Bible as well as of these times discloses that there is something much deeper than money, or time, or talent that we are being asked to give.
 
-As Jesus puts it: “If anyone wants to come after me, he must deny himself and take up his cross daily and follow me. For whoever wants to save his life will lose it, but whoever loses his life for my sake will save it. What does it profit a man to gain the whole world, yet lose or forfeit his very self? (Luke 9.23-25, BSB)
+As Jesus puts it:
+
+> “If anyone wants to come after me, they must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for my sake will save it. What does it profit a person to gain the whole world, yet lose or forfeit their very self?"
+~ Luke 9.23-25, Berean Standard Bible with some refinements
 
 The sort of giving that Spirit is asking of us now goes way beyond generosity with our time, talent and treasure. It is a call to give over our very definitions of our selves -- and insodoing allow ourselves to become an instrument in a common project of justice and repair that is as old as time, and yet is new every morning.
 

@@ -18,7 +18,7 @@ It may be easy to say, but to actually do it is not easy. This is why in Luke’
 
 Where have you heard this message of late -- the message to lay down our lives and give ourselves over to the Great Work? I was blessed to encounter it recently in an audacious review of James W. Douglass’s new book, _Martyrs to the Unspeakable_, submitted by Wes Howard-Brook. [Click here to read Wes's review](https://clbsj.org/news/2025/12/02/a-review-of-martyrs-to-the-unspeakable-by-james-w-douglass/).
 
-I’m also reminded of a song which, while not reflecting directly on the scripture, for me is contains a lucid “midrash” on this passage: “Hurt” by Nine Inch Nails, and especially the [touchingly raw cover by Johnny Cash](https://youtu.be/8AHCfZTRGiI?si=nGkbRPyBwY-kGp5g), presents the confession of a person who has suffered greatly, and also caused great suffering. After laying down all the posturing that pretends either is not the case, the song finds new and different energy at the end — and the singer adds an epilogue: 
+I’m also reminded of a song which, while not reflecting directly on the scripture, for me is contains a lucid “midrash” on this passage: “Hurt” by Nine Inch Nails, and especially the [touchingly raw cover by Johnny Cash](https://youtu.be/8AHCfZTRGiI?si=nGkbRPyBwY-kGp5g), presents the confession of a person who has suffered greatly, and has also caused great suffering. After laying down all the posturing that pretends either is not the case, the song finds new and different energy at the end: 
 
 > If I could start again
 a million miles away

@@ -13,7 +13,7 @@ Most of us will be flooded today with challenges to give funds to support the ma
 As Jesus puts it:
 
 > “If anyone wants to come after me, they must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for my sake will save it. What does it profit a person to gain the whole world, yet lose or forfeit their very self?"
-~ Luke 9.23-25, Berean Standard Bible with some refinements
+~ Luke 9.23-25, Berean Standard Bible with refinements
 
 The sort of giving that Spirit is asking of us now goes way beyond generosity with our time, talent and treasure. It is a call to give over our very definitions of our selves -- and insodoing allow ourselves to become an instrument in a common project of justice and repair that is as old as time, and yet is new every morning.
 

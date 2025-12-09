@@ -6,7 +6,7 @@ title: What are We Waiting For? Christ and the Earth
 time: '7:30pm Eastern US Time'
 series:
   - advent-study
-image_filename: SrAnnettHanrahan-CosmicChrist.jpg
+vimeo_id: '1143866349'
 ---
 James Perkinson and S. Lily Mendoza will explore eco-spiritual and indigenous perspectives crucial to understanding Christ.
 

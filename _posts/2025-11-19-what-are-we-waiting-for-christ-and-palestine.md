@@ -6,7 +6,7 @@ title: What are We Waiting For? Christ and Palestine
 time: '7:30pm Eastern US Time'
 series:
   - advent-study
-image_filename: KellyLatimore-ChristintheRubble.jpg
+vimeo_id: '1146038641'
 ---
 CLBSJ is pleased to welcome the Rev. Dr. Niveen Sarras, in conversation with the Rev. Dr. Jenny Veninga, to delve into the ways that “Christ is Palestinian.” 
 

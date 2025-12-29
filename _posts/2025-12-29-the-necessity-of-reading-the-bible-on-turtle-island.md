@@ -8,10 +8,11 @@ title: >-
 author: Ludwig Beethoven J. Noya
 series:
   - reading-audaciously
+image_filename: ReadingTheBibleOnTurtleIsland.jpeg
 ---
 This is an excerpt from a review of _Reading the Bible on Turtle Island: An Invitation to North American Indigenous Interpretation_ by H. Daniel Zacharias and T. Christopher Hoklotubbe, presented at the Society of Biblical Literature, November 2025
 
-Honest Acknowledgment of the Bible’s Oppressive Potential
+**The Need for Honest Acknowledgment of the Bible’s Oppressive Potential**
 
 Perhaps before we attempt to rescue the Bible from its association with the Cowboys, we need to acknowledge how the biblical authors/editors potentially lend their ideological thoughts to “the Cowboys”. In other words, to “savage” the Bible at the same time we “salvage” the Bible. This approach is particularly relevant considering that the Bible has historically been used to label Native Americans — and, in fact, other colonized peoples around the world — as "merciless savages.
 

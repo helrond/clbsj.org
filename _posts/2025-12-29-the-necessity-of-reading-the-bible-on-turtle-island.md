@@ -2,14 +2,14 @@
 date: '2025-12-10'
 category: news
 layout: news-item
-title: The Necessity of "Reading the Bible on Turtle Island"
+title: >-
+  The Necessity of "Reading the Bible on Turtle Island" for an Alienated
+  Indonesian with an Adventist Upbringing
 author: Ludwig Beethoven J. Noya
 series:
   - reading-audaciously
 ---
-The Necessity of Reading the Bible on Turtle Island for an Alienated Indonesian with an Adventist Upbringing
-
-an excerpt from a review presented at the Society of Biblical Literature, November 2025
+This is an excerpt from a review of _Reading the Bible on Turtle Island: An Invitation to North American Indigenous Interpretation_ by H. Daniel Zacharias and T. Christopher Hoklotubbe, presented at the Society of Biblical Literature, November 2025
 
 Honest Acknowledgment of the Bible’s Oppressive Potential
 
@@ -23,4 +23,7 @@ Moreover, the Jubilee, which occurs once every fifty years, does not appear to o
 
 Scholars like Roland Boer have expressed skepticism regarding the biblical concept of the Jubilee, especially given that surrounding nations may have practiced it. This skepticism arises because, even when these nations or empires did implement Jubilees, such practices were often characterized by partiality, political rhetoric, and avoidance of addressing the actual economic problem.
 
-Allow me to cite Itumeleng J. Mosala, who says that, “One cannot successfully perform this task [of liberation hermeneutics] by denying the oppressive structures that frame what liberating themes the texts encode.”6 Acknowledging how the Bible has both been used for oppression and resistance also seems to echo with Indigenous peoples’ ethos, which “are often more comfortable with tensions and contradictions.”
+Allow me to cite Itumeleng J. Mosala, who says that, “One cannot successfully perform this task [of liberation hermeneutics] by denying the oppressive structures that frame what liberating themes the texts encode.” Acknowledging how the Bible has both been used for oppression and resistance also seems to echo with Indigenous peoples’ ethos, which “are often more comfortable with tensions and contradictions.”
+
+Check out _Reading the Bible on Turtle Island_ from InterVarsity Press: 
+[https://www.ivpress.com/reading-the-bible-on-turtle-island](https://www.ivpress.com/reading-the-bible-on-turtle-island)

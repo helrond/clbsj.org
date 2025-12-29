@@ -5,7 +5,7 @@ layout: news-item
 title: >-
   The Necessity of "Reading the Bible on Turtle Island" for an Alienated
   Indonesian with an Adventist Upbringing
-author: Ludwig Beethoven J. Noya
+author: 'Ludwig Beethoven J. Noya, CLBSJ Board Member'
 series:
   - reading-audaciously
 image_filename: ReadingTheBibleOnTurtleIsland.jpeg

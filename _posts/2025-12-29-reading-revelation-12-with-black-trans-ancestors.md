@@ -3,7 +3,7 @@ date: '2025-12-08'
 category: news
 layout: news-item
 title: Reading Revelation 12 with Black Trans Ancestors
-author: Eric A. Thomas
+author: 'Eric A. Thomas, CLBSJ Board Member'
 series:
   - reading-audaciously
 image_filename: TDOR-candles.jpg

@@ -13,19 +13,15 @@ Today is the day that the Church celebrates “Epiphany,” also known as Three 
 
 Epiphany is a very charged day, one that should not be remembered as only a happy and harmonious gathering, but one which also contains the seeds of deep anguish. In specific, the arrival of the Maji to the place where the holy family was gathered had the effect of triggering the jealousy of King Herod, who then ordered the killing of every male child below the age of two in order to try to eliminate the possibility that the Christ child would survive. Due to the intercession of a dream, this plot is exposed and the Holy Family flees across the border to Egypt in order to keep the baby safe. As a result of these events, for the first few years of the child’s life, the holy family lives as exiles and migrants.
 
-Last year, CLBSJ held an event called “Tragedy and Epiphany” in which we focused our attention on this co-incidence of hope and horror. What does allowing ourselves to feel both, and feel their relationship to each other, teach us for today’s times? Watch the archive here.
-https://clbsj.org/events/2025/01/06/tragedy-and-epiphany/ 
-This year, the need to wrestle with this reality seems all the more pronounced, from where I stand. For just days after the New Year — when the whole world has been sending out heartfelt yearnings that 2026 might bring a new song and a better day — yet we awake the day before Epiphany with news of the latest fools errand, aka war, aka manufactured distraction.
+Last year, CLBSJ held an event called “Tragedy and Epiphany” in which we focused our attention on this co-incidence of hope and horror. What does allowing ourselves to feel both, and feel their relationship to each other, teach us for today’s times? ([You can watch the archive here.](https://clbsj.org/events/2025/01/06/tragedy-and-epiphany/ )) This year, the need to wrestle with this reality seems all the more pronounced, from where I stand. For just days after the New Year — when the whole world has been sending out heartfelt yearnings that 2026 might bring a new song and a better day — yet we awake the day before Epiphany with news of the latest fools errand, aka war, aka manufactured distraction.
 
-As my family and I were staring into the abyss of this latest news of human failure, I found myself graciously provided with a counterpoint. The lifeline that Grace extended to me was a memory of a lyric in Patti Smith’s anthem, “People Have the Power” (co-written by Fred Smith). The lyric was:
+As my family and I were staring into the abyss of this latest news of human failure, I found myself graciously provided with a counterpoint. The lifeline that Grace extended to me was a memory of a lyric in Patti Smith’s anthem, [“People Have the Power”](https://youtu.be/pPR-HyGj2d0?si=2vAStuljH39V7gYI ) (co-written by Fred Smith). The lyric was:
 
-“The power to dream, to rule, to wrestle the earth from fools!” (a)
+_“The power to dream, to rule, to wrestle the earth from fools!”_ (a)
 
 Dutifully, I searched up a rendering of this masterpiece that contained the lyrics, and my family and I gathered ‘round. To my surprise and humble delight I found that this activist anthem offers a rich scriptural reflection on Epiphany.
 
-https://youtu.be/pPR-HyGj2d0?si=2vAStuljH39V7gYI 
-
-The Anthem in Context
+**The Anthem in Context**
 
 The song is considered to be an anthem of the secular left, and has been especially popular in activist and punk circles — but anyone who reads the lyrics can see that it is much more than this. It literally recounts a visionary dream that the songwriter experienced, a dream in which she was given very specific and detailed imagery to explain the situation we face, as well as a strong and unequivocal confirmation of key foundational truths. The song is an expression of faith in these truths, which Smith then faithfully recounts to us. All this is written out as clear as day, impossible to ignore for anyone who reads the lyrics through fully. What is slightly less obvious is that the song is also laced with explicit and implicit biblical references, rendered with such raw and quivering detail that, to me, they have the ring of prophecy.
 
@@ -33,7 +29,7 @@ Before unfolding these references, I looked into Patti Smith’s religious backg
 
 To add to this interpretive community, I offer this close reading – an exegesis, we might say – of the lyrics of “People have the Power,” in conversation with Epiphany scriptural themes. In observing these connections and resonances, I do sincerely believe that Smith was inspired in her writing by Divine guidance — which is why I’m motivated to write this. At the same time, I do not know if she would claim or agree with all the references that I discuss here; maybe some of them were conscious, maybe others were subconscious, and still others she might have had other intentions than what I observe. With that said, here is how I read People have the Power as an Epiphany vision.
 
-Exegesis
+**Exegesis**
 
 I was dreaming in my dreaming
 Smith begins with a statement of meta-self-awareness: “I was dreaming in my dreaming.” Not just an aesthetic choice, this repetition can be understood as a framing message to the reader/listener. The concept of dreaming has a dual quality. We use the word to mean the psycho-somatic experience of mental journeying while sleeping, but we also use the word to mean the semi-conscious process of allowing the mind to open to larger and higher hopes and possibilities. More importantly, our use of the term often renders the lines between these two types of dreaming fuzzy and porous. This two-layered nature of dreaming will be central to what will be relayed in the song.
@@ -145,7 +141,7 @@ Smith’s Shema is also intertextual – it is drawing from and commentating on 
 
 Open your ears, God-Wrestlers: True authority, our Transcendent, lies in coming together: in solidarity.
 
-Postscript: 
+**Postscript: **
 
 Why does this careful reading of a modern seeker’s prophetic vision matter to me? For me it originates in my desire to believe in the possibility of wresting the earth from fools, and ideally be a helpful contributor to that process.
 
@@ -153,90 +149,90 @@ Church people often experience the left’s claim that “people have the power�
 
 For me, it doesn’t matter if the channel for such insight is someone whose own theology is still under development – whose isn’t? It doesn’t matter if the container for such insight is a sanctuary, a poetry slam, or a dance hall. What matters is the quality of inspiration, and I find that in Smith’s work. No organized religion has ever or can ever corner the market on interpreting God’s messages to humanity. God does not stop speaking to people who grow frustrated with the limits of our traditions and institutions. God continues to speak with and through people who make their way toward comprehension on unpaved paths. Those who persist in listening for the voice of the Transcendent from outside of organized religion know that the Bible belongs to every dreamer.
 
-Full Lyrics:
+**Full Lyrics:**
 
-I was dreaming in my dreaming
-of an aspect bright and fair
-In my sleeping it was broken
-but in my dream it lingered near
-in the form of shining valleys
-where the pure air recognized
-and my senses newly opened
-I awakened to the cry
-that the people have the power
-to redeem the work of fools
-From the meek the graces shower (b)
+I was dreaming in my dreaming<br>
+of an aspect bright and fair<br>
+In my sleeping it was broken<br>
+but in my dream it lingered near<br>
+in the form of shining valleys<br>
+where the pure air recognized<br>
+and my senses newly opened<br>
+I awakened to the cry<br>
+that the people have the power<br>
+to redeem the work of fools<br>
+From the meek the graces shower (b)<br>
 it's decreed the people rule
 
-People have the power
-People have the power
-People have the power
+People have the power<br>
+People have the power<br>
+People have the power<br>
 People have the power
 
-Vengeful aspects became suspect
-bending low as if to hear
-and the armies ceased advancing
-because the people had their ear
-and the shepherds and the soldiers
-they laid among the stars (c)
-exchanging visions
-and laying arms
+Vengeful aspects became suspect<br>
+bending low as if to hear<br>
+and the armies ceased advancing<br>
+because the people had their ear<br>
+and the shepherds and the soldiers<br>
+they laid among the stars (c)<br>
+exchanging visions<br>
+and laying arms<br>
 to waste in the dust
 
-in the form of shining valleys
-where the pure air recognized
-and my senses newly opened
-and I awakened to the cry
-People have the power
-People have the power
-People have the power
+in the form of shining valleys<br>
+where the pure air recognized<br>
+and my senses newly opened<br>
+and I awakened to the cry<br>
+People have the power<br>
+People have the power<br>
+People have the power<br>
 People have the power
 
-Where there were deserts
-I saw fountains
-like cream the waters rise
-and we strolled there together
-with none to laugh or criticize
-and the leopard
-and the lamb
+Where there were deserts<br>
+I saw fountains<br>
+like cream the waters rise<br>
+and we strolled there together<br>
+with none to laugh or criticize<br>
+and the leopard<br>
+and the lamb<br>
 lay together truly bound
 
-I was hoping in my hoping
-to recall what I had found
-I was dreaming in my dreaming
-God knows a purer view
-as I surrender to my sleeping
+I was hoping in my hoping<br>
+to recall what I had found<br>
+I was dreaming in my dreaming<br>
+God knows a purer view<br>
+as I surrender to my sleeping<br>
 I commit my dream to you
 
-People have the power
-People have the power
-People have the power
-People have the power
-The power to dream, to rule
-to wrestle the earth from fools (a)
-it's decreed the people rule
+People have the power<br>
+People have the power<br>
+People have the power<br>
+People have the power<br>
+The power to dream, to rule<br>
+to wrestle the earth from fools (a)<br>
+it's decreed the people rule<br>
 it's decreed the people rule
 
-Listen:
-I believe everything we dream
-can come to pass through our union
-we can turn the world around
-we can turn the earth's revolution
+Listen:<br>
+I believe everything we dream<br>
+can come to pass through our union<br>
+we can turn the world around<br>
+we can turn the earth's revolution<br>
 we have the power
 
-People have the power
-The people have the power
+People have the power<br>
+The people have the power<br>
 The people have the power
 
-The power to dream, to rule
-to wrestle the earth from fools (a)
-Well it's decreed the people rule
-it's decreed the people rule
-we have the power
-People have the power
+The power to dream, to rule<br>
+to wrestle the earth from fools (a)<br>
+Well it's decreed the people rule<br>
+it's decreed the people rule<br>
+we have the power<br>
+People have the power<br>
 we have the power...
 
-References:
+**References:**
 
 (a) most online sources list this lyric as “to wrestle the world from fools”, but when I listen to the original audio, I hear her saying “earth,” not “world.”
 
@@ -244,20 +240,20 @@ References:
 
 (c) most online sources list this lyric as “they laid below the stars,” but when I listen to the original audio, I hear her saying “among,” not “below.”
 
-(1) Patti Smith: The childhood dreams of a Jehovah’s Witness
+(1) Patti Smith: The childhood dreams of a Jehovah’s Witness<br>
 https://evangelicalfocus.com/between-the-lines/591/patti-smith-the-childhood-dreams-of-a-jehovahs-witness
 
-(2) “Patti Smith’s spiritual journey” by Ray Padgett 
+(2) “Patti Smith’s spiritual journey” by Ray Padgett<br>
 https://thunderstruck.org/the-story-behind-patti-smiths-gloria/ 
 
-(3) “The Secret Jewish History of Patti Smith” by Seth Rogovoy
+(3) “The Secret Jewish History of Patti Smith” by Seth Rogovoy<br>
 https://forward.com/culture/music/322628/patti-smith-and-her-religious-influence/
 
-(4) The Theology of Patti Smith” by Stephen H. Webb
+(4) The Theology of Patti Smith” by Stephen H. Webb<br>
 https://firstthings.com/the-theology-of-patti-smith/ 
 
-(5) “Patti Smith: An unlikely religious poet” by Sean Wild
+(5) “Patti Smith: An unlikely religious poet” by Sean Wild<br>
 https://uscatholic.org/articles/202511/patti-smith-an-unlikely-religious-poet/ 
 
-(5) “Politics of Epiphany” by John Allen
+(5) “Politics of Epiphany” by John Allen<br>
 https://politicaltheology.com/politics-of-epiphany/

@@ -111,7 +111,7 @@ I commit my dream to you_
 
 Here the voice shifts from recounting the vision in the dream, to reflecting on the experience of dreaming. And immediately Smith again reminds us of the dual nature of the whole process. She is hoping in her hoping, dreaming in her dreaming. The dreamer – who is also a sleeper – doesn’t want to forget the dream. She knows it offers something that is needed. But her body needs to sleep and as all dreamers know, when you shift from a dream either toward deeper sleep, or toward waking, the memory of the dream often fades quickly. So as Smith prepares to surrender to his human reality, her mind searches for a way to remember what she has been shown. As part of this process, she commits that she will pass on this dream – to "you", to me, to us.
 
-It is interesting that, as she makes this bargain with her dreaming consciousness, is the only time Smith uses the word God in the entire song. The word is probably heard by many as simply a colloquialism that has been for many divorced from a belief in God. But when Smith delivers the song, she always emphasizes the words “God knows” here. And the statement she is making is much more specific than most colloquial uses of this expression – she is saying that God is her witness that the information she has obtained through his higher level of dreaming and hoping offers a purer view than that available to us in normal life. This is how the prophetic biblical writers often seal their writings as well – they make statements that indicate that God witnessed and sanctified this communication. And it seems that her bargain was accepted; she was allowed and helped to remember the dream’s vision, and as a result we have this song.
+It is interesting that, as she makes this bargain with her dreaming consciousness, is the only time Smith explicitly references God in the entire song. The phrase "God knows" is probably heard by many as simply a colloquialism that has been for many divorced from a belief in God. But I feel the statement she is making is much more specific than the colloquial use of this expression. She is saying that God is her witness that the information she has obtained through his higher level of dreaming and hoping offers a purer view than that available to us in normal life. This is how the prophetic biblical writers often seal their writings as well – they make statements that indicate that God witnessed and sanctified this communication. And it seems that her bargain was accepted; she was allowed and helped to remember the dream’s vision, and as a result we have this song.
 
 _The power to dream,<br>
 to rule<br>
@@ -123,9 +123,9 @@ This was the line that came to me when I was struggling with the latest bad new 
 
 2. it is a power of authority: to manifest the vision Jesus laid out in the Beatitudes, in which the meek inherit and rule the earth. This is also the literal meaning of the word democracy: demos (people) + kratia (authority)
 
-3. it is a power action: to engage in the process of making this people’s rule manifest, which requires the word “wrestle” to represent it fully. As Frederick Douglass put it, “This struggle may be a moral one, or it may be a physical one, and it may be both moral and physical, but it must be a struggle.”
+3. it is a power of action: to engage in the process of making this people’s rule manifest, which requires the word “wrestle” to represent it fully. As Frederick Douglass put it, “This struggle may be a moral one, or it may be a physical one, and it may be both moral and physical, but it must be a struggle.”
 
-Smith then adds a final epilogue to her anthem, which address a question all humble travelers should be asking ourselves: how do humans, flawed and struggling with our own vengeance and other confusions, become “the people” who have the ability do do all this?
+Smith then adds a final epilogue to her anthem, which address a question all humble travelers should be asking ourselves: how do we humans, meek, flawed and struggling with our own vengeance and other confusions, become “the people” who have the ability do do all this?
 
 _Listen:<br>
 I believe everything we dream<br>
@@ -133,25 +133,25 @@ can come to pass through our union<br>
 we can turn the world around<br>
 we can turn the earth's revolution_
 
-This epilogue is Smith's statement of faith. “Listen” flags for us the Shema, the central prayer in Jewish life, which comes from Deuteronomy 6:4: _Hear, O Israel: The LORD our God, the LORD is one._
+This epilogue is Smith's statement of faith. 
+
+The instruction “Listen” links the statement to the Shema, the central prayer in Jewish life, which comes from Deuteronomy 6:4: _Hear, O Israel: The LORD our God, the LORD is one._
 
 Smith’s Shema unfolds this further. Listen, people. Everything that we dream, which has been given to us by God to dream, is possible through the process of claiming and centering the work of cultivating union.
 
 Smith’s Shema is also intertextual – it is drawing from and commentating on the song “Solidarity Forever,” in which the force of Union transforms the workers’ aspirations to reality. 
 
-This reading is cohesive with how biblical scholars understand the meaning of the Hebrew term used in Deuteronomy 6:4. While we translate the final word as “one,” the Hebrew word used here, echad (אֶחָד), carries a more nuanced sense of fundamental Hebrew word meaning , not just a singular number, but a sense of unity, wholeness and composite oneness.
+This reading is cohesive with how biblical scholars understand the meaning of the Hebrew term used in Deuteronomy 6:4. While we translate the final word as “one,” the Hebrew word used here, echad (אֶחָד), carries a more nuanced sense of a sense of unity, wholeness and composite oneness.
 
-Open your ears, God-Wrestlers: True authority, our Transcendent, is in solidarity.
+Open your ears, God-Wrestlers: True authority, our Transcendent, is "in solidarity."
 
-When we perceive this quality of the Divine, and bring it into our collective lives, that is when we gain traction toward manifesting the power of the people. 
+When we perceive this quality of the Divine, and commit to cultivating it amongst ourselves, that is when we gain traction toward manifesting the power of the people. 
 
-**Postscript: **
+**Postscript:**
 
-Why does this careful reading of a modern seeker’s prophetic vision matter to me? For me it originates in my desire to believe in the possibility of wresting the earth from fools, and ideally be a helpful contributor to that process.
+Religious people often experience the left’s claim that “people have the power” as in contrast to believing in and respecting God’s power. But I don’t agree. I think God is constantly trying to get us to claim our power to make God’s will of justice and peace manifest “on earth as it is in heaven” (Matthew 6:10). And yet, it is easy and perhaps overdetermined for humans to abuse power. So the nature of the power that God is asking us to claim needs to be exegeted. It needs to be parsed with a high degree of specificity so that each one of us can discern how to adjust ourselves internally and externally so that we are ready and able to be a part of cultivating this power. The left doesn’t often unpack our slogans in this nuanced way. In this song, Smith is doing that work in a way that anyone can engage with, and in the process she is also offering Christians a window into the living Gospel as it is unfolding in the church of the streets. 
 
-Church people often experience the left’s claim that “people have the power” as in contrast to believing in and respecting God’s power. But I don’t agree. I think God is constantly trying to get us to claim our power to make God’s will of justice and peace manifest “on earth as it is in heaven” (Matthew 6:10). And yet, it is easy and perhaps overdetermined for humans to abuse power. So the nature of the power of people needs to be exegeted. It needs to be parsed with a high degree of specificity so that each one of us can discern how to adjust ourselves internally and externally so that we are ready and able to be a part of cultivating this power. The left doesn’t often unpack our slogans in this nuanced way. In this song, Smith is doing that work in a way that anyone can engage with, and in the process she is also offering Christians a window into the living Gospel as it is unfolding in the church of the streets. 
-
-For me, it doesn’t matter if the channel for such insight is someone whose own theology is still under development – whose isn’t? It doesn’t matter if the container for such insight is a sanctuary, a poetry slam, or a dance hall. What matters is the quality of inspiration, and I find that in Smith’s work. No organized religion has ever or can ever corner the market on interpreting God’s messages to humanity. God does not stop speaking to people who grow frustrated with the limits of our traditions and institutions. God continues to speak with and through people who make their way toward comprehension on unpaved paths. Those who persist in listening for the voice of the Transcendent from outside of organized religion know that the Bible belongs to every dreamer.
+For me, it doesn’t matter if the channel for such insight is someone whose own theology is still under development – whose isn’t? It doesn’t matter if the container for such insight is a sanctuary, a poetry slam, or a dance hall. What matters is the quality of inspiration, and I find that quality in Smith’s work. No organized religion has ever or can ever corner the market on interpreting God’s messages to humanity. God does not stop speaking to people who grow frustrated with the limits of our traditions and institutions. God continues to speak with and through those who make their way toward comprehension on unpaved paths. Those who persist in listening for the voice of the Transcendent from outside of organized religion know that the Bible belongs to every dreamer.
 
 **Full Lyrics:**
 

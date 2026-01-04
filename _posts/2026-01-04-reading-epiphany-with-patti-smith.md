@@ -8,6 +8,7 @@ series:
   - reading-audaciously
 tags:
   - Epiphany
+image_filename: PattiSmith.jpg
 ---
 Today is the day that the Church celebrates “Epiphany,” also known as Three Kings Day — though the actual holiday is on January 6. This day is when almost all of our beloved Christmas imagery comes from – the star, the gifts, the creche with the kings and shepherds gathered ‘round. Tradition holds that it took place on the 12th day after Jesus’s birth. Within the church, Epiphany is seen as important enough to have an entire season named after it – the season of Epiphany begins on the Sunday closest to January 6, and goes up until the start of Lent.
 

@@ -260,3 +260,5 @@ https://uscatholic.org/articles/202511/patti-smith-an-unlikely-religious-poet/
 
 (5) “Politics of Epiphany” by John Allen<br>
 https://politicaltheology.com/politics-of-epiphany/
+
+Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Patti_Smith_(Haldern_Pop_Festival_2014)_IMGP4121_smial_wp.jpg)

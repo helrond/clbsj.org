@@ -16,11 +16,11 @@ Epiphany is a very charged day, one that should not be remembered as only a happ
 
 Last year, CLBSJ held an event called “Tragedy and Epiphany” in which we focused our attention on this co-incidence of hope and horror. What does allowing ourselves to feel both, and feel their relationship to each other, teach us for today’s times? ([You can watch the archive here.](https://clbsj.org/events/2025/01/06/tragedy-and-epiphany/ )) This year, the need to wrestle with this reality seems all the more pronounced, from where I stand. For just days after the New Year — when the whole world has been sending out heartfelt yearnings that 2026 might bring a new song and a better day — yet we awoke the day before Epiphany with news of the latest fools errand, aka war, aka manufactured distraction.
 
-As my family and I were staring into the abyss of this latest news of human failure, I found myself graciously provided with a counterpoint. The lifeline that Grace extended to me was a memory of a lyric in Patti Smith’s anthem, [“People Have the Power”](https://youtu.be/pPR-HyGj2d0?si=2vAStuljH39V7gYI ) (co-written by Fred Smith). The lyric was:
+As my family and I were staring into the abyss of this latest news of human failure, I found myself graciously provided with a counterpoint. The lifeline that Grace extended to me was a memory of a lyric in Patti Smith’s anthem, [“People Have the Power”](https://youtu.be/pPR-HyGj2d0?si=2vAStuljH39V7gYI ) (co-written by Fred Smith). The intercessory lyric was:
 
 _“The power to dream, to rule, to wrestle the earth from fools!”_ (a)
 
-Dutifully, I searched up a rendering of this masterpiece that contained the lyrics, and my family and I gathered ‘round. To my surprise and humble delight I found that this activist anthem offers a rich scriptural reflection on Epiphany.
+Wanting to understand more, I searched up a rendering of this masterpiece that contained the lyrics, and my family and I gathered ‘round. To my surprise and humble delight I found that this activist anthem offers not only strength for the journey in this current moment, but also a rich scriptural reflection on Epiphany.
 
 **The Anthem in Context**
 

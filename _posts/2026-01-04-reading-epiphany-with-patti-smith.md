@@ -138,7 +138,11 @@ Smith’s Shema unfolds this further. Listen, people. Everything that we dream, 
 
 Smith’s Shema is also intertextual – it is drawing from and commentating on the song “Solidarity Forever,” in which the force of Union transforms the workers’ aspirations to reality.
 
-Open your ears, God-Wrestlers: True authority, our Transcendent, lies in coming together: in solidarity.
+This reading is cohesive with how biblical scholars understand the meaning of the Hebrew term used in Deuteronomy 6:4. While we translate the final word as “one,” the Hebrew word used here, echad (אֶחָד), carries a more nuanced sense of fundamental Hebrew word meaning , not just a singular number, but a sense of unity, wholeness and composite oneness.
+
+Open your ears, God-Wrestlers: True authority, our Transcendent, is in solidarity.
+
+When we perceive this quality of the Divine, and bring it into our collective lives, that is when we gain traction toward manifesting the power of the people. 
 
 **Postscript: **
 

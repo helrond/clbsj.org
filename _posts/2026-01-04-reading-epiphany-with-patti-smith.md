@@ -119,7 +119,7 @@ to wrestle the earth from fools (a)_
 
 This was the line that came to me when I was struggling with the latest bad new — and for me it is a mantra for this moment. Another “midrash” on the slogan “the people have the power,” these lyrics propose a threefold nature to the people’s power:
 
-1. it is a power of discernment: to see and articulate higher possibilities. As Smith is quoted as saying in an interview on German television “I think that God is as we invest in him…. We all have this opportunity and also this blessing to be magnified…. Being magnified by the idea of God means that we are living imagination.” (4)
+1. it is a power of discernment: to see and articulate higher possibilities. As Smith is quoted as saying in an interview on German television “I think that God is as we invest in him... We all have this opportunity and also this blessing to be magnified... Being magnified by the idea of God means that we are living imagination.” (4)
 
 2. it is a power of authority: to manifest the vision Jesus laid out in the Beatitudes, in which the meek inherit and rule the earth. This is also the literal meaning of the word democracy: demos (people) + kratia (authority)
 
@@ -137,7 +137,7 @@ This epilogue is Smith's statement of faith. “Listen” flags for us the Shema
 
 Smith’s Shema unfolds this further. Listen, people. Everything that we dream, which has been given to us by God to dream, is possible through the process of claiming and centering the work of cultivating union.
 
-Smith’s Shema is also intertextual – it is drawing from and commentating on the song “Solidarity Forever,” in which the force of Union transforms the workers’ aspirations to reality.
+Smith’s Shema is also intertextual – it is drawing from and commentating on the song “Solidarity Forever,” in which the force of Union transforms the workers’ aspirations to reality. 
 
 This reading is cohesive with how biblical scholars understand the meaning of the Hebrew term used in Deuteronomy 6:4. While we translate the final word as “one,” the Hebrew word used here, echad (אֶחָד), carries a more nuanced sense of fundamental Hebrew word meaning , not just a singular number, but a sense of unity, wholeness and composite oneness.
 

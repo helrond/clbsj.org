@@ -58,7 +58,7 @@ well I awakened to the cry<br>
 that the people have the power<br>_
 All this embodied re-cognition allows for a physical experience of perception that is unique and set apart from normal experience. In the Bible, stubbornness of perception is often described in physical terms – including as hard-hearted and stiff-necked. Sometimes our inability to see is so pronounced that parts of our bodies don’t function as they should. Jesus attempts to interrupt this reality on multiple occasions when he adds after his teachings, “any who have ears, hear!” In the same spirit, here the intercession Smith has experienced opens every part of her sensory body to fully take in a cry that is going up from our laboring world: “that the people have the power.”
 
-What it does it mean to say that people have the power? This has become a slogan, and like any slogan it can become jargon and become mystified. Even though it might seem like its hard to misunderstand, this force of mystification can interrupt our ability to “have ears.” Smith counters this mystification by explaining what she means progressively through the song. This is the first midrash:<br>
+What it does it mean to say that people have the power? This has become a slogan, and like any slogan it can be experienced as jargon and therefore become mystified. Even though it might seem like its hard to misunderstand, this force of mystification can interrupt our ability to “have ears.” Smith counters this mystification by explaining what she means progressively through the song. This is the first midrash:<br>
 _that the people have the power<br>
 to redeem the work of fools<br>
 from the meek the graces shower (b)<br>

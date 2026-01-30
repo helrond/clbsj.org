@@ -13,7 +13,7 @@ Rev. Dr. Safwat Marzouk, a Hebrew Testament scholar and Egyptian Presbyterian, w
 
 Advanced registration is required. An option to donate is provided; all are welcome to attend regardless of ability to pay. After registering, you will receive a confirmation email followed by a separate email with information about how to join the session.
 
-{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=24&reset=1" %}
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=25&reset=1" %}
 
 _**Please Note!** Registration closes one half hour prior to the start of the event._
 

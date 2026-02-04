@@ -6,7 +6,7 @@ title: 'What are We Waiting For? Christ, Mary and Peacemaking'
 time: '7:30pm Eastern US Time'
 series:
   - advent-study
-image_filename: OurLadyoftheQuran-RobertLentz.jpg
+vimeo_id: '1147916532'
 ---
 Will O’Brien, in conversation with Rabia Harris, will seek to rescue our understanding of Mary and the birth of Jesus from patriarchal and misogynistic readings that have distracted us from the call to radical peacemaking that is embedded into the birth narratives.
 

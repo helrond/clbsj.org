@@ -6,7 +6,7 @@ title: Epiphany in Exile
 time: '7:30pm Eastern Time (US and Canada)'
 series:
   - scholar-activist-encounters
-image_filename: ScholarActivistEncounter-Feb12.jpg
+image_filename: ScholarActivistEncounter-Feb12-rev.jpg
 ---
 During this last week of the season of Epiphany, we will gather to focus our attention on the time that the Holy Family spent as migrants and refugees fleeing political violence, and how this story can inform our immigrant rights activism today. 
 

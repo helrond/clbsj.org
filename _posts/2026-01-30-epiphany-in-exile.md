@@ -16,7 +16,7 @@ Rev. Dr. Safwat Marzouk, a Hebrew Testament scholar and Egyptian Presbyterian, w
 
 Following this we will engage in a participatory dialogue in which all who are engaged in activism to oppose the demonization and targeting of immigrant communities are invited to share. Together we will explore how a detailed understanding of the circumstances in which Jesus Christ and his family lived as immigrants can help us to make sense of the violent xenophobia we are facing today. 
 
-This event is co-sponsored by the Society of Biblical Literature.
+This event is co-sponsored by the Society of Biblical Literature and the Committee on Underrepresented Racial and Ethnic Minorities in the Profession (CUREMP).
 
 Advanced registration is required. An option to donate is provided; all are welcome to attend regardless of ability to pay. After registering, you will receive a confirmation email followed by a separate email with information about how to join the session.
 

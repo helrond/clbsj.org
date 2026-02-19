@@ -24,5 +24,5 @@ Ramadan teaches us self-control and compassion through fasting and prayer. Lent 
 
 When sacred seasons overlap, it is not coincidence - it is invitation. This is your moment to burn brighter, but with purpose. To move forward, but with humility. To grow stronger, but through compassion. Let this be the season you look back on and say: That was when I chose courage. That was when I chose love. That was when I began again to puruse the cal of justice with my whole being.
 
-_“Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke?"_
+_“Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke?"_<br>
  ~ Isaiah 58:6 (English Standard Version)

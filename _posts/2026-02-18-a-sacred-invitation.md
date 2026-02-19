@@ -22,7 +22,7 @@ As we are entering the year of the Fire Hourse, this alignemnet feels even more 
 
 Fire symbolizes courage, while the Horse symbolizes movement. Both Ramadan and Lent symbolize spiritual discipline and rebirth. Together, they whisper a bold invitation: this is not the season to stay the same!
 
-Ramadan helps us change inside through self-control, fasting and prayer. Lent teaches to change through repetence and renewal. The Lunar New Year makes space for fresh beginnings and intentional living, drawing millions into pilgrimages of return to their plaes of birth. 
+Ramadan helps us change inside through self-control, fasting and prayer. Lent teaches to change through confession, repetence and discipline. The Lunar New Year makes space for fresh beginnings and intentional living, drawing millions into pilgrimages of return to their places of birth. 
 
 The Fire Horse adds urgency to all this: act now, live braevly, love fiercly! This is a sacred convergence, caling us not just to reflect, but to rise. 
 

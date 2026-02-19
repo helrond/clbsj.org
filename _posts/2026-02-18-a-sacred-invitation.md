@@ -6,7 +6,7 @@ title: A Sacred Invitation
 author: Sherly Fabre
 series:
   - reading-audaciously
-image_filename: FireHorseGate.jpg
+image_filename: FireHorse-Gate.jpg
 ---
 When sacred seasons overlap, it is not coincidence — it is invitation.
 

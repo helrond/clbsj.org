@@ -8,11 +8,12 @@ series:
   - reading-audaciously
 image_filename: FireHorseGate.jpg
 ---
-When sacred seasons overlap, it is not coincidence — it is invitation.
+_When sacred seasons overlap, it is not coincidence — it is invitation.
 
 🔥 Burn brighter, with purpose.<br>
 🐎 Move forward, with humility.<br>
-❤️ Grow stronger, with compassion
+❤️ Grow stronger, with compassion_
+
 
 There are moments in history when the spiritual calendar feels beautifully aligned -- such as right now, when the Christian Season of Lent, the Muslim month of Ramadan, and the Chinese Lunar New Yaar and Spring Festival, all converge in the same stretch of time.
 

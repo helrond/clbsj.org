@@ -24,7 +24,7 @@ Fire symbolizes courage, while the Horse symbolizes movement. Both Ramadan and L
 
 Ramadan helps us change inside through self-control, fasting and prayer. Lent teaches to change through confession, repetence and discipline. The Lunar New Year makes space for fresh beginnings and intentional living, drawing millions into pilgrimages of return to their places of birth. 
 
-The Fire Horse adds urgency to all this: act now, live braevly, love fiercly! This is a sacred convergence, caling us not just to reflect, but to rise. 
+The Fire Horse adds urgency to all this: act now, live braevly, love fiercly! This is a sacred convergence, calling us not just to reflect, but to rise. 
 
 When sacred seasons overlap, it is not just coincidence; it is invitation. Maybe this is our moment to burn brighter, but with purpose. To move forward, but with humility. To grow stronger, but through compassion. Let this be the season we look back on and say: That was when I chose courage. That was when I chose love. That was when I began again to puruse the call of justice with my whole being.
 

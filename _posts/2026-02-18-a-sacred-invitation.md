@@ -10,8 +10,8 @@ image_filename: FireHorseGate.jpg
 ---
 When sacred seasons overlap, it is not coincidence — it is invitation.
 
-🔥 Burn brighter, with purpose.<br>
-🐎 Move forward, with humility.<br>
+🔥 Burn brighter, with purpose<br>
+🐎 Move forward, with humility<br>
 ❤️ Grow stronger, with compassion
 
 -----

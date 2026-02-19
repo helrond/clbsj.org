@@ -18,7 +18,7 @@ When sacred seasons overlap, it is not coincidence — it is invitation.
 
 There are moments in history when the spiritual calendar feels beautifully aligned -- such as right now, when the Christian Season of Lent, the Muslim month of Ramadan, and the Chinese Lunar New Year and Spring Festival, all converge in the same stretch of time.
 
-As we are entering the year of the Fire Hourse, this alignemnet feels even more powerful. 
+As we are entering the year of the Fire Horse, this alignemnet feels even more powerful. 
 
 Fire symbolizes courage, while the Horse symbolizes movement. Both Ramadan and Lent symbolize spiritual discipline and rebirth. Together, they whisper a bold invitation: this is not the season to stay the same!
 

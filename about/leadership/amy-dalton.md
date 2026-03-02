@@ -22,4 +22,4 @@ Amy holds a Master of Divinity from Union Theological Seminary with a research f
 
 She is also a founding member of the Community of Living Traditions, a multifaith intentional community, and serves as Treasurer of the Board of [Proyecto Faro](https://proyectofarorockland.org/), a Rockland County-based immigrant justice group. She has served on the Research Team of the Ambazonia Prisoners of Conscience Support Network, a diaspora formation connected to her partner's homeland, and serves as Membership Coordinator of the Parent-Teacher Association of her daughter's school.
 
-As a person who has lived for most of her life with an invisible disability, Amy has had to forge space that she can function in, and because of this she prioritizes modes of organizing that are deeply egalitarian, nonjudgemental and welcoming of all ways of being human.
+As a person who has lived for most of her life with an invisible disability, Amy has had to forge space that she can function in, and because of this she prioritizes modes of organizing and organization building that are deeply egalitarian, nonjudgemental and welcoming of all ways of being human.

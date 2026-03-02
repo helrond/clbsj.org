@@ -1,5 +1,5 @@
 ---
-date: 'Tuesday, March 17,  2026'
+date: '2026-03-17'
 category: events
 layout: event
 title: 'abby mohaupt: Reading Judges 19 with Survivors'

@@ -2,7 +2,7 @@
 date: '2026-03-17'
 category: events
 layout: event
-title: Reading Judges 19 with Survivors
+title: Reading Judges 19 Resiliently
 time: '7:30pm Eastern Time'
 series:
   - bible-detox
@@ -18,4 +18,4 @@ _**Please Note!** Registration closes one half hour prior to the start of the ev
 
 ## Speaker Bio
 
-**rev. dr. abby mohaupt** is the Director of the Garrett Collective at Garrett and loves helping people connect and organize with others. She has spent the majority of her career in online theological education, particularly in climate justice and interfaith spaces, gaining experience in digital organizing, pedagogies of the oppressed, and practical/creative theologies. While curating the Collective is her fulltime day job, abby also enjoys long runs, good coffee, and drawing with her daughter. 
+**rev. dr. abby mohaupt** is the Director of the Garrett Collective at Garrett and loves helping people connect and organize with others. She has spent the majority of her career in online theological education, particularly in climate justice and interfaith spaces, gaining experience in digital organizing, pedagogies of the oppressed, and practical/creative theologies. While curating the Collective is her fulltime day job, abby also enjoys long runs, good coffee, and drawing with her daughter.

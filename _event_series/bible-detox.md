@@ -11,4 +11,10 @@ keywords:
 published: true
 sort_order: 3
 ---
-CLBSJ's Bible Detox practice convenes each Lent to wrestle with and reclaim texts that have been weaponized to justify and perpetuate violence and oppression. People of all faiths and backgrounds are warmly invited to participate in this ongoing experiment. Stay tuned for our 2026 details!
+CLBSJ’s Bible Detox practice convenes each Lent to wrestle with and reclaim texts that have been weaponized to justify and perpetuate violence and oppression. This year we are focusing attention on scriptures that have been read in service of patriarchy and misogyny. We will gather for three sessions: The first session features a teaching by Katy E. Valentine on Paul’s interaction with the enslaved diviner in Acts 16:16-24. For the second session, abby mohaupt will share her research and pedagogical work regarding the rape of the Levite’s concubine in Judges 19. The third session will be a participatory study that will draw from Katy and abby’s teachings as well as other scriptures, guided by CLBSJ’s Contemplative Traditions Advisor, Sr. Sharifa Meytung.
+ 
+People of all faiths are welcome to join these conversations. 
+
+Please use the links below to register separately for each session. 
+
+The option to make a donation of any size will be offered during the registration process. These gifts go toward covering our costs and your generosity is appreciated! All are welcome to attend regardless of your ability to pay.

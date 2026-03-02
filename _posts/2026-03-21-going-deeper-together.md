@@ -16,6 +16,6 @@ _**Image:** “Woman Harvesting” by Paul Klee_
 
 _**Please Note!** Registration closes one half hour prior to the start of the event._
 
-## Speaker Bio
+## Facilitator Bios
 
-Sr. Sharifa Vernice Meytung is a Catholic-Buddhist lay contemplative practitioner; teacher of young children; haijin (writer of haiku poetry) and an abstract painter. Her spiritual practice is also deeply informed by her ancestral animist indigeneity. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany. In the year 2000 she pilgrimed to the Jasna Gora Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year. Read her full bio [here](https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/).
+**Sr. Sharifa Vernice Meytung** is a Catholic-Buddhist lay contemplative practitioner; teacher of young children; haijin (writer of haiku poetry) and an abstract painter. Her spiritual practice is also deeply informed by her ancestral animist indigeneity. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany. In the year 2000 she pilgrimed to the Jasna Gora Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year. Read her full bio [here](https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/).

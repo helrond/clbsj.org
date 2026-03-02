@@ -2,7 +2,7 @@
 date: '2026-03-17'
 category: events
 layout: event
-title: 'abby mohaupt: Reading Judges 19 with Survivors'
+title: Reading Judges 19 with Survivors
 time: '7:30pm Eastern Time'
 series:
   - bible-detox

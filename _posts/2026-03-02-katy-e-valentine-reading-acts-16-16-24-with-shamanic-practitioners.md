@@ -2,7 +2,7 @@
 date: '2026-03-14'
 category: events
 layout: event
-title: "Katy E. Valentine: Reading\_Acts 16:16-24\_with\_Shamanic Practitioners"
+title: "Reading\_Acts 16:16-24\_with\_Shamanic Practitioners"
 time: '1:00pm Eastern Time'
 series:
   - bible-detox

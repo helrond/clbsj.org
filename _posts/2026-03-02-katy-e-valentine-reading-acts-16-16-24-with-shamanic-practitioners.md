@@ -1,5 +1,5 @@
 ---
-date: 'Saturday, March 14, 2026'
+date: '2026-03-14'
 category: events
 layout: event
 title: "Katy E. Valentine: Reading\_Acts 16:16-24\_with\_Shamanic Practitioners"

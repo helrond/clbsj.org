@@ -15,11 +15,9 @@ image_filename: LentenBibleDetox2026-small.jpg
 _Lenten Bible Detox 2026: Women, Power and Misogyny_
 
 CLBSJ’s Bible Detox practice convenes each Lent to wrestle with and reclaim texts that have been weaponized to justify and perpetuate violence and oppression. This year we are focusing attention on scriptures that have been read in service of patriarchy and misogyny. We will gather for three sessions: The first session features a teaching by Katy E. Valentine on Paul’s interaction with the enslaved diviner in **Acts 16:16-24**. For the second session, abby mohaupt will share her research and pedagogical work regarding the rape of the Levite’s concubine in **Judges 19**. The third session will be a participatory study that will draw from Katy and abby’s teachings as well as other scriptures, guided by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy Dalton.
- 
-People of all faiths are welcome to join these conversations. 
 
-Please use the links below to register separately for each session. 
+People of all faiths are welcome to join these conversations. Please use the links below to register separately for each session. 
 
 The option to make a donation of any size will be offered during the registration process. These gifts go toward covering our costs and your generosity is appreciated! All are welcome to attend regardless of your ability to pay.
 
-Image: "Blood red total lunar eclipse of March 25, 2025" by BruceWaters from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:March_25,_2025_Total_Lunar_Eclipse_Full_Frame.jpg)
+_**Image:** "Blood red total lunar eclipse of March 25, 2025" by BruceWaters from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:March25,2025TotalLunarEclipseFullFrame.jpg)_

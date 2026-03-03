@@ -5,8 +5,9 @@ layout: news-item
 title: 'Purim Amidst Polarization: Reading Esther for Transformation'
 series:
   - reading-audaciously
+author: Alexiana Fry
 ---
-In this audacious reading, Alexiana Fry examines the book of Esther in light of our current political polarization. She delineates the ways that weaponized inhospitality, violent gender oppression and genocidal state logic are reinforced through the events in this story, though these passages are mostly overlooked during the traditionally festive holiday of Purim. She then explores how grassroots anti-zionist Jewish communities, in particular the Shalom Center’s Chapter 9 Project, are experimenting with creative, faithful ways to refuse these oppressive endings from having the last word. Read her full reflection here.
+In this audacious reading, Alexiana Fry examines the book of Esther in light of our current political polarization. She delineates the ways that weaponized inhospitality, violent gender oppression and genocidal state logic are reinforced through the events in this story, though these passages are mostly overlooked during the traditionally festive holiday of Purim. She then explores how grassroots Jewish communities, in particular the Shalom Center’s Chapter 9 Project, are experimenting with creative, faithful ways to refuse these oppressive endings from having the last word.
 
 -------
 

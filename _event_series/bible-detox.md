@@ -20,4 +20,4 @@ People of all faiths are welcome to join these conversations. Please use the lin
 
 The option to make a donation of any size will be offered during the registration process. These gifts go toward covering our costs and your generosity is appreciated! All are welcome to attend regardless of your ability to pay.
 
-_**Image:** "Blood red total lunar eclipse of March 25, 2025" by BruceWaters from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:March25,2025TotalLunarEclipseFullFrame.jpg)_
+_**Image:** "Blood red total lunar eclipse of March 25, 2025" by Brucewaters from [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:March25,2025TotalLunarEclipseFullFrame.jpg)_

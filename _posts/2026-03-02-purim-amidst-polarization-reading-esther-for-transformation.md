@@ -8,10 +8,6 @@ series:
 author: Alexiana Fry
 image_filename: EstherKeepsTheScore.jpg
 ---
-In this audacious reading, Alexiana Fry examines the book of Esther in light of our current political polarization. She delineates the ways that weaponized inhospitality, violent gender oppression and genocidal state logic are reinforced through the events in this story, though these passages are mostly overlooked during the traditionally festive holiday of Purim. She then explores how grassroots Jewish communities, in particular the Shalom Center’s Chapter 9 Project, are experimenting with creative, faithful ways to refuse these oppressive endings from having the last word.
-
--------
-
 The Jewish festival of Purim starts on the evening of March 2, and continues until sundown on March 3. As a scholar of Esther, the book that holds its supposed “origin” story, I always think of it more vividly on the days it is traditionally celebrated by religious communities. This year, however, I’m thinking less about the more joyous and humorous tones Purim brings, but about trauma.
  
 The book of Esther outlines the story that many of us have likely heard: an unlikely orphan/adoptee Jewish girl becomes Queen but has to hide her Jewish-ness; her relative, Mordecai, makes the big bad villain, Haman, mad, and he decides genocide is an appropriate outlet for his feelings; Mordecai pleads to Esther to fix the problem and she agrees, risking death and playing strategic hostess before outing Haman to her husband, the King; Haman is hung, a counter-edict is written, the Jews get to defend themselves against their enemies, and then they party after their victory—Purim.

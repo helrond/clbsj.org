@@ -3,11 +3,11 @@ layout: news-series
 title: Reading Audaciously
 slug: reading-audaciously
 tagline: >-
-  For our annual Read-a-thon, CLBSJ will continue our tradition of intentionally
-  reading sacred scripture in solidarity and conversation with marginalized
-  perspectives — including those in banned and controversial books, in current
-  events, and in testimonies of resistance, including those present in our own
-  lives. Check out reader reviews below, and <a
-  href="https://forms.gle/EvKpW9xvTocnXrGz7">click here to sign up to read!</a>
+  Reading Audaciously is a participatory biblical engagement project in which we
+  intentionally read sacred scripture in conversation with marginalized
+  perspectives, including those found in banned and controversial books, current
+  events, and testimonies of resistance. How do you find the Word on the
+  streets, in the dance hall, and in our justice movements? If you have an
+  Audacious Reading to share, you an email it to info@clbsj.org.
 sort_order: 1
 ---

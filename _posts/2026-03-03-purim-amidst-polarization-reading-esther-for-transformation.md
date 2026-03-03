@@ -34,4 +34,4 @@ This Purim, I am reminded that trauma is present, but it can be transformed.
 
 -------
 
-Alexiana Fry is a postdoctoral researcher at the University of Copenhagen and author of the forthcoming _[Esther Keeps the Score: Trauma, Body and Politics in the Hebrew Bible](https://scmpress.hymnsam.co.uk/books/9780334066866/esther-keeps-the-score)_. You can find her scholarship at [www.alexianafry.com](https://www.alexianafry.com/). This piece was originally published at Baptist News Global.
+Alexiana Fry is a postdoctoral researcher at the University of Copenhagen and author of the forthcoming _[Esther Keeps the Score: Trauma, Body and Politics in the Hebrew Bible](https://scmpress.hymnsam.co.uk/books/9780334066866/esther-keeps-the-score)_. You can find her scholarship at [www.alexianafry.com](https://www.alexianafry.com/). This piece was originally published at [Baptist News Global](https://baptistnews.com/article/reimagining-esther-purim-amidst-polarization/).

@@ -10,6 +10,7 @@ keywords:
   - 'bible, activist, bible study'
 published: true
 sort_order: 3
+image_filename: LentenBibleDetox2026-small.jpg
 ---
 _Lenten Bible Detox 2026: Women, Power and Misogyny_
 

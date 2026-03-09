@@ -7,6 +7,7 @@ author: Amy L. Dalton
 series:
   - reading-audaciously
 image_filename: JAS-Madonna.png
+published: false
 ---
 Happy International Women’s Day! John August Swanson’s “Madonna of the Harvest” provides a beautiful midrash on the spiritual aspect of the role of women in the physical work that sustains life. Swanson has placed the Madonna nurturing the Child of Humanity “into a backdrop of life within a larger community of people working together and helping one another.” [1] Just as in the margins of the labor movement from which the International Women’s Day tradition grew, these peripheral images are made up of women with deep knowledge not only of the labor of farming, but of the labor of weaving alongside it the beloved community.
 

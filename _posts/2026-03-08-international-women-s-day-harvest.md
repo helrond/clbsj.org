@@ -17,6 +17,8 @@ In Swanson’s piece, the Madonna presides over and protects this spiritual harv
 _"They will build houses and dwell in them; they will plant vineyards and eat their fruit."_<br>
 ~ Isaiah 65:21 (NIV)
 
+**May it be so!**
+
 1- "Madonna of the Harvest" by John August Swanson: [johnaugustswanson.com/catalog/madonna](https://johnaugustswanson.com/catalog/madonna/)
 
 2- "Bread and Roses" Lyrics: [www.protestsonglyrics.net/Inspirational_Songs/Bread-and-Roses.phtml](http://www.protestsonglyrics.net/Inspirational_Songs/Bread-and-Roses.phtml)

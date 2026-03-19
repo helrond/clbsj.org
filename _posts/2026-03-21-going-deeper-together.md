@@ -8,7 +8,7 @@ series:
   - bible-detox
 image_filename: WomenHarvesting-PaulKlee.jpg
 ---
-Our closing Lenten Bible Detox session will be a participatory gathering in which we revisit the scriptures and themes discussed by Katy E. Valentine and abby mohaupt in dialogue and contemplation. In supportive community, we will endeavor to discern what mindset shifts and action steps their teachings call us to. This session will be shepherded by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy L. Dalton.
+Our closing Lenten Bible Detox session will be a participatory gathering in which we revisit the scriptures discussed by Katy E. Valentine and abby mohaupt — as well as other scriptures that are arising in our hearts and minds — in dialogue and contemplation. In supportive community, we will endeavor to discern what mindset shifts and action steps their teachings call us to. This session will be shepherded by CLBSJ Contemplative Traditions Advisor Sr. Sharifa Meytung and CLBSJ Executive Director Amy L. Dalton.
 
 _**Image:** “Women Harvesting” by Paul Klee_
 

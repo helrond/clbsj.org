@@ -12,8 +12,7 @@ image: /img/board/meytung.jpg
 published: true
 clbsj_title: Contemplative Traditions Advisor
 ---
-Sr. Sharifa V. Meytung is a Catholic-Buddhist lay contemplative practitioner; teacher of young children; haijin (writer of haiku poetry) and an abstract painter. Her spiritual practice is also deeply informed by her ancestral animist indigeneity. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany. In the year 2000 she pilgrimed to the Jasna Gora
-Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year.
+Sr. Sharifa V. Meytung is a Catholic-Buddhist lay contemplative practitioner; teacher of young children; haijin (writer of haiku poetry) and an abstract painter. Her spiritual practice is also deeply informed by her ancestral animist indigeneity. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany and is currently a student at Temple University in Philadelphia. In the year 2000 she pilgrimed to the Jasna Gora Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year.
 
 Sr. Sharifa has developed and contributed to a variety of multimedia projects. She currently hosts “Our Changing Times”, a community radio program on WPEB 88.1 FM in West Philadelphia, highlighting Black folk music artists and the writings of African American essayists platforming the Black experience in America. Past episodes can be found at [soundcloud.com/ourchangingtimes](https://soundcloud.com/ourchangingtimes). Her recent publication of “Said The Tiger To The Rabbit” , a book of haiku poetry and expressionistic painting is available [here](https://shop.ingramspark.com/b/084?v5YV7WmegA5nkPage8J7MbfFul5oFQCLHvKEZp4Yjk1). 
 

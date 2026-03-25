@@ -4,6 +4,7 @@ category: events
 layout: event
 title: 'Easter Season Mini-Course: Christ, Collapse, and Coming'
 time: '7:30pm Eastern Time (US)'
+image_filename: keepawake_lwp.jpg
 ---
 CLBSJ is excited to announce our first mini-course, led by James W. ("Jim") Perkinson! Sessions will take place on Tuesday April 7, Tuesday April 14 and Tuesday April 21 from 7:30-9:00pm Eastern Time.
 

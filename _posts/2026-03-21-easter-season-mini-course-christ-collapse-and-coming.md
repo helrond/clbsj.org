@@ -9,7 +9,8 @@ CLBSJ is excited to announce our first mini-course, led by James W. ("Jim") Perk
 
 Jim will lead us in ushering in the Spring and the Easter liturgical season with an exploration of three earth-based and indigenized ways of understanding Christ: Lady Wisdom, The Vulnerable One, and Cloud Rider. This course will be led by James Perkinson and will build on the overview of these Christological aspects which he provided during our Advent session ["What are We Waiting For? Christ and the Earth"](https://clbsj.org/events/2025/12/04/what-are-we-waiting-for-christ-and-the-earth/). Each session will unpack one of these aspects in detail, in conversation with eco-spiritual and indigenous perspectives crucial to understanding the way Jesus talked about apocalyptic change. We will then delve into the question of the relevance of these perspectives for our current times.
 
-People of all faiths and backgrounds are warmly invited to participate in this exploration. **[CLICK HERE TO REGISTER!](https://clbsj.civicrm.org/civicrm/event/register?id=29&reset=1)**
+People of all faiths and backgrounds are warmly invited to participate in this exploration. 
+{% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=29&reset=1" %}
 
 **Image:** “Keep Awake” by Lauren Wright Pittman [© A Sanctified Art](https://sanctifiedart.org/image-licensing-library-advent/keep-awake)
 

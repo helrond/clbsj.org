@@ -1,11 +1,12 @@
 ---
-date: '2024-08-15'
 category: events
 layout: event
 title: >-
   Kenneth Ngwa and Cleo Silvers on Biblical Interpretation for Global Health
   Equity
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2024-08-15'
+    time: '7:30pm Eastern US Time'
 series:
   - black-august
 vimeo_id: '1000213779'

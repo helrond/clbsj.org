@@ -1,12 +1,13 @@
 ---
-date: '2023-03-21'
 category: events
 layout: event
 published: true
 title: >-
   Interpreting Animals in the Bible -- Seeing Human and Non-Human Animals as
   Siblings in the Struggle to Survive
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-03-21'
+    time: '7:30pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '811674625'

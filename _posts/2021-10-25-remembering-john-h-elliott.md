@@ -1,10 +1,11 @@
 ---
-date: '2021-11-21'
 category: events
 layout: event
 published: true
 title: Remembering John H. "Jack" Elliott at SBL
-time: 7pm Eastern Time ~ 6pm Central Time ~ 4pm Pacific Time
+event_dates:
+  - date: '2021-11-21'
+    time: 7pm Eastern Time ~ 6pm Central Time ~ 4pm Pacific Time
 image_alt_text: Jack Elliott at CLBSJ's Founding Conference in 2011
 series:
   - scholar-activist-encounters

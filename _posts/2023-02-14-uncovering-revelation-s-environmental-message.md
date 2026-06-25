@@ -1,10 +1,11 @@
 ---
-date: '2023-03-28'
 category: events
 layout: event
 published: true
 title: Uncovering Revelation’s Environmental Message
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-03-28'
+    time: '7:30pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '812776693'

@@ -1,10 +1,11 @@
 ---
-date: '2023-10-05'
 category: events
 layout: event
 published: true
 title: 'Reading for Justice: A Celebration of Banned Books and Critical Thinking'
-time: '7:30pm Eastern Time'
+event_dates:
+    - date: '2023-10-05'
+      time: '7:30pm Eastern Time'
 image_filename: CRTbooks.jpeg
 ---
 _A participatory fundraiser to help CLBSJ extend access to critical biblical engagement_

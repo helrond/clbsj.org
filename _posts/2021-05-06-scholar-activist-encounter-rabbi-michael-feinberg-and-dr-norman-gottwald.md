@@ -1,12 +1,13 @@
 ---
-date: '2021-05-20'
 category: events
 image_alt_text: Cover of Tribes of Yahweh
 layout: event
 series:
   - scholar-activist-encounters
 published: true
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-05-20'
+    time: '7:30pm Eastern Time'
 title: Rabbi Michael Feinberg and Dr. Norman Gottwald
 description: >-
   The Center and Library for the Bible and Social Justice and the Religion and

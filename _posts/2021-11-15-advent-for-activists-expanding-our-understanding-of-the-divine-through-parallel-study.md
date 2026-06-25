@@ -1,12 +1,13 @@
 ---
-date: '2021-12-14'
 category: events
 layout: event
 published: true
 title: >-
   Advent for Activists: Expanding our Understanding of the Divine through
   Parallel Study
-time: '7:30pm Eastern Standard Time'
+event_dates:
+  - date: '2021-12-14'
+    time: '7:30pm Eastern Standard Time'
 image_alt_text: Rev. Natalie Perkins
 vimeo_id: '660510446'
 series:

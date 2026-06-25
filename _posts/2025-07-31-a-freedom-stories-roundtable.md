@@ -1,9 +1,10 @@
 ---
-date: '2025-08-30'
 category: events
 layout: event
 title: A Freedom Stories Roundtable Retreat
-time: '10:30am Eastern US Time ~ 4:30pm South Africa Time'
+event_dates:
+  - date: '2025-08-30'
+    time: '10:30am Eastern US Time ~ 4:30pm South Africa Time'
 series:
   - black-august
 vimeo_id: '1114953767'

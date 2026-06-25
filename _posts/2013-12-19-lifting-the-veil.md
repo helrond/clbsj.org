@@ -1,7 +1,8 @@
 ---
 title: Lifting the Veil
-date: 2014-01-04
-time: 7:00pm
+event_dates: 
+    - date: 2014-01-04
+      time: 7:00pm
 author: Mark Johnson
 layout: event
 category: events

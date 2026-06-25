@@ -1,10 +1,11 @@
 ---
-date: '2019-05-09 '
 category: events
 layout: event
 series:
   - seminal-books
 published: true
+event_dates:
+  - date: '2019-05-09'
 vimeo_id: "337498344"
 title: 'Palestinian Liberation Theology'
 location: '5 Cricketown Road Stony Point, NY 10980'

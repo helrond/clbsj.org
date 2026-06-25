@@ -1,9 +1,10 @@
 ---
-date: '2025-04-01'
 category: events
 layout: event
 title: Disarming the Conquest Narratives with Kate Common
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-04-01'
+    time: '7:30pm Eastern US Time'
 series:
   - bible-detox
 vimeo_id: '1071988410'

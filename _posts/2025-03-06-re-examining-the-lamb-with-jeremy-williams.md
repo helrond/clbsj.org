@@ -1,9 +1,10 @@
 ---
-date: '2025-04-08'
 category: events
 layout: event
 title: Re-Examining the Lamb with Jeremy Williams
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-04-08'
+    time: '7:30pm Eastern US Time'
 series:
   - bible-detox
 vimeo_id: '1073912104'

@@ -1,9 +1,10 @@
 ---
-date: '2024-08-01'
 category: events
 layout: event
 title: Hugh Page and Elvine Belinda on African Liberation Today
-time: '7:30pm Eastern Daylight Time'
+event_dates:
+  - date: '2024-08-01'
+    time: '7:30pm Eastern Daylight Time'
 series:
   - black-august
 vimeo_id: '994276727'

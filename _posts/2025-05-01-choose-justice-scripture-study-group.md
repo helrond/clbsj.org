@@ -1,9 +1,10 @@
 ---
-date: '2025-05-06'
 category: events
 layout: event
 title: CHOOSE JUSTICE Scripture Study Group
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-05-06'
+    time: '7:30pm Eastern US Time'
 image_filename: HandsCircle.jpg
 series:
   - choose-justice

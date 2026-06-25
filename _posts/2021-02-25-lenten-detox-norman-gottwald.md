@@ -1,12 +1,13 @@
 ---
-date: '2021-02-25'
 category: events
 layout: event
 series:
   - bible-detox
 published: true
 vimeo_id: "518370385"
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-02-25'
+    time: '7:30pm Eastern Time'
 title: 'Study of Deuteronomy 15 led by Norman Gottwald'
 description: >-
   In this session, CLBSJ co-founder Dr. Norman Gottwald will continue the

@@ -1,10 +1,11 @@
 ---
-date: '2023-05-18'
 category: events
 layout: event
 published: true
 title: Yii-Jan Lin and Gale Yee
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-05-18'
+    time: '7:30pm Eastern Time'
 series:
   - scholar-activist-encounters
 vimeo_id: '828789050'

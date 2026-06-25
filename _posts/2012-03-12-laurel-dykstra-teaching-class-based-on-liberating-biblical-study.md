@@ -1,7 +1,8 @@
 ---
 title: Laurel Dykstra teaching class based on Liberating Biblical Study
-date: 2012-03-12
-time: "7:00pm"
+event_dates:
+    - date: 2012-03-12
+      time: "7:00pm"
 location: 1703 West 16th Avenue, Vancouver, BC Canada
 author: Hillel Arnold
 layout: event

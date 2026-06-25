@@ -1,12 +1,13 @@
 ---
-date: '2021-08-17'
 category: events
 layout: event
 series:
   - black-august
 published: true
 title: Aliou Niang
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-08-17'
+    time: '7:30pm Eastern Time'
 description: >-
   In this session, Aliou Niang will speak on the role of Christianity and
   African traditional religion in bolstering the resistance to French

@@ -1,9 +1,10 @@
 ---
-date: '2025-01-06'
 category: events
 layout: event
 title: Tragedy and Epiphany
-time: '7:30pm Eastern Standard Time'
+event_dates:
+  - date: '2025-01-06'
+    time: '7:30pm Eastern Standard Time'
 vimeo_id: '1044552496'
 series:
   - scholar-activist-encounters

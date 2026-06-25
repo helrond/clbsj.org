@@ -1,9 +1,10 @@
 ---
-date: '2026-03-17'
 category: events
 layout: event
 title: Reading Judges 19 Resiliently
-time: '7:30pm Eastern Time'
+events_dates:
+  - date: '2026-03-17'
+    time: '7:30pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '1174625152'

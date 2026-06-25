@@ -1,10 +1,11 @@
 ---
-date: '2022-11-20'
 category: events
 layout: event
 published: true
 title: Honoring Norman Gottwald at SBL
-time: '4:00pm Mountain Time'
+event_dates:
+    - date: '2022-11-20'
+      time: '4:00pm Mountain Time'
 ---
 CLBSJ folks will be representing at the annual meeting of the Society for Biblical literature, to be held November 19–22 in Denver, Colorado. We would be grateful for your presence at two events which our Board members are helping to pull together, both honoring CLBSJ co-founder Norman Gottwald:
 

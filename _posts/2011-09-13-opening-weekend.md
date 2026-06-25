@@ -1,6 +1,7 @@
 ---
 title: Opening Weekend
-date: 2011-10-22
+event_dates:
+    - date: 2011-10-22
 author: Hillel Arnold
 layout: event
 category: events

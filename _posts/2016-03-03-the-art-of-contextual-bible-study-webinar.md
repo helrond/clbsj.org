@@ -1,6 +1,7 @@
 ---
 title: 'The Art of Contextual Bible Study - Webinar'
-date: 2016-03-03
+event_dates: 
+    - date: 2016-03-03
 author: Mark Johnson
 layout: event
 category: events

@@ -1,11 +1,12 @@
 ---
-date: '2020-12-17'
 category: events
 layout: event
 series:
   - scholar-activist-encounters
 published: true
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2020-12-17'
+    time: '7:30pm Eastern Time'
 title: Weldon Nisly and Tom Boomershine
 description: >-
   In this session, lifelong peace activist Weldon Nisly and Biblical scholar Tom

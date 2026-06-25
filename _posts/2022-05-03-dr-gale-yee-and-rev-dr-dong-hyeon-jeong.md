@@ -1,12 +1,13 @@
 ---
-date: '2022-07-21'
 category: events
 layout: event
 published: true
 title: 'Dr. Gale Yee and Rev. Dr. Dong Hyeon Jeong '
 series:
   - scholar-activist-encounters
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2022-07-21'
+    time: '7:30pm Eastern Time'
 vimeo_id: '733316813 '
 ---
 CLBSJ is honored to welcome Dr. Gale Yee and Rev. Dr. Dong Hyeon Jeong to discuss Dr. Yee’s recently-published book, [_Towards an Asian American Biblical Hermeneutics: An Intersectional Anthology._](https://wipfandstock.com/9781725263406/towards-an-asian-american-biblical-hermeneutics/) Dr. Yee was the first Asian American and first woman of color president of the Society of Biblical Literature. This collection assembles her ground-breaking essays on Asian American theorizing and analysis of the biblical text. She and Dr. Jeong will dialogue across age, gender and ethnicity about the emerging field of Asian American biblical hermeneutics and how it is connected to the intersectional, international movement for racial and social justice.

@@ -1,12 +1,13 @@
 ---
-date: '2021-03-04'
 category: events
 layout: event
 series:
   - bible-detox
 published: true
 vimeo_id: 521398471
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-03-04'
+    time: '7:30pm Eastern Time'
 title: 'Study of Exodus 20:1-17 led by Rick Ufford-Chase'
 description: >-
   In this session, Rick Ufford-Chase will explore a collective reading of

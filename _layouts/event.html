@@ -7,14 +7,20 @@ layout: default
 <div class="small-8 small-offset-2">
   <h1>{% if series %}{{series.prefix}}: {% endif %}{{ page.title }}</h1>
 
+  {%- if series.tagline -%}<p class="event-tagline">{{series.tagline}}</p>{%- endif -%}
+
   {%- if series -%}
   <span class="label label-orange label-series"><a href="{{series.url}}">{{series.title}}</a></span>
   {%- endif -%}
 
-  <p>{{page.date | date: '%B %d, %Y' }}{% if page.time %}, {{page.time}}{% endif %}</p>
+  <h2>Dates</h2>
+  <ul>
+  {% for event_date in page.event_dates %}
+    <li>{{event_date.date | date: '%B %d, %Y' }}{% if event_date.time %}, {{event_date.time}}{% endif %}</li>
+  {% endfor %}
+  </ul>
 
-  {%- if series.tagline -%}<p class="event-tagline">{{series.tagline}}</p>{%- endif -%}
-
+  <h2>About</h2>
   {%- if page.image_filename -%}
   {%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
   {%- endif -%}
@@ -26,6 +32,7 @@ layout: default
   {{ content }}
 
   {%- if page.location -%}
+  <h2>Location</h2>
   <iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{page.location}}&key=AIzaSyDhohzY1SCbmQNhdmJJivBvTczWEfhZPgg" allowfullscreen></iframe>
   {%- endif %}
 

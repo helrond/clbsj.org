@@ -1,9 +1,14 @@
 ---
-date: '2026-08-05'
 category: events
 layout: event
 title: Acts for Abolition
-time: '6:30pm Central Time and 7:30pm Eastern Time'
+event_dates:
+  - date: '2026-08-05'
+    time: '6:30pm Central Time and 7:30pm Eastern Time'
+  - date: '2026-08-12'
+    time: '6:30pm Central Time and 7:30pm Eastern Time'
+  - date: '2026-08-19'
+    time: '6:30pm Central Time and 7:30pm Eastern Time'
 series:
   - black-august
 image_filename: 

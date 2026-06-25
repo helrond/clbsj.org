@@ -1,6 +1,7 @@
 ---
 title: 'Telling the Stories of Jesus as a Strategy for Social Justice  and Peacemaking in the Global Community.'
-date: 2015-5-31
+event_dates: 
+    - date: 2015-5-31
 author: Mark Johnson
 layout: event
 category: events

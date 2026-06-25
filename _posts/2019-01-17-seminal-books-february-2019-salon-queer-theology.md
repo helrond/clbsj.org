@@ -1,10 +1,11 @@
 ---
-date: 2019/02/14
 category: events
 layout: event
 series:
   - seminal-books
 published: true
+event_dates:
+  - date: 2019-02-14
 title: Queer Theology - Liberating Love
 author: Shannan Vance-Ocampo
 location: '5 Cricketown Road Stony Point, NY'

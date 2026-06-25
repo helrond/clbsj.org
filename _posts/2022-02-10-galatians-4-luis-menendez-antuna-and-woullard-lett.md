@@ -1,10 +1,11 @@
 ---
-date: '2022-03-15'
 category: events
 layout: event
 published: true
 title: Study of Galatians 4 led by Luis Menéndez-Antuña and Woullard Lett
-time: '7:30 PM Eastern Time'
+event_dates:
+  - date: '2022-03-15'
+    time: '7:30 PM Eastern Time'
 series:
   - bible-detox
 vimeo_id: '689258722'

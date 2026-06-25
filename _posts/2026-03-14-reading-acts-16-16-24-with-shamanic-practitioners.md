@@ -1,9 +1,10 @@
 ---
-date: '2026-03-14'
 category: events
 layout: event
-title: "Reading\_Acts 16:16-24\_with\_Shamanic Practitioners"
-time: '1:00pm Eastern Time'
+title: "Reading Acts 16:16-24 with Shamanic Practitioners"
+event_dates:
+  - date: '2026-03-14'
+    time: '1:00pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '1173631094'

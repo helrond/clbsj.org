@@ -1,10 +1,11 @@
 ---
-date: '2022-08-23'
 category: events
 layout: event
 published: true
 title: Lukata Mjumbe and Lumumba Akinwole-Bandele on Political Prisoner Solidarity
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2022-08-23'
+    time: '7:30pm Eastern Time'
 series:
   - black-august
 vimeo_id: '742696311'

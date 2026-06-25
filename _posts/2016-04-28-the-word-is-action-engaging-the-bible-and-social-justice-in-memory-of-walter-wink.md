@@ -1,6 +1,7 @@
 ---
 title: 'The Word is Action: Engaging the Bible and Social Justice in memory of Walter Wink'
-date: 2016-10-20
+event_dates: 
+  - date: 2016-10-20
 location: Stony Point Center
 author: Mark Johnson
 layout: event

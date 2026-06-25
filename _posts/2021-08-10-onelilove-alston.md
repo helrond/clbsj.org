@@ -1,12 +1,13 @@
 ---
-date: '2021-08-10'
 category: events
 layout: event
 series:
   - black-august
 published: true
 title: Onleilove Alston
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-08-10'
+    time: '7:30pm Eastern Time'
 description: >-
   In this session, Minister Onleilove Chika Alston will speak about African Jews
   & The Black Freedom Movement. Minister Alston is the Interfaith Center of New

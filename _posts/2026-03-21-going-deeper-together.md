@@ -1,9 +1,10 @@
 ---
-date: '2026-03-21'
 category: events
 layout: event
 title: Going Deeper Together
-time: '1:00pm Eastern Time'
+event_dates:
+  - date: '2026-03-21'
+    time: '1:00pm Eastern Time'
 series:
   - bible-detox
 image_filename: WomenHarvesting-PaulKlee.jpg

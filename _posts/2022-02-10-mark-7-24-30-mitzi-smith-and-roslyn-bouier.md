@@ -1,10 +1,11 @@
 ---
-date: '2022-04-12'
 category: events
 layout: event
 published: true
 title: 'Study of Mark 7:24-30 led by Mitzi J. Smith and Roslyn Bouier'
-time: '7:30 PM Eastern Time'
+event_dates:
+  - date: '2022-04-12'
+    time: '7:30 PM Eastern Time'
 series:
   - bible-detox
 vimeo_id: '699193574'

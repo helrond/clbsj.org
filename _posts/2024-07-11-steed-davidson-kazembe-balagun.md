@@ -1,9 +1,10 @@
 ---
-date: '2024-08-08'
 category: events
 layout: event
 title: Steed Vernyl Davidson and Kazembe Balagun on Biblical Ethiopianism and Beyond
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2024-08-08'
+    time: '7:30pm Eastern US Time'
 series:
   - black-august
 vimeo_id: '996477513'

@@ -1,9 +1,10 @@
 ---
-date: '2025-11-23'
 category: events
 layout: event
 title: Wisdom Circle at SBL/AAR
-time: '6:45pm Eastern US Time'
+event_dates:
+    - date: '2025-11-23'
+      time: '6:45pm Eastern US Time'
 location: 'Church of the Covenant, 67 Newbury St, Boston, MA 02116'
 image_filename: WisdomCircle-rev.png
 ---

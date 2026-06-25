@@ -1,9 +1,10 @@
 ---
-date: '2025-11-13'
 category: events
 layout: event
 title: "Ched Myers\_and\_Chuck Collins"
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-11-13'
+    time: '7:30pm Eastern US Time'
 series:
   - scholar-activist-encounters
 vimeo_id: '1137040314'

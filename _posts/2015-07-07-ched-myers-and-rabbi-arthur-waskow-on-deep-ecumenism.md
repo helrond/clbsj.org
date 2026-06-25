@@ -1,6 +1,7 @@
 ---
 title: Ched Myers and Rabbi Arthur Waskow on Deep Ecumenism
-date: 2015-07-07
+event_dates: 
+  - date: 2015-07-07
 author: Mark Johnson
 layout: event
 category: events

@@ -1,5 +1,7 @@
-<li class="{{include.class}} margin-bottom-1" data-date-filter="{{item.date}}">
+{% for event_date in item.event_dates %}
+<li class="{{include.class}} margin-bottom-1" data-date-filter="{{event_date.date}}">
   <h5 class="event-item-heading margin-bottom-0"><a href="{{item.url}}">{{item.title}}</a></h5>
-  <p class="margin-bottom-0">{{item.date | date: '%B %d, %Y' }}</p>
+  <p class="margin-bottom-0">{{event_date.date | date: '%B %d, %Y' }}</p>
   {% if item.vimeo_id %}<a class="margin-bottom-0" href="https://vimeo.com/{{item.vimeo_id}}">Recording available</a>{% endif %}
 </li>
+{% endfor %}

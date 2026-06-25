@@ -1,11 +1,12 @@
 ---
-date: '2021-01-21'
 category: events
 layout: event
 series:
   - scholar-activist-encounters
 published: true
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-01-21'
+    time: '7:30pm Eastern Time'
 title: Dong Hyeon Jeong and Nicholas Johnson
 description: >-
   In this session, CLBSJ Board Chair Nicholas Johnson will be joined by

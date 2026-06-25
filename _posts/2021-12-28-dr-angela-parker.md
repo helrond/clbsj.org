@@ -1,8 +1,10 @@
 ---
-date: 'February 17, 2022, 7:30pm Eastern Time'
 category: events
 layout: event
 published: true
+event_dates:
+  - date: 2022-02-17
+    time: 7:30pm Eastern Time
 title: Dr. Angela Parker and Dr. Karri L. Whipple
 series:
   - scholar-activist-encounters

@@ -1,11 +1,12 @@
 ---
-date: '2024-08-24'
 category: events
 layout: event
 title: >-
   Musa Dube and Sithembiso Zwane on the Politics and Possibilities of Bible
   Translation
-time: 11am Eastern US Time
+event_dates:
+  - date: '2024-08-24'
+    time: 11am Eastern US Time
 series:
   - black-august
 vimeo_id: '1002310220'

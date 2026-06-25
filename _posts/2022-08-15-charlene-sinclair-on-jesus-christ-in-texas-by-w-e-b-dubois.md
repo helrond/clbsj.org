@@ -1,12 +1,13 @@
 ---
-date: '2022-08-30'
 category: events
 layout: event
 published: true
 title: >-
   Charlene Sinclair and Everette Thompson on “Jesus Christ in Texas” by W.E.B.
   DuBois
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2022-08-30'
+    time: '7:30pm Eastern Time'
 series:
   - black-august
 vimeo_id: '745197522'

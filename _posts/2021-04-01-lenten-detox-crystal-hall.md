@@ -1,10 +1,11 @@
 ---
-date: '2021-04-01'
 category: events
 layout: event
 series:
   - bible-detox
 published: true
+event_dates:
+  - date: '2021-04-01'
 vimeo_id: "533524540"
 time: '7:30pm Eastern Time'
 title: 'Study of Philippians 2:5-11, led by Crystal Hall'

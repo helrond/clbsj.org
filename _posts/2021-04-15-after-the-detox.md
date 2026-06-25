@@ -1,11 +1,12 @@
 ---
-date: '2021-04-15'
 category: events
 layout: event
 series:
   - bible-detox
 published: true
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-04-15'
+    time: '7:30pm Eastern Time'
 title: 'Invitation to Debrief and Vision'
 ---
 

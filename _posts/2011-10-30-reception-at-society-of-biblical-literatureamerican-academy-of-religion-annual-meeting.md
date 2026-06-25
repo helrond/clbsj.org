@@ -1,7 +1,8 @@
 ---
 
 title: Reception at Society of Biblical Literature/American Academy of Religion annual meeting
-date: 2011-11-20
+event_dates:
+    - date: 2011-11-20
 time: 8:00-9:00pm
 layout: event
 category: events

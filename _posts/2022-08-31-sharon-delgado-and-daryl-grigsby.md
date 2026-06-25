@@ -1,10 +1,11 @@
 ---
-date: '2022-10-20'
 category: events
 layout: event
 published: true
 title: Sharon Delgado and Daryl Grigsby on "The Word of the Cross"
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2022-10-20'
+    time: '7:30pm Eastern Time'
 series:
   - scholar-activist-encounters
 vimeo_id: '763776006'

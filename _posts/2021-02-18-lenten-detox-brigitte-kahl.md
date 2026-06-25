@@ -1,12 +1,13 @@
 ---
-date: '2021-02-18'
 category: events
 layout: event
 series:
   - bible-detox
 published: true
 vimeo_id: "515533429"
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-02-18'
+    time: '7:30pm Eastern Time'
 title: 'Study of Mark 14:1-11 led by Brigitte Kahl'
 description: >-
   In this session, Dr. Brigitte Kahl of the Union Theological Seminary New

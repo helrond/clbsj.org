@@ -1,12 +1,13 @@
 ---
-date: '2023-04-04'
 category: events
 layout: event
 published: true
 title: >-
   Deliverance belongs to the Lord! Jonah, Jesus and the Possibilities of
   Environmental Healing
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-04-04'
+    time: '7:30pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '815403112'

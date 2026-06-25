@@ -1,8 +1,9 @@
 ---
-date: '2019-10-12 17:43 -0400'
 category: events
 layout: event
 published: true
+event_dates:
+  - date: '2019-10-12'
 title: >-
   John Vincent, Elder Scholar-Activist of Radical Christianity, to Visit NY in
   November 2019

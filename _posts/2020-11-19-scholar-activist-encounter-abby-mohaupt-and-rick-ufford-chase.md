@@ -1,11 +1,12 @@
 ---
-date: '2020-11-19'
 category: events
 layout: event
 series:
   - scholar-activist-encounters
 published: true
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2020-11-19'
+    time: '7:30pm Eastern Time'
 title: 'abby mohaupt and Rick Ufford-Chase'
 description: >-
   In this session, faith-rooted scholar-activists Rick Ufford-Chase and

@@ -1,9 +1,10 @@
 ---
-date: '2026-02-12'
 category: events
 layout: event
 title: Epiphany in Exile
-time: '7:30pm Eastern Time (US and Canada)'
+event_dates:
+  - date: '2026-02-12'
+    time: '7:30pm Eastern Time (US and Canada)'
 series:
   - scholar-activist-encounters
 vimeo_id: '1165417530'

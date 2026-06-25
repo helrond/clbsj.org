@@ -1,9 +1,10 @@
 ---
-date: '2025-02-27'
 category: events
 layout: event
 title: Vanessa Lovelace and Gale Yee
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-02-27'
+    time: '7:30pm Eastern US Time'
 image_filename: Lovelace-With-Book-CROP.jpg
 series:
   - scholar-activist-encounters

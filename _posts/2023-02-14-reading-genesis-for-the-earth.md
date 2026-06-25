@@ -1,10 +1,11 @@
 ---
-date: '2023-03-07'
 category: events
 layout: event
 published: true
 title: Reading Genesis for the Earth
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-03-07'
+    time: '7:30pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '806071085'

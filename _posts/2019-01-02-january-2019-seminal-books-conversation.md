@@ -1,10 +1,11 @@
 ---
-date: '2019-01-10'
 category: events
 layout: event
 series:
   - seminal-books
 published: true
+event_dates:
+  - date: '2019-01-10'
 title: 'Feminist Theology'
 author: Shannan Vance-Ocampo
 location: '5 Crickettown Road Stony Point, NY 10980'

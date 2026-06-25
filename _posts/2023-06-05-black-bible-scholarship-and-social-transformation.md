@@ -1,10 +1,11 @@
 ---
-date: '2023-08-03'
 category: events
 layout: event
 published: true
 title: 'Rodney Sadler on Slavery, Resistance and Biblical Understanding'
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-08-03'
+    time: '7:30pm Eastern Time'
 series:
   - black-august
 vimeo_id: '851795325'

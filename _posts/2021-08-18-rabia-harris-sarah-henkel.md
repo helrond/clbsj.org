@@ -1,12 +1,13 @@
 ---
-date: '2021-09-23'
 category: events
 layout: event
 series:
   - scholar-activist-encounters
 published: true
 title: Rabia Harris & Sarah Henkel
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-09-23'
+    time: '7:30pm Eastern Time'
 description: >-
   Muslim scholar and writer Rabia Terri Harris will dialogue with Christian
   pastor and activist Sarah Henkel about the parallels between the Qu'ran and

@@ -1,9 +1,10 @@
 ---
-date: '2025-04-12'
 category: events
 layout: event
 title: Going Deeper Together
-time: 10am-12pm Eastern US Time
+event_dates:
+  - date: '2025-04-12'
+    time: 10am-12pm Eastern US Time
 series:
   - bible-detox
 image_filename: PaulKlee-AtTheCore.jpg

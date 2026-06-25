@@ -1,7 +1,8 @@
 ---
 title: Birmingham and the Bible
-date: 2013-11-2
-time: 10:00am
+event_dates: 
+  - date: 2013-11-2
+    time: 10:00am
 author:  Matthew Johnstone
 layout: event
 category: events

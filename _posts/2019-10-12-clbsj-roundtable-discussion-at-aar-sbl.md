@@ -1,8 +1,9 @@
 ---
-date: '2019-10-12 17:52 -0400'
 category: events
 layout: event
 published: true
+event_dates:
+  - date: '2019-10-12'
 title: CLBSJ Roundtable Discussion at AAR/SBL
 location: 'Marriott Marquis Hotel, Presidio 2, San Diego, California'
 description: >-

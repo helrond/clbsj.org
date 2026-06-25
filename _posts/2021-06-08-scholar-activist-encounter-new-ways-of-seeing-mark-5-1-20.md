@@ -1,12 +1,13 @@
 ---
-date: '2021-06-17'
 category: events
 layout: event
 series:
   - scholar-activist-encounters
 published: true
 title: 'New Ways of Seeing Mark 5:1-20'
-time: '7:00pm Eastern Time'
+event_dates:
+  - date: '2021-06-17'
+    time: '7:00pm Eastern Time'
 description: >-
   CLBSJ is pleased to collaborate with the Alternative Seminary to host a
   roundtable discussion on new understandings of Mark 5:1-20, the healing of the

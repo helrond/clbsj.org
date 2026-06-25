@@ -1,9 +1,10 @@
 ---
-date: '2025-12-04'
 category: events
 layout: event
 title: What are We Waiting For? Christ and the Earth
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-12-04'
+    time: '7:30pm Eastern US Time'
 series:
   - advent-study
 vimeo_id: '1143866349'

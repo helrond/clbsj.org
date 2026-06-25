@@ -1,6 +1,7 @@
 ---
 title: The Hebrew Prophets Now!
-date: 2014-11-13
+event_dates: 
+    - date: 2014-11-13
 author: Mark Johnson
 layout: event
 category: events

@@ -1,10 +1,11 @@
 ---
-date: '2022-03-22'
 category: events
 layout: event
 published: true
 title: 'Study of Matthew 28:16-20 led by Chris Hoklotubbe and Kimberlee Medicine Horn'
-time: '7:30 PM Eastern Time'
+event_dates:
+  - date: '2022-03-22'
+    time: '7:30 PM Eastern Time'
 series:
   - bible-detox
 vimeo_id: '691961354'

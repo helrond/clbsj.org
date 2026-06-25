@@ -1,9 +1,10 @@
 ---
-date: '2024-11-25'
 category: events
 layout: event
 title: 'SBL Roundtable: Cultivating Audacious Biblical Engagement in Urgent Times'
-time: 8am Pacific Time
+event_dates:
+  - date: '2024-11-25'
+    time: 8am Pacific Time
 image_filename: 2024AMBanner.png
 series:
   - reading-audaciously

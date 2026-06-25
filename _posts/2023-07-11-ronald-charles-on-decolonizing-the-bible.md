@@ -1,10 +1,11 @@
 ---
-date: '2023-08-10'
 category: events
 layout: event
 published: true
 title: Ronald Charles on Decolonizing the Bible
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-08-10'
+    time: '7:30pm Eastern Time'
 series:
   - black-august
 vimeo_id: '854040283'

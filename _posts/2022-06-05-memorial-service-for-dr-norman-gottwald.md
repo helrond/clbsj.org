@@ -1,10 +1,11 @@
 ---
-date: '2022-08-06'
 category: events
 layout: event
 published: true
 title: Memorial Service for Dr. Norman Gottwald
-time: '2:00pm Pacific Time'
+event_dates:
+    - date: '2022-08-06'
+      time: '2:00pm Pacific Time'
 image_filename: Norman.jpg
 ---
 We continue to mourn [the loss of our co-founder and vision-holder, Norman Gottwald](https://clbsj.org/news/2022/03/15/tributes-to-norman-gottwald/). The First Baptist Church of Berkeley will hold a memorial service on Saturday, August 6, 2022 at 2:00pm Pacific Time.

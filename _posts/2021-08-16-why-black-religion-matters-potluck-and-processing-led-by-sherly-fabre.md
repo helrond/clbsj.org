@@ -1,12 +1,13 @@
 ---
-date: '2021-08-31'
 category: events
 layout: event
 series:
   - black-august
 published: true
 title: '"Potluck and Processing" led by Sherly Fabre'
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-08-31'
+    time: '7:30pm Eastern Time'
 description: >-
   All are invited to come together to "digest" the perspectives that have been
   shared during CLBSJ's inaugural Black August series, to share additional

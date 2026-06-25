@@ -1,7 +1,8 @@
 ---
 title: Gordon Oyer to discuss “Pursuing the Spiritual Roots of Protest”
-date: 2014-09-26
-time: 7:00pm
+event_dates: 
+    - date: 2014-09-26
+      time: 7:00pm
 author: Mark Johnson
 layout: event
 category: events

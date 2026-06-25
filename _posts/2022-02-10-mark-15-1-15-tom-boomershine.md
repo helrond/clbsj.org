@@ -1,10 +1,11 @@
 ---
-date: '2022-04-05'
 category: events
 layout: event
 published: true
 title: 'Study of Mark 15:1-15 led by Tom Boomershine with Joyce Bressler, respondent'
-time: '7:30 PM Eastern Time'
+event_dates:
+  - date: '2022-04-05'
+    time: '7:30 PM Eastern Time'
 series:
   - bible-detox
 vimeo_id: '697733301'

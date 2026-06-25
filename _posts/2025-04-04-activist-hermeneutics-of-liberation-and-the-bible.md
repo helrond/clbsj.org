@@ -1,9 +1,10 @@
 ---
-date: '2025-05-01'
 category: events
 layout: event
 title: Activist Hermeneutics of Liberation and the Bible
-time: '7:30pm Eastern US Time'
+event_dates:
+  - date: '2025-05-01'
+    time: '7:30pm Eastern US Time'
 series:
   - scholar-activist-encounters
 vimeo_id: '1080836864'

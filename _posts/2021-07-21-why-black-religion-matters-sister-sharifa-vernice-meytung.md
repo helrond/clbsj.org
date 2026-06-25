@@ -1,12 +1,13 @@
 ---
-date: '2021-08-24'
 category: events
 layout: event
 series:
   - black-august
 published: true
 title: Sister Sharifa Vernice Meytung
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-08-24'
+    time: '7:30pm Eastern Time'
 description: >-
   In this session, Sister Sharifa Vernice Meytung will explore the parallels
   between traditional African fables, the Jakata tales from the Buddhist

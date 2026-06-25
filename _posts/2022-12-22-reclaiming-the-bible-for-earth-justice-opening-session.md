@@ -1,12 +1,13 @@
 ---
-date: '2023-02-28'
 category: events
 layout: event
 published: true
 title: Climate Change Deniers' Use of the Bible
 series:
   - bible-detox
-time: '7:30PM Eastern Time'
+event_dates:
+  - date: '2023-02-28'
+    time: '7:30PM Eastern Time'
 vimeo_id: '804923105'
 ---
 Dr. Gale Yee will start our session out with an overview of the roots, whys and wherefores of Climate Change Denial, a position which is so often couched in biblical terms. What is the political and ideological history of this stance, and where does the Bible fit into this? Dr. Yee will provide an overview of science skepticism, religious fundamentalism and right wing political movements, and will explore the role that toxic biblical misinterpretation plays in keeping these ideas in play.

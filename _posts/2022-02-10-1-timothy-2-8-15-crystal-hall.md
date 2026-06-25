@@ -1,10 +1,11 @@
 ---
-date: '2022-03-08'
 category: events
 layout: event
 published: true
 title: 'Study of 1 Timothy 2:8-15 led by Crystal Hall and Carolyn Grice'
-time: '7:30 PM Eastern Time'
+event_dates:
+  - date: '2022-03-08'
+    time: '7:30 PM Eastern Time'
 series:
   - bible-detox
 vimeo_id: '687671237'

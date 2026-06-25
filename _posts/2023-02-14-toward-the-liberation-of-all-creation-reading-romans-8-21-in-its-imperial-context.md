@@ -1,12 +1,13 @@
 ---
-date: '2023-03-14'
 category: events
 layout: event
 published: true
 title: >-
   Toward the Liberation of all Creation -- Reading Romans 8:21 in its Imperial
   Context
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2023-03-14'
+    time: '7:30pm Eastern Time'
 series:
   - bible-detox
 vimeo_id: '808542336'

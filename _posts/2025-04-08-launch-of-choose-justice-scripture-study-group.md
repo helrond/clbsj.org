@@ -1,9 +1,10 @@
 ---
-date: '2025-04-22'
 category: events
 layout: event
 title: Launch of CHOOSE JUSTICE Scripture Study Group
-time: '7:30pm Eastern US Time'
+event_dates:
+    - date: '2025-04-22'
+      time: '7:30pm Eastern US Time'
 image_filename: HandsCircle.jpg
 ---
 As we are moving quickly into a time of challenges both known and unknown, we need both biblical guidance and supportive community. Toward this end, seekers and freedom fighters of all faiths and life backgrounds are invited to participate in this experimental weekly scripture study group, which will run from Easter through Pentecost. 

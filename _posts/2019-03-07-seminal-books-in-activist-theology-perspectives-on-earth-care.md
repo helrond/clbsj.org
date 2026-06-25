@@ -1,10 +1,11 @@
 ---
-date: '2019-03-07 08:41 -0500'
 category: events
 layout: event
 series:
   - seminal-books
 published: true
+event_dates:
+  - date: '2019-03-07'
 vimeo_id: "330910239"
 title: 'Perspectives on Earth Care'
 location: '5 Cricketown Road Stony Point, NY 10980'

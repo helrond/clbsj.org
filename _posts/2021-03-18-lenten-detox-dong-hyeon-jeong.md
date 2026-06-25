@@ -1,12 +1,13 @@
 ---
-date: '2021-03-18'
 category: events
 layout: event
 series:
   - bible-detox
 published: true
 vimeo_id: "527525388"
-time: '7:30pm Eastern Time'
+event_dates:
+  - date: '2021-03-18'
+    time: '7:30pm Eastern Time'
 title: 'Study of Mark 12:13-17 led by Dong Hyeon Jeong'
 description: >-
   In this session, Rev. Dr. Dong Hyeon Jeong will present an alternative reading

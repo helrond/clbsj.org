@@ -1,11 +1,12 @@
 ---
-date: '2018-10-25'
 category: events
 layout: event
 series:
   - seminal-books
 published: true
-time: '7:15pm Eastern Time'
+event_dates:
+  - date: '2018-10-25'
+    time: '7:15pm Eastern Time'
 title: <em>Radical Jesus</em> by John Vincent
 location: '17 Crickettown Road Stony Point, NY 10980'
 tags:

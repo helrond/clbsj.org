@@ -1,10 +1,12 @@
 {% include event-series-by-name.html name=item.series %}
-<div class="callout {% if include.filter == 'before' %}filter-before-date{% elsif include.filter == 'after' %}filter-after-date{% endif%}" data-date-filter="{{item.date}}">
+{% for event_date in item.event_dates %}
+<div class="callout {% if include.filter == 'before' %}filter-before-date{% elsif include.filter == 'after' %}filter-after-date{% endif%}" data-date-filter="{{event_date.date}}">
   {%- if series -%}
     <span class="label label-orange label-series float-right"><a href="{{series.url}}">{{series.title}}</a></span>
   {%- endif -%}
   <h4><a href="{{item.url}}">{% if series %}{{series.prefix}}: {% endif %}{{item.title}}</a></h4>
-  <p>{{ item.date | date: '%B %d, %Y' }}{% if item.time %}, {{ item.time }}{% endif %}</p>
+  <p>{{ event_date.date | date: '%B %d, %Y' }}{% if event_date.time %}, {{ event_date.time }}{% endif %}</p>
   <p>{{ description }}</p>
   <a class="hollow button small" href="{{item.url}}">Read More</a>
 </div>
+{% endfor %}

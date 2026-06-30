@@ -22,4 +22,6 @@ Please check back soon for a link to register! {% include registration-button.ht
 
 PLEASE NOTE: Registration will be open until 7:00pm Eastern Time on the day of the event.
 
+##Teacher Bio
+
 **Rev. Dr. Jeremy Williams** is a scholar of religion who specializes in New Testament and Early Christianity. His research involves studying biblical passages, especially in Acts, where imperial and local officials criminalize the Jesus following movement. His approach involves using Roman legal studies, critical race theory, Black studies, womanist cultural criticism, myth criticism, and material culture to assess how ancient texts crafted narratives to racialize, criminalize, and victimize individuals and groups of people. Conscious of the role that the Bible plays in public policy, he is invested in developing strategies for reading biblical texts in ways that expose the logics that fuel mass incarceration, over-policing, and discriminatory practices in Western judicial systems. Jeremy has a number of forthcoming publications including, “Victory Today is Mine: The Present, Power, and Perseverance in Revelation 12:1-12.” Dr. Williams is an ordained elder in full connection in the Christian Methodist Episcopal Church with almost two decades of ministerial experience.

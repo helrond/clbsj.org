@@ -11,7 +11,7 @@ image_filename: Sylvia-and-Marsha.jpg
 
 As Pride month draws to a close, and we remember its origins in the Stonewall Uprising (June 28 – July 3, 1969), CLBSJ stands with the continued unfurling of the flag of queer liberation throughout the year. In memory of those who witnessed bodily and verbally to the dignity of trans and queer people 57 years ago and since, we share several teachings from our co-conspirator Lynn Huber, Professor of Religious Studies at Elon University and longtime community activist, on LGBTQIA+ themes in the Book of Revelation:
 
-On LGBTQIA+ activists and the witnesses in Revelations 11: [watch here](https://www.tiktok.com/@lynnhuber/video/7656574335146085646)
+On LGBTQIA+ activists and the witnesses in Revelation 11: [watch here](https://www.tiktok.com/@lynnhuber/video/7656574335146085646)
 
 On gender and nonbinary social identity in Revelation: [watch here](https://www.tiktok.com/t/ZTSFKKgws/)
 

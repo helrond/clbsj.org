@@ -15,7 +15,7 @@ On LGBTQIA+ activists and the witnesses in Revelation 11: [watch here](https://w
 
 On gender and nonbinary social identity in Revelation: [watch here](https://www.tiktok.com/t/ZTSFKKgws/)
 
-You can follow Lynn on [tiktok](https://www.tiktok.com/@lynnhuber) and [instagram](https://www.instagram.com/revelation_in_color/?hl=en) for more insights on themes of gender and color in the Book of Revelation.
+You can follow Lynn on [tiktok](https://www.tiktok.com/@lynnrhuber) and [instagram](https://www.instagram.com/revelation_in_color/?hl=en) for more insights on themes of gender and color in the Book of Revelation.
 
 Image: Marsha P. Johnson and Sylvia Rivera, participants in the Stonewall Uprising and co-founders of Street Transvestite Action Revolutionaries (STAR) to support homeless transgender youth and street queens.
 From [revelation_in_color](https://www.instagram.com/p/DHH9tGcxwyv/?hl=en)

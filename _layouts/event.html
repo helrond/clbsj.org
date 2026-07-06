@@ -13,14 +13,12 @@ layout: default
   <span class="label label-orange label-series"><a href="{{series.url}}">{{series.title}}</a></span>
   {%- endif -%}
 
-  <h2>Dates</h2>
-  <ul>
+  <p>
   {% for event_date in page.event_dates %}
-    <li>{{event_date.date | date: '%B %d, %Y' }}{% if event_date.time %}, {{event_date.time}}{% endif %}</li>
+  {{event_date.date | date: '%B %d, %Y' }}{% if event_date.time %}, {{event_date.time}}{% endif %}<br/>
   {% endfor %}
-  </ul>
+  </p>
 
-  <h2>About</h2>
   {%- if page.image_filename -%}
   {%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
   {%- endif -%}

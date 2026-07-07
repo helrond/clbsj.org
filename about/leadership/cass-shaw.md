@@ -5,11 +5,10 @@ sort: shaw
 description: >-
   Cass Shaw began her tenure as the CEO of The Council of Churches of Greater
   Bridgeport (CCGB) in June, 2013.
-officer: Treasurer
 job-title: CEO
 institution: The Council of Churches of Greater Bridgeport
 keywords: cass shaw
-category: board-member
+category: advisory-committee-member
 image: /img/board/shaw.jpg
 ---
 Cass Shaw is an honorably retired Minister of Word and Sacrament in the PCUSA.  Her most recent call was as CEO of The Council of Churches of Greater Bridgeport, in Bridgeport, CT, where she still lives.

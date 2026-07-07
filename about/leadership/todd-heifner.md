@@ -1,7 +1,7 @@
 ---
 layout: leader-snippet
 title: Todd Heifner
-sort: shaw
+sort: heifner
 description: >-
   Todd is the Executive Director of Hope Manifest and a longtime advisor to faith-based justice initiatives.
 officer: Treasurer

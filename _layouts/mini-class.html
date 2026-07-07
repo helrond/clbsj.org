@@ -15,7 +15,7 @@ layout: default
 
   <p>{{page.date_description}}</p>
   
-  <h2>Course Detail</h2>
+  <h2>Course Overview</h2>
   {%- if page.image_filename -%}
   {%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
   {%- endif -%}
@@ -32,7 +32,7 @@ layout: default
   {% include registration-button.html link="" %}
 
 
-  <h2>Session Overview</h2>
+  <h2>Session Detail</h2>
   <ul>
   {% for event_date in page.event_dates %}
     <li>

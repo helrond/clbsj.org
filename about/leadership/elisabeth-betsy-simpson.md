@@ -8,7 +8,7 @@ description: >-
   30, 2016.
 keywords: elisabeth betsy simpson
 officer: Co-Secretary
-category: board-member
+category: advisory-committee-member
 image: /img/board/simpson.jpg
 ---
 

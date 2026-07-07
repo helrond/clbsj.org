@@ -7,7 +7,7 @@ description: >-
   interpretation of the Bible from feminist, postcolonial and Asian American
   perspectives.
 keywords: gale yee
-category: board-member
+category: advisory-committee-member
 job-title: Nancy W. King Professor of Biblical Studies emerita
 institution: Episcopal Divinity School
 image: /img/board/yee-gale.png

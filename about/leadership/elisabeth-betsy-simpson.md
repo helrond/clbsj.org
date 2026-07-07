@@ -7,7 +7,7 @@ description: >-
   First Presbyterian Church of Glen Cove, Long Island for 17 yrs. until Sept.
   30, 2016.
 keywords: elisabeth betsy simpson
-officer: Co-Secretary
+officer: 
 category: advisory-committee-member
 image: /img/board/simpson.jpg
 ---

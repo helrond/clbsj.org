@@ -7,7 +7,7 @@ keywords: board of directors
 <!-- List of board members -->
 {% assign president = site.pages | where: 'officer', 'President' %}
 {% assign treasurer = site.pages | where: 'officer', 'Treasurer' %}
-<!-- {% assign secretary = site.pages | where: 'officer', 'Secretary' %} -->
+{% assign secretary = site.pages | where: 'officer', 'Secretary' %}
 {% assign co-secretary = site.pages | where: 'officer', 'Co-Secretary' %}
 {% assign board_members = site.pages | where: 'category', 'board-member' | sort: 'sort' %}
 {% assign staff_members = site.pages | where: 'category', 'staff' | sort: 'sort' %}
@@ -24,6 +24,9 @@ keywords: board of directors
   {% include officer.html %}
 {% endfor %}
 {% for page in treasurer %}
+  {% include officer.html %}
+{% endfor %}
+{% for page in secretary %}
   {% include officer.html %}
 {% endfor %}
 {% for page in co-secretary %}

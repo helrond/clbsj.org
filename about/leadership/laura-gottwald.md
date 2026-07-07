@@ -4,6 +4,8 @@ title: Laura Gottwald
 sort: gottwald
 description: "Laura Gottwald is an artist, activist and Baptist minister."
 keywords: laura gottwald
+job-title: Ordained Minister
+institution: American Baptist Churches, USA
 category: board-member
 image: "/img/board/gottwald-laura.jpg"
 ---

@@ -23,8 +23,8 @@ event_dates:
 series:
   - black-august
 image_filename: Acts-For-Abolition.jpg
-registration_text: To register for this mini-course, click here:
-registration_link: https://clbsj.civicrm.org/civicrm/event/register?id=30&reset=1
+registration_text: To register for this mini-course, click here: {% include registration-button.html link="https://clbsj.civicrm.org/civicrm/event/register?id=30&reset=1" %}
+registration_link: 
 teacher_bio: >-
   **Rev. Dr. Jeremy Williams** is a scholar of religion who specializes in New Testament and Early Christianity. His research involves studying biblical passages, especially in Acts, where imperial and local officials criminalize the Jesus following movement. His approach involves using Roman legal studies, critical race theory, Black studies, womanist cultural criticism, myth criticism, and material culture to assess how ancient texts crafted narratives to racialize, criminalize, and victimize individuals and groups of people. Conscious of the role that the Bible plays in public policy, he is invested in developing strategies for reading biblical texts in ways that expose the logics that fuel mass incarceration, over-policing, and discriminatory practices in Western judicial systems. Jeremy has a number of forthcoming publications including, “Victory Today is Mine: The Present, Power, and Perseverance in Revelation 12:1-12.” Dr. Williams is an ordained elder in full connection in the Christian Methodist Episcopal Church with almost two decades of ministerial experience.
 ---

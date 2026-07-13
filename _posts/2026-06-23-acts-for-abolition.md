@@ -22,6 +22,7 @@ event_dates:
     description:
 series:
   - black-august
+image_filename: Acts-For-Abolition.jpg
 registration_text: To register for this mini-course, click here:
 registration_link: https://clbsj.civicrm.org/civicrm/event/register?id=30&reset=1
 teacher_bio: >-

@@ -7,19 +7,19 @@ event_dates:
   - date: '2026-08-05'
     time: '6:30pm Central Time / 7:30pm Eastern Time'
     title: Session 1
-    description:
+    description: Acts 2:14-28
   - date: '2026-08-12'
     time: '6:30pm Central Time / 7:30pm Eastern Time'
     title: Session 2
-    description:
+    description: Acts 6:1-15
   - date: '2026-08-19'
     time: '6:30pm Central Time / 7:30pm Eastern Time'
     title: Session 3
-    description:
+    description: Acts 5:17-42
   - date: '2026-08-26'
     time: '6:30pm Central Time / 7:30pm Eastern Time'
     title: Session 4
-    description:
+    description: Acts 12:1-19
 series:
   - black-august
 image_filename: Acts-For-Abolition.jpg

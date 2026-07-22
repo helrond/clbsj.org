@@ -110,7 +110,7 @@ image_link: 'https://clbsj.civicrm.org/civicrm/event/list'
 ---
 _**A deep dive into the transformative and revolutionary aspects of Black religion.**_
 
-CLBSJ's Black August program for 2026 will be announced soon! **[Please check this page for updates.](https://clbsj.org/events/black-august/)**
+For our 2026 Black August study, CLBSJ is excited to partner with New Church Dallas and Rev. Dr. Jeremy Williams for an online mini-course on abolitionist themes in the Book of Acts. **[Click here for details and a link to register.](https://clbsj.org/events/2026/06/23/acts-for-abolition/)**
 
 ## What is Black August?
 “Black August” is a pan-African and internationalist tradition that recognizes the month of August as a living testament to the depth of commitment to transformation and liberation within Black communities around the world. From the beginning of the Haitian Revolution to Nat Turner's Rebellion, the Fugitive Slave Law Convention to the uprising in Watts (1965) and Ferguson (2014), August bursts at the seams with histories of Black resistance. In August we also remember the births of Marcus Garvey, Russell Maroon Shoatz, and Fred Hampton, and the deaths of Khatari Gaulden, George L. Jackson, Emmett Till, W.E.B du Bois and Michael Brown. Because of this, organizers have claimed it as a month to deepen understanding of and commitment to the practices that lead us to liberation. CLBSJ is honored to unite with this tradition.

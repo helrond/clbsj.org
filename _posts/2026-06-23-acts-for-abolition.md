@@ -24,10 +24,10 @@ series:
   - black-august
 image_filename: Acts-For-Abolition.jpg
 registration_text: To register for this mini-course, <b>[click here](https://clbsj.civicrm.org/civicrm/event/register?id=30&reset=1)</b>
-teacher_bio: >-
+presenter_bio: >-
   **Rev. Dr. Jeremy Williams** is a tenured Associate Professor of New Testament at Brite Divinity School at Texas Christian University where he is also the inaugural director of the Center for Theology and Justice. He is the author of three books and multiple articles, including <em>Criminalization in Acts of the Apostles: Race, Rhetoric, and the Prosecution of an Early Christian Movement</em> (Cambridge University Press. 2023). His current research project is entitled “Abolitionist Acts of the Apostles: Reading with Liberti, a Hermeneutics of Imagination,” and is under contract with Society of Biblical Literature Press. Dr. Williams has studied and lectured around the world, including at Harvard University, Yale Divinity School and Vanderbilt University. He has done archaeology restoration at Madgala, Israel, studied the Greek New Testament in Athens, and read Classical Latin in Rome. He is an inductee into Morehouse’s Martin Luther King, Jr. Collegium of Scholars. Dr. Williams is also an ordained elder in full connection in the Christian Methodist Episcopal Church with almost two decades of ministerial experience. He and his wife Kiara are tireless parents to almost three-year-old, Baby J. His life’s work is to inspire people to dream better dreams as they pursue justice, love, and wholeness.
-
-    **The New Church - Chiesa Nuova** (thenewchurch.com) is a United Church of Christ congregation based in Dallas, TX, that is dedicated to radical inclusion of all people, to dismantling all forms of discrimination, and to embracing all who are disenfranchised from church and community. The church takes it's name from the baptismal site of St. Francis of Assisi, who they claim as their patron saint. Their also resonates with their understanding God is always “doing a new thing' that we are called to be aware of and be a part of. The New Church is shepherded by Rev. Monica O. Bradley.
+cosponsors: >-
+  **The New Church - Chiesa Nuova** (thenewchurch.com) is a United Church of Christ congregation based in Dallas, TX, that is dedicated to radical inclusion of all people, to dismantling all forms of discrimination, and to embracing all who are disenfranchised from church and community. The church takes it's name from the baptismal site of St. Francis of Assisi, who they claim as their patron saint. Their also resonates with their understanding God is always “doing a new thing' that we are called to be aware of and be a part of. The New Church is shepherded by Rev. Monica O. Bradley.
 
 ---
 

@@ -15,7 +15,7 @@ layout: default
 
   <p>{{page.date_description}}</p>
   
-  <h2>Course Overview</h2>
+  <h2>Overview</h2>
   {%- if page.image_filename -%}
   {%- include image-right.html filename=page.image_filename alt_text=page.image_alt_text -%}
   {%- endif -%}
@@ -42,8 +42,13 @@ layout: default
   {% endfor %}
   </ul>
 
-  <h2>Teacher Bio</h2>
-  {{page.teacher_bio | markdownify}}
+  <h2>Presenter Bio</h2>
+  {{page.presenter_bio | markdownify}}
+
+  {%- if page.cosponsors -%}
+  <h2>Co-Sponsors</h2>
+  {{page.cosponsors | markdownify}}
+  {%- endif -%}
 
   {%- if page.location -%}
   <h2>Location</h2>

@@ -1,7 +1,7 @@
-----
+---
 category: events
 layout: mini-class
-title: Beatitudes and Bodhisattvas - Practicing Together
+title: Beatitudes and Bodhisattvas, Practicing Together
 date_description: Every New Moon and Full Moon at 7:00pm Eastern Time
 event_dates:
   - date: '2026-10-10'

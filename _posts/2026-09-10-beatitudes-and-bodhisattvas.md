@@ -1,4 +1,3 @@
----
 category: events
 layout: mini-class
 title: Beatitudes and Bodhisattvas - Practicing Together

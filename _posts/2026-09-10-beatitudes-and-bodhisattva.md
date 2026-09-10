@@ -1,33 +1,33 @@
 ---
 category: events
 layout: mini-class
-title: Beatitudes and Bodhisattvas, Practicing Together
-date_description: Every New Moon and Full Moon at 7:00pm Eastern Time
+title: 'Beatitudes and Bodhisattvas: Practicing Together'
+date_description: 'Every New Moon and Full Moon at 7:00pm Eastern Time'
 event_dates:
   - date: '2026-10-10'
     time: '7:00pm Eastern Time'
-    title: New Moon - 37 Practices of a Bodhisattva (Ethical Living)
-    description: 
+    title: 'New Moon: 37 Practices of a Bodhisattva (Ethical Living)'
+    description: ''
   - date: '2026-10-25'
     time: '7:00pm Eastern Time'
-    title: Full Moon - 8 Blessings of the Good Road (The Beatitudes)
-    description: 
+    title: 'Full Moon: 8 Blessings of the Good Road (The Beatitudes)'
+    description: ''
   - date: '2026-11-09'
     time: '7:00pm Eastern Time'
-    title: New Moon - 37 Practices of a Bodhisattva (Ethical Living)
-    description: 
+    title: 'New Moon: 37 Practices of a Bodhisattva (Ethical Living)'
+    description: ''
   - date: '2026-11-24'
     time: '7:00pm Eastern Time'
-    title: Full Moon - 8 Blessings of the Good Road (The Beatitudes)
-    description: 
- - date: '2026-12-09'
+    title: 'Full Moon: 8 Blessings of the Good Road (The Beatitudes)'
+    description: ''
+  - date: '2026-12-09'
     time: '7:00pm Eastern Time'
-    title: New Moon - 37 Practices of a Bodhisattva (Ethical Living)
-    description: 
+    title: 'New Moon: 37 Practices of a Bodhisattva (Ethical Living)'
+    description: ''
   - date: '2026-12-24'
     time: '7:00pm Eastern Time'
-    title: Full Moon - 8 Blessings of the Good Road (The Beatitudes)
-    description: 
+    title: 'Full Moon: 8 Blessings of the Good Road (The Beatitudes)'
+    description: ''
 image_filename: Buddha-Christ-Icon.jpg
 registration_text: To register for this mini-course, <b>[click here](https://clbsj.civicrm.org/civicrm/event/register?id=30&reset=1)</b>
 presenter_bio: >-

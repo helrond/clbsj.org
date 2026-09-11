@@ -2,7 +2,7 @@
 category: events
 layout: event
 title: Reading Judges 19 Resiliently
-events_dates:
+event_dates:
   - date: '2026-03-17'
     time: '7:30pm Eastern Time'
 series:

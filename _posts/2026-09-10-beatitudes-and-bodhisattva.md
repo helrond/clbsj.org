@@ -29,7 +29,7 @@ event_dates:
     title: 'Full Moon: 8 Blessings of the Good Road (The Beatitudes)'
     description: ''
 image_filename: Buddha-Christ-Icon.jpg
-registration_text: To register for this mini-course, <b>[click here](https://clbsj.civicrm.org/civicrm/event/register?id=30&reset=1)</b>
+registration_text: To register for this mini-course, <b>[click here](https://forms.gle/KTUzaQw7AbjxQwRy6)</b>
 presenter_bio: >-
   **Sr. Sharifa Vernice Meytung** is a Catholic-Buddhist lay contemplative practitioner who serves as the Contemplative Traditions Advisory for CLBSJ. She is also a teacher of young children; a haijin (writer of haiku poetry) and an abstract painter. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany. In the year 2000 she pilgrimed to the Jasna Gora Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year. Read her full bio here.
 cosponsors: >-

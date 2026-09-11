@@ -45,3 +45,5 @@ Both written from a place of deep love and compassion for all of creation, these
 <em>“A Bodhisattva should not learn many doctrines. If a Bodhisattva thoroughly upholds and thoroughly understands one doctrine, all the qualities of a Buddha are in the palm of his hand. What is that one doctrine? Great compassion.”</em>  ~ Dharmasamgiti Sutra
 
 <em>“In the figures of the Christ and the Bodhisattva, Christianity and Buddhism have developed powerful symbols of the ideal possibilities of human nature, operating both as liberating and redemptive forces in the lives of individuals and as sources of inspiration in the quest for a just and compassionate society.”</em>  ~ The Christ and the Bodhisattva, edited by Donald S. Lopez, Jr. and Steven C. Rockefeller
+
+Image by Brother Richard Joseph.

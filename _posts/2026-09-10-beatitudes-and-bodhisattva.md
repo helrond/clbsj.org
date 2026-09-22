@@ -28,7 +28,7 @@ event_dates:
     time: '7:00pm Eastern Time'
     title: 'Full Moon'
     description: '8 Blessings of the Good Road (The Beatitudes)'
-image_filename: Buddha-Christ-Icon.jpg
+image_filename: jesus-buddha-francis-bennett.jpg
 registration_text: To register, <b>[click here](https://forms.gle/KTUzaQw7AbjxQwRy6)</b>. This series is being offered on a donation basis, open to all regardless of ability to pay. If you wish to contribute a gift, you can do so at [clbsj.org/donate](https://clbsj.org/donate/).
 presenter_bio: >-
   **Sr. Sharifa Vernice Meytung** is a Catholic-Buddhist lay contemplative practitioner who serves as the Contemplative Traditions Advisory for CLBSJ. She is also a teacher of young children; a haijin (writer of haiku poetry) and an abstract painter. She has studied in many community and academic settings, including Catholic Theology at the University of Erfurt, Germany. In the year 2000 she pilgrimed to the Jasna Gora Monastery in Poland, in homage to Our Lady of Czestochowa to whom she devoted her contemplative lay vows in the same year. Read her full bio [here](https://clbsj.org/about/leadership/sr-sharifa-vernice-meytung/).
@@ -46,4 +46,4 @@ Both written from a place of deep love and compassion for all of creation, these
 
 <em>“In the figures of the Christ and the Bodhisattva, Christianity and Buddhism have developed powerful symbols of the ideal possibilities of human nature, operating both as liberating and redemptive forces in the lives of individuals and as sources of inspiration in the quest for a just and compassionate society.”</em>  ~ The Christ and the Bodhisattva, edited by Donald S. Lopez, Jr. and Steven C. Rockefeller
 
-Image by Brother Richard Joseph.
+<em>Image by Francis Bennett</em>

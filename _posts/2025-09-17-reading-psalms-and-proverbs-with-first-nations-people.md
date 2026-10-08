@@ -24,7 +24,7 @@ _**Please note: Registration will close on October 9 at 7pm Eastern US Time.**_
 ## Optional Advance Reading:
 
 - The First Nations Version of Psalms and Proverbs [can be purchased from Intervarsity Press](https://www.ivpress.com/first-nations-version-psalms-and-proverbs-paperback). At this website, you can also [download a free press kit](https://www.ivpress.com/Media/Default/Press-Kits/A0727-press.pdf) which contains several sample verses.  
-- In 2022, CLBSJ hosted our first conversation with the First Nations Version. You can [watch the archive of that event here](https://clbsj.org/events/2022/12/15/advent-study-with-the-first-nations-version/). 
+- In 2022, CLBSJ hosted our first conversation with the First Nations Version. You can [watch the archive of that event here](https://clbsj.org/events/2022/10/31/advent-study-with-the-first-nations-version/). 
 
 ## Speaker Bios:
 

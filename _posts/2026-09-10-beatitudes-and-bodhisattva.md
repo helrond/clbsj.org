@@ -24,7 +24,7 @@ event_dates:
     time: '7:00pm Eastern Time'
     title: 'New Moon'
     description: '37 Practices of a Bodhisattva (Ethical Living)'
-  - date: '2026-12-24'
+  - date: '2026-12-23'
     time: '7:00pm Eastern Time'
     title: 'Full Moon'
     description: '8 Blessings of the Good Road (The Beatitudes)'
